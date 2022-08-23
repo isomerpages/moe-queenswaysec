@@ -64,3 +64,12 @@ links:
         url: /programmes/applied-learning-programme
       - title: Character Programme
         url: /programmes/character-and-citizenship-programme
+  - title: Useful Links
+    url: /useful-links/students/overview
+    sublinks:
+      - title: Students
+        url: /useful-links/students/overview
+      - title: Parents
+        url: /useful-links/parents/overview
+      - title: Prospective Student
+        url: /useful-links/prospective-student/overview
