@@ -1,75 +1,75 @@
 logo: /images/qsslogo.png
 links:
   - title: About Us
-    url: /about-us/principals-message
+    url: /about-us/principals-message/
     sublinks:
       - title: Principal's Message
-        url: /about-us/principals-message
+        url: /about-us/principals-message/
       - title: Our People
-        url: /about-us/school-leadership-and-management
+        url: /about-us/school-leadership-and-management/
       - title: Who We Are
-        url: /about-us/who-we-are
+        url: /about-us/who-we-are/
       - title: School Calendar
-        url: /about-us/school-calendar
+        url: /about-us/school-calendar/
       - title: Contact Us
-        url: /about-us/contact-us
+        url: /about-us/contact-us/
       - title: Yearbook Archive
-        url: /about-us/yearbook-archive
+        url: /about-us/yearbook-archive/
   - title: Academics
-    url: /academics/english-language-and-literature
+    url: /academics/english-language-and-literature/
     sublinks:
       - title: English Language & Literature
-        url: /academics/english-language-and-literature
+        url: /academics/english-language-and-literature/
       - title: Humanities
-        url: /academics/humanities
+        url: /academics/humanities/
       - title: Mathematics
-        url: /academics/mathematics
+        url: /academics/mathematics/
       - title: Science
-        url: /academics/science
+        url: /academics/science/
       - title: Mother Tongue Language
-        url: /academics/mother-tongue-language
+        url: /academics/mother-tongue-language/
       - title: Craft & Tech and Aesthetics
-        url: /academics/craft-and-tech-and-aesthetics
+        url: /academics/craft-and-tech-and-aesthetics/
       - title: Physical Education
-        url: /academics/physical-education
+        url: /academics/physical-education/
   - title: Co-Curricular
-    url: /cca/club-and-societies/art-club
+    url: /cca/club-and-societies/art-club/
     sublinks:
       - title: Clubs & Societies
-        url: /cca/club-and-societies/art-club
+        url: /cca/club-and-societies/art-club/
       - title: Performing Arts
-        url: /cca/performing-arts/concert-band
+        url: /cca/performing-arts/concert-band/
       - title: Sports
-        url: /cca/sports/basketball-boys
+        url: /cca/sports/basketball-boys/
       - title: Uniformed Groups
-        url: /cca/uniformed-groups/boys-brigade
+        url: /cca/uniformed-groups/boys-brigade/
       - title: Schedule
-        url: /cca/schedule
+        url: /cca/schedule/
   - title: Programmes
-    url: /programmes/english-language-talent-development-programme
+    url: /programmes/english-language-talent-development-programme/
     sublinks:
       - title: EL Talent D. Programme
-        url: /programmes/english-language-talent-development-programme
+        url: /programmes/english-language-talent-development-programme/
       - title: MTL Bilingualism
-        url: /programmes/mtl-bilingualism-and-talent-development-programme
+        url: /programmes/mtl-bilingualism-and-talent-development-programme/
       - title: Math Talent D. Programme
-        url: /programmes/mathematics-talent-development-programme
+        url: /programmes/mathematics-talent-development-programme/
       - title: S1 Science Talent D. Programme
-        url: /programmes/secondary-one-science-talent-development-programme
+        url: /programmes/secondary-one-science-talent-development-programme/
       - title: Student Leadership
-        url: /programmes/student-leadership
+        url: /programmes/student-leadership/
       - title: Sports for Life
-        url: /programmes/sports-for-life
+        url: /programmes/sports-for-life/
       - title: Applied Learning Programme
-        url: /programmes/applied-learning-programme
+        url: /programmes/applied-learning-programme/
       - title: Character Programme
-        url: /programmes/character-and-citizenship-programme
+        url: /programmes/character-and-citizenship-programme/
   - title: Useful Links
     url: /useful-links/students/overview
     sublinks:
       - title: Students
-        url: /useful-links/students/overview
+        url: /useful-links/students/overview/
       - title: Parents
-        url: /useful-links/parents/overview
+        url: /useful-links/parents/overview/
       - title: Prospective Student
-        url: /useful-links/prospective-student/overview
+        url: /useful-links/prospective-student/overview/
