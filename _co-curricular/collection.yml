@@ -2,6 +2,7 @@ collections:
   co-curricular:
     output: true
     order:
+      - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Cadet Corps.md
       - Uniformed Groups/National Police Cadet Corps.md
