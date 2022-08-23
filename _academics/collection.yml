@@ -1,4 +1,5 @@
 collections:
   academics:
     output: true
-    order: []
+    order:
+      - Physical Education.md
