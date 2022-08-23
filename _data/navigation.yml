@@ -1,6 +1,46 @@
 logo: /images/qsslogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Our People
+        url: /about-us/school-leadership-and-management
+      - title: Who We Are
+        url: /about-us/who-we-are
+      - title: School Calendar
+        url: /about-us/school-calendar
+      - title: Contact Us
+        url: /about-us/contact-us
+      - title: Yearbook Archive
+        url: /about-us/yearbook-archive
+  - title: Academics
+    url: /academics/english-language-and-literature
+    sublinks:
+      - title: English Language & Literature
+        url: /academics/english-language-and-literature
+      - title: Humanities
+        url: /academics/humanities
+      - title: Mathematics
+        url: /academics/mathematics
+      - title: Science
+        url: /academics/science
+      - title: Mother Tongue Language
+        url: /academics/mother-tongue-language
+      - title: Craft & Tech and Aesthetics
+        url: /academics/craft-and-tech-and-aesthetics
+      - title: Physical Education
+        url: /academics/physical-education
+      - title: Co-Curricular
+        url: /cca/club-and-societies/art-club
+      - title: Clubs & Societies
+        url: /cca/club-and-societies/art-club
+      - title: Performing Arts
+        url: /cca/performing-arts/concert-band
+      - title: Sports
+        url: /cca/sports/basketball-boys
+      - title: Uniformed Groups
+        url: /cca/uniformed-groups/boys-brigade
+      - title: Schedule
+        url: /cca/schedule
