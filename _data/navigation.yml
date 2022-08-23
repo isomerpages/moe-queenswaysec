@@ -32,8 +32,9 @@ links:
         url: /academics/craft-and-tech-and-aesthetics
       - title: Physical Education
         url: /academics/physical-education
-      - title: Co-Curricular
-        url: /cca/club-and-societies/art-club
+  - title: Co-Curricular
+    url: /cca/club-and-societies/art-club
+    sublinks:
       - title: Clubs & Societies
         url: /cca/club-and-societies/art-club
       - title: Performing Arts
