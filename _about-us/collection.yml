@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
       - Our People/School Leadership & Management.md
       - Our People/Student Development Team.md
       - Our People/Executive & Administrative.md
