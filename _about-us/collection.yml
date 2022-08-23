@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Executive & Administrative.md
       - Our People/.keep
       - Who We Are.md
       - School Calendar.md
