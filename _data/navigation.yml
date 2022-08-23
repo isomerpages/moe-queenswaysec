@@ -45,3 +45,22 @@ links:
         url: /cca/uniformed-groups/boys-brigade
       - title: Schedule
         url: /cca/schedule
+  - title: Programmes
+    url: /programmes/english-language-talent-development-programme
+    sublinks:
+      - title: EL Talent D. Programme
+        url: /programmes/english-language-talent-development-programme
+      - title: MTL Bilingualism
+        url: /programmes/mtl-bilingualism-and-talent-development-programme
+      - title: Math Talent D. Programme
+        url: /programmes/mathematics-talent-development-programme
+      - title: S1 Science Talent D. Programme
+        url: /programmes/secondary-one-science-talent-development-programme
+      - title: Student Leadership
+        url: /programmes/student-leadership
+      - title: Sports for Life
+        url: /programmes/sports-for-life
+      - title: Applied Learning Programme
+        url: /programmes/applied-learning-programme
+      - title: Character Programme
+        url: /programmes/character-and-citizenship-programme
