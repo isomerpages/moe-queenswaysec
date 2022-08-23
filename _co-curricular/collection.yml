@@ -2,5 +2,6 @@ collections:
   co-curricular:
     output: true
     order:
+      - Uniformed Groups/National Civil Defence Cadet Corps.md
       - Uniformed Groups/.keep
       - Schedule.md
