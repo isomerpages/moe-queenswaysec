@@ -48,3 +48,7 @@ Students with passion and aptitude in the Humanities get opportunities to take p
 The Humanities Week is carried out each year to showcase student learning and promote national and global awareness. Through the showcase of student projects from the Humanities and Commerce subjects, students get to learn more about Singapore and the world we live in.
 
 <img src="/images/hum3.png" style="width:60%">
+
+#### ASSESSMENT
+
+Towards promoting inquiry learning, formative assessment within the department takes place across all levels. Students at lower Secondary take part in Historical and Geographical Inquiry, while those in Upper Secondary also engage in inquiry tasks for Social Studies.
