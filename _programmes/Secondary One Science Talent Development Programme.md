@@ -26,3 +26,18 @@ Other highlights of the Science TDP involve science ‘missions’, where studen
 
 _Ethan Kang_<br>
 “My favourite and most memorable experience in Science TDP so far is the ice cream catapult! I greatly enjoyed working with others and the process of trial and error in creating the best possible catapult. Science TDP has taught me never to give up and to always have a positive attitude towards Science.”
+
+<img src="/images/cce8.png" style="width:60%">
+
+We believe that a love for Science should transcend academic grades. Hence, students are invited to participate based on their interest, passion and aptitude. Lower Secondary students are given opportunities to develop their communication skills and to look at the world around them critically through mini-experiments which require them to apply simple Science concepts. Upper Sec students are trained to represent the school in competitions such as the Junior Olympiads for Biology, Chemistry and Physics and the National Science Challenge.  
+
+  
+
+In 2020, our students have done us proud by attaining the following achievements:
+
+| Competition 	| Achievement 	|
+|:---:	|:---:	|
+| Singapore Junior Physics Olympiad 	| 2 Bronzes, 1 Honourable Mention 	|
+| Singapore Junior Biology Olympiad 	| TBC 	|
+|  Singapore Junior Chemistry Olympiad 	|  Cancelled due to Covid-19 	|
+|  National Science Challenge 	|  TBC 	|
