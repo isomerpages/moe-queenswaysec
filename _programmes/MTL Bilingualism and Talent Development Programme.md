@@ -67,3 +67,5 @@ _Pandian Subashini_<Br>
 I was amazed to discover that I had won a prize in the competition, and had been selected to present my story. I couldn’t believe it at first, because there were so many other students who had also entered the competition. I am thankful to my teachers and peers for guiding and supporting me in my language journey. I have really enjoyed TD, as it has really helped me to improve in the language!”
 
 **[Click here to read some of our students' works!](http://go.gov.sg/qssmtl)**
+
+<img src="/images/cce10.png" style="width:60%">
