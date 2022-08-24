@@ -67,10 +67,7 @@ We have worked closely with NPCC HQ to conduct the following training and activi
 **Student Experiences:** 
 
 “My 4 years in QSS NPCC have been meaningful and memorable. NPCC has cultivated my enthusiasm for learning. It has also taught me to be more confident even in the face of difficulties. Participating in NPCC has taught me many valuable skills, such as leadership and collaboration. The CCA has also instilled values of discipline and perseverance in me, such that I constantly strive for the best in everything that I do. I have truly enjoyed my time in NPCC! It has left a deep and lasting impression on me.”
-
-  
-
-Jane Tan Mingyu (411), Overall IC 
+<br> **Jane Tan Mingyu (411), Overall IC **
 
   
 
@@ -83,7 +80,4 @@ Faydra Neo Kai Juan (411), Training and Competition IC 
   
 
 “NPCC has made me a more confident person, as it has taught me the importance of striving for excellence in all that I do. Although there were instances when I wanted to give up, my squad mates and seniors encouraged me and were very supportive. They motivated me to push on, and helped me to realise that I can achieve my goals if I set my mind to it. I have many fond memories of my time in NPCC. To me, it is not just a uniformed group; rather, it is a supportive and nurturing community made up of lively, caring and accepting people.”
-
-  
-
-Rayn Indra’zizi Putra Bin Muhammad Nadzlan (404), Training & Competition IC
+<br> **Rayn Indra’zizi Putra Bin Muhammad Nadzlan (404), Training & Competition IC**
