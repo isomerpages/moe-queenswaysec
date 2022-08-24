@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Character Education/Community Involvement & Values in Action.md
       - Character Education/Sexuality Education.md
       - Character Education/Education & Career Guidance.md
       - Character Education/.keep
