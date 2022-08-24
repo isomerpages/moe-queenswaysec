@@ -18,3 +18,37 @@ Providing a holistic education to nurture caring, responsible citizens and confi
 ##### Our Values
 Discipline • Respect • Responsibility • Excellence
 
+#### Our School Song
+
+Insert audio clip here.
+
+We are proud to proclaim
+<br>We are Queenswayans in name
+<br>Members of Queensway Secondary School
+<br>Onward we march towards success
+<br>In studies, in sports and in service
+
+  
+
+Chorus
+
+Queensway, Queensway
+<br>Long may she remain
+<br>In splendid honour
+<br>Bright as day
+
+
+We will hold our heads high
+<br>As we see our flag fly
+<br>In front of Queensway Secondary School
+<br>Loyally, joyfully we strive
+<br>As leaders of courage and foresight
+
+  
+
+Chorus
+
+Queensway, Queensway
+<br>Long may she remain
+<br>In splendid honour
+<br>Bright as day
