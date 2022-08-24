@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Students/.keep
       - Parents/Overview.md
       - Parents/Principal's Letters to Parents.md
       - Parents/Parent Teacher Meeting.md
