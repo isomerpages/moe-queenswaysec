@@ -2,6 +2,7 @@ collections:
   co-curricular:
     output: true
     order:
+      - Clubs and Societies/Art Club.md
       - Clubs and Societies/Community Service Club.md
       - Clubs and Societies/Media Club.md
       - Clubs and Societies/Library.md
