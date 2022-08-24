@@ -48,30 +48,15 @@ This year, our Secondary 1 cadets participated in Camp F.O.R.G.E, where they enj
 #### Student Experiences: 
 
  “NCC has been an enriching CCA for me. I have got to know more people and forged firm friendshps with my CCA mates and juniors. Through participating in army drills, I have learned the value of responsibility and discipline.  Being familiar with the drill commands and footwork will also be beneficial for me when I serve NS in the future. Participating in the various NCC camps and courses have also developed my confidence and leadership skills, as I learned to work with different people.”
-
-  
-
-Austin Chua (403), Platoon Commander
-
-  
+<br> **Austin Chua (403), Platoon Commander**
 
 “NCC has been a truly wonderful experience for me. I have made so many new friends. Furthermore, participating in NCC has prepared me for National Service, especially with the hands-on training provided in Camps F.O.R.G.E and S.T.E.E.L. Overall, I do not regret choosing this CCA. It has been an amazing adventure!”
-
-  
-
-Chester Yong (401), Assistant Sergeant Major
+<br> **Chester Yong (401), Assistant Sergeant Major**
 
   
 
 “Thanks to NCC, I have gotten to know more people and forged firm friendships with my CCA mates and juniors. Through participating in army drills, I have learned the value of responsibility and discipline.  Being familiar with the drill commands and footwork will also be beneficial for me when I serve NS in the future. Participating in the various NCC camps and courses have also developed my confidence and leadership skills, as I learned to work with different people.”  
-  
-
-Austin Chua (403), Platoon Commander
-
-  
+<br> **Austin Chua (403), Platoon Commander**
 
 “Being in NCC has helped me develop my leadership skills that I would not be able to learn anywhere else. I have greatly enjoyed the fun experiences in Camp F.O.R.G.E and Camp S.T.E.E.L. Participating in these activities has taught me resilience and allowed me to build my confidence as a leader. The years I have spent in NCC have been fun and fruitful. I have made many new friends and fond memories in NCC.”
-
-  
-
-Lee Zhi Quan (401), Assistant Platoon Commander
+<br> **Lee Zhi Quan (401), Assistant Platoon Commander**
