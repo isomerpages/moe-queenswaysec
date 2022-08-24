@@ -17,3 +17,5 @@ third_nav_title: Parents
 *   Please [click here](https://go.gov.sg/applicationforloa) to access and submit the online **Application Form for Leave Absence**.
 
 *   Please [click here](https://www.income.com.sg/studentgpa) for the online portal for **Group Personal Accident (GPA) Insurance Plan for Students**. Parents/students may use this portal to submit claims online and check the claims status through this online portal.
+
+*   Please [click here](https://drive.google.com/drive/folders/1J38hpIkuox9H0PpHSAXajHnnIOvn_wfX) for PDLP resources.
