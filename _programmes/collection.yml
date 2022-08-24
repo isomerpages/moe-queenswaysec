@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Character Education/Sexuality Education.md
       - Character Education/Education & Career Guidance.md
       - Character Education/.keep
