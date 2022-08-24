@@ -2,6 +2,7 @@ collections:
   co-curricular:
     output: true
     order:
+      - Performing Arts/Chinese Dance.md
       - Performing Arts/ELDDS.md
       - Performing Arts/Modern Dance.md
       - Performing Arts/.keep
