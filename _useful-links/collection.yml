@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Parents/Parents Gateway.md
       - Parents/Back to School Resource Kit.md
       - Parents/Leave of Absence Application.md
       - Parents/Group Personal Accident Insurance Plan for Students.md
