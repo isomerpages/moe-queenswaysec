@@ -78,9 +78,9 @@ third_nav_title: Parents
 
 ### 2019
 
-*   [14th Letter - Chinese Language National Exams Preparation Seminar for Parents](https://queenswaysec-moe-edu-sg-admin.cwp.sg/qql/slot/u149/docs/internal_pages/i_am_an/parents/Parents%20Letters/0707_001.pdf)
+*   [14th Letter - Chinese Language National Exams Preparation Seminar for Parents](/files/14th%20Letter%20-%20Chinese%20Language%20National%20Exams%20Preparation%20Seminar%20for%20Parents.pdf)
 
-*   [13th Letter - Upcoming Programmes & Activities for Sec 1 - 3 Students](https://queenswaysec-moe-edu-sg-admin.cwp.sg/qql/slot/u149/docs/internal_pages/i_am_an/parents/Parents%20Letters/0658_001.pdf)
+*   [13th Letter - Upcoming Programmes & Activities for Sec 1 - 3 Students](/files/13th%20Letter%20-%20Upcoming%20Programmes%20&%20Activities%20for%20Sec%201%20-%203%20Students.pdf)
 
 *   [12th Letter - End of Term 3](/files/12th%20Letter%20-%20End%20of%20Term%203.pdf)
 
