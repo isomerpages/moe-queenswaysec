@@ -2,6 +2,7 @@ collections:
   co-curricular:
     output: true
     order:
+      - Sports/Basketball Boys.md
       - Sports/Badminton Girls.md
       - Sports/Cross Country.md
       - Sports/Hockey.md
