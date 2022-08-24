@@ -52,8 +52,9 @@ third_nav_title: Our People
 
 ##### YEAR HEAD: MS TAN WEI YI
 
+|  	|  	|  	|  	|
+|---	|---	|---	|---	|
 | Class 	|  	|  	|  	|
-|---:	|---	|---	|---	|
 | 401 	| Miss Philynn Tan 	| Mrs Pang Fook Hoe 	|  	|
 | 402 	| Mr Makoto 	| Mdm Esther 	|  	|
 | 403 	| Ms Kasthuri 	| Ms Natalie Feng 	| Miss Shirley Tay 	|
@@ -62,5 +63,3 @@ third_nav_title: Our People
 | 412 	| Mr Tham Yu Hsuan 	| Mdm Eileen Ang 	|  	|
 | 413 	| Mdm Iryantee 	| Mr Howard Tan 	|  	|
 | 511 	| Mrs Cindy Tan 	|  	|  	|
-
-
