@@ -2,6 +2,7 @@ collections:
   co-curricular:
     output: true
     order:
+      - Sports/Football Boys.md
       - Sports/Football Girls.md
       - Sports/Volleyball.md
       - Sports/Sepak Takraw.md
