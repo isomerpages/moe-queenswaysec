@@ -21,6 +21,6 @@ B) Illustrate Problem-Solving Heuristics and nurture critical thinking skills th
 
 Students with a flair for Mathematics will be able to develop their potential through our Mathematics Talent Programme. We cater to the Maths talents ranging from Secondary 1 to Secondary 3. Students are given the opportunity to hone their mathematics skills as well as developing critical thinking skills through the participation in various competitions.
 
-#### <img src="/images/math2.png" style="width:313px;height:240px;margin-left:15px;" align = "right"> Maths Trail
+#### <img src="/images/math2.png" style="width:353px;height:240px;margin-left:15px;" align = "right"> Maths Trail
 
 The Maths Trail aims to popularise Mathematics through out-of-school activities. By providing opportunities for doing mathematics out of school, it allows students to spend time to think of Maths and relate Maths to real life scenarios.
