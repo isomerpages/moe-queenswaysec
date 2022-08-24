@@ -14,5 +14,5 @@ sections:
           url: /announcements/
         - title: Queensway Calendar
           description: ""
-          url: /tbc
+          url: /about-us/school-calendar/
 ---
