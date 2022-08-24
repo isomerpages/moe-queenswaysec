@@ -8,13 +8,14 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR GERARD DANKER (IC)<br>MR RAMALINGAM NAGARAJAN 	|
+| **TEACHERS-IN-CHARGE:** 	| MS GRACE LEE (IC)<br>MS SHARELYN TEO (SEM 1) <br>MS LILY CHOO (SEM 2) 	|
 
 |  	|  	|
 |---	|---	|
-| **COACHES:** 	| SUNIL PRASAD <br> ENRIO MARICAN <br> SEH HO <br>  TOH LIMIN 	|
+| **COACHES:** 	| COACH JK<br>  COACH FEROZ 	|
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **CAPTAIN:** 	|  SURVEEN SINGH SHAHI (303)	|
-| **VICE-CAPTAIN:** 	| JOSHUA CHEW QI HAN (303) 	|
+| **CAPTAIN (BOYS):** 	|  VENUSH TEVAN (404)	|
+| **CAPTAIN (GIRLS):** 	| NICOLE TAN (403) 	| 
+| **VICE-CAPTAIN:** 	| EZRA LOW (402) 	|
