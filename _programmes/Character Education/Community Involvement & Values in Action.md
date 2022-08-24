@@ -18,3 +18,9 @@ Programmes for the different levels
 | Sec 2 	| Community (Starting with Queenstown estate) 	| Community Service Day Projects with<br>• Queenstown Elderly Centre<br>• Childcare Centre<br>School Fun Fair  	| Senior Citizens<br>Youths 	|
 | Sec 3   	| Singapore and Global 	| Student- led VIA Projects  <br>(teachers as advisors, Led by student VIA  champions)<br>VIA Overseas Trip - Cambodia 	| Community/ Singapore/World 	|
 | Sec 4&5  	| Singapore Identity (Anchor back to Singapore) 	| Social Awareness Day <br>(Newspaper Collection) 	| Community<br>Environment 	|
+
+<img src="/images/cce3.png" style="width:60%">
+
+<img src="/images/cce4.png" style="width:60%">
+
+<img src="/images/cce5.png" style="width:60%">
