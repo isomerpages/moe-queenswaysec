@@ -2,5 +2,6 @@ collections:
   useful-links:
     output: true
     order:
+      - Prospective Student/Direct School Admission.md
       - Prospective Student/School Achievements 2022.md
       - Prospective Student/.keep
