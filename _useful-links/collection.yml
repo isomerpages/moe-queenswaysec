@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Parents/PDLP resources.md
       - Parents/.keep
       - Prospective Student/Overview.md
       - Prospective Student/Direct School Admission.md
