@@ -60,22 +60,19 @@ We have worked closely with NPCC HQ to conduct the following training and activi
 *   Local Educational Visits to Police and Law Establishments
     
 
-##### Achievements of the CCA:
+#### Achievements of the CCA:
 
-**Online Area 15 Games Day: 1st in Spyfall**
+##### Online Area 15 Games Day: 1st in Spyfall
 
-**Student Experiences:** 
+#### Student Experiences:
 
 “My 4 years in QSS NPCC have been meaningful and memorable. NPCC has cultivated my enthusiasm for learning. It has also taught me to be more confident even in the face of difficulties. Participating in NPCC has taught me many valuable skills, such as leadership and collaboration. The CCA has also instilled values of discipline and perseverance in me, such that I constantly strive for the best in everything that I do. I have truly enjoyed my time in NPCC! It has left a deep and lasting impression on me.”
-<br> **Jane Tan Mingyu (411), Overall IC **
+<br> **Jane Tan Mingyu (411), Overall IC**
 
   
 
 “My experience in NPCC has helped me to mature as a person. As a cadet leader, I was in charge of planning training for my CCA mates and juniors. There were many ups and downs, and it took time to get used to organising and facilitating these activities. However, I gained a deeper appreciation for my friends in NPCC, who supported me and stayed by my side all the way. Their encouragement was a confidence booster, and I greatly enjoyed working with them to represent the school in various competitions. I will never forget my journey in NPCC. I have so many fond memories I have of the CCA. Thank you to my Teacher Officers, Cadet Inspectors and peers for making my NCC experience so memorable and uplifting!”
-
-  
-
-Faydra Neo Kai Juan (411), Training and Competition IC 
+<br> **Faydra Neo Kai Juan (411), Training and Competition IC**
 
   
 
