@@ -2,6 +2,7 @@ collections:
   co-curricular:
     output: true
     order:
+      - Clubs and Societies/Library.md
       - Clubs and Societies/.keep
       - Performing Arts/Concert Band.md
       - Performing Arts/Choir.md
