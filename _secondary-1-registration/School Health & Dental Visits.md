@@ -13,18 +13,15 @@ Thank you.
 Peter Tan  
 Principal Queensway Secondary
 
-##### Letter from HDB
+|  	|  	|
+|---	|---	|
+| Letter from HDB <br> <p><a href="WEB"><img style="width:35%" src="/images/pdflogo.png">   	|  Consent Form <br> <p><a href="WEB"><img style="width:35%" src="/images/pdflogo.png">	|
+
+
 
 [RETRIEVE LINK](/files/Letter%20from%20HPB.pdf)
 
-<p><a href="WEB">  
-<img style="width:35%" src="/images/pdflogo.png">  
-</a></p>
 
-##### Consent Form
 
 [RETRIEVE LINK](/files/HPV_Consent%20form%20Sep%202019.pdf)
 
-<p><a href="WEB">  
-<img style="width:35%" src="/images/pdflogo.png">  
-</a></p>
