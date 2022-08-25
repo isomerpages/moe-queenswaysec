@@ -85,3 +85,19 @@ third_nav_title: Our People
 |   	| Ms Philynn Tan  	| [tan\_hong\_bee\_philynn@moe.edu.sg](mailto:tan_hong_bee_philynn@moe.edu.sg) 	|
 |   	| Ms Looi Tse Theng 	| [looi\_tse\_theng@moe.edu.sg](mailto:looi_tse_theng@moe.edu.sg) 	|
 |   	| Mrs Toh Sieh Ngieng 	| [toh\_sieh\_ngieng@moe.edu.sg](mailto:toh_sieh_ngieng@moe.edu.sg) 	|
+
+#### Science
+
+|  	|  	|  	|
+|---	|---	|---	|
+| HOD Science (Covering) 	| Ms Tong Ai Li          	| [tong\_ai\_li@moe.edu.sg](mailto:tong_ai_li@moe.edu.sg) 	|
+| School Staff Developer 	| Ms Tan Yen Nee 	| [tan\_yen\_nee\_a@moe.edu.sg](mailto:tan_yen_nee_a@moe.edu.sg) 	|
+| HOD Student Management 	| Ms Jasmine Tay  	| [tay\_ya\_mei\_jasmine@moe.edu.sg](mailto:tay_ya_mei_jasmine@moe.edu.sg) 	|
+| SH, CCE & ICT 	| Ms Sharelyn Teo  	| [teo\_hwee\_ming\_sharelyn@moe.edu.sg](mailto:teo_hwee_ming_sharelyn@moe.edu.sg) 	|
+| SH, Physics (Covering) 	| Ms Shirley Tay 	| [shirley\_tay@moe.edu.sg](mailto:shirley_tay_li_hui@moe.edu.sg) 	|
+|     	| Ms Stella Goh 	| [stella\_goh@moe.edu.sg](mailto:stella_goh@moe.edu.sg) 	|
+|   	| Mrs Pang Fook Hoe 	| [lam\_fook\_hoe@moe.edu.sg](mailto:lam_fook_hoe@moe.edu.sg) 	|
+|   	| Miss Goh Hui Min 	| [goh\_hui\_min@moe.edu.sg](http://goh_hui_min@moe.edu.sg/) 	|
+|   	| Ms Finna Lee  	| [lee\_mei\_teng\_finna@moe.edu.sg](mailto:lee_mei_teng_finna@moe.edu.sg) 	|
+|   	| Mr Jimmy Ong  	| [ong\_meng\_guan\_jimmy@moe.edu.sg](mailto:ong_meng_guan_jimmy@moe.edu.sg) 	|
+|   	| Ms Felicia Ang 	| [ang\_yun\_ping\_felicia@moe.edu.sg](mailto:ang_yun_ping_felicia@moe.edu.sg) 	|
