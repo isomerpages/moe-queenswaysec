@@ -20,8 +20,6 @@ third_nav_title: Parents
 
 *   Please [click here](https://drive.google.com/drive/folders/1J38hpIkuox9H0PpHSAXajHnnIOvn_wfX) for PDLP resources.
 
-<p><a href="WEB">  
-<img style="width:45%" src="/images/ntuc.png">  
+<p><a href="https://staging.du62j8uucogi5.amplifyapp.com/files/GPA%20Product%20Fact%20Sheet%202020.pdf">  
+<img style="width:35%" src="/images/ntuc.png">  
 </a></p>
-
-[HERE RETRIEVE](/files/GPA%20Product%20Fact%20Sheet%202020.pdf)
