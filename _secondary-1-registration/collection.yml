@@ -2,4 +2,5 @@ collections:
   secondary-1-registration:
     output: true
     order:
+      - Appeal and Transfer Information.md
       - School Health & Dental Visits.md
