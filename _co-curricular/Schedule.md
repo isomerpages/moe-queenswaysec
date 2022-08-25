@@ -16,7 +16,7 @@ description: ""
 | CHINESE DANCE 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
 | MODERN DANCE 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
 | CHOIR 	|   	| 3.30-5.30  	| 3.30-5.30 	|  	|   	|   	|
-| BAND 	| 3.30-6 (Junior)<br>3.30-6 (Senior) 	|   	| 3.30-6 (Junior) 	| 3.30-6(Senior)  	|   	|   	|
+| BAND 	| 3.30-6 (Junior) <br> 3.30-6 (Senior) 	|   	| 3.30-6 (Junior) 	| 3.30-6(Senior)  	|   	|   	|
 | DRAMA 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|
 | LIBRARY 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
@@ -27,16 +27,22 @@ description: ""
 
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Basketball Boys<br>(B Div) 	|   	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|
-| Basketball Boys<br>(C Div) 	| 3.30-5.30 	|   	|   	| 3.30-5.30 	|   	|   	|
-| Football Boys<br>(B Div) 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
-| Football Boys<br>(C Div) 	|   	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|
-| Football Girls<br>(B Div) 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
-| Football Girls<br>(B Div) 	|   	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|
-| Volleyball Boys<br>(B Div) 	|   	| 3.30-5.30 	| 3.30-5.30 	|   	| 3.30-5.30 (alt weeks) 	|   	|
-| Volleyball Boys<br>(C Div) 	|   	|   	|   	|   	|   	|   	|
-| Volleyball Girls<br>(B Div) 	| 3.30-5.30 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|
-| Volleyball Girls<br>(C Div) 	| 3.30-5.30 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	| 
+| NPCC 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
+| NCC 	| 3.30-5.30 	|   	|   	|   	|   	|   	|
+| NCDCC 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
+| GUIDES 	| 3.30-5.30 	|   	|   	|   	|   	|   	|
+| BOYS BRIGADE 	|   	|   	|   	|   	|   	| 9-12 noon 	|
+|   	|   	|   	|   	|   	|   	|   	|
+| CHNESE DANCE 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
+| MODERN DANCE 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
+| CHOIR 	|   	| 3.30-5.30  	| 3.30-5.30 	|  	|   	|   	|
+| BAND 	| 3.30-6 (Junior) <br> 3.30-6 (Senior) 	|   	| 3.30-6 (Junior) 	| 3.30-6(Senior)  	|   	|   	|
+| DRAMA 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|   	|
+| LIBRARY 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
+| ART 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
+| COMM SERVICE 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
+| MEDIA 	|   	|  3.30-5.30 	|   	|  	|   	|  	|
 <br><br>
 
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
