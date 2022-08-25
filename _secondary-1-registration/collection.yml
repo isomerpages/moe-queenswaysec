@@ -2,6 +2,7 @@ collections:
   secondary-1-registration:
     output: true
     order:
+      - Secondary 1 Posting/Languages other than Chinese, Malay or Tamil.md
       - Secondary 1 Posting/.keep
       - Appeal and Transfer Information.md
       - School Health & Dental Visits.md
