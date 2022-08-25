@@ -15,13 +15,5 @@ Principal Queensway Secondary
 
 |  	|  	|
 |---	|---	|
-| Letter from HDB <br> <p><a href="WEB"><img style="width:35%" src="/images/pdflogo.png">   	|  Consent Form <br> <p><a href="WEB"><img style="width:35%" src="/images/pdflogo.png">	|
-
-
-
-[RETRIEVE LINK](/files/Letter%20from%20HPB.pdf)
-
-
-
-[RETRIEVE LINK](/files/HPV_Consent%20form%20Sep%202019.pdf)
+| Letter from HDB <br> <a href="https://staging.du62j8uucogi5.amplifyapp.com/files/Letter%20from%20HPB.pdf"><img style="width:35%" src="/images/pdflogo.png">   	|  Consent Form <br> <a href="https://staging.du62j8uucogi5.amplifyapp.com/files/HPV_Consent%20form%20Sep%202019.pdf"><img style="width:35%" src="/images/pdflogo.png">	|
 
