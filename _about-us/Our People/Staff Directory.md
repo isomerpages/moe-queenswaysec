@@ -35,3 +35,19 @@ third_nav_title: Our People
 |  	| Ms Surinder Kaur 	| [surinder\_kaur@moe.edu.sg](mailto:surinder_kaur@moe.edu.sg) 	|
 |  	| Mrs Cindy Tan 	| [yew\_siew\_ping\_cindy@moe.edu.sg](mailto:yew_siew_ping_cindy@moe.edu.sg) 	|
 |  	| Ms Kasthuri Mahanthran 	| [kasthuri\_mahanthran@moe.edu.sg](mailto:kasthuri_mahanthran@moe.edu.sg) 	|
+
+### Humanities
+
+|  	|  	|  	|
+|---	|---	|---	|
+| HOD Humanities 	| Ms Irene Wong 	| [wong\_hwee\_ling@moe.edu.sg](mailto:wong_hwee_ling@moe.edu.sg) 	|
+| Year Head, Upper Sec 	| Ms Tan Wei Yi 	| [tan\_wei\_yi@moe.edu.sg](mailto:tan_wei_yi@moe.edu.sg) 	|
+| SH, Humanities 	| Mr Santokh Singh 	| [santokh\_singh@moe.edu.sg](mailto:santokh_singh@moe.edu.sg) 	|
+| ST, History 	| Mr Howard Tan 	| [tan\_ching\_hau\_howard@moe.edu.sg](mailto:tan_ching_hau_howard@moe.edu.sg) 	|
+| SH, Geography (Covering) 	| Mr Alvin Leong 	| [leong\_wei\_jie\_alvin@moe.edu.sg](mailto:leong_wei_jie_alvin@moe.edu.sg) 	|
+| SH, Student Leadership (Covering) 	| Ms Grace Lee 	| [mei\_yan\_grace\_lee@moe.edu.sg](mailto:mei_yan_grace_lee@moe.edu.sg) 	|
+|  	| Ms Ethel Choy 	| [choy\_hui\_zhen\_ethel@moe.edu.sg](mailto:choy_hui_zhen_ethel@moe.edu.sg) 	|
+|  	| Ms Audrey Chua 	| [chua\_sing\_li\_audrey@moe.edu.sg](mailto:chua_sing_li_audrey@moe.edu.sg) 	|
+|  	| Ms Natalie Feng 	| [feng\_hui\_er@moe.edu.sg](mailto:feng_hui_er@moe.edu.sg) 	|
+|  	| Ms Sarah Pang 	| [sarah\_pang\_pei\_wen@moe.edu.sg](mailto:sarah_pang_pei_wen@moe.edu.sg) 	|
+|  	| Mr Ng Ching Siang 	| [ng\_ching\_siang@moe.edu.sg](mailto:ng_ching_siang@moe.edu.sg) 	|
