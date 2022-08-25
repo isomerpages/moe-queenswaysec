@@ -4,21 +4,11 @@ permalink: /secondary-1-registration/Secondary-1-Posting/languagess-other-than-c
 description: ""
 third_nav_title: Secondary 1 Posting
 ---
-<p><a href="web">  
-<img style="width:35%" src="/images/pdflogo.png">  
-</a></p>
 
-<p><a href="web">  
-<img style="width:35%" src="/images/pdflogo.png">  
-</a></p>
+|  	|  	|  	|  	|
+|---	|---	|---	|---	|
+| <p><a href="web"><img style="width:35%" src="/images/pdflogo.png"> </a></p> 	| <p><a href="web"><img style="width:35%" src="/images/pdflogo.png"> </a></p> 	| <p><a href="web"><img style="width:35%" src="/images/pdflogo.png"> </a></p> 	|  <p><a href="web"><img style="width:35%" src="/images/pdflogo.png"> </a></p>	|
 
-<p><a href="web">  
-<img style="width:35%" src="/images/pdflogo.png">  
-</a></p>
-
-<p><a href="web">  
-<img style="width:35%" src="/images/pdflogo.png">  
-</a></p>
 
 [RET1](/files/List%20of%20students%20taking%203rd%20Language.pdf)
 
