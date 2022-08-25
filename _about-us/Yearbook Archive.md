@@ -6,8 +6,8 @@ description: ""
 ### Yearbook Archive
 
 <p><a href="https://online.fliphtml5.com/obrr/gplj/#p=1">  
-<img style="width:60%" src="/images/archive1.png">  
+<img style="width:30%" src="/images/archive1.png">  
 </a></p> 
 
-<img src="/images/archive2.png" style="width:60%">
+<img src="/images/archive2.png" style="width:30%">
 Insert PDF here.
