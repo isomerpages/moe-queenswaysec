@@ -4,10 +4,9 @@ permalink: /secondary-1-registration/Secondary-1-Posting/languagess-other-than-c
 description: ""
 third_nav_title: Secondary 1 Posting
 ---
-
 |  	|  	|  	|  	|
 |---	|---	|---	|---	|
-| <p><a href="web"><img style="width:35%" src="/images/pdflogo.png"> </a></p> 	| <p><a href="web"><img style="width:35%" src="/images/pdflogo.png"> </a></p> 	| <p><a href="web"><img style="width:35%" src="/images/pdflogo.png"> </a></p> 	|  <p><a href="web"><img style="width:35%" src="/images/pdflogo.png"> </a></p>	|
+| <p><a href="web"><img style="width:85%" src="/images/pdflogo.png"> </a></p> <br> [List of students taking 3rd Language](LINK HERE) 	| <p><a href="web"><img style="width:85%" src="/images/pdflogo.png"> </a></p> <br> [List of students taking Other Languages-in-lieu of MTL](link heref)	| <p><a href="web"><img style="width:85%" src="/images/pdflogo.png"> </a></p> <br>[Appeal or Late Application Form BI and Arabic 2022](link here)	|  <p><a href="web"><img style="width:85%" src="/images/pdflogo.png"> </a></p> <br>[Appeal or Late Application Form M(SP)  C(SP) 2022](link here)	|
 
 
 [RET1](/files/List%20of%20students%20taking%203rd%20Language.pdf)
