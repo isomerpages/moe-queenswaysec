@@ -20,13 +20,5 @@ As these lessons are considered part of the formal curriculum, attendance will b
 
 |  	|  	|  	|  	|
 |---	|---	|---	|---	|
-| <p><a href="web"><img style="width:85%" src="/images/pdflogo.png"> </a></p> <br> [List of students taking 3rd Language](LINK HERE) 	| <p><a href="web"><img style="width:85%" src="/images/pdflogo.png"> </a></p> <br> [List of students taking Other Languages-in-lieu of MTL](link heref)	| <p><a href="web"><img style="width:85%" src="/images/pdflogo.png"> </a></p> <br>[Appeal or Late Application Form BI and Arabic 2022](link here)	|  <p><a href="web"><img style="width:85%" src="/images/pdflogo.png"> </a></p> <br>[Appeal or Late Application Form M(SP)  C(SP) 2022](link here)	|
+| <a href="https://staging.du62j8uucogi5.amplifyapp.com/files/List%20of%20students%20taking%203rd%20Language.pdf"><img style="width:65%" src="/images/pdflogo.png"> </a> <br> [List of students taking 3rd Language](https://staging.du62j8uucogi5.amplifyapp.com/files/List%20of%20students%20taking%203rd%20Language.pdf) 	| <a href="https://staging.du62j8uucogi5.amplifyapp.com/files/LIST2.pdf"><img style="width:65%" src="/images/pdflogo.png"> </a> <br> [List of students taking Other Languages-in-lieu of MTL](https://staging.du62j8uucogi5.amplifyapp.com/files/LIST2.pdf)	| <a href="https://staging.du62j8uucogi5.amplifyapp.com/files/Appeal%20or%20Late%20Application%20Form_%20BI%20and%20Arabic%202022.pdf"><img style="width:65%" src="/images/pdflogo.png"> </a> <br>[Appeal or Late Application Form BI and Arabic 2022](https://staging.du62j8uucogi5.amplifyapp.com/files/Appeal%20or%20Late%20Application%20Form_%20BI%20and%20Arabic%202022.pdf)	| <a href="https://staging.du62j8uucogi5.amplifyapp.com/files/APPEAL2.pdf"><img style="width:65%" src="/images/pdflogo.png"> </a> <br>[Appeal or Late Application Form M(SP)  C(SP) 2022](https://staging.du62j8uucogi5.amplifyapp.com/files/APPEAL2.pdf)	|
 
-
-[RET1](/files/List%20of%20students%20taking%203rd%20Language.pdf)
-
-[RET2](/files/LIST2.pdf)
-
-[RET3](/files/Appeal%20or%20Late%20Application%20Form_%20BI%20and%20Arabic%202022.pdf)
-
-[RET4](/files/APPEAL2.pdf)
