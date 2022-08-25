@@ -5,7 +5,7 @@ description: ""
 ---
 ### Physical Education
 
-<img src="/images/pe1.png" style="width:80%">
+<img src="/images/pe1.png" style="width:90%">
 
 #### Department Mission
 
@@ -33,8 +33,8 @@ The QSS SOE aims to provide varied opportunities for all students to inculcate 2
 
 In Queensway Secondary School, values education and character development is central to all our programmes. This is reflected in our school’s core values of Discipline, Respect, Responsibility and Excellence. The Sports for Life & Outdoor Education Programme is significant in nurturing our Queens Graduate to become Caring, Responsible Citizens and Confident, Life-long Learners.
 
-##### <img src="/images/pe3.png" style="width:183px;height:240px;margin-left:15px;" align = "right"> Unstructured Play
+##### <img src="/images/pe3.png" style="width:283px;height:340px;margin-left:15px;" align = "right"> Unstructured Play
 
 This programme aims to develop well-rounded individuals and to encourage our students to explore their interests and engage in imaginative play. It also strengthens and builds positive student-student relationships and provides a platform for students to design and organize their own self-directed activities.
 
-<img src="/images/pe4.png" style="width:60%">
+<img src="/images/pe4.png" style="width:50%">
