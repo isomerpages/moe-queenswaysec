@@ -4,15 +4,15 @@ permalink: /cca/Performing-Arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-### Basketball (Boys)
+### Chinese Dance
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR YEO CHOON HWA (IC)<br>MR CHNG ENG PENG <br> MR THAM YH 	|
+| **TEACHERS-IN-CHARGE:** 	| MS. LOW XIN YEE (IC) <br> MDM. ZHENG XIUMIN 	|
 
 |  	|  	|
 |---	|---	|
-| **COACH:** 	| MR LIM KWEE CHIA (HEAD COACH) 	|
+| **INSTRUCTORS** 	| MR LI DUO WEI <br> MS MA HUISHAN 	|
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
