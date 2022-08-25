@@ -11,7 +11,7 @@ description: ""
     
 *   [Principal's Letter on Chinese New Year](https://staging.du62j8uucogi5.amplifyapp.com/useful-links/Parents/principals-letters-to-parents/)
 *   [Upcoming Meetings for Secondary 1s to Secondary 3s](https://staging.du62j8uucogi5.amplifyapp.com/useful-links/Parents/principals-letters-to-parents/)
-*   [Dear Parents, please find the link to the Secondary 1 Registration information here](https://queenswaysec.moe.edu.sg/secondary-1-registration/secondary-1-registration/secondary-1-posting)
+*   [Dear Parents, please find the link to the Secondary 1 Registration information here](https://staging.du62j8uucogi5.amplifyapp.com/secondary-1-registration/Secondary-1-Posting/overview)
 *   [My Teenager - A session for parents & teenagers on transition to secondary school](https://queenswaysec.moe.edu.sg/qql/slot/u149/docs/internal_pages/Announcements/My%20Teenager.jpeg)
 *   [Cyber Wellness Connect: Protecting Personal Data Online](/files/2018%20Connect%20T4%20Parents%20Briefing%20Slides%20and%20Tips.pdf)
 
