@@ -4,14 +4,14 @@ permalink: /useful-links/Parents/principals-letters-to-parents/
 description: ""
 third_nav_title: Parents
 ---
-### Principal's Letters CONTINUE FROM 2021
+### Principal's Letters 
 
 #### 2022
 
 [13\. 2022 07 26 - Outstanding Youth & Sec 3 Cup](/files/73.pdf)  
 [12\. 2022 07 05 - Aesthetics Night & Other Matters](/files/72.pdf)  
-[11\. 2022 06 22 - Welcome to Term 3 & Covid Reminders](/files/71.pdf) 
-[10\. 2022 06 20 - Start of Term 3 and Aesthetics Night](/files/70.pdf) 
+[11\. 2022 06 22 - Welcome to Term 3 & Covid Reminders](/files/71.pdf) <br>
+[10\. 2022 06 20 - Start of Term 3 and Aesthetics Night](/files/70.pdf) <br>
 [09\. 2022 05 18 - Mid-Year PTM](/files/69.pdf)   
 [08\. 2022 04 25 - Revised SMMs and School Achievements](/files/68.pdf)  
 [07\. 2022 03 22 - Welcome Back to Term 2](/files/67.pdf)  
@@ -43,8 +43,8 @@ third_nav_title: Parents
 [07\. 2021 03 26 - 60th Anniversary Celebrations](/files/37.pdf)  
 [06\. 2021 03 09 - End of Term](/files/36.pdf)  
 [05\. 2021 02 03 - Chinese New Year](/files/35.pdf)  
-[04\. 2021 01 11 - GCE 'O' Level Results](/files/34.pdf) 
-[03\. 2021 01 08 - Upcoming Meetings for Secondary 2 and Secondary 3](/files/33.pdf)  
+[04\. 2021 01 11 - GCE 'O' Level Results](/files/34.pdf) <br>
+[03\. 2021 01 08 - Upcoming Meetings for Secondary 2 and Secondary 3](/files/33.pdf)  <br>
 [02\. 2021 01 08 - Upcoming Meetings for Secondary 1](/files/32.pdf)  
 [01\. 2021 01 04 - Back to School](/files/31.pdf)
 
