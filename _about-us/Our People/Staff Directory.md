@@ -101,3 +101,15 @@ third_nav_title: Our People
 |   	| Ms Finna Lee  	| [lee\_mei\_teng\_finna@moe.edu.sg](mailto:lee_mei_teng_finna@moe.edu.sg) 	|
 |   	| Mr Jimmy Ong  	| [ong\_meng\_guan\_jimmy@moe.edu.sg](mailto:ong_meng_guan_jimmy@moe.edu.sg) 	|
 |   	| Ms Felicia Ang 	| [ang\_yun\_ping\_felicia@moe.edu.sg](mailto:ang_yun_ping_felicia@moe.edu.sg) 	|
+
+#### PE & CCA
+
+|  	|  	|  	|
+|---	|---	|---	|
+| HOD PE & CCA 	| Mr Justin Lloyd Fernandez 	| [justin\_lloyd\_fernandez@moe.edu.sg](mailto:justin_lloyd_fernandez@moe.edu.sg) 	|
+| YH, Upper Sec 	| Mr Feroz Ali 	| [feroz\_ali@moe.edu.sg](mailto:feroz_ali@moe.edu.sg) 	|
+| SH, PE LS & Outdoor Ed 	| Ms Teo Yong Chin 	| [teo\_yong\_chin@moe.edu.sg](mailto:teo_yong_chin@moe.edu.sg) 	|
+| AYH, Lower Sec 	| Mr Yeo Choon Hwa 	| [yeo\_choon\_hwa@moe.edu.sg](mailto:yeo_choon_hwa@moe.edu.sg) 	|
+|  	| Mr Ben David Nazareth 	| [ben\_david\_nazareth@moe.edu.sg](mailto:ben_david_nazareth@moe.edu.sg) 	|
+|  	| Ms Toh Hui Yu 	| [toh\_hui\_yu@moe.edu.sg](mailto:toh_hui_yu@moe.edu.sg) 	|
+|  	| Mr Danker Gerard Martin 	| [gerard\_danker@moe.edu.sg](mailto:gerard_danker@moe.edu.sg) 	|
