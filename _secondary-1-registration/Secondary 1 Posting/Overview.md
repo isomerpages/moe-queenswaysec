@@ -13,7 +13,7 @@ Please find below the Press Release of Sec 1 Posting Results as well as the Prin
 
 |  	|  	|
 |---	|---	|
-| [Press Release of Sec 1 Posting Results](https://staging.du62j8uucogi5.amplifyapp.com/files/Press%20Release%20of%202021%20Sec%201%20Posting%20Results.pdf) <br> <a href="https://staging.du62j8uucogi5.amplifyapp.com/files/Press%20Release%20of%202021%20Sec%201%20Posting%20Results.pdf"><img src="/images/pdflogo.png" style="width:35%">   	|  [Principal's Welcome Letter](https://staging.du62j8uucogi5.amplifyapp.com/files/Welcome%20Letter%20to%20Sec%201%202022%20Students%20and%20Parents.pdf) <br> </a></p><p><a href="https://staging.du62j8uucogi5.amplifyapp.com/files/Welcome%20Letter%20to%20Sec%201%202022%20Students%20and%20Parents.pdf"><img src="/images/pdflogo.png" style="width:35%">	|
+| [Press Release of Sec 1 Posting Results](https://staging.du62j8uucogi5.amplifyapp.com/files/Press%20Release%20of%202021%20Sec%201%20Posting%20Results.pdf) <br> <a href="https://staging.du62j8uucogi5.amplifyapp.com/files/Press%20Release%20of%202021%20Sec%201%20Posting%20Results.pdf"><img src="/images/pdflogo.png" style="width:35%">   	|  [Principal's Welcome Letter](https://staging.du62j8uucogi5.amplifyapp.com/files/Welcome%20Letter%20to%20Sec%201%202022%20Students%20and%20Parents.pdf) <br> <a href="https://staging.du62j8uucogi5.amplifyapp.com/files/Welcome%20Letter%20to%20Sec%201%202022%20Students%20and%20Parents.pdf"><img src="/images/pdflogo.png" style="width:35%">	|
 	
 	
 #### Sec 1 Registration Zoom Details
