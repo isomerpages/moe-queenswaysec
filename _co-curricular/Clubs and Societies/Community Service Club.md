@@ -4,18 +4,17 @@ permalink: /cca/Clubs-and-Societies/community-service-club
 description: ""
 third_nav_title: Clubs and Societies
 ---
-### Basketball (Boys)
+### Choir
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR YEO CHOON HWA (IC)<br>MR CHNG ENG PENG <br> MR THAM YH 	|
+| **TEACHERS-IN-CHARGE:** 	|  MS. SURINDER KAUR (IC) <br> MDM IRYANTEE <br> MDM ESTHER 	|
 
 |  	|  	|
 |---	|---	|
-| **COACH:** 	| MR LIM KWEE CHIA (HEAD COACH) 	|
+| **INSTRUCTORS** 	| MR XIE ZHIZHONG <br> MS NAMIE <br> MR MATTHEW SIEW <br> MR TERRENCE TAN (PIANIST)	|
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **'B' DIVISION BOYS' CAPTAIN:** 	|   JAVIER YEO ZONG HAN (404)	|
-| **'B' DIVISION BOYS' VICE-CAPTAIN:** 	| MAVERICK WAN NGOR JUEN (402) 	| 
-| **'B' DIVISION BOYS' VICE-CAPTAIN:** 	| SHAWN LAU WEIZHI (302) 	|
+| **PRESIDENT:** 	|   LIM ZHENG RUI, JUSTIN (401)	|
+| **VICE-PRESIDENT:** 	| DANIA SHARJEEL (403) 	|
