@@ -1,4 +1,5 @@
 collections:
   secondary-1-registration:
     output: true
-    order: []
+    order:
+      - School Health & Dental Visits.md
