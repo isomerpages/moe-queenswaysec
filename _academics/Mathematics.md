@@ -11,7 +11,7 @@ To equip our students with mathematical knowledge, skills and attitude to be con
 
 #### Signature Pedagogy
 
-<img src="/images/math1.png" style="width:313px;height:240px;margin-left:15px;" align = "right"> A) The use of Making Thinking Visible Routines to facilitate concept understanding and make greater connections between topics  
+<img src="/images/math1.png" style="width:413px;height:340px;margin-left:15px;" align = "right"> A) The use of Making Thinking Visible Routines to facilitate concept understanding and make greater connections between topics  
 
 B) Illustrate Problem-Solving Heuristics and nurture critical thinking skills through lesson activities and assignments
 
