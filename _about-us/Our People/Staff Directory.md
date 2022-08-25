@@ -69,3 +69,19 @@ third_nav_title: Our People
 |   	| Mdm Juanna Bte Jumari 	| [juanna\_jumari@moe.edu.sg](mailto:juanna_jumari@moe.edu.sg) 	|
 |   	| Mr Ernest Fok  	| [fok\_chee\_wel@moe.edu.sg](mailto:fok_chee_wel@moe.edu.sg) 	|
 |   	| Mr Ramalingam Nagarajan 	| [ramalingam\_nagarajan@moe.edu.sg](mailto:ramalingam_nagarajan@moe.edu.sg) 	|
+
+#### Mathematics
+
+|  	|  	|  	|
+|---	|---	|---	|
+| HOD Mathematics (Covering) 	| Mrs Sheryl Soh  	| [sim\_kim\_choo@moe.edu.sg](mailto:sim_kim_choo@moe.edu.sg) 	|
+| HOD CCE 	| Mr Ivan Ho  	| [ho\_chong\_huat@moe.edu.sg](mailto:ho_chong_huat@moe.edu.sg) 	|
+| SH, Student Well-being 	| Mr Chua Kee Eng 	| [chua\_kee\_eng@moe.edu.sg](mailto:chua_kee_eng@moe.edu.sg) 	|
+| SH, Mathematics 	| Ms Lily Choo          	| [choo\_li\_chin\_lily@moe.edu.sg](mailto:choo_li_chin_lily@moe.edu.sg) 	|
+| ST, Mathematics 	| Mdm Toh Siew Lan 	| [toh\_siew\_lan@moe.edu.sg](mailto:toh_siew_lan@moe.edu.sg) 	|
+| AYH, Upper Sec 	| Ms Chen Zhiyun 	| [chen\_zhiyun@moe.edu.sg](mailto:chen_zhiyun@moe.edu.sg) 	|
+|   	| Mr Chng Eng Peng 	| [chng\_eng\_peng@moe.edu.sg](mailto:chng_eng_peng@moe.edu.sg) 	|
+|   	| Mr Tham Yu Hsuan 	| [tham\_yu\_hsuan@moe.edu.sg](mailto:tham_yu_hsuan@moe.edu.sg) 	|
+|   	| Ms Philynn Tan  	| [tan\_hong\_bee\_philynn@moe.edu.sg](mailto:tan_hong_bee_philynn@moe.edu.sg) 	|
+|   	| Ms Looi Tse Theng 	| [looi\_tse\_theng@moe.edu.sg](mailto:looi_tse_theng@moe.edu.sg) 	|
+|   	| Mrs Toh Sieh Ngieng 	| [toh\_sieh\_ngieng@moe.edu.sg](mailto:toh_sieh_ngieng@moe.edu.sg) 	|
