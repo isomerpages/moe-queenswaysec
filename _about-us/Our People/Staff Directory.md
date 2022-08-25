@@ -51,3 +51,21 @@ third_nav_title: Our People
 |  	| Ms Natalie Feng 	| [feng\_hui\_er@moe.edu.sg](mailto:feng_hui_er@moe.edu.sg) 	|
 |  	| Ms Sarah Pang 	| [sarah\_pang\_pei\_wen@moe.edu.sg](mailto:sarah_pang_pei_wen@moe.edu.sg) 	|
 |  	| Mr Ng Ching Siang 	| [ng\_ching\_siang@moe.edu.sg](mailto:ng_ching_siang@moe.edu.sg) 	|
+
+#### Mother Tongue Languages
+
+|  	|  	|  	|
+|---	|---	|---	|
+| HOD MTL 	| Mr Teo Kian Wee 	| [teo\_kian\_wee@moe.edu.sg](mailto:teo_kian_wee@moe.edu.sg) 	|
+| HOD ICT 	| Ms June Tan  	| [june\_tan\_teck\_yoong@moe.edu.sg](mailto:june_tan_teck_yoong@moe.edu.sg) 	|
+| ST, Chinese 	| Ms Low Xin Yee 	| [low\_xin\_yee@moe.edu.sg](mailto:low_xin_yee@moe.edu.sg) 	|
+| SH, ML & TL (Covering) 	| Ms Iryantee Bte Jaffar 	| [iryantee\_jaffar@moe.edu.sg](mailto:iryantee_jaffar@moe.edu.sg) 	|
+|  	| Mr Lim Hua Leng 	| [lim\_hua\_leng@moe.edu.sg](mailto:lim_hua_leng@moe.edu.sg) 	|
+|   	| Ms Chia Hui Jun 	| [chia\_hui\_jun@moe.edu.sg](mailto:chia_hui_jun@moe.edu.sg) 	|
+|   	| Mdm Esther 	| [makaisvery\_esther\_periak\_a@moe.edu.sg](mailto:makaisvery_esther_periak_a@moe.edu.sg) 	|
+|   	| Ms Zhang Yi 	| [zhang\_yi\_a@moe.edu.sg](mailto:zhang_yi_a@moe.edu.sg) 	|
+|   	| Mdm Kartini Bte Djoeraemi 	| [kartini\_djoeraemi@moe.edu.sg](mailto:kartini_djoeraemi@moe.edu.sg) 	|
+|   	| Mdm Zheng Xiumin 	| [zheng\_xiumin@moe.edu.sg](mailto:zheng_xiumin@moe.edu.sg) 	|
+|   	| Mdm Juanna Bte Jumari 	| [juanna\_jumari@moe.edu.sg](mailto:juanna_jumari@moe.edu.sg) 	|
+|   	| Mr Ernest Fok  	| [fok\_chee\_wel@moe.edu.sg](mailto:fok_chee_wel@moe.edu.sg) 	|
+|   	| Mr Ramalingam Nagarajan 	| [ramalingam\_nagarajan@moe.edu.sg](mailto:ramalingam_nagarajan@moe.edu.sg) 	|
