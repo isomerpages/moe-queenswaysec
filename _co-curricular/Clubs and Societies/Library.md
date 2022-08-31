@@ -1,6 +1,6 @@
 ---
 title: Library
-permalink: /cca/Clubs-and-Societies/library
+permalink: /cca/Clubs-and-Societies/library/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -16,7 +16,7 @@ third_nav_title: Clubs and Societies
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **PRESIDENT:** 	|   JEAN-LUC TRISTAN AMERASINGHE (311)	|
+| **PRESIDENT:** 	|   HANNAH LUM SI-EN (301)	|
 
 #### Overview of the CCA:   
 
