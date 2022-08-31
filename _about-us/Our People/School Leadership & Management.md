@@ -21,7 +21,7 @@ third_nav_title: Our People
 | HOD, ICT 	| Mdm. June Tan  	|
 | HOD, CCE 	| Mr. Ivan Ho  	|
 | HOD, Student Management 	| Ms. Jasmine Tay  	|
-| HOD, Science (Covering)  	| Ms. Tong Ai Li  	|
+| HOD, Science  	| Ms. Tong Ai Li  	|
 | Year Head, Upper Sec 	| Ms. Tan Wei Yi 	|
 | Year Head, Lower Sec 	| Mr. Feroz Ali 	|
 | Assistant Year Head, Lower Sec 	| Ms. Chen Zhiyun 	|
@@ -36,5 +36,5 @@ third_nav_title: Our People
 | SH, Physics 	| Ms. Shirley Tay 	|
 | SH, Humanities 	| Mr. Santokh Singh  	|
 | SH, Geography (Covering) 	| Mr. Alvin Leong 	|
-| SH, ML & TL (Covering) 	| Ms. Iryantee 	|
-| SH, Student Leadership (Covering) 	| Ms. Grace Lee 	|
+| SH, ML & TL (Covering) 	| Ms. Iryantee Ja'afar 	|
+| SH, Student Leadership (Covering) 	| Ms. Grace Lee Mei Yan 	|
