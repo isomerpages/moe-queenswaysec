@@ -34,7 +34,7 @@ c) Sports & Outdoor Education
 d) Performing Arts  
 
 • Choir (Boys & Girls) <br> 
-• Concert Band (Boys & Girls) <br>  
+• Concert Band (Boys & Girls)   
 • English Drama (Boys & Girls) <br>
 • Modern Dance (Girls) <br>
 • Chinese Dance (Girls) <br>
