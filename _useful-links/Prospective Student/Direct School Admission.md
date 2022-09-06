@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission
-permalink: /useful-links/Prospective-Student/direct-school-admission
+permalink: /useful-links/Prospective-Student/direct-school-admission/
 description: ""
 third_nav_title: Prospective Student
 ---
@@ -21,7 +21,7 @@ Primary Six pupils may seek direct school admission into Queensway Secondary Sch
 We invite pupils in Primary Six in 2022 to apply for DSA-Sec to the school in the following broad areas:  
 
 a) Science for Sustainable Development  
-b) Bilingualism
+b) Bilingualism<br>
 c) Sports & Outdoor Education
 
 • Basketball ( Boys) <br>
@@ -43,7 +43,7 @@ Click [here](https://staging.du62j8uucogi5.amplifyapp.com/useful-links/Prospect
 
 #### Selection Criteria
 
-<img src="/images/dsa2.png" style="width:80%">
+<img src="/images/dsa2.png" style="width:90%">
 
 Parents and students are encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.  
 
