@@ -1,6 +1,6 @@
 ---
 title: Student Development Team
-permalink: /about-us/Our-People/student-development-team
+permalink: /about-us/Our-People/student-development-team/
 description: ""
 third_nav_title: Our People
 ---
@@ -12,7 +12,7 @@ third_nav_title: Our People
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 101 	| Mr Chia Yew Hwee 	| Ms Josephine Lu 	|  	|
+| 101 	| Mr Chia Yew Hwee 	|  	|  	|
 | 102 	| Mr Ajaib Singh 	| Ms Yang Yi 	|  	|
 | 103 	| Ms Ethel Choy 	| Mr Jonathan Ho 	|  	|
 | 104 	| Mdm Juanna 	| Miss Teo Yong Chin     	| Miss Ashley Wong 	|
@@ -26,12 +26,12 @@ third_nav_title: Our People
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 201 	| Miss Finna Lee 	| Mr Rajan 	|  	|
+| 201 	| 	| Mr Rajan 	|  	|
 | 202 	| Mr Danker 	| Ms Veronica How 	|  	|
 | 203 	| Miss Sarah Pang 	| Miss Murni 	|  	|
 | 204 	| Ms Looi Tse Theng 	| Mr Ng Ching Siang 	| Miss Audrey Chua 	|
 | 211 	| Miss Brenda Lim 	| Mr Ben David 	|  	|
-| 212 	| Ms Chen Weiling 	| Miss Sharelyn Teo 	|  	|
+| 212 	| Ms Chen Weiling 	| Ms Lily Choo	|  	|
 | 213 	| Mr Ernest Fok 	| Mdm Kartini 	|  	|
 
 #### SECONDARY 3 CLASS MENTOR
