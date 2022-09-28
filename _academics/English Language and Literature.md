@@ -66,7 +66,7 @@ The English Talent Development Programme aims to nurture our students’ flair 
 
 ##### LangLit Week
 
-The school celebrates English Language and Literature Appreciation Week every year in Term 1. Typically, during the week, the school will see a line-up of events and activities going beyond the curriculum. These include choral reading, book trailer skits, poetry slams, and photojournalism. This dedicated week gives students opportunities to participate in and enjoy both English Language and Literature in creative ways.
+The school celebrates English Language and Literature Appreciation Week every year in Term 1. Typically, during the week, the school will see a line-up of events and activities going beyond the curriculum. These include flash fiction writing, book trailer skits, poetry slams, movie critique and creative writing workshops. This dedicated week gives students opportunities to participate in and enjoy both English Language and Literature in creative ways.
 
 ##### Assessment:  
 
