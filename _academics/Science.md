@@ -20,7 +20,7 @@ The teaching of Science and its concepts is anchored on the following framework.
 
 In the Science classroom, teachers facilitate student learning by infusing values, ethics and scientific attitudes into the core ideas. This learning is augmented with learning about applications of science in practical settings, providing students with a holistic experience of how Science can be used to benefit humans and society.
 
-#### Special Programmes
+#### Signature Programmes
 
 ##### Science Talent Group
 
