@@ -14,7 +14,7 @@ third_nav_title: Our People
 |  	| Mrs Isabel Wong 	| [lee\_siew\_min\_isabel@moe.edu.sg](mailto:lee_siew_min_isabel@moe.edu.sg) 	|
 |  	| Ms Murni Iryani Bte Md Hanafi 	| [murni\_iryani\_mohd\_hanafi@moe.edu.sg](mailto:murni_iryani_mohd_hanafi@moe.edu.sg) 	|
 |  	| Mrs Ding Hailun 	| [luo\_hailun@moe.edu.sg](mailto:luo_hailun@moe.edu.sg) 	|
-|  	| Ms Josephine Lim 	| [josephine\_lim\_lu\_ching@moe.edu.sg](mailto:josephine_lim_lu_ching@moe.edu.sg) 	|
+|  	|	|	|
 |  	| Mr Marcus Tay 	| [tay\_hiong\_kiat\_marcus@moe.edu.sg](mailto:tay_hiong_kiat_marcus@moe.edu.sg) 	|
 |  	| Mr Chia Yew Hwee 	| [chia\_yew\_hwee@moe.edu.sg](mailto:chia_yew_hwee@moe.edu.sg) 	|
 
