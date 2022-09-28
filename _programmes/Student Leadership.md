@@ -39,39 +39,31 @@ Throughout my experience, I have learnt the importance of time management and te
 
   
 
-_Claris Loh Ern, 303, Griffin House Captain_<br>
-“Being the house captain of Griffin has led me to have many memorable experiences that have enriched my Queensway journey and refined my leadership skills. My favourite part  about being a house captain is working together with other house leaders. This has allowed me to forge firm friendships and hone my teamwork skills. I hope to continue to make even more joyful memories in the future as House Captain of Griffin.”
+_Kang Qi Xuan, Head Prefect_<br>
+"The Prefectorial Board has been a major stepping stone for me to improve my confidence and leadership skills as a student leader. I was able to improve my social skills by learning how to interact with strangers and making new friends, I was also able to learn how to plan events and make proposals which was something that I’ve never known prior to becoming a prefect.
 
-  
+I used to lead while thinking about the outcome and the results but now I think more about the process and the behind-the-scenes steps of getting to the outcome. This is crucial as the process is what helps us build those bonds that will generate amazing results as we learn how to work as a group with good chemistry. The little preparations before each event builds up the foundation of the event which is why I’ve come to appreciate the process of us working together even more than the result of the event. We’ve not only learnt how to plan events but we’ve also learnt how to lead our schoolmates and peers through different experiences such as ushering and learning how to balance our academics and leadership position at the same time.
 
-_Goh Kai Xiang, 404, Community Service Club President_<br>
-“My leadership journey in Queensway Secondary School has been joyous and eventful. I participated in many leadership courses, which taught me the importance of servant leadership and being passionate about helping others. I appreciate the many opportunities to facilitate and lead various CCA activities and projects, which have helped me grow as a confident team player.”
+Overall, this journey thus far has been a difficult but fulfilling journey. I’ve met so many new friends and people who I would willingly go up to and hold a conversation. I’ve also become closer to my teachers as they guide us and impart their knowledge of leadership to us. The amount of life skills like task organisation, being self-disciplined and practising good time management that I’ve picked up is something that I wholeheartedly thank the Prefectorial Board for. No words can describe my gratitude for how much the Prefectorial Board has shaped my core memory of Queensway Secondary School."
 
-  
+ ### Student Leadership Development
 
-_Justin Lim, 401, Choir President and Deputy Head Prefect_<br>
-“I am glad that I was given an opportunity to step up and lead the choir. My seniors have been very supportive and encouraging in my leadership journey. I first started out in an EXCO position, when my seniors motivated me to volunteer to be the Level head in choir.
+Our philosophy of student leadership development is guided by the following beliefs:
 
-While leadership has had its share of challenges, it has also been an enriching and fulfilling experience. During my term has as choir president, I learnt how to manage uncertain situations. Due to Covid-19, many events were in flux. With the support of my committee members and teachers in charge, we were able to modify and make the necessary arrangements for our choir sessions. I learnt the importance of forward planning and thinking on my feet to resolve problems that may arise suddenly. This has helped me to be a more adaptable person. I also learnt to be more patient and honed my interpersonal and communication skills.” 
+○      Every student has the potential to be    
+        developed as a leader
 
-  
+○      Leadership entails confidence and taking the 
+        initiatives to make a positive difference
 
-_Inggrid Irrawaty, 401, Head Prefect_<br>
-“The Prefectorial Board is an environment that allows me to strive for personal growth and achievement. It has ignited my passion for leadership. During my time with the Board, I realized that truly enjoying the process and time as a student leader was the key to passionate and genuine servant leadership. When I began to understand this, I was learning how to become a leader not because I had to, but because I sincerely wanted to be one.
+○      Student leadership development needs to be 
+        intentional
 
-The board meetings, Prefect camps, planning sessions and event executions all became my passion and I never found myself growing tired of the responsibilities. Rather, I wholeheartedly enjoyed all the time I spent with my dear friends in the Prefectorial Board, as well as the teachers who were patient, nurturing and diligent in guiding the prefects to develop their strengths and grow into confident leaders.
+Our approach to student leadership curriculum development centres on the 7 Pillars of Servant Leadership with alignment to Thomas Lickona’s 8 Strengths of Character.
 
-I will always hold my journey with the Prefectorial Board dear in my heart. It has truly been a meaningful experience for me, during which I forged strong bonds with my fellow prefects and honed my planning, organisation and interpersonal skills. I will always be thankful for the supportive community that has taught me that there are no boundaries to success and with determination and passion, nothing is unachievable.”
+The Lower Secondary curriculum is based on the idea of “Unleashing the Servant Leader in You” and “Everyday Leadership”. The curriculum aims to convince students that each and every one of them has leadership potential that can be tapped every day and leadership is not solely the leading of big events. Students will learn the fundamental skills needed to be a leader and will be able to use them effectively to manage themselves and others. This involves having good self knowledge, sound values and personal effectiveness. Examples of lessons conducted for students include the exploration of servant leadership as well as learning facilitation skills.
 
-  
+The Upper Secondary curriculum enhances the lower secondary curriculum where ‘self’ and ‘team’ leadership are introduced. At Upper Secondary, student leaders are taught knowledge and skills to support initiatives for active student leadership to make a positive difference in class, at home, within the school and in the community. Hence, the key message to the student leaders is that leadership is not about positions of power but positions of positive influence. Past examples of opportunities available for the student leaders have included a mentorship program by university students and leadership workshops by external vendors.
 
-_Nurul Syazana Binte Misdi, 404, Head of Peer Support Board_<br>
-“Our mission as Peer Support Leaders (PSLs) is to strive to lend a helping hand to others, by forming stepping stones between teachers and students. “A smooth sea never made a skillful sailor.” This quote resonates with us, because we believe that we should not back away from challenges, but face them head-on, as such experiences will make us tougher and more capable. With this in mind, we work to address key issues that our peers face, with the goal of ensuring their well-being and unity as a cohort.
+The school has an extensive and structured system in providing opportunities for both broad-based and role-based student leadership development for our students.
 
-This year, the PSLs have decided to focus on the importance of mental well-being as a key theme for our programmes. This is because we realised that mental health stigma is still a major issue in society. Many people are still unware of the importance of mental well-being and are quick to judge individuals with mental health illnesses. Hence, the PSLs felt the need to address these stigmas and ensure that we put an end to it. This resulted in 2021’s inaugural Mental Wellness Week, where we shared with our peers about the importance of mental health, as well as constructive ways to cope with stress. Our Peer Support Champions have also helped to ensure that their classmates have a caring shoulder to lean on in times of need.
-
-We want Queenswayans to have a safe outlet to seek support because we believe that mental health is just as important as our physical health. If you are in need of assistance or a listening ear, we urge you to approach our friendly PSLs or PSCs, or dial up the helpline numbers that we have listed out for you.
-
-Our teachers and school leaders have entrusted the Peer Support Board (PSB) with many opportunities to serve the school to the best of our abilities, from organising the Teachers’ Day Celebration in 2020, to inaugurating Mental Wellness Week in 2021. Spearheading these events has allowed us to hone our communication, collaboration and project management skills, shaping us into more confident leaders.
-
-Last but not least, we would like to take the opportunity to show our gratitude to every member in Queensway Secondary School as we are surrounded by extremely supportive school leaders, teachers and peers. We promise to keep on growing and shining and to continue to never dull a moment in Queensway!”
