@@ -50,7 +50,7 @@ third_nav_title: Our People
 |  	| Ms Audrey Chua 	| [chua\_sing\_li\_audrey@moe.edu.sg](mailto:chua_sing_li_audrey@moe.edu.sg) 	|
 |  	| Ms Natalie Feng 	| [feng\_hui\_er@moe.edu.sg](mailto:feng_hui_er@moe.edu.sg) 	|
 |  	| Ms Sarah Pang 	| [sarah\_pang\_pei\_wen@moe.edu.sg](mailto:sarah_pang_pei_wen@moe.edu.sg) 	|
-|  	| Mr Ng Ching Siang 	| [ng\_ching\_siang@moe.edu.sg](mailto:ng_ching_siang@moe.edu.sg) 	|
+|  	| 	| 	|
 
 #### Mother Tongue Languages
 
