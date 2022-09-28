@@ -11,11 +11,12 @@ For all Queenswayans to enjoy learning Science, regardless of age or course.
 
 #### Signature Pedagogy
 
-<img src="/images/sci1.png" style="width:303px;height:340px;margin-left:15px;" align = "right"> Science is built on inquisitiveness and asking powerful questions. The use of inquiry based learning aids students in this endeavor as the real-life problems are often open-ended, without a fixed or defined answer. Through this pedagogy, students are taught to examine evidence critically and to draw conclusions from the data which is presented to them through experimentation and observation.
+ Science is built on inquisitiveness and asking powerful questions. The use of inquiry based learning aids students in this endeavor as the real-life problems are often open-ended, without a fixed or defined answer. Through this pedagogy, students are taught to examine evidence critically and to draw conclusions from the data which is presented to them through experimentation and observation.
 
   
 
 The teaching of Science and its concepts is anchored on the following framework.
+<img src="/images/sci1.png" style="width:303px;height:340px;margin-left:15px;" align = "center">
 
 In the Science classroom, teachers facilitate student learning by infusing values, ethics and scientific attitudes into the core ideas. This learning is augmented with learning about applications of science in practical settings, providing students with a holistic experience of how Science can be used to benefit humans and society.
 
