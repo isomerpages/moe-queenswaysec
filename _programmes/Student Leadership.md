@@ -7,30 +7,35 @@ description: ""
 
 #### BRIEF SUMMARY OF EVENTS / ACHEIVEMENTS
 
-"To lead is to serve." This year, our student leaders showed their commitment to this motto as they took up various responsibilities to lead and help their peers, despite the many upheavals due to COVID-19. Our prefects, for instance, resumed their daily morning duty to ensure safety and discipline in the mornings as their peers arrived in school, while our Peer Support Leaders and Champions organised activities to promote awareness of mental wellbeing while continuing to look out for their peers' mental wellbeing. Alongside them, the CCA leaders and Class Committee steadfastly continued to take up additional duties such as managing the Personal Learning Devices for their classes, while encouraging their peers to adapt to Home-Based Learning and eCCAs. In a stressful year, they upheld the school values of responsibility, respect, discipline and excellence with good cheer, inspiring their peers and juniors to do so as well.  
+Servant Leadership is the belief that the most effective leaders strive to serve others, rather than accrue power or take control. 
 
-  
+In 2022 our student leaders embodied this very belief as they picked up the baton from the graduating class of 2021. As the world slowly enters the new normal due to the COVID-19 pandemic, our student leaders have also started to step up to the challenge of leading from the front and serving their fellow students. Our prefects have been diligently carrying out their morning duties and have assisted in the smooth running of school events such as our annual Speech Day and at ad-hoc events such as the EU ambassador’s visit to QSS. Our Peer Support Leaders and Champions have been consistently developing a culture of care in the school by planning activities for students to be more aware of their own mental well-being as well as being empathetic to those around them. Serving alongside them are the CCA leaders who lead their teams with pride and assist the coaches and teachers. The House Leaders also serve to build house spirit and lead our students in cheers for our CCAs. The Class Committees steadfastly continued to take up additional responsibilities and assist class mentors in the smooth running of everyday school life.
 
-  
+As school-wide activities resumed in 2022, our student leaders have upheld the school values of Discipline, Respect, Responsibility and Excellence in the duties they perform. They lead by example and inspire their peers and juniors to do so as well. They truly follow our motto of “To Lead is To Serve”.
+
 
 #### Student Experiences:
 
-_Cheyenne Ng, 304, Class Chairperson_<br>
-“Being a class chairperson is not only about helping to maintain a learning environment in class or assisting the teachers. It is also about being there for your classmates and caring for their well-being. Through this experience, I have realised that leadership is a continuous process of growth, reflection and development, where I do my best to learn from my mistakes and move on to be better. It has been a fruitful experience for me to challenge myself and I have learnt a lot from carrying out my responsibilities.”
+*Clarice Koh En Qi*,  _Trainee Prefect_<br>
+“I feel extremely humbled to be able to serve the students as a trainee prefect. Now, I have the opportunity to lead the school in a manner which I could not before. Being a trainee prefect allows me to help in morning duties and participate in meetings, allowing me to not only get to know more people but also understand more about being a leader. I am glad to be given the opportunity to be a voice for my fellow peers and help them understand decisions made by the teachers.”
 
   
 
-_Wayne Chan, 301, Class Chairperson_<br>
-“I have enjoyed being a class chairperson for two years! I have learnt to be more responsible with my actions and more organised in terms of my work and time management. Being a class chairperson also gave me the opportunity to be a positive role model for others, as well as care for my peers and teachers!”
+_Lee Shenlei, Volleyball Boys Captain_<br>
+“I am grateful for the chance to step up and lead my CCA. Being a captain has contributed to my growth as a player and as a person, and while there have definitely been many difficulties throughout this journey, it has made me more disciplined, responsible, caring to those around me and has taught me to think critically when met with a tough situation.
+
+One of my memorable moments during my leadership is this year's Queen’s Cup. I could tell that my teammates were all very nervous. To be honest, I was nervous myself, but I knew that I had to overcome it. If my teammates saw me in this state, they would become disheartened and discouraged. I calmed myself down, overcame my nervousness and confidently encouraged my team. It seems like a minor triumph but it definitely lightened the mood and I saw my team perk up and put their best foot forward in the match. This serves as a key memory and learning point that I will bring with me for the rest of my captaincy.
+
+I do hope that I can continue to lead my CCA well and bring it to greater heights.”
 
   
 
-_Josef Lim, 311, Class Chairperson_<br>
-“My experience as House Captain in Queensway Secondary School has been very enriching. I particularly enjoyed the various trainings and leadership programmes, which have helped me to develop my communication, collaboration and event planning skills.
+_See Hui Lin, Peer Support Leader, Head of Publicity_<br>
+“As the Head of Publicity for the PSLs, I had the opportunity to not only contribute my knowledge of mental wellness along with unique designs, but was able to lead my committee too.
 
-The most memorable event for me this year was the 2021 Secondary One Orientation Camp, which I helped to organise and facilitate as Centaur House Captain. During the December holidays, we planned for activities, games and logistics with the orientation group leaders. It was a fun and meaningful process which brought us closer as a team.
+The publicity committee is currently doing weekly posts on different topics per month for the school’s PSL Instagram. This required a lot of my committee’s time as well as coordination. It took a while for us to adjust as we were new to each other. However, over time, the bond between us grew stronger. Soon enough, we were not only able to coordinate our efforts and workflow reasonably well, we were able to have lots of fun learning and growing with each other.
 
-Being a student leader has taught me to be more systematic and organised. It has also helped me to be a more confident person and hone my interpersonal skills. I hope to continue embodying our school core values of discipline, respect, responsibility and excellence in leading Centaur House.”
+Throughout my experience, I have learnt the importance of time management and teamwork. PSL will forever have a place in my heart and I will continue to serve the school to the best of my abilities.”
 
   
 
