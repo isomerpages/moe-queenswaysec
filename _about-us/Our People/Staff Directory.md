@@ -84,7 +84,7 @@ third_nav_title: Our People
 |   	| Mr Tham Yu Hsuan 	| [tham\_yu\_hsuan@moe.edu.sg](mailto:tham_yu_hsuan@moe.edu.sg) 	|
 |   	| Ms Philynn Tan  	| [tan\_hong\_bee\_philynn@moe.edu.sg](mailto:tan_hong_bee_philynn@moe.edu.sg) 	|
 |   	| Ms Looi Tse Theng 	| [looi\_tse\_theng@moe.edu.sg](mailto:looi_tse_theng@moe.edu.sg) 	|
-|   	| Mrs Toh Sieh Ngieng 	| [toh\_sieh\_ngieng@moe.edu.sg](mailto:toh_sieh_ngieng@moe.edu.sg) 	|
+|   	|  	| 	|
 
 #### Science
 
