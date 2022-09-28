@@ -60,7 +60,7 @@ third_nav_title: Our People
 | HOD ICT 	| Ms June Tan  	| [june\_tan\_teck\_yoong@moe.edu.sg](mailto:june_tan_teck_yoong@moe.edu.sg) 	|
 | ST, Chinese 	| Ms Low Xin Yee 	| [low\_xin\_yee@moe.edu.sg](mailto:low_xin_yee@moe.edu.sg) 	|
 | SH, ML & TL (Covering) 	| Ms Iryantee Bte Jaffar 	| [iryantee\_jaffar@moe.edu.sg](mailto:iryantee_jaffar@moe.edu.sg) 	|
-|  	| Mr Lim Hua Leng 	| [lim\_hua\_leng@moe.edu.sg](mailto:lim_hua_leng@moe.edu.sg) 	|
+|  	| 	|
 |   	| Ms Chia Hui Jun 	| [chia\_hui\_jun@moe.edu.sg](mailto:chia_hui_jun@moe.edu.sg) 	|
 |   	| Mdm Esther 	| [makaisvery\_esther\_periak\_a@moe.edu.sg](mailto:makaisvery_esther_periak_a@moe.edu.sg) 	|
 |   	| Ms Zhang Yi 	| [zhang\_yi\_a@moe.edu.sg](mailto:zhang_yi_a@moe.edu.sg) 	|
@@ -93,7 +93,7 @@ third_nav_title: Our People
 | HOD Science (Covering) 	| Ms Tong Ai Li          	| [tong\_ai\_li@moe.edu.sg](mailto:tong_ai_li@moe.edu.sg) 	|
 | School Staff Developer 	| Ms Tan Yen Nee 	| [tan\_yen\_nee\_a@moe.edu.sg](mailto:tan_yen_nee_a@moe.edu.sg) 	|
 | HOD Student Management 	| Ms Jasmine Tay  	| [tay\_ya\_mei\_jasmine@moe.edu.sg](mailto:tay_ya_mei_jasmine@moe.edu.sg) 	|
-| SH, CCE & ICT 	| Ms Sharelyn Teo  	| [teo\_hwee\_ming\_sharelyn@moe.edu.sg](mailto:teo_hwee_ming_sharelyn@moe.edu.sg) 	|
+| 	|  	|	|
 | SH, Physics (Covering) 	| Ms Shirley Tay 	| [shirley\_tay@moe.edu.sg](mailto:shirley_tay_li_hui@moe.edu.sg) 	|
 |     	| Ms Stella Goh 	| [stella\_goh@moe.edu.sg](mailto:stella_goh@moe.edu.sg) 	|
 |   	| Mrs Pang Fook Hoe 	| [lam\_fook\_hoe@moe.edu.sg](mailto:lam_fook_hoe@moe.edu.sg) 	|
