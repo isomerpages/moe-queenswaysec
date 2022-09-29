@@ -15,7 +15,7 @@ To inspire a passion for the English Language and Literature so as to create a s
 
 **English Language** in Queensway is taught using the CLEARR Pedagogical Framework, with learning experiences designed in four phases:
  
- <img src="/images/el1.png" style="width:313px;height:240px;margin-left:15px;" align = "right"> **_Contextualise:_** knowledge is activated and interest is built;
+**_Contextualise:_** knowledge is activated and interest is built;
 
   
 
@@ -28,7 +28,9 @@ _**Learn & Explore:**_ students learn the receptive skills of Listening and Rea
 
 Foundational language skills like Grammar and Vocabulary are also taught explicitly to students.
 
-<img src="/images/el2.png" style="width:313px;height:240px;margin-left:15px;" align = "right"> **English Literature** follows the Literary Response Framework, with learning experiences being centred around the exploration of texts across the three genres of Literature (poetry, prose, drama). Students are guided to experience texts through three inter-connected lenses:
+
+![](/images/USE.jpeg)
+**English Literature** follows the Literary Response Framework, with learning experiences being centred around the exploration of texts across the three genres of Literature (poetry, prose, drama). Students are guided to experience texts through three inter-connected lenses:
 
   
 
@@ -49,6 +51,8 @@ Both subjects feature strong ICT integration, with teachers making use of a vari
 #### Special Programmes  
 
 ##### English Talent Development Programme
+
+![](/images/Debate%20workshop%20(USE).jpg)
 The English Talent Development Programme aims to nurture our students’ flair and passion for the English Language. Selected students are groomed to be confident communicators and purposeful writers through our curricular programmes and out-of-classroom activities. The students will also be exposed to advanced literary works that will deepen their intellectual growth and push them to think critically about the world at large. Students selected for the programme will attend plays and take part in national and international competitions to nurture their passion in the language. 
 
 **Special Mentions**
