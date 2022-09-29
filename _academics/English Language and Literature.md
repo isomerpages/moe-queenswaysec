@@ -66,8 +66,8 @@ The English Talent Development Programme aims to nurture our students’ flair 
 
 ##### LangLit Week
 
-The school celebrates English Language and Literature Appreciation Week every year in Term 1. Typically, during the week, the school will see a line-up of events and activities going beyond the curriculum. These include flash fiction writing, book trailer skits, poetry slams, movie critique and creative writing workshops. This dedicated week gives students opportunities to participate in and enjoy both English Language and Literature in creative ways.
+The school celebrates English Language and Literature Appreciation every year in Term 1. Typically, during this event, the school will see a line-up of programmes and activities extending beyond the curriculum. These include flash fiction writing, book trailer skits, poetry slams, movie critique, and creative writing workshops. This gives students opportunities to participate in and enjoy both English Language and Literature in creative ways.
 
 ##### Assessment:  
 
-The ELL Department views assessment as an integral part of the school-based instructional programme. Students are assessed using a wide variety of formative and summative modes, including quizzes, portfolio assessments, recorded speeches, and creative projects.
+The ELL Department views assessment as an integral part of the school-based instructional programme. Students are assessed using a wide variety of formative and summative modes, including quizzes, portfolio assessments and performance tasks such as Journal writing and Oracy recordings for English Language and Drama ‘Book Trailer’ skits for Literature.
