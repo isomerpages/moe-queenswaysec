@@ -41,11 +41,9 @@ Differentiated Instruction within the Humanities Department focuses on different
 
 #### ADDITIONAL PROGRAMMES  
 
-Students with passion and aptitude in the Humanities get opportunities to take part in national-level competitions. These competitions include the NUS Geography Challenge and the MOE History Challenge.  Students also get to engage in real-life learning through learning journeys, such as visits to Parliament House on Sitting Days in Parliament.
+The yearly Humanities Day offers a series of enrichment activities for students to extend their learning about the world around them. The Humanities department organizes learning journeys to various organizations for students to learn beyond the confines of the classroom. Students get to learn more about the various cultures in Singapore and visit places of historical value. Besides being exposed to topics related to History and Geography, students are also exposed to current affairs issues through the talks organized for them.
 
-  
-
-The Humanities Week is carried out each year to showcase student learning and promote national and global awareness. Through the showcase of student projects from the Humanities and Commerce subjects, students get to learn more about Singapore and the world we live in.
+Students with passion and aptitude in the Humanities are encouraged to take part in national-level competitions. These competitions include the NUS Geography Challenge and the MOE History Challenge, the ASEAN Symposium and the United Nations Mock Conference.  Students get to observe Parliament sessions in action on Sitting Days in Parliament. They also took part in conversations with external stakeholders as such the EU@School programme.
 
 <img src="/images/hum3.png" style="width:60%">
 
