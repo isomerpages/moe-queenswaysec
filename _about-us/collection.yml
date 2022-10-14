@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - School Achievements.md
+      - Who We Are.md
       - Principal's Message.md
+      - School Achievements.md
       - Our People/.keep
       - Our People/School Leadership & Management.md
       - Our People/Student Development Team.md
       - Our People/Executive & Administrative.md
       - Our People/Staff Directory.md
-      - Who We Are.md
-      - Contact Us.md
       - Yearbook Archive.md
+      - Contact Us.md
