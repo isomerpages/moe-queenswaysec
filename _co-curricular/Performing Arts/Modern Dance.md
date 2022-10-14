@@ -19,28 +19,15 @@ third_nav_title: Performing Arts
 | **STUDENT LEADERS:**	|  	|
 |JUDITH KWA|
 |NYGUEN NGOC THUY TRAM|
+         
+				 
+The modern dance girls performed at various school events in 2022 such as the CCA Fair, Chinese New Year, teachers’ day and Aesthetics Night. The girls’ passion was evident in their performances, and made the CCA a popular one amongst Sec 1 girls. The new dancers joined their seniors in preparing for the team’s biggest performance of the year at the school’s Aesthetics Night. It was an exhilarating journey for the girls as they pushed themselves out of their comfort zone to train for their very first public performance. The result? A beautiful performance they can be proud of for years to come.
+
+"As we are a relatively new CCA, Aesthenics Night was only our second time performing live. It was also my first dance performance in front of my family members and friends. We practiced for months and put in a lot of effort to make the show memorable and enjoyable, and I'm glad it was not in vain. Hearing the cheers and claps from our supporters made it a really unforgettable memory."                                    
+*~Judith Kwa*
 
 
+"The CCA Fair performance at the start of the year was our first live performance. Although only the Sec Ones saw it, I still felt very accomplished as the performance went well and we gained many new members despite being a new CCA. The preparation was tiring and we were so busy that week but we all did our part to make it work."  
+*~Nyguen*
 
-#### Overview of the CCA:
 
-Queensway Secondary School Modern Dance is the school’s newest CCA founded in 2021, comprising 27 members from Secondary 1-3. Under the guidance of our talented instructor Mr Robin, dance members have developed a strong foundation in dance skills, grown in their understanding of dance, and deepened their commitment to the group.
-
-Being a new CCA, the group has taken the first half of the year to focus on developing a strong culture of teamwork, building up students’ physical strength and strengthening their foundation in dance skills. Nonetheless, the group has seized other opportunities to participate in performances together, and put together a dance item to Bruno Mars’ “Treasure” for this year’s QSS Got Talent competition. Through this experience, they learnt the importance of discipline, teamwork and unity in the pursuit of achieving excellence in their dance skills, with many of the stronger members helping to train those that struggled to learn the dance moves.
-
-For many of the members, this CCA is their first time learning modern dance, and they have put in commendable effort to commit to the rigorous training required of dancers. A number of them transited from other forms of dance, such as Malay Dance, Chinese Dance or ballet, and had to learn how to adapt their movements and habits to a new form of dance. 
-
-#### Student Experiences:
-
-“I enjoy every bit of my CCA sessions because when we are dancing, we are exercising and that helps us feel good. Dance is a way for me to relax and express myself without even speaking. While it was a little difficult to change from Malay Dance to Modern Dance, I’m getting used to it now, and I enjoy them both because they’re both dance forms. Modern dance has benefitted me by strengthening my body, endurance and motor fitness. I hope that by the end of my secondary school life, I will have become a better dancer.”
-<br>**Aisyah (212)**
-
-  
-
-“I enjoy this CCA a lot; maybe because there are fewer people in our CCA, I feel that it’s easier to connect with people in the CCA and we have become quite a close knit group. Also, thanks to this CCA, I learnt many more techniques and I’ve also learnt to be more patient and understanding. Along the way, I’ve definitely learnt to be more diligent and focused as I realised that one person could make a very big difference to the overall performance of the whole team. I hope that our CCA can participate in well-known dance competitions in future!” 
-<br> **Qixuan (201)**
-
-  
-
-“I enjoy this CCA a lot, even though it can be very tiring at times. Dancing is my passion, and I can have fun in this CCA. Through physical training, I’ve gotten stronger and more flexible. It has also helped me become more responsible as I cared for my juniors who needed help with their dance moves. I hope to see the CCA achieve distinction in competitions and performances in future.” 
-<br> **Iris Wee (303)**
