@@ -30,10 +30,10 @@ links:
       - title: DSA
         url: /dsa
   - title: The Queensway Experience
-    url: /academics/English-language-and-literature/
+    url: /academics
     sublinks:
       - title: Academic Departments
-        url: /academics/english-language-and-literature/
+        url: /academics/English-language-and-literature/
       - title: PDLP
         url: /pdlp
       - title: Blended Learning
