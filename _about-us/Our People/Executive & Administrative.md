@@ -27,7 +27,7 @@ third_nav_title: Our People
 | Operations Support Officer 	| Mr. Chan Kwok Leong 	|  	|
 | School Laboratory Technician 	| Nur Hidayah Bte AM Hashim 	|  	|
 | School Laboratory Technician 	| Mr. Cheong Swee Keong	|  	|
-| Full-Time School Counsellor 	| Mrs. Sim Siew Yock 	|  	|
-| Full-Time School Counsellor 	| Ms. Teo Hwee Lian 	|  	|
+| Full-Time School Counsellor 	| Mrs. Sim Siew Yock 	|  oen_siew_yock@moe.edu.sg 	|
+| Full-Time School Counsellor 	| Ms. Teo Hwee Lian 	|  teo_hwee_lian@moe.edu.sg	|
 | AED (LBS) 	| Mdm. Chew Leong Kiong 	|  chew_leong_kiong@schools.gov.sg 	|
-| School Welfare Officer 	| Mr. Alex Chin 	|  	|
+| School Welfare Officer 	| Mr. Alex Chin 	| chin_yu_shun@moe.edu.sg 	|
