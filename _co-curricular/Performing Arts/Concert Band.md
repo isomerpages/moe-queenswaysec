@@ -30,6 +30,8 @@ To keep the band members actively involved in honing their skills and bringing t
 #### Achievements of the CCA:
 CERTIFICATE OF ACCOMPLISHMENT IN SYF (2021)
 
+#### Student Experiences:
+
 "During my time in the Concert Band, I have shared enjoyable and meaningful experiences with my fellow band members, be it juniors or seniors. One of my favourite memories in the band was during Aesthetics Night, where 5 different aesthetics CCAs came together to put on a show for everyone."                                         
 *~Ethan Chan (302)*
 
