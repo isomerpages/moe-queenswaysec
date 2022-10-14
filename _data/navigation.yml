@@ -10,10 +10,10 @@ links:
   - title: About Us
     url: /about-us/principals-message/
     sublinks:
-      - title: Who We Are
-        url: /about-us/who-we-are/
       - title: Principal's Message
         url: /about-us/principals-message/
+      - title: Who We Are
+        url: /about-us/who-we-are/
       - title: School Achievements
         url: /achievements
       - title: Our People
