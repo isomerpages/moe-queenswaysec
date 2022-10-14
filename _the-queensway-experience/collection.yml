@@ -2,12 +2,6 @@ collections:
   the-queensway-experience:
     output: true
     order:
-      - Character Development/Education & Career Guidance.md
-      - Character Development/Sexuality Education.md
-      - Character Development/Community Involvement & Values in Action.md
-      - Character Development/CCE Modules.md
-      - Character Development/.keep
-      - Character Development/Student Leadership.md
       - Academic Departments/.keep
       - Academic Departments/Humanities.md
       - Academic Departments/English Language and Literature.md
@@ -17,6 +11,12 @@ collections:
       - Special Programmes/.keep
       - Special Programmes/Sports for Life.md
       - Special Programmes/Applied Learning Programme.md
+      - Character Development/.keep
+      - Character Development/Education & Career Guidance.md
+      - Character Development/Sexuality Education.md
+      - Character Development/Community Involvement & Values in Action.md
+      - Character Development/CCE Modules.md
+      - Character Development/Student Leadership.md
       - Talent Development Programmes/.keep
       - Talent Development Programmes/Secondary One Science Talent Development
         Programme.md
