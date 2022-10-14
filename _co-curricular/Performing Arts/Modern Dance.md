@@ -22,6 +22,8 @@ third_nav_title: Performing Arts
          
 #### Overview of the CCA:   
 
+![](/images/Mordern%20Dance%202-20220901_185450%20-%20Joanne%20Loo.jpg)
+
 The modern dance girls performed at various school events in 2022 such as the CCA Fair, Chinese New Year, teachers’ day and Aesthetics Night. The girls’ passion was evident in their performances, and made the CCA a popular one amongst Sec 1 girls. The new dancers joined their seniors in preparing for the team’s biggest performance of the year at the school’s Aesthetics Night. It was an exhilarating journey for the girls as they pushed themselves out of their comfort zone to train for their very first public performance. The result? A beautiful performance they can be proud of for years to come.
 
 ![](/images/Modern%20Dance%201-Teachers%20Day%20Performance%202022%20%20-%20Joanne%20Loo.png)
