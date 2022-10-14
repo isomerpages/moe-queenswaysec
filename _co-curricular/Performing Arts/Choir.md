@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /cca/Performing-Arts/choir
+permalink: /cca/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	|  MS. SURINDER KAUR (IC) <br> MDM IRYANTEE <br> MDM ESTHER 	|
+| **TEACHERS-IN-CHARGE:** 	|  MS. SURINDER KAUR  <br> MDM IRYANTEE <br> MDM ESTHER 	|
 
 |  	|  	|
 |---	|---	|
