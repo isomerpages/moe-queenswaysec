@@ -27,9 +27,9 @@ Most importantly, the CCA continue to instill in the players the ‘joy of learn
   
 *"The best memory was winning our first match as a team in the C division competition. It was an accomplishment as we are a new team without experience. 
 Besides, the debriefing session after matches allows the team to reflect on their gameplay and learn from the mistakes made. 
-With a positive mindset, I believe that the team will continue to improve and succeed in future."
+With a positive mindset, I believe that the team will continue to improve and succeed in future."  
 ~Tan Yu Qi (203)*
 
 *"A meaningful experience in my CCA which I led the whole team in the warm-up session during training and also involved in the Sec 1 trial selection. 
-I learn to lead and take responsibility in carrying out tasks. We will keep improving to do the school proud eventually."
+I learn to lead and take responsibility in carrying out tasks. We will keep improving to do the school proud eventually."   
 ~ Tan Ying Yi Matilda (203)*
