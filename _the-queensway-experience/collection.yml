@@ -2,6 +2,7 @@ collections:
   the-queensway-experience:
     output: true
     order:
+      - Special Programmes/Sports for Life.md
       - Special Programmes/Applied Learning Programme.md
       - Special Programmes/.keep
       - Academic Departments/.keep
