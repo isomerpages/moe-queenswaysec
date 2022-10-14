@@ -12,7 +12,7 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **INSTRUCTORS** 	| MR XIE ZHIZHONG <br> MS NAMIE <br> MR MATTHEW SIEW <br> MR TERRENCE TAN (PIANIST)	|
+| **INSTRUCTORS** 	| LIM HUI MIN <br>  MATTHEW SIEW <br>	|
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
