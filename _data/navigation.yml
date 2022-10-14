@@ -29,7 +29,7 @@ links:
         url: /comingsoon/
       - title: DSA
         url: /dsa
-  - title: Learning@Queensway
+  - title: tHE qUEENSWAY eXPERIENCE
     url: /academics/english-language-and-literature/
     sublinks:
       - title: Academic Departments
@@ -38,9 +38,6 @@ links:
         url: /pdlp
       - title: Blended Learning
         url: /the-Queensway-experience/blendedlearning/
-  - title: Special Programmes
-    url: /permalink
-    sublinks: []
   - title: Life Beyond Queensway
     url: /
     sublinks:
