@@ -16,22 +16,19 @@ third_nav_title: Performing Arts
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **BAND MAJOR:** 	|   GWENDALYN TOK WEN YEN (303)	|
-| **DRUM MAJOR:** 	| IGNATIUS KEEGAN KHOO KANG JUN (411) 	|
-| **ASSISTANT BAND MAJOR:** 	|   MARCUS CHUA EE IAN (402)	|
-| **ASSISTANT DRUM MAJOR:** 	| HO HOA HAO (403) 	|
+|CHLOE CHONG QI WEI|
+| ETHAN CHAN|
+|FANG SZE EN	|
+| RASHMIKA D/O ANBARASAN	|
 
-**Overview of the CCA:** 
+Queensway Secondary School Concert Band aims to cultivate students to develop a passion for music-making and to instill them a sense of responsibility, living up to 21st Century Competencies and values of team-work and leadership.
 
-Queensway Secondary School Concert Band aims to cultivate in students a passion for music-making and a sense of responsibility, while encompassing the 21st Century Competencies in education.
+To keep the band members actively involved in honing their skills and bringing their musicality to greater heights, the band always takes part in both national and international competitions, as well as exchanges with other school bands. The highlight yearly for QSS band is the year-end band concert which serves as a platform for the band members to exercise their leadership qualities and showcase their talents. This year, QSS Band also participated in the Aesthetics Night.
 
-Throughout the year with the evolving COVID-19 situation and safe management measures, band members displayed a high level of resilience by adapting to different modes of training, from small group practices to virtual practices. Members took advantage of these platforms to gain new musical experiences and hone different aspects of musicianship.
 
-In constant pursuit of musical excellence, the band always takes part in both national and international showcases and competitions. This year, the band participated in the Singapore Youth Festival: Arts Presentation, and was awarded the Certificate of Accomplishment. It is our desire that the passion of music-making continues to grow in all the members despite challenges brought on by the pandemic.
 
 #### Achievements of the CCA:
-
-**Singapore Youth Festival 2021:** Arts Presentation - Certificate of Accomplishment
+CERTIFICATE OF ACCOMPLISHMENT IN SYF (2021)
 
   
 
