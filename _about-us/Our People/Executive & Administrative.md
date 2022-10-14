@@ -29,5 +29,5 @@ third_nav_title: Our People
 | School Laboratory Technician 	| Mr. Cheong Swee Keong	|  	|
 | Full-Time School Counsellor 	| Mrs. Sim Siew Yock 	|  oen_siew_yock@moe.edu.sg 	|
 | Full-Time School Counsellor 	| Ms. Teo Hwee Lian 	|  teo_hwee_lian@moe.edu.sg	|
-| AED (LBS) 	| Mdm. Chew Leong Kiong 	|  chew_leong_kiong@schools.gov.sg 	|
+| AED (LBS) 	| Mdm. Chew Leong Kiong 	|  chew_leong_kiong@moe.edu.sg 	|
 | School Welfare Officer 	| Mr. Alex Chin 	| chin_yu_shun@moe.edu.sg 	|
