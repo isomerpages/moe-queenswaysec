@@ -18,9 +18,8 @@ The Humanities Department in Queensway Secondary School comprises the Humanities
 <img src="/images/hum1.png" style="width:413px;height:340px;margin-left:15px;" align = "center"> Central to Humanities education in Queensway Secondary School is the Humanities Inquiry Approach, which seeks to promote learning through inquiry. The process entails looking at:
 
 *   **_the elements of Inquiry,_**   
-*   **_the process and inquiry and_**
-    
-*   **_the culture inquiry._**
+*   ***the process of Inquiry*** 
+*   **_the culture of Inquiry._**
     
 
   
@@ -29,7 +28,7 @@ As participants in the inquiry process, students learn to explore the interactio
 
 #### USE OF ICT
 
-Towards supporting the inquiry approach, ICT is used as a means of promoting collaboration among students, scaffolding concepts, formative assessment and self-directed learning. Towards this end, use of ICT tools to promote the stated objectives include Kahoot as a gauge of student learning, and the use of SLS and Nearpod to introduce new concepts to students, as well as to allow for independent learning. 
+Towards supporting the inquiry approach, ICT is used as a means of promoting collaboration among students, scaffolding concepts, formative assessment and self-directed learning. To this end, use of ICT tools to promote the stated objectives include Kahoot as a gauge of student learning, and the use of SLS and Nearpod to introduce new concepts to students, as well as to allow for independent learning. 
 
   
 
