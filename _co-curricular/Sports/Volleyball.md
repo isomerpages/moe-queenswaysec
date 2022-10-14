@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS TEO YONG CHIN (IC)<br>MR ANG SWEE AUN<br>MS ZHANG YI (TERM 2)<br>MR LIM HUA LENG (SEM 1)<br>MS FELICIA ANG<br>MS BRENDA LIM 	|
+| **TEACHERS-IN-CHARGE:** 	| MS TEO YONG CHIN <br>MS ZHANG YI <br>MS FELICIA ANG<br>MS BRENDA LIM<br>MR GILBERT TAN WEI BENG	|
 
 |  	|  	|
 |---	|---	|
@@ -49,4 +49,3 @@ With Covid-19 regulations intercepting our path to competitions, the usual rules
 
 “Volleyball has boosted my confidence and brought me to the next stage in life. I have never thought that volleyball could change my character. I was given leadership opportunities to experience these values. My experience in Queensway Volleyball is something that cannot be bought and I will cherish it forever. I hope our school’s volleyball continues to achieve success in its future endeavors.”
 <br> **Doong Yuan Png Toby (411) ‘B’ Boys’ Vice-Captain**
-
