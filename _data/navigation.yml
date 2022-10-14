@@ -3,6 +3,8 @@ links:
   - title: About Us
     url: /about-us/principals-message/
     sublinks:
+      - title: Announcements
+        url: /permalink
       - title: Principal's Message
         url: /about-us/principals-message/
       - title: Who We Are
