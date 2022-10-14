@@ -24,6 +24,8 @@ The newly formed team, comprised of beginners in majority, go through the develo
 
 The players also participate in the annual national school games competitions where they will exhibit sportmanships, perseverance and resilience in them during the games.
 
+![](/images/Badminton%202-NSG%20Competition%20-%20Chia%20Yew%20Hwee.jpeg)
+
 Platforms are given to unleash the players’ potential to lead especially in areas such as warm-up sessions during trainings, debriefing session after trainings and involvement in the Sec 1 trial.
 
 Most importantly, the CCA continue to instill in the players the ‘joy of learning’ and ‘learning for life’ spirit in their 4 to 5 years in this CCA.
