@@ -52,11 +52,5 @@ links:
       - title: Alumni Achievements
         url: /
   - title: Useful Links
-    url: /useful-links/students/overview
-    sublinks:
-      - title: Students
-        url: /useful-links/students/overview/
-      - title: Parents
-        url: /useful-links/parents/overview/
-      - title: Prospective Student
-        url: /useful-links/prospective-student/overview/
+    url: /permalink
+    sublinks: []
