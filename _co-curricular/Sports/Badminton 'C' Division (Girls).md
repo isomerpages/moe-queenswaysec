@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS FINNA LEE (IC)<br>MR CHIA YEW HWEE <br> MS TOH HUI YU 	|
+| **TEACHERS-IN-CHARGE:** 	| MS FINNA LEE <br>MR CHIA YEW HWEE <br> MS TOH HUI YU 	|
 
 
 | STUDENT LEADERS 	|  	|
@@ -16,31 +16,18 @@ third_nav_title: Sports
 | **CAPTAIN:** 	|  TAN YU-QI (103)	|
 | **VICE-CAPTAIN:** 	| JENISSA JAIN (101) <br> TAN YING YI MATILDA (102) 	|
 
-#### Overview of the CCA:
+The newly formed team, comprised of beginners in majority, go through the development training programme where they learn fundamental technical skills in the beginning and gradually progress to in-depth in acquiring these skills.
 
-Badminton is a popular racquet sport worldwide which requires fast, powerful shots and agile footwork. So after a long hiatus of 19 years, badminton was finally reintroduced as a CCA this year - albeit to the girls only due to constrains of training venues. 
+The players also participate in the annual national school games competitions where they will exhibit sportmanships, perseverance and resilience in them during the games.
 
-  
+Platforms are given to unleash the players’ potential to lead especially in areas such as warm-up sessions during trainings, debriefing session after trainings and involvement in the Sec 1 trial.
 
-Following a series of CCA trials, 12 promising girls were selected for the inaugural team. The girls displayed their discipline and enthusiasm through their punctuality and eagerness to acquire new skills and knowledge. The girls had shown vast improvements from when they first joined, to now, displaying potentials in their individual talents.
-
-  
-
-When the Covid-19 Phase 2 Heightened Alert was raised this year, face-to-face sessions were suspended, and training took on an online format. Despite the restrictions, the girls showed resilience and independence. The coach and the team here had been resourceful to adapt to the changing situations. 
+Most importantly, the CCA continue to instill in the players the ‘joy of learning’ and ‘learning for life’ spirit in their 4 to 5 years in this CCA.
 
   
+*"The best memory was winning our first match as a team in the C division competition. It was an accomplishment as we are a new team without experience. 
+Besides, the debriefing session after matches allows the team to reflect on their gameplay and learn from the mistakes made. 
+With a positive mindset, I believe that the team will continue to improve and succeed in future."
+~Tan Yu Qi (203)*
 
-We hope that the foundation of resilience, discipline and team work amongst the girls continues to be the bedrock of their progress!
 
-  
-
-#### Student Experiences:
-
-“Training was tiring but it’s worth it as it kept us fit and healthy and we got to hang out with our CCA mates most of the time.” 
-<br> **Tricia Yau 102**
-
-“Though the training was sometimes extremely tiring, I always looked forward to playing badminton or learning new badminton skills with my friends. It was a "break" for me.”
-<br> **Angeline Ng 104**
-
-“It was fun knowing everyone. Although CCA was at times tiring, I learned a lot of new skills.” 
-<br> **Lim Cyndi 103**
