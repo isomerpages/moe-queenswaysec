@@ -25,6 +25,8 @@ links:
   - title: Admissions
     url: /permalink
     sublinks:
+      - title: School Prospectus
+        url: /permalink
       - title: PSLE
         url: /permalink
       - title: DSA
