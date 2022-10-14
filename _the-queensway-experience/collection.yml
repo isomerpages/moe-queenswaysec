@@ -2,11 +2,11 @@ collections:
   the-queensway-experience:
     output: true
     order:
-      - Talent Development Programmes/.keep
-      - Character Development/.keep
-      - Academic Departments/Humanities.md
       - Academic Departments/.keep
+      - Academic Departments/Humanities.md
       - Academic Departments/English Language and Literature.md
       - Personal Device Learning Programme.md
       - Blended Learning.md
       - Co Curricular Activities/.keep
+      - Character Development/.keep
+      - Talent Development Programmes/.keep
