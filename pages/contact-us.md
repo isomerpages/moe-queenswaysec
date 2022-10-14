@@ -8,19 +8,9 @@ locations:
       - 2A Margaret Drive
       - Singapore 049295
       - ""
-    operating_hours:
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
-    maps_link: ""
-    title: Queensway Secondary School
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    maps_link: https://www.google.com/maps/place/Queensway+Secondary+School/@1.3000009,103.8027544,15z/data=!4m2!3m1!1s0x0:0xec20f9662bff22ab?sa=X&ved=2ahUKEwiz_6mBk9_6AhUCALcAHQAEBGUQ_BJ6BQisARAF
+    title: Queensway Secondary School
 contacts:
   - content:
       - phone: +65 6123 4567
