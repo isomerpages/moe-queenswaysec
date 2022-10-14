@@ -23,6 +23,7 @@ third_nav_title: Sports
 |---	|---	|
 | **'C' DIVISION BOYS' CAPTAIN:** 	|  DARREN LIM CHEE HAO|
 | **'C' DIVISION BOYS' VICE-CAPTAIN:** 	| MIKO RAPHAEL RAHARDJO 	| 
+
 #### Overview of the CCA:   
 In basketball CCA, we believe in working hard and training together as a team rather than the individual in training. A cooperative team spirit must be cultivated both on and off the court. Beyond the team, we believe in developing resilience, an essential 21st Century Competency. At the end of their QSS journey, we want to establish future-ready citizens who can contribute to society.
 
