@@ -2,14 +2,14 @@ collections:
   the-queensway-experience:
     output: true
     order:
-      - Academic Departments/Physical Education.md
-      - Academic Departments/Craft and Technology and Aesthetics.md
-      - Academic Departments/Mother Tongue Language.md
-      - Academic Departments/Science.md
-      - Academic Departments/Mathematics.md
       - Academic Departments/.keep
-      - Academic Departments/Humanities.md
       - Academic Departments/English Language and Literature.md
+      - Academic Departments/Mathematics.md
+      - Academic Departments/Humanities.md
+      - Academic Departments/Science.md
+      - Academic Departments/Mother Tongue Language.md
+      - Academic Departments/Craft and Technology and Aesthetics.md
+      - Academic Departments/Physical Education.md
       - Personal Device Learning Programme.md
       - Blended Learning.md
       - CCAs/.keep
