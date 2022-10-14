@@ -53,4 +53,6 @@ links:
         url: /life-beyond-Queensway/2022qssallrounders/
   - title: Useful Links
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Student Learning Space
+        url: https://vle.learning.moe.edu.sg
