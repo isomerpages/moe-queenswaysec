@@ -8,16 +8,14 @@ links:
   - title: About Us
     url: /about-us/principals-message/
     sublinks:
+      - title: Who We Are
+        url: /about-us/who-we-are/
       - title: Principal's Message
         url: /about-us/principals-message/
       - title: Our People
         url: /about-us/our-people/school-leadership-and-management/
-      - title: Who We Are
-        url: /about-us/who-we-are/
-      - title: School Calendar
-        url: /about-us/school-calendar/
-      - title: Contact Us
-        url: /about-us/contact-us/
+      - title: Our Campus
+        url: /
       - title: Yearbook Archive
         url: /about-us/yearbook-archive/
   - title: The Queensway Experience
