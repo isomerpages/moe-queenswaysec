@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Who We Are.md
       - Principal's Message.md
+      - Who We Are.md
       - School Achievements.md
       - Our People/.keep
       - Our People/School Leadership & Management.md
