@@ -12,7 +12,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **COACHES:** 	| MR NG CHEE HOE (GIRLS' COACH)<br>MR TAN ZHI QIANG (BOYS' COACH) 	|
+| **INSTRUCTORS:** 	|NG CHEE HOE <br>TAN ZHI QIANG <br>ANG SWEE AUN|
 
 |  	|  	|
 |---	|---	|
