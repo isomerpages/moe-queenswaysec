@@ -3,6 +3,8 @@ links:
   - title: Announcements
     url: /announcements
     sublinks:
+      - title: Announcements
+        url: /announcements
       - title: School Calendar
         url: /permalink
   - title: About Us
