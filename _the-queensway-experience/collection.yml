@@ -2,6 +2,7 @@ collections:
   the-queensway-experience:
     output: true
     order:
+      - Talent Development Programmes/.keep
       - Character Development/.keep
       - Academic Departments/Humanities.md
       - Academic Departments/.keep
