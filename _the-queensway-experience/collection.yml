@@ -2,6 +2,7 @@ collections:
   the-queensway-experience:
     output: true
     order:
+      - Co Curricular Activities/.keep
       - Academic Departments/English Language and Literature.md
       - Academic Departments/.keep
       - Personal Device Learning Programme.md
