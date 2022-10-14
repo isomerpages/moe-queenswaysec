@@ -1,7 +1,7 @@
 logo: /images/qsslogo.png
 links:
   - title: Announcements
-    url: /permalink
+    url: /announcements
     sublinks:
       - title: School Calendar
         url: /permalink
