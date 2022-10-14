@@ -54,21 +54,5 @@ Queensway Secondary School NPCC Unit consists of more than 80 cadets, led by 4 t
 *   Local Educational Visits to Police and Law Establishments
     
 
-#### Achievements of the CCA:
-
-##### Online Area 15 Games Day: 1st in Spyfall
-
-#### Student Experiences:
-
-“My 4 years in QSS NPCC have been meaningful and memorable. NPCC has cultivated my enthusiasm for learning. It has also taught me to be more confident even in the face of difficulties. Participating in NPCC has taught me many valuable skills, such as leadership and collaboration. The CCA has also instilled values of discipline and perseverance in me, such that I constantly strive for the best in everything that I do. I have truly enjoyed my time in NPCC! It has left a deep and lasting impression on me.”
-<br> **Jane Tan Mingyu (411), Overall IC**
-
-  
-
-“My experience in NPCC has helped me to mature as a person. As a cadet leader, I was in charge of planning training for my CCA mates and juniors. There were many ups and downs, and it took time to get used to organising and facilitating these activities. However, I gained a deeper appreciation for my friends in NPCC, who supported me and stayed by my side all the way. Their encouragement was a confidence booster, and I greatly enjoyed working with them to represent the school in various competitions. I will never forget my journey in NPCC. I have so many fond memories I have of the CCA. Thank you to my Teacher Officers, Cadet Inspectors and peers for making my NCC experience so memorable and uplifting!”
-<br> **Faydra Neo Kai Juan (411), Training and Competition IC**
-
-  
-
-“NPCC has made me a more confident person, as it has taught me the importance of striving for excellence in all that I do. Although there were instances when I wanted to give up, my squad mates and seniors encouraged me and were very supportive. They motivated me to push on, and helped me to realise that I can achieve my goals if I set my mind to it. I have many fond memories of my time in NPCC. To me, it is not just a uniformed group; rather, it is a supportive and nurturing community made up of lively, caring and accepting people.”
-<br> **Rayn Indra’zizi Putra Bin Muhammad Nadzlan (404), Training & Competition IC**
+"These four years in Npcc has been a memorable and unique experience and has helped me to mature as a person. Throughout these few years i have learnt a lot of values such as leadership and teamwork which has helped me forge and strengthen my relationship with my peers. The achievements and awards I have received from npcc, has boosted my self confidence and has allowed me to keep on preserving and to not give up regardless of the ups and downs in these four years. In a nutshell, my time is npcc has been a fun and enjoyable one. It taught me that the greatest glory in living is not in never failing, but in rising and trying harder everytime we fall. Thank you Teacher Officers, Cadet Inspectors, my 
+seniors and my peers for making my time in npcc an unforgettable one.'   
