@@ -5,7 +5,7 @@ description: ""
 ---
 ### Physical Education
 
-<img src="/images/pe1.png" style="width:90%">
+<img src="/images/pe1.png" style="width:100%">
 
 #### Department Mission
 
