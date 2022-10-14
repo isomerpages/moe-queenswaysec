@@ -4,7 +4,7 @@ links:
     url: /announcements
     sublinks:
       - title: Announcements
-        url: /announcements
+        url: /announcements/
       - title: School Calendar
         url: /permalink
   - title: About Us
