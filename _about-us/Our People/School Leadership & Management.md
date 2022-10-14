@@ -37,3 +37,4 @@ third_nav_title: Our People
 | SH, Geography (Covering) 	| Mr. Alvin Leong 	|
 | SH, ML & TL (Covering) 	| Ms. Iryantee Ja'afar 	|
 | SH, Student Leadership (Covering) 	| Ms. Grace Lee Mei Yan 	|
+| SH, Literature (Covering) 	| Ms. Loo Jia En, Joanne	|
