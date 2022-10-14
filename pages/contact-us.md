@@ -19,7 +19,9 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+      - email: ""
+      - other: Feedback link
+          <href=https://docs.google.com/forms/d/e/1FAIpQLSd9x4tVLQBs4Tynd6Z_o7CfmZzUQHx8dYhfNAH39rsRmFkg9A/viewform?c=0&w=1
+          >
+    title: Feedback
 ---
