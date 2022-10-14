@@ -29,7 +29,7 @@ third_nav_title: Our People
 | 201 	| 	| Mr Rajan 	|  	|
 | 202 	| Mr Danker 	| Ms Veronica How 	|  	|
 | 203 	| Miss Sarah Pang 	| Miss Murni 	|  	|
-| 204 	| Ms Looi Tse Theng 	| Mr Ng Ching Siang 	| Miss Audrey Chua 	|
+| 204 	| Ms Looi Tse Theng 	| Miss Audrey Chua 	|
 | 211 	| Miss Brenda Lim 	| Mr Ben David 	|  	|
 | 212 	| Ms Chen Weiling 	| Ms Lily Choo	|  	|
 | 213 	| Mr Ernest Fok 	| Mdm Kartini 	|  	|
@@ -40,7 +40,7 @@ third_nav_title: Our People
 
 | Class 	|  	|  	|  	|
 |---:	|---	|---	|---	|
-| 301 	| Ms Surinder Kaur 	| Ms Toh Hui Yu 	|  	|
+| 301 	| Ms Surinder Kaur 	| Mr Chow Jing Jang 	|  	|
 | 302 	| Mdm Toh Siew Lan 	| Ms Chia Hui Jun 	|  	|
 | 303 	| Mr Alvin Leong 	| Mdm Zheng Xiumin 	|  	|
 | 304 	| Ms Joanne Loo 	| Mr Jimmy Ong 	|  	|
