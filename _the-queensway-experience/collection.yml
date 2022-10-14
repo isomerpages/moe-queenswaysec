@@ -2,7 +2,6 @@ collections:
   the-queensway-experience:
     output: true
     order:
-      - Academic Departments/Academic Departments.md
       - Academic Departments/.keep
       - Personal Device Learning Programme.md
       - Blended Learning.md
