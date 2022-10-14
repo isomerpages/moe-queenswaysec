@@ -41,6 +41,8 @@ Queensway Secondary School NPCC Unit consists of more than 80 cadets, led by 4 t
 *   Rifle/Revolver Shooting Practice and Competition
     
 *   Courses – Police Procedures, Total Defence, Civil Defence, Crime Scene Investigation, Homefront Security, Road Safety Training, Crime Prevention, Unarmed Tactics
+
+![](/images/NPCC%203-Sec%201%20Neighbourhood%20Police%20Centre%20Virtual%20Tour.jpeg)
     
 *   Visits – Police Heritage Centre, Home Team Academy training Village, Singapore Discovery Centre, Neighbourhood Police Centre
     
