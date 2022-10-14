@@ -26,6 +26,8 @@ Choir put up performances for Inaugural Assembly, Chinese New Year, Speech Day, 
 #### Achievements of the CCA:
 CERTIFICATE OF DISTINCTION IN SYF (2021)
 
+#### Student Experiences:
+
 "In Sec 1, I was very new to choir but I found my seniors in Sec 2 and Sec 3 very kind and helpful. Although it is not always easy to control the choir as the President, but we do get things done quite efficiently and that is what I enjoy most about being in the choir.  Singing is the performance of a choir but teamwork MAKES the choir."
 ~*Seth*
 
