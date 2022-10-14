@@ -8,11 +8,17 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS JOANNE LOO (IC) <br> MDM KASTHURI 	|
+| **TEACHERS-IN-CHARGE:** 	| MS. JOANNE LOO <br> MS. KASTHURI 	DEVARAJ|
 
 |  	|  	|
 |---	|---	|
 | **INSTRUCTOR:** 	| MR ROBIN TEH 	|
+
+|  	|  	|
+|---	|---	|
+| **STUDENT LEADERS:** 	| JUDITH KWA 	|
+
+
 
 #### Overview of the CCA:
 
