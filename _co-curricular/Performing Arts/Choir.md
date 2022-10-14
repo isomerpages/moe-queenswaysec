@@ -26,7 +26,3 @@ Choir put up performances for Inaugural Assembly, Chinese New Year, Speech Day, 
 
 "My time in choir has been a meaningful experience and I have learnt a lot about myself that I would not have otherwise learnt. Choir is like life. It has its high and low notes."
 ~*Raakin*
-
-
-
-
