@@ -15,7 +15,7 @@ To develop Queenswayans into concerned students and critical thinkers in a globa
 
 The Humanities Department in Queensway Secondary School comprises the Humanities Subjects (History, Geography, Social Studies) and the Commerce Subjects (POA).
 
-<img src="/images/hum1.png" style="width:413px;height:340px;margin-left:15px;" align = "center"> Central to Humanities education in Queensway Secondary School is the Humanities Inquiry Approach, which seeks to promote learning through inquiry. The process entails looking at:
+<img src="/images/hum1.png" style="width:100%"> Central to Humanities education in Queensway Secondary School is the Humanities Inquiry Approach, which seeks to promote learning through inquiry. The process entails looking at:
 
 *   **_the elements of Inquiry,_**   
 *   ***the process of Inquiry*** 
@@ -36,15 +36,15 @@ Towards supporting the inquiry approach, ICT is used as a means of promoting col
 
 Differentiated Instruction within the Humanities Department focuses on differentiation in pedagogy and content. Within the classroom, different levels of scaffolding may be introduced to cater for differing student abilities. Also, content for classwork activities are also differentiated, and students of mixed abilities may also use the differentiated content within a gamification setting, as made possible within the social studies classroom.
 
-<img src="/images/hum2.png" style="width:60%">
+<img src="/images/hum2.png" style="width:100%">
 
-#### ADDITIONAL PROGRAMMES  
+#### ENRICHMENT PROGRAMMES  
 
 The yearly Humanities Day offers a series of enrichment activities for students to extend their learning about the world around them. The Humanities department organizes learning journeys to various organizations for students to learn beyond the confines of the classroom. Students get to learn more about the various cultures in Singapore and visit places of historical value. Besides being exposed to topics related to History and Geography, students are also exposed to current affairs issues through the talks organized for them.
 
 Students with passion and aptitude in the Humanities are encouraged to take part in national-level competitions. These competitions include the NUS Geography Challenge and the MOE History Challenge, the ASEAN Symposium and the United Nations Mock Conference.  Students get to observe Parliament sessions in action on Sitting Days in Parliament. They also took part in conversations with external stakeholders as such the EU@School programme.
 
-<img src="/images/hum3.png" style="width:60%">
+<img src="/images/hum3.png" style="width:100%">
 
 #### ASSESSMENT
 
