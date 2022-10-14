@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Student Leadership.md
       - Sports for Life.md
       - Applied Learning Programme.md
       - Character Education/CCE Modules.md
