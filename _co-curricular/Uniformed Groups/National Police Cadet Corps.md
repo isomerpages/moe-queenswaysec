@@ -21,6 +21,8 @@ third_nav_title: Uniformed Groups
 
 In NPCC, we believe in developing all our cadets holistically. Our cadets will be given the opportunity to conduct training and activities under the supervision of our Teacher Officers to develop their leadership and communication skills. Cadets will be taught the basic drills and fundamental police knowledge. 
 
+![](/images/NPCC%202-Sec%204%20parade%203.jpeg)
+
 Queensway Secondary School NPCC Unit consists of more than 80 cadets, led by 4 teacher-officers, with the mission of developing cadets into caring and responsible citizens. Working closely with NPCC HQ, the following training and activities were conducted for our cadets.
 
 ##### Outdoor Training:
