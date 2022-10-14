@@ -2,6 +2,5 @@ collections:
   academics:
     output: true
     order:
-      - Mother Tongue Language.md
       - Craft and Technology and Aesthetics.md
       - Physical Education.md
