@@ -30,15 +30,10 @@ To keep the band members actively involved in honing their skills and bringing t
 #### Achievements of the CCA:
 CERTIFICATE OF ACCOMPLISHMENT IN SYF (2021)
 
-  
+"During my time in the Concert Band, I have shared enjoyable and meaningful experiences with my fellow band members, be it juniors or seniors. One of my favourite memories in the band was during Aesthetics Night, where 5 different aesthetics CCAs came together to put on a show for everyone."                                         
+*~Ethan Chan (302)*
 
-#### Student Experiences:
 
-“Being in band for four years was a tough yet fruitful journey; especially since the last two years in the midst of Covid-19. Yet, that did not stop us from pushing on by participating in SYF 2021. It was challenging for sure as we had to split the band into two groups and unfortunately, not all of us had a chance to be on the stage. Nonetheless, the experiences I had gone through in band instilled many values in me and I am grateful for it. Specifically one important value that has moulded me is discipline, as being discipline would only lead you to greater heights.” 
-<br> **Ignatius Keegan Khoo Kang Jun (411)**
+"All band sessions are meaningful. After a long day of school, band helps us to de-stress as we leave our worries outside the band room for that few hours. There will always be something to take home from every practice, be it knowledge, skills or even life lessons.”
+*~Chloe Cheong (301)*
 
-“My favourite memory was participating in the SYF Arts Presentation with my friends and band members. Through preparing for it, the band created a strong sense of belonging. Though the Covid-19 situation stopped us from having face-to-face practices in the band room, and practices were moved online, we learnt how to grow and adapt to tough situations as one.” 
-<br> **Jorine Tan Ying Xi (311)**
-
-“One of my favourite memories in band was participating in the Singapore Youth Festival with my seniors. I remember how hard we prepared and practiced for it. Though I was hoping we could achieve the Certificate of Distinction, I still enjoyed the practices with my fellow bandmates, as it is about the journey, not the destination. Through band, I learnt many things which helped me improve my musical skills. I enjoyed coming together and making music with my fellow bandmates which made my time in band a very enjoyable one.”
-<br> **Ethan Chan (202)**
