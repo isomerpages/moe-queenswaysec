@@ -1,6 +1,6 @@
 ---
 title: Executive & Administrative
-permalink: /about-us/Our-People/executive-and-administrative
+permalink: /about-us/Our-People/executive-and-administrative/
 description: ""
 third_nav_title: Our People
 ---
@@ -12,6 +12,7 @@ third_nav_title: Our People
 | Vice-Principal (EO) 	| Mr. Loh Kar Wai Jay 	| loh_kar_wai_jay@schools.gov.sg 	|
 | Vice-Principal (EO) 	| Ms. Priya Rajan 	| v_priya_rajan@schools.gov.sg 	|
 | Operations Manager 	| Mr. Ismail Bin Sa'at 	| ismail_saat@moe.edu.sg 	|
+| Admin  Manager 	| Ms. Ong Jingping Brenda 	| ong_jingping_brenda@moe.edu.sg 	|
 | Admin Executive 	| Ms. Mary-Ann Tay 	| tay_kim_hon_mary-ann@schools.gov.sg 	|
 | ICT Manager 	| Mr. Zairee Bin Sallai 	| zairee_sallai@moe.edu.sg 	|
 | Corporate Support Officer 	| Mrs. Jenny Thia Choy Hoe 	| jenny_thia@schools.gov.sg 	|
