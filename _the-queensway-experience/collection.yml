@@ -2,6 +2,7 @@ collections:
   the-queensway-experience:
     output: true
     order:
+      - Character Development/CCE Modules.md
       - Character Development/.keep
       - Character Development/Student Leadership.md
       - Academic Departments/.keep
