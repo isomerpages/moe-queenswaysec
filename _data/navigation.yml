@@ -22,6 +22,13 @@ links:
         url: /
       - title: Yearbook Archive
         url: /about-us/yearbook-archive/
+  - title: Admissions
+    url: /permalink
+    sublinks:
+      - title: PSLE
+        url: /permalink
+      - title: DSA
+        url: /permalink
   - title: The Queensway Experience
     url: /academics/english-language-and-literature/
     sublinks:
@@ -51,8 +58,3 @@ links:
         url: /useful-links/parents/overview/
       - title: Prospective Student
         url: /useful-links/prospective-student/overview/
-  - title: Admissions
-    url: /permalink
-    sublinks:
-      - title: PSLE
-        url: /permalink
