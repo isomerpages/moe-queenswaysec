@@ -2,5 +2,5 @@ collections:
   the-queensway-experience:
     output: true
     order:
-      - Blended Learning.md
       - Personal Device Learning Programme.md
+      - Blended Learning.md
