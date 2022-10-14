@@ -26,7 +26,7 @@ third_nav_title: Our People
 | Operations Support Officer 	| Mr. Abdul Razak Bin Kamseer 	|  	|
 | Operations Support Officer 	| Mr. Chan Kwok Leong 	|  	|
 | School Laboratory Technician 	| Nur Hidayah Bte AM Hashim 	|  	|
-| School Laboratory Technician 	| Mdm. Tan Lay Hwa 	|  	|
+| School Laboratory Technician 	| Mr. Cheong Swee Keong	|  	|
 | Full-Time School Counsellor 	| Mrs. Sim Siew Yock 	|  	|
 | Full-Time School Counsellor 	| Ms. Teo Hwee Lian 	|  	|
 | AED (LBS) 	| Mdm. Chew Leong Kiong 	|  chew_leong_kiong@schools.gov.sg 	|
