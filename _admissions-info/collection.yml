@@ -1,4 +1,5 @@
 collections:
   admissions-info:
     output: true
-    order: []
+    order:
+      - example-page.md
