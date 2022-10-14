@@ -2,7 +2,6 @@ collections:
   academics:
     output: true
     order:
-      - English Language and Literature.md
       - Humanities.md
       - Mathematics.md
       - Science.md
