@@ -27,6 +27,8 @@ third_nav_title: Sports
 #### Overview of the CCA:   
 In basketball CCA, we believe in working hard and training together as a team rather than the individual in training. A cooperative team spirit must be cultivated both on and off the court. Beyond the team, we believe in developing resilience, an essential 21st Century Competency. At the end of their QSS journey, we want to establish future-ready citizens who can contribute to society.
 
+![](/images/Basketball1.jpg)
+
 This year was an exciting year when NSG resumed. With the relaxing of safe management measures, the Sec 4 Boys had the opportunity to play their first inter-school NSG games. Our B Division Boys made us proud by qualifying for the South Zone Inter-School Basketball Competition Quarter Finals.
 
 Our boys believe that the results will come if they put in the hard work. They must always think that winning also goes back to work ethic and training as hard as possible for every practice. Players make each other better by competing hard in practice. We hope that all the basketball players will continue to train hard, play smart and bring about more success in the inter-school competitions in the future.
