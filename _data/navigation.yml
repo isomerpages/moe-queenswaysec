@@ -1,12 +1,12 @@
 logo: /images/qsslogo.png
 links:
   - title: Announcements
-    url: /announcements
+    url: /calendar/
     sublinks:
       - title: Announcements
         url: /announcements/
       - title: School Calendar
-        url: /school-calendar
+        url: /about-us/school-calendar/
   - title: About Us
     url: /about-us/principals-message/
     sublinks:
