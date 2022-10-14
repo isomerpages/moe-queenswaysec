@@ -2,7 +2,6 @@ collections:
   academics:
     output: true
     order:
-      - Mathematics.md
       - Science.md
       - Mother Tongue Language.md
       - Craft and Technology and Aesthetics.md
