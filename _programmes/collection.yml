@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Mathematics Talent Development Programme.md
       - Secondary One Science Talent Development Programme.md
       - Student Leadership.md
       - Sports for Life.md
