@@ -29,5 +29,3 @@ The modern dance girls performed at various school events in 2022 such as the CC
 
 "The CCA Fair performance at the start of the year was our first live performance. Although only the Sec Ones saw it, I still felt very accomplished as the performance went well and we gained many new members despite being a new CCA. The preparation was tiring and we were so busy that week but we all did our part to make it work."  
 *~Nyguen*
-
-
