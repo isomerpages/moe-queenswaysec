@@ -17,7 +17,7 @@ In QSS, we believe that the acquisition of language is a holistic process that i
 
 
 #### Special Programmes:
-
+![](/images/Sec3%20ML%20(16).jpg)
 ##### Bilingualism Programme
 
 Bilingual education is a cornerstone of our education system. QSS Bilingualism Programme aims to help prepare our children to plug into a globalized world and strengthen links to our Asian heritage. Guided by our teachers, students will hone their writing skills and publish their works in school publication. Students will also be provided platforms to participate in speaking and writing competitions, seminars and learning Journeys to ignite their passion and boost their confidence in the languages.
@@ -29,7 +29,7 @@ Bilingual education is a cornerstone of our education system. QSS Bilingualism P
 QSS MTL Talent Development Programme strives to enhance our students' language proficiency to prepare them for today's globalised world. To guide the students in their journey of delving into MTL languages, we provide various platforms for our students to horn their language skills and showcase their talents.
 
 ##### Mother Tongue Fortnight
-
+![](/images/Sec1%20TL%20(4).jpeg)
 QSS Mother Tongue Fortnight provides an immersive environment for our students to learn and appreciate the Mother Tongue Language and cultures. Opportunities are given to students to use their Mother Tongue Language in an authentic context and experience the cultures through various workshops and activities.
 
 
