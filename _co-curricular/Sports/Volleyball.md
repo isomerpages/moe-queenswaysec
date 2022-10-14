@@ -16,10 +16,9 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **'B' GIRLS' CAPTAIN:** 	| YEO HUI TING, CHLOE  (401) 	|
-| **'B' GIRLS' VICE-CAPTAIN:** 	| ANGELINA YEO RUI EN (401) 	|
-| **'B' BOYS' CAPTAIN:** 	| AIDEN JUSTIN TAN (403) 	|
-| **'B' BOYS' VICE-CAPTAIN:** 	| DOONG YUAN PNG TOBY (411) 	|
+| **GIRLS' CAPTAIN:** 	|SWEE YU EN	|
+| **BOYS' CAPTAIN:** 	| LEE SHENLEI 	|
+
 
 #### Overview of the CCA:   
 
