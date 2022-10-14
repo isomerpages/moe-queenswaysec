@@ -1,4 +1,5 @@
 collections:
   life-beyond-queensway:
     output: true
-    order: []
+    order:
+      - 2022 Distinguished Alumni.md
