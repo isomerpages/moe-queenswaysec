@@ -12,6 +12,8 @@ links:
         url: /about-us/who-we-are/
       - title: Principal's Message
         url: /about-us/principals-message/
+      - title: School Achievements
+        url: /permalink
       - title: Our People
         url: /about-us/our-people/school-leadership-and-management/
       - title: Our Campus
@@ -21,20 +23,12 @@ links:
   - title: The Queensway Experience
     url: /academics/english-language-and-literature/
     sublinks:
-      - title: English Language & Literature
-        url: /academics/english-language-and-literature/
-      - title: Humanities
-        url: /academics/humanities/
-      - title: Mathematics
-        url: /academics/mathematics/
-      - title: Science
-        url: /academics/science/
-      - title: Mother Tongue Language
-        url: /academics/mother-tongue-language/
-      - title: Craft & Tech and Aesthetics
-        url: /academics/craft-and-tech-and-aesthetics/
-      - title: Physical Education
-        url: /academics/physical-education/
+      - title: Learning@Queensway
+        url: /
+      - title: Academic Departments
+        url: /permalink
+      - title: PDLP
+        url: /permalink
   - title: Life Beyond Queensway
     url: /
     sublinks:
