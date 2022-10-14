@@ -2,6 +2,7 @@ collections:
   the-queensway-experience:
     output: true
     order:
+      - Character Development/.keep
       - Academic Departments/Humanities.md
       - Academic Departments/.keep
       - Academic Departments/English Language and Literature.md
