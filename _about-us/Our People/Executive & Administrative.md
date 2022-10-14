@@ -25,7 +25,7 @@ third_nav_title: Our People
 | Operations Support Officer 	| Mdm. Johara Beevi d/o Meerasha 	|  	|
 | Operations Support Officer 	| Mr. Abdul Razak Bin Kamseer 	|  	|
 | Operations Support Officer 	| Mr. Chan Kwok Leong 	|  	|
-| School Laboratory Technician 	| Mohd. Iska Nerimah 	|  	|
+| School Laboratory Technician 	| Nur Hidayah Bte AM Hashim 	|  	|
 | School Laboratory Technician 	| Mdm. Tan Lay Hwa 	|  	|
 | Full-Time School Counsellor 	| Mrs. Sim Siew Yock 	|  	|
 | Full-Time School Counsellor 	| Ms. Teo Hwee Lian 	|  	|
