@@ -10,24 +10,18 @@ third_nav_title: Uniformed Groups
 |---	|---	|
 | **TEACHERS-IN-CHARGE:** 	| ASP (NPCC) JIMMY ONG (OC)<br> INSP (NPCC) VERONICA HOW (ADJUTANT)<br>ASP (NPCC) KALA DEVI<br>INSP (NPCC) STELLA GOH 	|
 
-
+|  |  |  |
+| -------- | -------- | -------- |
 | **STUDENT LEADERS** 	|  	|
-|---	|---	|
-| **OVERALL IC:** 	| JANE TAN MINGYU (411) 	|
-| **TRAINING AND COMPETITION IC:** 	| FAYDRA NEO KAI JUAN (411)<br>RAYN INDRA'ZIZI PUTRA BIN MUHAMMAD NADZLAN (404) 	|
-| **ADMINISTRATIVE IC:** 	| DARON TAN WEI ZE (402)<br>ROSNA BEGUM D/O ABDUL KADER (404) 	|
-| **LOGISTICS IC:** 	| MUHAMMAD ALIFF MATTIN BIN ABDUL SALIM (404)<br>CHONG JIA YIN TANIA (413) 	|
-| **PROJECTS AND WELFARE IC:** 	| SUHAILA BEGUM BINTE MUHAMMAD MUBEEN MUTHIBBI (404)<br>CHIA HUI TING (413) 	|
+| **OVERALL IC:** 	|MOHAMED SIRAJUDEEN AMIR MUKHTAR (301) 	|
+| **TRAINING AND COMPETITION IC:** 	|           REON ONG XIANG YONG (301)<br>SIN MING DE XAVIER (302) 	|
+| **ADMINISTRATIVE IC:** 	| AUSTIN CHAN JIE XIAN (303)<br>TOH YONG KIT (304) 	|
+| **LOGISTICS IC:** 	| CODY LIU FENG RUI (303)<br>ERIC TAY JIAJUN(304) 	|
+| **PROJECTS AND WELFARE IC:** 	| T-SNEHA (302)<br>BIELZA ANDREI NICOLAS (312) 	|
 
-#### Overview of the CCA: 
+In NPCC, we believe in developing all our cadets holistically. Our cadets will be given the opportunity to conduct training and activities under the supervision of our Teacher Officers to develop their leadership and communication skills. Cadets will be taught the basic drills and fundamental police knowledge. 
 
-Queensway Secondary School NPCC Unit consists of more than 80 cadets, led by 3 teacher-officers, with the mission of developing cadets into caring and responsible citizens.
-
-Under the supervision of our Teacher Officers, our cadets are given opportunities to conduct training and activities for their peers and juniors. This helps them to develop their leadership and communication skills.
-
-We have worked closely with NPCC HQ to conduct the following training and activities for our cadets this year.
-
-  
+Queensway Secondary School NPCC Unit consists of more than 80 cadets, led by 4 teacher-officers, with the mission of developing cadets into caring and responsible citizens. Working closely with NPCC HQ, the following training and activities were conducted for our cadets.
 
 ##### Outdoor Training:
 
@@ -35,9 +29,9 @@ We have worked closely with NPCC HQ to conduct the following training and activi
     
 *   Parades – National Police Annual Parade, National Day Parade, Speech Day Parade, Muster Parade
     
-*   Online Area 15 Games Day – NPCC cadets from seven different schools gathered to participate in friendly games.  
+*   Online Area 14 Games Day – NPCC cadets from seven different schools gathered to participate in friendly games.  
     
-*   Inter unit Campcraft Competition, Inter unit Drill Competition
+*   Inter unit e-Crime Scene Investigation Competition
     
 
 ##### Indoor Training: 
