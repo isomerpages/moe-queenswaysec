@@ -35,36 +35,11 @@ links:
         url: /academics/craft-and-tech-and-aesthetics/
       - title: Physical Education
         url: /academics/physical-education/
-  - title: Co-Curricular
-    url: /cca/club-and-societies/art-club/
+  - title: Life Beyond Queensway
+    url: /
     sublinks:
-      - title: Clubs & Societies
-        url: /cca/clubs-and-societies/art-club/
-      - title: Performing Arts
-        url: /cca/performing-arts/concert-band/
-      - title: Sports
-        url: /cca/sports/basketball-boys/
-      - title: Schedule
-        url: /cca/schedule/
-  - title: Programmes
-    url: /programmes/english-language-talent-development-programme/
-    sublinks:
-      - title: EL Talent D. Programme
-        url: /programmes/english-language-talent-development-programme/
-      - title: MTL Bilingualism
-        url: /programmes/mtl-bilingualism-and-talent-development-programme/
-      - title: Math Talent D. Programme
-        url: /programmes/mathematics-talent-development-programme/
-      - title: S1 Science Talent D. Programme
-        url: /programmes/secondary-one-science-talent-development-programme/
-      - title: Student Leadership
-        url: /programmes/student-leadership/
-      - title: Sports for Life
-        url: /programmes/sports-for-life/
-      - title: Applied Learning Programme
-        url: /programmes/applied-learning-programme/
-      - title: Character Programme
-        url: /programmes/Character-Education/cce-modules/
+      - title: Alumni Achievements
+        url: /
   - title: Useful Links
     url: /useful-links/students/overview
     sublinks:
