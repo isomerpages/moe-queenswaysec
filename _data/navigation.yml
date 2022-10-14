@@ -40,7 +40,13 @@ links:
         url: /the-Queensway-experience/blendedlearning/
   - title: Co-Curricular Activities
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Sports
+        url: /permalink
+      - title: Uniformed Groups
+        url: /permalink
+      - title: Aesthetics Groups
+        url: /permalink
   - title: Special Programmes
     url: /permalink
     sublinks: []
