@@ -52,6 +52,9 @@ Queensway Secondary School NPCC Unit consists of more than 80 cadets, led by 4 t
 *   Paintball organised by Singapore Discovery Centre
     
 *   Air Gun practice organised by approved vendor
+
+![](/images/NPCC%201-Sec%202%20and%203%20Airsoft%20Shooting.jpeg)
+
     
 *   Local Educational Visits to Police and Law Establishments
     
