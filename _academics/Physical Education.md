@@ -17,7 +17,7 @@ To equip students with the Skills, Attitudes and Knowledge to pursue Sports and 
 
 We strive to improve students' game performance. The approach also seeks to promote greater interest and enjoyment, better problem solving and decision-making skills, and improved competence of students in both learning and playing games.
 
-<img src="/images/pe2.png" style="width:60%">
+<img src="/images/pe2.png" style="width:100%">
 
 We strongly believe that regular physical activities in Physical Education and active sports participation on a sustained basis contribute to developing the cognitive and physical potential of a child, and provide the learner with the foundation necessary for holistic development and well-being. 
 
@@ -37,4 +37,4 @@ In Queensway Secondary School, values education and character development is cen
 
 This programme aims to develop well-rounded individuals and to encourage our students to explore their interests and engage in imaginative play. It also strengthens and builds positive student-student relationships and provides a platform for students to design and organize their own self-directed activities.
 
-<img src="/images/pe4.png" style="width:50%">
+<img src="/images/pe4.png" style="width:100%">
