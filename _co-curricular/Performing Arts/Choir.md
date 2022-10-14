@@ -19,6 +19,8 @@ third_nav_title: Performing Arts
 | SETH LIM XIN	|
 | RAAKIN MANJUR	|
 
+#### Overview of the CCA:   
+
 Choir put up performances for Inaugural Assembly, Chinese New Year, Speech Day, Aesthetics Night, National Day. We also went on a Learning Journey to watch a concert at The Art House. We performed at CHIJMES during the September holidays and will also be taking part in a choir exchange programme in November where our choir will be performing with a number of other choirs on the same stage.
 
 #### Achievements of the CCA:
