@@ -21,6 +21,7 @@ third_nav_title: Performing Arts
 |FANG SZE EN	|
 | RASHMIKA D/O ANBARASAN	|
 
+ 
 Queensway Secondary School Concert Band aims to cultivate students to develop a passion for music-making and to instill them a sense of responsibility, living up to 21st Century Competencies and values of team-work and leadership.
 
 To keep the band members actively involved in honing their skills and bringing their musicality to greater heights, the band always takes part in both national and international competitions, as well as exchanges with other school bands. The highlight yearly for QSS band is the year-end band concert which serves as a platform for the band members to exercise their leadership qualities and showcase their talents. This year, QSS Band also participated in the Aesthetics Night.
