@@ -5,18 +5,15 @@ permalink: /contact-us/
 agency_name: us!
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - 2A Margaret Drive
+      - Singapore 049295
+      - ""
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
         description: ""
     maps_link: ""
-    title: Main Office
+    title: Queensway Secondary School
   - address:
       - 109 North Bridge Road
       - Singapore 179097
