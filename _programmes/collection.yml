@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Character Education/CCE Modules.md
       - Character Education/Student Leadership Development.md
       - Character Education/Community Involvement & Values in Action.md
       - Character Education/Sexuality Education.md
