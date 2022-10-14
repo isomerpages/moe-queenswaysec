@@ -11,7 +11,6 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: Queensway Calendar
-          description: ""
-          url: /about-us/school-calendar/
+      title: QUEENSWAY SECONDARY SCHOOL
+      background: /images/20210922_161306B (1).jpg
 ---
