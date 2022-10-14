@@ -16,6 +16,8 @@ third_nav_title: Sports
 | **CAPTAIN:** 	|  TAN YU-QI (103)	|
 | **VICE-CAPTAIN:** 	| JENISSA JAIN (101) <br> TAN YING YI MATILDA (102) 	|
 
+#### Overview of the CCA:   
+
 The newly formed team, comprised of beginners in majority, go through the development training programme where they learn fundamental technical skills in the beginning and gradually progress to in-depth in acquiring these skills.
 
 The players also participate in the annual national school games competitions where they will exhibit sportmanships, perseverance and resilience in them during the games.
