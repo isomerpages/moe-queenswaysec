@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Achievements 2022.md
       - Principal's Message.md
       - Our People/.keep
       - Our People/School Leadership & Management.md
