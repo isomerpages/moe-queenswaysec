@@ -15,16 +15,16 @@ To inspire a passion for the English Language and Literature so as to create a s
 
 **English Language** in Queensway is taught using the CLEARR Pedagogical Framework, with learning experiences designed in four phases:
  
-**_Contextualise:_** knowledge is activated and interest is built;
+***Contextualise***: Knowledge is activated and interest is built;
 
   
 
-_**Learn & Explore:**_ students learn the receptive skills of Listening and Reading through exploration of a wide variety of multi-modal texts;
+_**Learn & Explore:**_ Students learn the receptive skills of Listening and Reading through exploration of a wide variety of multi-modal texts;
 
   
-**_Apply & Respond:_** students create their own personal and critical responses to texts through the application of the productive skills of Speaking and Writing;
+**_Apply & Respond:_** Students create their own personal and critical responses to texts through the application of the productive skills of Speaking and Writing;
 
-**_Reinforce:_** learning gaps are closed through robust formative and summative assessments. 
+**_Reinforce:_** Learning gaps are closed through robust formative and summative assessments. 
 
 Foundational language skills like Grammar and Vocabulary are also taught explicitly to students.
 
@@ -34,22 +34,18 @@ Foundational language skills like Grammar and Vocabulary are also taught explici
 
   
 
-**_Experiencing Story:_** students immerse themselves in the world of the text for enjoyment and appreciation;
+**_Experiencing Story:_** Students immerse themselves in the world of the text for enjoyment and appreciation;
+
+_**Appreciating Style:**_ Students show an understanding of the way in which language is used for effect on the reader;
 
   
-
-_**Appreciating Style:**_ students show an understanding of the way in which language is used for effect on the reader;
-
-  
-
-**_Interpreting Theme:_** students consider the wider issues (personal, historical, national, global) presented in a text.
+**_Interpreting Theme:_** Students consider the wider issues (personal, historical, national, global) presented in a text.
 
   
 
 Both subjects feature strong ICT integration, with teachers making use of a variety of online applications such as Padlet, Pear Deck, and the Student Learning Space to foster inquiry in a collaborative setting.
 
 #### Special Programmes  
-
 ##### English Talent Development Programme
 
 ![](/images/Debate%20workshop%20(USE).jpg)
@@ -72,6 +68,6 @@ The English Talent Development Programme aims to nurture our students’ flair 
 
 The school celebrates English Language and Literature Appreciation every year in Term 1. Typically, during this event, the school will see a line-up of programmes and activities extending beyond the curriculum. These include flash fiction writing, book trailer skits, poetry slams, movie critique, and creative writing workshops. This gives students opportunities to participate in and enjoy both English Language and Literature in creative ways.
 
-##### Assessment:  
+#### Assessment:  
 
 The ELL Department views assessment as an integral part of the school-based instructional programme. Students are assessed using a wide variety of formative and summative modes, including quizzes, portfolio assessments and performance tasks such as Journal writing and Oracy recordings for English Language and Drama ‘Book Trailer’ skits for Literature.
