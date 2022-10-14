@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - English Language Talent Development Programme.md
       - MTL Bilingualism and Talent Development Programme.md
       - Mathematics Talent Development Programme.md
       - Secondary One Science Talent Development Programme.md
