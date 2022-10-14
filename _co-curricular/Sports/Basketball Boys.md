@@ -12,38 +12,27 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **COACH:** 	| MR LIM KWEE CHIA (HEAD COACH) 	|
+| **COACH:**|MR LIM KWEE CHAI 	|
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **'B' DIVISION BOYS' CAPTAIN:** 	|   JAVIER YEO ZONG HAN (404)	|
-| **'B' DIVISION BOYS' VICE-CAPTAIN:** 	| MAVERICK WAN NGOR JUEN (402) 	| 
-| **'B' DIVISION BOYS' VICE-CAPTAIN:** 	| SHAWN LAU WEIZHI (302) 	|
+| **'B' DIVISION BOYS' CAPTAIN:** 	|   LAU WEIZHI SHAWN	|
+| **'B' DIVISION BOYS' VICE-CAPTAIN:** 	| SHAUN LIM AN SHENG	| 
 
 | 	|  	|
 |---	|---	|
-| **'C' DIVISION BOYS' CAPTAIN:** 	|    CHAD CHAN KEI YUEN (203)	|
-| **'C' DIVISION BOYS' VICE-CAPTAIN:** 	| LUKE CHONG YONG EN (211) 	| 
+| **'C' DIVISION BOYS' CAPTAIN:** 	|  DARREN LIM CHEE HAO|
+| **'C' DIVISION BOYS' VICE-CAPTAIN:** 	| MIKO RAPHAEL RAHARDJO 	| 
 
-#### Overview of CCA:
+In basketball CCA, we believe in working hard and training together as a team rather than the individual in training. A cooperative team spirit must be cultivated both on and off the court. Beyond the team, we believe in developing resilience, an essential 21st Century Competency. At the end of their QSS journey, we want to establish future-ready citizens who can contribute to society.
 
-In basketball CCA, we believe in working hard and training together as a team rather than the individual in training. A cooperative team spirit must be cultivated both on and off the court. Beyond the team, we believe in developing resilience, an essential 21st Century Competency. At the end of their QSS journey, we want to develop future-ready citizens who can contribute to society.
+This year was an exciting year when NSG resumed. With the relaxing of safe management measures, the Sec 4 Boys had the opportunity to play their first inter-school NSG games. Our B Division Boys made us proud by qualifying for the South Zone Inter-School Basketball Competition Quarter Finals.
 
-  
+Our boys believe that the results will come if they put in the hard work. They must always think that winning also goes back to work ethic and training as hard as possible for every practice. Players make each other better by competing hard in practice. We hope that all the basketball players will continue to train hard, play smart and bring about more success in the inter-school competitions in the future.
 
-Unfortunately, for the past two years, competitions have also been suspended. Hence, we organised our own intra-CCA 3X3 basketball competition to allow our players to experience a competitive game. The event was well-received by our students.
+   
 
-  
+“When I first stepped onto the grounds of Queensway, I decided to try something different from primary school, so I chose basketball as my cca. When I first started out, I was not up to par with my teammates as this was completely new to me. Despite difficulty and challenges, I never gave up. With the constant support from the coach and teachers, I slowly honed my skills and trained hard. In 2019, I participated in the annual Queen's Cup against Queenstown Secondary. It was an arduous match, despite losing by one point, we learned from our mistakes and trained even harder. As a team of five on the court , we needed to have teamwork and coordination together to win. We made use of all the holidays to train hard. Unfortunately during 2020, covid-19 pandemic forced us to have online training through zoom. Although that was not as enjoyable, we still had to keep in shape for the upcoming B-Division in 2021.2021 soon arrived and we received news that the tournament was going to be played in 3v3 format. Immediately, the coach taught us everything he knew about 3v3 strategies and we trained hard every single training session. Everyone was executing the plays perfectly and efficiently, this was our time to try and win the B-division tournament ,or so we thought. Unfortunately, the tournament was canceled this year again due to covid-19 further restrictions. 2022 was our final chance to compete in a national tournament. This year, every single one of us gave our paramount effort. We trained our hardest, we were determined to win. On the first day of B-Div, we were all excited and nervous at the same time. Four years of hard work and training for this moment, so we decided to give it our all. As a team, we managed to get to the quarterfinals. This impressive feat was only achievable from our tremendous amount of commitment and support from coach and teachers. It has been four remarkable years being in the Basketball CCA, definitely an amazing experience and memory to share with my teammates, teachers and coach.”
+~ Darwin
 
-With the changes in safe management measures, we moved to eCCA for different levels of students from time to time. We are thankful that we have a very resourceful coach who can conduct engaging eCCA. 
-
-  
-
-Our boys believe that if they put in the hard work, the results will come. They must always think that winning also goes back to work ethic and training as hard as possible for every practice. Players make each other better by competing hard in practice. We hope that all the basketball players would continue to train hard, play smart and bring about more success in the inter-school competitions in the future.
-
-  
-
-#### Student Experiences:
-
-"We look forward to an opportunity to represent the school next year. The fruits of our labour will be seen in the tournament." 
-<br> **Shawn Lau (302), “B” Division Boys’ Vice-Captain**
+  <br> **Shawn Lau (302), “B” Division Boys’ Vice-Captain**
