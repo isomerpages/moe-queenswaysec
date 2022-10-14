@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR YEO CHOON HWA (IC)<br>MR CHNG ENG PENG <br> MR THAM YH 	|
+| **TEACHERS-IN-CHARGE:** 	| MR THAM YU HSUAN (IC)<br>MR YEO CHOON HWA <br> MR CHNG ENG PENG 	|
 
 |  	|  	|
 |---	|---	|
