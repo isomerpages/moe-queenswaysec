@@ -2,6 +2,7 @@ collections:
   the-queensway-experience:
     output: true
     order:
+      - Character Development/Education & Career Guidance.md
       - Character Development/Sexuality Education.md
       - Character Development/Community Involvement & Values in Action.md
       - Character Development/CCE Modules.md
