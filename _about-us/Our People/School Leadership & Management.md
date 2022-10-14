@@ -31,7 +31,6 @@ third_nav_title: Our People
 | Level Head, English 	| Mr. Makoto Kawaguchi 	|
 | SH, Maths 	| Ms. Lily Choo  	|
 | SH, PE LS & Outdoor Education 	| Ms. Teo Yong Chin  	|
-| SH, CCE & ICT 	| Ms. Sharelyn Teo  	|
 | SH, Student Well-being 	| Mr. Chua Kee Eng 	|
 | SH, Physics 	| Ms. Shirley Tay 	|
 | SH, Humanities 	| Mr. Santokh Singh  	|
