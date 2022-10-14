@@ -1,5 +1,10 @@
 logo: /images/qsslogo.png
 links:
+  - title: Announcements
+    url: /permalink
+    sublinks:
+      - title: School Calendar
+        url: /permalink
   - title: About Us
     url: /about-us/principals-message/
     sublinks:
@@ -71,5 +76,3 @@ links:
         url: /useful-links/parents/overview/
       - title: Prospective Student
         url: /useful-links/prospective-student/overview/
-  - title: Admissions Info
-    collection: about-us
