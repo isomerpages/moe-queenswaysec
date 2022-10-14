@@ -43,7 +43,7 @@ Queensway Secondary School NPCC Unit consists of more than 80 cadets, led by 4 t
 *   Visits – Police Heritage Centre, Home Team Academy training Village, Singapore Discovery Centre, Neighbourhood Police Centre
     
 
-##### Environment Activities / Special Projects:
+##### Enrichment Activities / Special Projects:
 
 *   Police Youth Ambassador (PYA), Community Safety and Security Programme (CSSP)
     
