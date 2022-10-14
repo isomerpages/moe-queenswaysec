@@ -26,7 +26,7 @@ third_nav_title: Our People
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 201 	| 	| Mr Rajan 	|  	|
+| 201 	| Mr Rajan	|  	|  	|
 | 202 	| Mr Danker 	| Ms Veronica How 	|  	|
 | 203 	| Miss Sarah Pang 	| Miss Murni 	|  	|
 | 204 	| Ms Looi Tse Theng 	| Miss Audrey Chua 	|
