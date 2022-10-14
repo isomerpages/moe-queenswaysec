@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Character Education/Student Leadership Development.md
-      - Character Education/Sexuality Education.md
       - Character Education/Education & Career Guidance.md
       - Character Education/.keep
