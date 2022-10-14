@@ -51,3 +51,8 @@ links:
         url: /useful-links/parents/overview/
       - title: Prospective Student
         url: /useful-links/prospective-student/overview/
+  - title: Admissions
+    url: /permalink
+    sublinks:
+      - title: PSLE
+        url: /permalink
