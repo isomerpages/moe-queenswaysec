@@ -16,7 +16,9 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **STUDENT LEADERS:** 	| JUDITH KWA 	|
+| **STUDENT LEADERS:**	|  	|
+|JUDITH KWA|
+|NYGUEN NGOC THUY TRAM|
 
 
 
