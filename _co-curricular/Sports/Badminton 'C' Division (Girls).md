@@ -20,6 +20,8 @@ third_nav_title: Sports
 
 The newly formed team, comprised of beginners in majority, go through the development training programme where they learn fundamental technical skills in the beginning and gradually progress to in-depth in acquiring these skills.
 
+![](/images/Badminton%201-Specific%20Skill%20-%20feeding%20to%20beginners.jpg)
+
 The players also participate in the annual national school games competitions where they will exhibit sportmanships, perseverance and resilience in them during the games.
 
 Platforms are given to unleash the players’ potential to lead especially in areas such as warm-up sessions during trainings, debriefing session after trainings and involvement in the Sec 1 trial.
