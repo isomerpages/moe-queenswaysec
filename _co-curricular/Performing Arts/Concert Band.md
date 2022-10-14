@@ -21,6 +21,7 @@ third_nav_title: Performing Arts
 |FANG SZE EN	|
 | RASHMIKA D/O ANBARASAN	|
 
+#### Overview of the CCA:   
  
 Queensway Secondary School Concert Band aims to cultivate students to develop a passion for music-making and to instill them a sense of responsibility, living up to 21st Century Competencies and values of team-work and leadership.
 
