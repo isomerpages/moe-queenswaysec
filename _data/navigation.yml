@@ -1,10 +1,10 @@
 logo: /images/qsslogo.png
 links:
   - title: About Us
-    url: /about-us/principals-message/
+    url: /announcements/
     sublinks:
       - title: Announcements
-        url: /permalink
+        url: /announcements/
       - title: Principal's Message
         url: /about-us/principals-message/
       - title: Who We Are
