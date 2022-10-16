@@ -17,5 +17,5 @@ sections:
         - title: Open House 2023
           description: ""
           url: /comingsoon
-      background: /images/Welcome to Queensway Secondary School!.png
+      background: /images/Welcome to Queensway Secondary School! (1).png
 ---
