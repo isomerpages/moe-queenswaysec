@@ -1,5 +1,5 @@
 collections:
-  ccas:
+  co-curricular-activities:
     output: true
     order:
       - Clubs and Societies/Art Club.md
