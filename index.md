@@ -11,6 +11,11 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-      title: QUEENSWAY SECONDARY SCHOOL
-      background: /images/20210922_161306B (1).jpg
+        - title: Secondary 1 Registration
+          description: ""
+          url: /comingsoon
+        - title: Open House 2023
+          description: ""
+          url: /comingsoon
+      background: /images/Welcome to Queensway Secondary School!.png
 ---
