@@ -1,0 +1,4 @@
+collections:
+  alumni-achievements:
+    output: true
+    order: []
