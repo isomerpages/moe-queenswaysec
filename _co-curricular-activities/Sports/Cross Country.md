@@ -12,7 +12,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **COACHES:** 	| COACH JK<br>  	|
+| **COACHES:** 	| COACH JK<br> 	|
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
