@@ -16,8 +16,8 @@ third_nav_title: Sports
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **'B' DIVISION BOYS' CAPTAIN:** 	|   LAU WEIZHI SHAWN	|
-| **'B' DIVISION BOYS' VICE-CAPTAIN:** 	| SHAUN LIM AN SHENG	| 
+| **'B' DIVISION BOYS' CAPTAIN:** 	|   CHAN KEI YUEN, CHAD	|
+| **'B' DIVISION BOYS' VICE-CAPTAIN:** 	|         LUKE CHONG YONG EN	| 
 
 | 	|  	|
 |---	|---	|
