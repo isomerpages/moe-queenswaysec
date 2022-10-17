@@ -1,6 +1,6 @@
 ---
 title: ELDDS
-permalink: /cca/Performing-Arts/ELDDS
+permalink: /cca/Performing-Arts/ELDDS/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -16,8 +16,8 @@ third_nav_title: Performing Arts
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **PRESIDENT:** 	|   HANNAH NG SU ANN (401)	|
-| **VICE-PRESIDENT:** 	| LIM KER CHENG (402) <br> ANG EN (303) 	| 
+| **PRESIDENT:** 	|   ANG EN  (403)	|
+| **VICE-PRESIDENT:** 	|  	| 
 
 
 #### Overview of the CCA:
