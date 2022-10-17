@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS GRACE LEE (IC) <br>MS LILY CHOO 	|
+| **TEACHERS-IN-CHARGE:** 	| MS GRACE LEE <br>MS LILY CHOO 	|
 
 |  	|  	|
 |---	|---	|
