@@ -39,13 +39,16 @@ Differentiated Instruction within the Humanities Department focuses on different
 
 <img src="/images/hum2.png" style="width:100%">
 
+
 #### ENRICHMENT PROGRAMMES  
 
 The yearly Humanities Day offers a series of enrichment activities for students to extend their learning about the world around them. The Humanities department organizes learning journeys to various organizations for students to learn beyond the confines of the classroom. Students get to learn more about the various cultures in Singapore and visit places of historical value. Besides being exposed to topics related to History and Geography, students are also exposed to current affairs issues through the talks organized for them.
 
+<img src="https://drive.google.com/uc?export=view&id=1ExjvEu20TnrtwuxUj4A1RTmlt6MN_ihc">
+
 Students with passion and aptitude in the Humanities are encouraged to take part in national-level competitions. These competitions include the NUS Geography Challenge and the MOE History Challenge, the ASEAN Symposium and the United Nations Mock Conference.  Students get to observe Parliament sessions in action on Sitting Days in Parliament. They also took part in conversations with external stakeholders such as the EU@School programme.
 
-<img src="/images/hum3.png" style="width:100%">
+<img src="https://drive.google.com/uc?export=view&id=1-wXvLVWrC37yWhYyx27Zc9E5h9_zh2Sp">
 
 #### ASSESSMENT
 
