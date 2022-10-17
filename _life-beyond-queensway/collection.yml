@@ -1,4 +1,5 @@
 collections:
   life-beyond-queensway:
     output: true
-    order: []
+    order:
+      - Alumni Voices.md
