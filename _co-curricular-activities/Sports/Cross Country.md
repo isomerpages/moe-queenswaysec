@@ -1,6 +1,6 @@
 ---
 title: Cross Country
-permalink: /cca/Sports/cross-country
+permalink: /cca/Sports/cross-country/
 description: ""
 third_nav_title: Sports
 ---
@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS GRACE LEE (IC)<br>MS SHARELYN TEO (SEM 1) <br>MS LILY CHOO (SEM 2) 	|
+| **TEACHERS-IN-CHARGE:** 	| MS GRACE LEE (IC) <br>MS LILY CHOO 	|
 
 |  	|  	|
 |---	|---	|
