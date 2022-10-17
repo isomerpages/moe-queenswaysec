@@ -31,7 +31,8 @@ As participants in the inquiry process, students learn to explore the interactio
 
 Towards supporting the inquiry approach, ICT is used as a means of promoting collaboration among students, scaffolding concepts, formative assessment and self-directed learning. To this end, use of ICT tools to promote the stated objectives include Kahoot as a gauge of student learning, and the use of SLS and Nearpod to introduce new concepts to students, as well as to allow for independent learning. 
 
-  
+<img src="https://drive.google.com/uc?export=view&id=1PdkzdJIK7X28dwi2q9_jaEkuuvP8PLLk">
+
 
 #### DIFFERENTIATED INSTRUCTION
 
