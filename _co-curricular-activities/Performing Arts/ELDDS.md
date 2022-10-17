@@ -16,7 +16,7 @@ third_nav_title: Performing Arts
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **PRESIDENT:** 	|   ANG EN  (403)	|
+| **PRESIDENT:** 	|   ALICIA YIP  (411)	|
 | **VICE-PRESIDENT:** 	|  	| 
 
 
