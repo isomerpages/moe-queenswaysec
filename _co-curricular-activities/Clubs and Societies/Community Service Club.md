@@ -1,6 +1,6 @@
 ---
 title: Community Service Club
-permalink: /cca/Clubs-and-Societies/community-service-club
+permalink: /cca/Clubs-and-Societies/community-service-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -13,7 +13,7 @@ third_nav_title: Clubs and Societies
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **PRESIDENT:** 	|   Goh Kai Xiang (404)	|
+| **PRESIDENT:** 	|  TAN YING JIE (411)	|
 
 #### Overview of the CCA:  
 
