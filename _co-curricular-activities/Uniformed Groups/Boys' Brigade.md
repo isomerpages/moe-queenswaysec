@@ -17,8 +17,8 @@ third_nav_title: Uniformed Groups
 |  	|  	|
 |---	|---	|
 | **STUDENT LEADERS** 	|  	|
-| **CSM:** 	| POON JUN XIN (402) 	|
-| **DCSM:** 	| PALANIAPPAN MUTHU KUMAR (401)<br>DONG SHANGHENG (403) 	|
+| **CSM:** 	| BRYAN YEO SI YU (402) 	|
+| **DCSM:** 	|  	|
 
 #### Overview of the CCA: 
 
