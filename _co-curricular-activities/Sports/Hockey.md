@@ -16,8 +16,8 @@ third_nav_title: Sports
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **CAPTAIN:** 	|  SURVEEN SINGH SHAHI (303)	|
-| **VICE-CAPTAIN:** 	| JOSHUA CHEW QI HAN (303) 	|
+| **CAPTAIN:** 	|  SAMUEL SHILOH NG (401)	|
+| **VICE-CAPTAIN:** 	|  	|
 
 #### Overview of the CCA:
 
