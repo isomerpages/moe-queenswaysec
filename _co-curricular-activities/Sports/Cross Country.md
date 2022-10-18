@@ -16,9 +16,8 @@ third_nav_title: Sports
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **CAPTAIN (BOYS):** 	|  VARIL KAIZEN RAJ (403)	|
-| **CAPTAIN (GIRLS):** 	| NICOLE TAN (403) 	| 
-| **VICE-CAPTAIN:** 	| EZRA LOW (402) 	|
+| **CAPTAIN (BOYS):** 	|  VARIL KAIZEN RAJ (403)<br>KH JUN KAI TRUMAN (404)|
+
 
 #### Overview of the CCA: 
 
