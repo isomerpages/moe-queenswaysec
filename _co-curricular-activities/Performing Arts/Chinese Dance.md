@@ -12,12 +12,12 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **INSTRUCTORS** 	| MR LI DUO WEI <br> MS MA HUISHAN 	|
+| **INSTRUCTORS** 	| MR LI DUO WEI |
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
 | **PRESIDENT:** 	|  LEONG YUJIE (402)	|
-| **VICE-PRESIDENT:** 	| 	|
+| **VICE-PRESIDENT:** 	| LEE ZHI WEI (403)	|
 
 
 #### Overview of the CCA:
