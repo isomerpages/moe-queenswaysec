@@ -18,7 +18,7 @@ third_nav_title: Uniformed Groups
 |---	|---	|
 | **STUDENT LEADERS** 	|  	|
 | **CSM:** 	| BRYAN YEO SI YU (402) 	|
-| **DCSM:** 	|  	|
+| **DCSM:** 	| ZANDER WONG JUN HUI (401)	|
 
 #### Overview of the CCA: 
 
