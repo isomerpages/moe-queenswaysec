@@ -13,7 +13,8 @@ third_nav_title: Uniformed Groups
 | STUDENT LEADERS 	|  	|
 |---	|---	|
 | **COMPANY LEADER:** 	| KYLIE LEE PANG KAI (403) 	|
-| **ASSISTANT COMPANY LEADER:** 	|  	|
+| **ASSISTANT COMPANY LEADER:** 	| PALANI MITHRA POOMAHALAKSHMI (402) 	|
+| **COMPANY LEADER:** 	| KYLIE LEE PANG KAI (403) 	|
 | **PATROL LEADERS:** 	| 	|
 
 #### Overview of the CCA:
