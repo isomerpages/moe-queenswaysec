@@ -17,7 +17,9 @@ third_nav_title: Sports
 | STUDENT LEADERS 	|  	|
 |---	|---	|
 | **FOOTBALL 'B' BOYS CAPTAIN:** 	| RAYYAN ANIQ MUHAIMIN BIN ADDAM (412) 	|
+| **FOOTBALL 'B' BOYS VICE-CAPTAIN:** 	| YONG JUN KAI SAMSON FLORENDO (403)	|
 | **FOOTBALL 'C' BOYS CAPTAIN:** 	| TAN YU MING TRAVIS (204)	|
+| **FOOTBALL 'C' BOYS VICE-CAPTAIN:** 	| HAZIEL FAZRIEN BIN FAIZAL (211)	|
 
 2021 was a difficult year for the Boys’ Football team. Unfortunately, due to the COVID-19 pandemic, we were unable to participate in the National School Games or the other tournaments that we usually compete in. 
 
