@@ -13,8 +13,8 @@ third_nav_title: Clubs and Societies
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **PRESIDENT:** 	|   GOH ZE HAN TRISTAN (301)	|
-| **VICE-PRESIDENT:** 	| CHAN YUKANG, SHERWIN (301) 	|
+| **PRESIDENT:** 	|   THUM WAI TAT RYAN (402)	|
+| **VICE-PRESIDENT:** 	| 	|
 
 #### Overview of the CCA:
 
