@@ -14,8 +14,8 @@ third_nav_title: Uniformed Groups
 |---	|---	|
 | **COMPANY LEADER:** 	| KYLIE LEE PANG KAI (403) 	|
 | **ASSISTANT COMPANY LEADER:** 	| PALANI MITHRA POOMAHALAKSHMI (402) 	|
-| **COMPANY LEADER:** 	| KYLIE LEE PANG KAI (403) 	|
-| **PATROL LEADERS:** 	| 	|
+| **SECRETARY:** 	| LOH XUAN NING SHANNON(402) 	|
+| **QUARTER MISTRESSES:** 	| KARIS TAN YUET ERN (403)<br>WONG KAI TING (412)	|
 
 #### Overview of the CCA:
 
