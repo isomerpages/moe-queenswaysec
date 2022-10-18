@@ -16,7 +16,7 @@ third_nav_title: Sports
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **CAPTAIN (BOYS):** 	|  VENUSH TEVAN (404)	|
+| **CAPTAIN (BOYS):** 	|  VARIL KAIZEN RAJ (403)	|
 | **CAPTAIN (GIRLS):** 	| NICOLE TAN (403) 	| 
 | **VICE-CAPTAIN:** 	| EZRA LOW (402) 	|
 
