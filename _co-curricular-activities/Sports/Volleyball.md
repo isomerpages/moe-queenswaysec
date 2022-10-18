@@ -16,8 +16,8 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **GIRLS' CAPTAIN:** 	|SWEE YU EN	|
-| **BOYS' CAPTAIN:** 	| LEE SHENLEI 	|
+| **GIRLS' CAPTAIN:** 	|SWEE YU EN	(401)|
+| **BOYS' CAPTAIN:** 	| LEE SHENLEI (401)	|
 
 
 #### Overview of the CCA:   
