@@ -16,7 +16,7 @@ third_nav_title: Clubs and Societies
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **PRESIDENT:** 	|   HANNAH LUM SI-EN (301)	|
+| **PRESIDENT:** 	|   HANNAH LUM SI-EN (401)	|
 
 #### Overview of the CCA:   
 
