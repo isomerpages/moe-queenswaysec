@@ -13,8 +13,8 @@ third_nav_title: Uniformed Groups
 | STUDENT LEADERS 	|  	|
 |---	|---	|
 | **COMPANY LEADER:** 	| KYLIE LEE PANG KAI (403) 	|
-| **ASSISTANT COMPANY LEADER:** 	| SOPHIA LAI (301) 	|
-| **PATROL LEADERS:** 	| CHLOE WANG XING YUN (304)<br>LUCIE-JEAN CHAI LIT HUEY (303)<br>DORCAS KO HUI XIN (304)<br>FOONG ZI EN (303) 	|
+| **ASSISTANT COMPANY LEADER:** 	|  	|
+| **PATROL LEADERS:** 	| 	|
 
 #### Overview of the CCA:
 
