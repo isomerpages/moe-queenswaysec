@@ -4,7 +4,6 @@ permalink: /cca/club-and-societies/art-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
 ### Art Club
 
 |  	|  	|
@@ -14,7 +13,7 @@ third_nav_title: Clubs and Societies
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **PRESIDENT:** 	|   AMABELLE BEH LE XUAN (304)	|
+| **PRESIDENT:** 	|   SARAH NUHA BINTE SURAIMI (404)	|
 | **VICE-PRESIDENT:** 	|  LEONG YUKI (304) 	|
 
 #### Overview of the CCA:
