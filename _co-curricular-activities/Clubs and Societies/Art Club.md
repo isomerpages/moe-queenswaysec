@@ -14,7 +14,7 @@ third_nav_title: Clubs and Societies
 | STUDENT LEADERS 	|  	|
 |---	|---	|
 | **PRESIDENT:** 	|   SARAH NUHA BINTE SURAIMI (404)	|
-| **VICE-PRESIDENT:** 	|  LEONG YUKI (304) 	|
+| **VICE-PRESIDENT:** 	|  	|
 
 #### Overview of the CCA:
 
