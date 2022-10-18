@@ -16,8 +16,8 @@ third_nav_title: Performing Arts
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **PRESIDENT:** 	|   QUEK YING TONG(403)	|
-| **VICE-PRESIDENT:** 	| SHANNON HAN XIN TIAN (401) 	|
+| **PRESIDENT:** 	|  LEONG YUJIE (402)	|
+| **VICE-PRESIDENT:** 	| 	|
 
 
 #### Overview of the CCA:
