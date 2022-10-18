@@ -12,7 +12,7 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **INSTRUCTORS:** 	| MR BENJIN 	|
+| **INSTRUCTORS:** 	| MS CHERMAINE<br>MS MOLI 	|
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
