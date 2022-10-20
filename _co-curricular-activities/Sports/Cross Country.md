@@ -16,7 +16,7 @@ third_nav_title: Sports
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **CAPTAINS:** 	|  VARIL KAIZEN RAJ (403)<br>KH JUN KAI TRUMAN (404)|
+| **CAPTAINS:** 	|  VARIL KAIZEN RAJ (403)<br>KOH JUN KAI TRUMAN (404)|
 
 
 #### Overview of the CCA: 
