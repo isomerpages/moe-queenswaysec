@@ -51,21 +51,16 @@ Shangheng is a deserving recipient of this prestigious award. Over the years, he
 
 ##### Student Experiences:
 
-"I chose Boys Brigade in Sec 1 as I was intrigued by the uniform and the many exciting activities. However, I soon realised that the Boys' Brigade was not just a CCA; it is a strong and supportive community that helps us build important life skills. During one expedition, I felt tired and discouraged as I did not have the physical stamina to keep up with the rest. However, my peers encouraged me to persevere, and with their support, I completed the expedition. The experience was an eye-opening one for me, as I learnt to cultivate greater resilience in the face of challenges.
-
-I was honoured to be appointed as the Company Sergeant Major (CSM) in 2020. Initially, I was worried about the high expectations demanded of the leadership role. However, with the guidance of the officers, and with the support of a strong team of fellow leaders, I grew more confident and comfortable in my role as CSM. My journey in the Boys' Brigade has taught me many valuable life lessons, and I will always cherish the fond memories from my time in the CCA."
-<br>**Poon Jun Xin (402), CSM**
+*"I chose Boys Brigade in Sec 1 as I was intrigued by the uniform and the many exciting activities. However, I soon realised that the Boys' Brigade was not just a CCA; it is a strong and supportive community that helps us build important life skills. During one expedition, I felt tired and discouraged as I did not have the physical stamina to keep up with the rest. However, my peers encouraged me to persevere, and with their support, I completed the expedition. The experience was an eye-opening one for me, as I learnt to cultivate greater resilience in the face of challenges. <br><br>I was honoured to be appointed as the Company Sergeant Major (CSM) in 2020. Initially, I was worried about the high expectations demanded of the leadership role. However, with the guidance of the officers, and with the support of a strong team of fellow leaders, I grew more confident and comfortable in my role as CSM. My journey in the Boys' Brigade has taught me many valuable life lessons, and I will always cherish the fond memories from my time in the CCA."
+<br>Poon Jun Xin (402), CSM*
 
   
 
-"Being part of the Boys’ Brigade has been a very meaningful experience for me. I have made many new friendships and learnt valuable life skills. My time in the CCA has helped me to be more responsible, resilient and respectful towards others. The support and guidance from my teachers and peers have empowered me to step out of my comfort zone to go the extra mile. One of the many things I enjoyed in the Boys' Brigade would be the CCA camps, which were always a highlight for me, since I got to bond with my friends over fun activities like night cycling and archery. The memories from my time in the Boys’ Brigade will always be dear to me."
-<br> **Palaniappan Muthu Kumar (401), DCSM**
+*"Being part of the Boys’ Brigade has been a very meaningful experience for me. I have made many new friendships and learnt valuable life skills. My time in the CCA has helped me to be more responsible, resilient and respectful towards others. The support and guidance from my teachers and peers have empowered me to step out of my comfort zone to go the extra mile. One of the many things I enjoyed in the Boys' Brigade would be the CCA camps, which were always a highlight for me, since I got to bond with my friends over fun activities like night cycling and archery. The memories from my time in the Boys’ Brigade will always be dear to me."
+<br> Palaniappan Muthu Kumar (401), DCSM*
 
   
 
-"My past 3 years in the Boys' Brigade has taught me many values such as patience and integrity. I was able to put these values in practice to successfully mediate a conflict between 2 boys. I believe that my experiences in the Boys’ Brigade have helped me to grow and mature from a playful youth into a responsible young adult. 
-
-  
-
+*"My past 3 years in the Boys' Brigade has taught me many values such as patience and integrity. I was able to put these values in practice to successfully mediate a conflict between 2 boys. I believe that my experiences in the Boys’ Brigade have helped me to grow and mature from a playful youth into a responsible young adult. <br>
 I especially enjoyed the Boys’ Brigade camps, which helped me to bond with and forge stronger trust with my peers. The camps also taught me new knowledge and skills, such as orienteering." 
-<br> **Dong Shangheng (403), DCSM**
+<br> Dong Shangheng (403), DCSM*
