@@ -16,15 +16,15 @@ description: ""
 | *1st South Zone* | *1st South Zone* | *2nd South Zone* |
 | | | |
 | Hockey 'C' Boys |
-| 3rd National Division |
+| *3rd National Division* |
 
 | | **Uniformed Groups** | |
 | -------- | -------- | -------- |
 | NCC (Boys) | NPCC | NCDCC |
-| Distinction | Gold | Gold |
+|* Distinction* | *Gold* | *Gold* |
 | | | |
 | Boys' Brigade | Girls Guide |
-| Silver | Gold |
+| *Silver* | *Gold* |
 
 | | **Performing Arts** | |
 | -------- | -------- | -------- |
