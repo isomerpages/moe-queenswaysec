@@ -13,8 +13,8 @@ third_nav_title: Sports
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **CAPTAIN:** 	|  TAN YU-QI (103)	|
-| **VICE-CAPTAIN:** 	| JENISSA JAIN (101) <br> TAN YING YI MATILDA (102) 	|
+| **CAPTAIN:** 	|  TAN YU-QI (203)	|
+| **VICE-CAPTAIN:** 	| JENISSA JAIN (201) <br> TAN YING YI MATILDA (202) 	|
 
 #### Overview of the CCA:   
 
