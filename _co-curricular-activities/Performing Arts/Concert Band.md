@@ -37,9 +37,9 @@ CERTIFICATE OF ACCOMPLISHMENT IN SYF (2021)
 
 #### Student Experiences:
 
-"During my time in the Concert Band, I have shared enjoyable and meaningful experiences with my fellow band members, be it juniors or seniors. One of my favourite memories in the band was during Aesthetics Night, where 5 different aesthetics CCAs came together to put on a show for everyone."                                         
-*~Ethan Chan (302)*
+*"During my time in the Concert Band, I have shared enjoyable and meaningful experiences with my fellow band members, be it juniors or seniors. One of my favourite memories in the band was during Aesthetics Night, where 5 different aesthetics CCAs came together to put on a show for everyone."                                         
+~Ethan Chan (302)*
 
 
-"All band sessions are meaningful. After a long day of school, band helps us to de-stress as we leave our worries outside the band room for that few hours. There will always be something to take home from every practice, be it knowledge, skills or even life lessons.”
-*~Chloe Cheong (301)*
+*"All band sessions are meaningful. After a long day of school, band helps us to de-stress as we leave our worries outside the band room for that few hours. There will always be something to take home from every practice, be it knowledge, skills or even life lessons.”
+~Chloe Cheong (301)*
