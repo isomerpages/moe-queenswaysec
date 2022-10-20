@@ -32,10 +32,10 @@ In 2022, along with the relaxation of COVID-19 SMM measures, NCDCC cadets were o
 
 #### Student Experiences:
 
-“Despite all the challenges faced throughout 2021,I feel that our contingent  has put in their utmost effort to organise and participate in all the NCDCC activities. We have worked together as a team to achieve our goals. I cannot thank the entire NCDCC committee enough for all their hard work and dedication. I am looking forward to a refreshing 2022!” 
-<br> **Kumaseran Harshini Hirthika (304), Overall In-Charge** 
+*“Despite all the challenges faced throughout 2021,I feel that our contingent  has put in their utmost effort to organise and participate in all the NCDCC activities. We have worked together as a team to achieve our goals. I cannot thank the entire NCDCC committee enough for all their hard work and dedication. I am looking forward to a refreshing 2022!” 
+<br> Kumaseran Harshini Hirthika (304), Overall In-Charge* 
 
   
 
-“Being part of NCDCC has been a great experience for me during my years in Queensway. I have learnt a lot, ranging from leadership to communication and other life skills. Even though I have fewer opportunities to meet with my fellow cadets and attend CCA amidst this COVID pandemic, I still enjoyed NCDCC very much. One of my favourite moments in NCDCC was when we were teaching our juniors foot drills, as we got to know them better.” 
-<br> **Clarence Kan (301), Deputy Overall In-Charge**
+*“Being part of NCDCC has been a great experience for me during my years in Queensway. I have learnt a lot, ranging from leadership to communication and other life skills. Even though I have fewer opportunities to meet with my fellow cadets and attend CCA amidst this COVID pandemic, I still enjoyed NCDCC very much. One of my favourite moments in NCDCC was when we were teaching our juniors foot drills, as we got to know them better.” 
+<br> Clarence Kan (301), Deputy Overall In-Charge*
