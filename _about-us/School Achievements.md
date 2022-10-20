@@ -21,7 +21,7 @@ description: ""
 | | **Uniformed Groups** | |
 | -------- | -------- | -------- |
 | NCC (Boys) | NPCC | NCDCC |
-|* Distinction* | *Gold* | *Gold* |
+|*Distinction* | *Gold* | *Gold* |
 | | | |
 | Boys' Brigade | Girls Guide |
 | *Silver* | *Gold* |
