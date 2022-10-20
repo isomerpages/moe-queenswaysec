@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS FINNA LEE <br>MR CHIA YEW HWEE <br> MS TOH HUI YU 	|
+| **TEACHERS-IN-CHARGE:** 	| MS FINNA LEE <br>MR CHIA YEW HWEE |
 
 
 | STUDENT LEADERS 	|  	|
