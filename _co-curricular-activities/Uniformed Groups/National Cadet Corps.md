@@ -35,15 +35,20 @@ Our core values are:
 7\.   Adventurous spirit<br>
 8\.   Safety.
 
-  
+
+<img src="https://drive.google.com/uc?export=view&id=12zebs--DB3kKOX1BNFYe_iQKDLoR9vLM">
 
 Members are taught and display these core values during NCC’s trainings and camps. For instance, the core value of discipline must be adhered to during our weekly training sessions. The cadets develop resilience as they go through a series of physical conditioning exercises and strength training, such as pushups, planks, and sit-ups to prepare themselves for their yearly Physical Training test.
 
-  
+<img src="https://drive.google.com/uc?export=view&id=1kwvmun96q6VomMj_VLNR7y_lZXYE2Dtm">
+
 
 This year, our Secondary 1 cadets participated in Camp F.O.R.G.E, where they enjoyed fun and exciting activities such as the Flying Fox, Abseiling and High Elements. In Camp S.T.E.E.L, the Secondary 2 cadets were exposed to hands-on weapons training, where they learned how to dismantle and assemble the SAR-21, as well as how to deal with gun jams. Another highlight of Camp S.T.E.E.L was the paintball 5-versus-5 match, where the Secondary 2 cadets learned the value of teamwork, as they had to work together closely in order to achieve victory. Last but not least, the Secondary 3 cadets stepped up to teach their juniors key skills involved in the Total Defence Bronze and Silver courses, as part of their Total Defence Gold Course requirements.
 
-  
+<img src="https://drive.google.com/uc?export=view&id=1pPITsgtzwBm0bxwaTGtm7RyULwz5q6kp"><br>
+
+<img src="https://drive.google.com/uc?export=view&id=1I4QLfevB7JLk439Kg4vlCeTFR5n7JYV4">
+
 
 #### Student Experiences: 
 
