@@ -24,10 +24,15 @@ third_nav_title: Uniformed Groups
 
 The 61st Company aims to provide a holistic education for our boys outside of the classroom. Through our planned programs, we seek to develop each boy’s leadership skills and character. 
 
-  
+<img src="https://drive.google.com/uc?export=view&id=14Rycui06n_ZNJifGxHj-M7GB8gbU-W4r">
+
+
 
 Earlier this year, we focused on increasing the engagement of our boys through outdoor and adventure activities. One highlight was the archery training sessions that our boys participated in. They also attended lessons on survival and campcraft skills, ranging from tying knots, pitching a basha and outdoor cooking, to map-reading and navigation. Some of our boys were given the opportunity to apply the skills that they learned in an expedition that saw them completing a 15 km hike around parts of Singapore.
 
+<img src="https://drive.google.com/uc?export=view&id=1tBxRGAFuIfRyPRWco1zSNyIvhW1zEXQy"><br>
+
+<img src="https://drive.google.com/uc?export=view&id=1FP6sI3nzgoiHy-1762iBq9-UB7OQeoU0">
   
 
 #### Achievements of the CCA:
