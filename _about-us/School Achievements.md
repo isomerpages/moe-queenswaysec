@@ -29,4 +29,4 @@ description: ""
 | | **Performing Arts** | |
 | -------- | -------- | -------- |
 | Band | Chinese Dance | ELDDS |
-| Accomplisment | Distinction | Accomplishment |
+| *Accomplisment* | *Distinction* | *Accomplishment* |
