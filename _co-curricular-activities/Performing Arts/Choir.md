@@ -23,8 +23,19 @@ third_nav_title: Performing Arts
 
 Choir put up performances for Inaugural Assembly, Chinese New Year, Speech Day, Aesthetics Night, National Day. We also went on a Learning Journey to watch a concert at The Art House. We performed at CHIJMES during the September holidays and will also be taking part in a choir exchange programme in November where our choir will be performing with a number of other choirs on the same stage.
 
+<img src="https://drive.google.com/uc?export=view&id=1FTWDzBv8wE-H9eGTWO5h8EoraPx_u91A">
+
+
+<img src="https://drive.google.com/uc?export=view&id=1ByIRi6LfMOIvnhmar3bKIK1vO1GR16K4">
+
+
 #### Achievements of the CCA:
 CERTIFICATE OF DISTINCTION IN SYF (2021)
+
+
+<img src="https://drive.google.com/uc?export=view&id=17mzjCMBul6c3-dVbhceBXevFAJTczYeh">
+
+
 
 #### Student Experiences:
 
