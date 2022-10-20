@@ -25,9 +25,7 @@ third_nav_title: Uniformed Groups
 
 The National Civil Defence Cadet Corps (NCDCC) provides first-aid and other related services to the school and the public. The NCDCC cadets render first-aid duties during school activities such as the Cross Country Meet, Annual Speech Day and Annual Sport Meet. NCDCC aims to empower our cadets to be active and concerned citizens equipped with life-saving skills, in order for them to respond effectively to emergencies at home and abroad. 
 
-  
-
-In 2021, CCA has been widely restricted due to the evolving COVID-19 situation. However, NCDCC cadets reacted admirably through the adoption of e-CCA, where online training sessions were conducted both synchronously and asynchronously. NCDCC is proud to announce that all participating cadets managed to clear their necessary Core Competency Courses and Specialisation Courses. Cadets also took time and effort to reach out to their community through community awareness programs, championing for a drug free society.
+In 2022, along with the relaxation of COVID-19 SMM measures, NCDCC cadets were offered the opportunity to physically participate in the National Precision Drill Challenge Competition and Specialization Courses. This was on top of the various Learning Journeys to both the Civil Defence Heritage Gallery and Alexandra Fire Station where cadets got to learn about the history of the Singapore Civil Defence Force (SCDF) and the intricate operations run by SCDF.
 
   
 
