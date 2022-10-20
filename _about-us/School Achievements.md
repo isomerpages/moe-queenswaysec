@@ -26,9 +26,7 @@ description: ""
 | Boys' Brigade | Girls Guide |
 | Silver | Gold |
 
-| Column 1 | Column 2 | Column 3 |
+| | Performing Arts | |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
+| Band | Chinese Dance | ELDDS |
+| Accomplisment | Distinction | Accomplishment |
