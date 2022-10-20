@@ -28,7 +28,11 @@ In 2022, along with the relaxation of COVID-19 SMM measures, NCDCC cadets were o
 
 <img src="https://drive.google.com/uc?export=view&id=1Rl73ltkVKl7fwoyYLyB8jga8ACSDMYo4"><br>
 
-<img src="https://drive.google.com/uc?export=view&id=1hOwXeoPiiURrBCmnIobGQUfRcZY5s4A3">
+<img src="https://drive.google.com/uc?export=view&id=1hOwXeoPiiURrBCmnIobGQUfRcZY5s4A3"><br>
+
+<img src="https://drive.google.com/uc?export=view&id=1xaEfa5-bXe7flLc1jfprCWB_LnT2E_IL">
+
+
 
 #### Student Experiences:
 
