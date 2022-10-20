@@ -6,13 +6,9 @@ third_nav_title: Uniformed Groups
 ---
 ### National Civil Defence Cadet Corps
 
-<img src="/images/ncdcc1.png" style="width:60%">
-
-<img src="/images/ncdcc2.png" style="width:60%">
-
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR LEONG WEI JIE ALVIN (OFFICER COMMANDING) <BR> MS QUEK YU PIN <BR>MS GOH HUI MIN <BR>MS JOYCE NGIAM <BR>MR NG CHING SIANG 	|
+| **TEACHERS-IN-CHARGE:** 	| MR LEONG WEI JIE ALVIN (OFFICER COMMANDING) <BR> MS QUEK YU PIN 	|
 
 
 |  	|  	|
