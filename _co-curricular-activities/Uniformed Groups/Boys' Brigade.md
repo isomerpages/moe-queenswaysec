@@ -33,18 +33,13 @@ Earlier this year, we focused on increasing the engagement of our boys through o
 <img src="https://drive.google.com/uc?export=view&id=1FP6sI3nzgoiHy-1762iBq9-UB7OQeoU0">
   
 
-#### Achievements of the CCA:
-##### 2022 - J M Fraser Award (Silver)
+#### Achievements of the CCA:<br><br>2022 - J M Fraser Award (Silver)
 
-**Warrant Officer Poon Jun Xin (402)**
 
-Jun Xin has been a committed and dedicated member of the company. As the CSM, he has been a leader who is respected and well-liked by his peers and juniors. Over the years, he has made valuable contributions to the company through his service. He is a deserving recipient of the award.
+##### Recipient for the S.P.Chua Award 2022 - Brigade Level Best Boy<br><br>Warrant Officer Tan Tu Yi
 
-##### Recipient for the Founders' Award 2021 - Brigade Level Outstanding Award
 
-**Warrant Officer Doong Shangheng (403)**
 
-Shangheng is a deserving recipient of this prestigious award. Over the years, he has grown in his ability to lead and care for others, while remaining humble. As a leader, he strives towards excellence and will put in the time and effort to increase his knowledge and hone his skills.
 
 ##### Student Experiences:
 
