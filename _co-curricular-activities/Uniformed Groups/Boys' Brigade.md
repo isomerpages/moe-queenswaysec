@@ -38,7 +38,12 @@ Earlier this year, we focused on increasing the engagement of our boys through o
 
 ##### Recipient for the S.P.Chua Award 2022 - Brigade Level Best Boy<br><br>Warrant Officer Tan Tu Yi
 
+Tu Yi is a responsible leader who is committed to excellence. As the DCSM, he has been a respected leader who is held in high regard by his peers and juniors. Over the years, he has made valuable contributions to the company through his service. He is a deserving recipient of the award.
 
+
+#### AdevntuRe:ignite 2022 - Gold Honour Roll 
+
+The above activity was a virtual adventure challenge  which was held this year from March to April. During this challenge, BB companies all over Singapore competed by completing a series of tasks. These tasks included field cooking, knots and lashings as a well as a battery of physical activities. Our boys came together and worked with each other to complete the activities. Through hard work and perseverance, our boys earned a place on the Gold Honour Roll during this challenge, as a testament to the excellence of their efforts.
 
 
 ##### Student Experiences:
