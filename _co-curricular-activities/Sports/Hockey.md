@@ -21,22 +21,17 @@ third_nav_title: Sports
 
 #### Overview of the CCA:
 
-It has been another very exciting year for QSS Hockey. Our partnership with ACSBR continues to strengthen post Covid.
+The Hockey CCA promotes the partnership between Queensway Secondary School and ACS (Barker Road) where both schools are represented in the National School Games as one combined team. This unique partnership allows not one but two combined teams to be represented in the National School Games. Although the boys come from two schools with different cultures and backgrounds, both share the common aim to participate in the spirit of friendship and camaraderie.
 
-The B Division boys had a very good run this year. The commendable showing during the National School Games (NSG) has inspired the C Division in their journey towards success. The pioneer batch who is graduating this year, has paved the way for the juniors to put their best foot forward in training and competitions.
 
 <img src="https://drive.google.com/uc?export=view&id=1iccg4rgb5hcQkk01RYCN-IEaa6Tg8AZk">
 
 
-This has led to the first top 4 finish for ACSBR-QSS in the NSG C Division Competition. Knocking out St Hilda’s Secondary School and finishing with a 1-1 draw against Victoria School in the 2nd round was the start of our battle forward. Showing our challenging semifinalist Raffles Institution that we are no pushovers (losing to them 1-0 with the goal coming in the last minute of the game!) and finally overcoming hockey giants like St Andrew’s SS in the 3rd and 4th placing match will surely be counted as a major achievement for QSS Hockey.
 
-Under the combined programme we also participated in the Singapore Hockey Pesta Sukan 5-a-side competition with one of our teams emerging runners-up in the U-15 category.
 
 <img src="https://drive.google.com/uc?export=view&id=1sMvx0Zz46BxRIRoH3f3r2kqOQTc5j1Oy">
 
-The CCA is moving in the right direction. We will continue to pursue success and bring glory to QSS in this sports partnership programme.
 
-We thank our School Leaders and our partners Anglo-Chinese School (Barker Road) and SportsSg for continued success in this programme.
 
 <img src="https://drive.google.com/uc?export=view&id=1ec-ZPIRw6rw59N2kTNj67PwXKT-KFHOA">
 
