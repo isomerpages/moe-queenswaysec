@@ -29,7 +29,11 @@ The Club also had the honour of collaborating with the Rainbow Centre in their i
 
 The rich learning from participating in the variety of events was consolidated through reflection sessions facilitated by the teachers. Through reflection, members gained a greater understanding of their actions and constantly strive to better themselves.
 
-  
+<img src="https://drive.google.com/uc?export=view&id=1C2F4olLxIwySoo__aBW8QMfJ2sNy0BuF"><br>
+
+<img src="https://drive.google.com/uc?export=view&id=18rEoTijr7LR4xEaY_sla5ZRUtSoYzk2r"><br>
+
+<img src="https://drive.google.com/uc?export=view&id=1mb8lPREOGkjPtLFNbhiupGjQqR5k0lyy">
 
 #### Student Experiences:
 
