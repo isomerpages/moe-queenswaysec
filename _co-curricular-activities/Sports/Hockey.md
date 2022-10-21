@@ -31,7 +31,7 @@ The Hockey CCA promotes the partnership between Queensway Secondary School and A
 
 <img src="https://drive.google.com/uc?export=view&id=1eGQE9m16PvmVWR5ZYxvKNuC1w02VlHbK"><br>
 
-<img src="https://drive.google.com/uc?export=view&id=1BYp7UoimQbQJ9U1TDghUGDR1Vf5FSIrx">
+<img src="https://drive.google.com/uc?export=view&id=1BYp7UoimQbQJ9U1TDghUGDR1Vf5FSIrx"><br>
 
 
 #### Achievements of the CCA:
