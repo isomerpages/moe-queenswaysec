@@ -23,17 +23,13 @@ third_nav_title: Sports
 
 The Hockey CCA promotes the partnership between Queensway Secondary School and ACS (Barker Road) where both schools are represented in the National School Games as one combined team. This unique partnership allows not one but two combined teams to be represented in the National School Games. Although the boys come from two schools with different cultures and backgrounds, both share the common aim to participate in the spirit of friendship and camaraderie.
 
+<img src="https://drive.google.com/uc?export=view&id=1sMvx0Zz46BxRIRoH3f3r2kqOQTc5j1Oy"><br>
 
-<img src="https://drive.google.com/uc?export=view&id=1iccg4rgb5hcQkk01RYCN-IEaa6Tg8AZk">
+<img src="https://drive.google.com/uc?export=view&id=1i21GPSxEniDjydJl0nddRaRXi8cVVMQE"><br>
 
+<img src="https://drive.google.com/uc?export=view&id=1eGQE9m16PvmVWR5ZYxvKNuC1w02VlHbK"><br>
 
-
-
-<img src="https://drive.google.com/uc?export=view&id=1sMvx0Zz46BxRIRoH3f3r2kqOQTc5j1Oy">
-
-
-
-<img src="https://drive.google.com/uc?export=view&id=1ec-ZPIRw6rw59N2kTNj67PwXKT-KFHOA">
+<img src="https://drive.google.com/uc?export=view&id=1BYp7UoimQbQJ9U1TDghUGDR1Vf5FSIrx">
 
 
 
