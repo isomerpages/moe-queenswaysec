@@ -49,4 +49,7 @@ National School Games 2022 C Division: National 3rd position
 <br> Muhammad Zaeem (412)*<br>
 
 *“A year's experience in hockey for me was great and enjoyable. A bit similar to soccer but the difference is that we use a stick and it has many complicated rules. It requires much stamina and need consistent effort to keep up with the CCA training.”
-<br>~Shuan Yeoh (213)*
+<br>~Shuan Yeoh (213)*<br>
+
+*“I just learned how to play hockey when I came to QSS in 2022. We were trained by Mr Danker who is one of our schoolteachers. Every year there will be inter-school competitions and our teachers and coaches prepare us by organising trainings and a hockey camp for us. I have made many friends as QSS and ACS (Barker Road) are combined as a team. We performed well in the C Division NSG by winning our first third place position for ACSBR-QSS. I believe we will perform better in the years to come.”<br>
+~Mohd Hazim (213)*
