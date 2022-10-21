@@ -35,7 +35,13 @@ We also said farewell to our Secondary Four cohort, and while it is unfortunate 
 
 Finally, Queensway Secondary Boys’ Football team will be participating in an MOE training pilot over the school holidays, and we are excited to have the opportunity to train together in person once again. We look forward to 2022 and to show the fruits of our training in competition once more.
 
-  
+<img src="https://drive.google.com/uc?export=view&id=1L5j0P-CSDJqPyjgYoI5k-ELIaDASJKMS">
+
+
+<img src="https://drive.google.com/uc?export=view&id=1JHYw5IK9LOXyyarWVkPoQlv82cW2Fvri">
+
+
+
 
 #### Student Experiences:
 
