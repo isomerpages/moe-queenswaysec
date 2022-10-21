@@ -34,6 +34,10 @@ The Hockey CCA promotes the partnership between Queensway Secondary School and A
 <img src="https://drive.google.com/uc?export=view&id=1BYp7UoimQbQJ9U1TDghUGDR1Vf5FSIrx">
 
 
+#### Achievements of the CCA:
+National School Games 2022 C Division: National 3rd position
+
+
 #### Student Experiences:
 
 *“I felt very privileged to be in the first batch of this CCA. The training was strenuous and lugging home our heavy school bags and tired bodies was no mean feat but the laughter and fun we shared was enough to make up for it. <br>
