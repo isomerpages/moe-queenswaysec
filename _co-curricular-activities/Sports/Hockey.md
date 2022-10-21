@@ -34,13 +34,11 @@ Under the combined programme we also participated in the Singapore Hockey Pesta 
 
 <img src="https://drive.google.com/uc?export=view&id=1sMvx0Zz46BxRIRoH3f3r2kqOQTc5j1Oy">
 
-
-
 The CCA is moving in the right direction. We will continue to pursue success and bring glory to QSS in this sports partnership programme.
 
 We thank our School Leaders and our partners Anglo-Chinese School (Barker Road) and SportsSg for continued success in this programme.
 
-
+<img src="https://drive.google.com/uc?export=view&id=1ec-ZPIRw6rw59N2kTNj67PwXKT-KFHOA">
 
 
 
