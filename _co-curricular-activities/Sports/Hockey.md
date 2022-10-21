@@ -16,8 +16,10 @@ third_nav_title: Sports
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **CAPTAIN:** 	|  SAMUEL SHILOH NG (401)	|
-| **VICE-CAPTAIN:** 	|  	|
+| **SENIOR CAPTAIN:** 	|  SAMUEL SHILOH NG (401)	|
+| **SENIOR VICE-CAPTAIN:** 	| NG YAN KAI (401)<BR>ALARIC SEAH JUN HONG (403)|
+| **JUNIOR CAPTAIN:** 	|  CHUA YU CHEN (202)|
+| **JUNIOR VICE-CAPTAIN:** 	| SHUAN YEOH (213)<BR>MOHAMED HAZIM (213)|
 
 #### Overview of the CCA:
 
