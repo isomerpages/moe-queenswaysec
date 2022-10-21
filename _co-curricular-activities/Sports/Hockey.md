@@ -12,7 +12,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **COACHES:** 	| SUNIL PRASAD <br> ENRIO MARICAN <br> SEH HO <br>  TOH LIMIN 	|
+| **COACHES:** 	|ActiveSg Hockey Academy coaching team 	|
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
