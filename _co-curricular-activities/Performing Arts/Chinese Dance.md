@@ -16,8 +16,8 @@ third_nav_title: Performing Arts
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **PRESIDENT:** 	|  LEONG YUJIE (402)	|
-| **VICE-PRESIDENT:** 	| LEE ZHI WEI (403)	|
+| **PRESIDENT:** 	| CHEN XIN YI (401)	|
+| **VICE-PRESIDENT:** 	| ANG EN XI GRACE (412)	|
 
 
 #### Overview of the CCA:
