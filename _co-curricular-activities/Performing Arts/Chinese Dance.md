@@ -20,9 +20,6 @@ third_nav_title: Performing Arts
 | **VICE-PRESIDENT:** 	| ANG EN XI GRACE (412)	|
 
 
-
-
-
 #### Overview of the CCA:
 
 Queensway’s Chinese Dance is committed to inculcating good values in our dancers, to train them to maximise their potential in terms of perseverance, responsibility and discipline. “To watch us dance, is to hear our heart speak” is the motto that is deeply rooted in us, reminding us of our passion and commitment to dancing. We believe in creating a joyful experience for all, by building our dancers’ confidence and encouraging each other along the way. Our dancers are exposed to various types of traditional dances, which they perform during major school events, such as the Chinese New Year Celebration Concert, Speech Day and National Day Concert. Our weekly training sessions help to develop our dancers’ flexibility and techniques. These dance sessions also help to build good rapport between seniors and juniors as they train and learn alongside each other.  
@@ -30,7 +27,7 @@ Queensway’s Chinese Dance is committed to inculcating good values in our dance
 
 #### Achievements of the CCA:
 
-**Singapore Youth Festival 2021:** Arts Presentation - Certificate of Distinction
+Singapore Youth Festival (2021) Distinction
 
   
 
