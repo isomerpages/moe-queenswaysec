@@ -22,6 +22,8 @@ third_nav_title: Clubs and Societies
 
 Despite some massive challenges in 2021, the Library Club managed to have a meaningful and exciting year. The main Library has had to be closed for most of the year due to renovations, but the Club helped set up a temporary Library space to continue to serve the reading needs of the Queensway population. Library Club students received training in information literacy befitting their status as media literacy experts in the school. The Club also focused heavily on outreach and publicity efforts this year by massively developing the Library's social media presence. The Library Instagram account (qss\_libraryclub) has grown tremendously, doubling the number of followers and promoting reading to the school through book sharings and reviews and themed posts.
 
+<img src="https://drive.google.com/uc?export=view&id=1X1BYLmL13q2kpUHRVn1qkvqJF1Up-rnG">
+
 #### Achievements of the CCA:  
 
 **Publication in 'Tale of S' Competition Book:** Raine Tay (404) 
