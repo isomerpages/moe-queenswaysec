@@ -88,4 +88,7 @@ description: ""
 | | **Performing Arts** | |
 | -------- | -------- | -------- |
 | Band | Chinese Dance | ELDDS |
-| *Accomplisment* | *Distinction* | *Accomplishment* |
+| *Accomplisment* | *Accomplishment* | *Accomplishment* |
+| | | |
+| Malay Dance | Choir |
+| *Distinction* | *Distinction* |
