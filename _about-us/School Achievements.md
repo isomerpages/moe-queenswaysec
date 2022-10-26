@@ -48,7 +48,7 @@ description: ""
 
 | | **Uniformed Groups** | |
 | -------- | -------- | -------- |
-| NCC (Boys) | NPCC | NCDCC |
+| NCC (Boys) | NPCC | SJAB |
 |*Distinction* | *Gold* | *Gold* |
 | | | |
 | Boys' Brigade | Girls Guide |
