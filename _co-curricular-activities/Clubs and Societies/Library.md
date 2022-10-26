@@ -16,7 +16,8 @@ third_nav_title: Clubs and Societies
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **PRESIDENT:** 	|   HANNAH LUM SI-EN (401)	|
+| **CHAIRPERSON:** 	|   HANNAH LUM SI-EN (401)	|
+| **VICE-CHAIRPERSON:** 	|  LAUREN VICTORIA LIM (403)	|
 
 #### Overview of the CCA:   
 
