@@ -61,3 +61,31 @@ description: ""
 | | | |
 | Malay Dance | Choir |
 | *Distinction* | *Distinction* |
+
+### **2019**
+
+| | **Sports** | |
+| -------- | -------- | -------- |
+| Football 'B' Girls    | Football 'C' Girls    | Football 'B' Boys | 
+|*1st National Division* | *1st National Division* | *League 1 QF* |
+| Football 'C' Boys | 
+| *League 1 QF* |
+| | | |
+| Volleyball 'B' Girls | Volleyball 'C' Girls | Volleyball 'B' Boys |
+| *1st South Zone* | *1st South Zone* | *2nd South Zone* |
+| | | |
+| Hockey 'C' Boys |
+| *3rd National Division* |
+
+| | **Uniformed Groups** | |
+| -------- | -------- | -------- |
+| NCC (Boys) | NPCC | NCDCC |
+|*Distinction* | *Gold* | *Gold* |
+| | | |
+| Boys' Brigade | Girls Guide |
+| *Silver* | *Gold* |
+
+| | **Performing Arts** | |
+| -------- | -------- | -------- |
+| Band | Chinese Dance | ELDDS |
+| *Accomplisment* | *Distinction* | *Accomplishment* |
