@@ -35,11 +35,8 @@ description: ""
 
 | | **Sports** | |
 | -------- | -------- | -------- |
-| Football 'B' Girls    | Football 'C' Girls    | Football 'B' Boys | 
-|*1st National Division* | *2nd National Division* | *2nd South Zone Division* |
-| | | |
 | Volleyball 'B' Girls | Volleyball 'C' Girls | Volleyball 'B' Boys |
-| *1st South Zone* | *1st South Zone* | *2nd South Zone* |
+| *2nd South Zone* | *1st South Zone* | *3rd South Zone* |
 | | | |
 | Hockey 'C' Boys |
 | *3rd National Division* |
@@ -55,4 +52,4 @@ description: ""
 | | **Performing Arts** | |
 | -------- | -------- | -------- |
 | Band | Chinese Dance | ELDDS |
-| *Accomplisment* | *Distinction* | *Accomplishment* 
+| *Accomplisment* | *Distinction* | *Accomplishment*
