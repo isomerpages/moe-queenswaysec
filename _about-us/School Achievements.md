@@ -13,7 +13,7 @@ description: ""
 |*1st National Division* | *2nd National Division* | *2nd South Zone Division* |
 | | | |
 | Volleyball 'B' Girls | Volleyball 'C' Girls | Volleyball 'B' Boys |
-| *1st South Zone* | *1st South Zone* | *2nd South Zone* |
+| *3rd South Zone* | *1st South Zone* | *2nd South Zone* |
 | | | |
 | Hockey 'C' Boys |
 | *3rd National Division* |
@@ -71,10 +71,10 @@ description: ""
 | Football 'C' Boys | 
 | *League 1 QF* |
 | | | |
-| Volleyball 'B' Girls | Volleyball 'C' Girls | Volleyball 'B' Boys |
-| *1st South Zone* | *1st South Zone* | *2nd South Zone* |
+| Volleyball 'B' Girls | Volleyball 'B' Boys |
+| *1st South Zone* | *3rd South Zone* |
 | | | |
-| Hockey 'C' Boys |
+| Sepaktakraw 'B' Boys |
 | *3rd National Division* |
 
 | | **Uniformed Groups** | |
