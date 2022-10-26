@@ -72,7 +72,7 @@ description: ""
 | *League 1 QF* |
 | | | |
 | Volleyball 'B' Girls | Volleyball 'B' Boys |
-| *1st South Zone* | *3rd South Zone* |
+| *3rd South Zone* | *3rd South Zone* |
 | | | |
 | Sepaktakraw 'B' Boys |
 | *3rd National Division* |
