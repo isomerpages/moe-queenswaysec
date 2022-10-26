@@ -35,11 +35,8 @@ description: ""
 
 | | **Sports** | |
 | -------- | -------- | -------- |
-| Volleyball 'B' Girls | Volleyball 'C' Girls | Volleyball 'B' Boys |
-| *2nd South Zone* | *1st South Zone* | *3rd South Zone* |
-| | | |
-| Hockey 'C' Boys |
-| *3rd National Division* |
+| Volleyball 'B' Girls | Volleyball 'B' Boys | Sepaktakraw 'B' Boys |
+| *2nd South Zone* | *3rd South Zone* | *3rd South Zone* |
 
 | | **Uniformed Groups** | |
 | -------- | -------- | -------- |
