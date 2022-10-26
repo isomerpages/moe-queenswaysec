@@ -38,14 +38,6 @@ description: ""
 | Volleyball 'B' Girls | Volleyball 'B' Boys | Sepaktakraw 'B' Boys |
 | *2nd South Zone* | *3rd South Zone* | *3rd South Zone* |
 
-| | **Uniformed Groups** | |
-| -------- | -------- | -------- |
-| NCC (Boys) | NPCC | NCDCC |
-|*Distinction* | *Gold* | *Gold* |
-| | | |
-| Boys' Brigade | Girls Guide |
-| *Silver* | *Gold* |
-
 | | **Performing Arts** | |
 | -------- | -------- | -------- |
 | Band | Chinese Dance | ELDDS |
