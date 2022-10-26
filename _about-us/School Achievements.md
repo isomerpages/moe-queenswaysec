@@ -42,3 +42,22 @@ description: ""
 | -------- | -------- | -------- |
 | Band | Chinese Dance | ELDDS |
 | *Accomplisment* | *Distinction* | *Accomplishment*
+|
+
+### **2020**
+
+| | **Uniformed Groups** | |
+| -------- | -------- | -------- |
+| NCC (Boys) | NPCC | NCDCC |
+|*Distinction* | *Gold* | *Gold* |
+| | | |
+| Boys' Brigade | Girls Guide |
+| *Silver* | *Gold* |
+
+| | **Performing Arts** | |
+| -------- | -------- | -------- |
+| Band | Chinese Dance | ELDDS |
+| *Accomplisment* | *Accomplishment* | *Accomplishment* |
+| | | |
+| Malay Dance | Choir |
+| *Distinction* | *Distinction* |
