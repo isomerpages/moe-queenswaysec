@@ -30,9 +30,11 @@ These dances would be showcased in internal school events like Chinese New Year 
 
 <img src="https://drive.google.com/uc?export=view&id=1i2_yGFCTznNAbZWZFhR3LlpkkGP5LaqJ">
 
-
-
 Our training sessions help our dancers strengthen their techniques and maintain their flexibility. Long-lasting friendships and values such as teamwork perseverance and discipline are also formed between the dancers as they learn from each other. 
+
+<img src="https://drive.google.com/uc?export=view&id=1xVCJjzBvgGj3mbx48kls3u9iLuldEOda"><br>
+
+<img src="https://drive.google.com/uc?export=view&id=1KYJrKND4SoQLytRcPTVvAOjL_4U95lhY">
 
 
 #### Achievements of the CCA:
