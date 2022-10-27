@@ -28,7 +28,9 @@ Queensway’s Chinese Dance believes in nurturing the passion in dancing in our 
 
 These dances would be showcased in internal school events like Chinese New Year celebration concerts, Speech Day and Nation Day concerts or external competitions like Singapore Youth Festival. <br>
 
-<img src="https://drive.google.com/uc?export=view&id=1i2_yGFCTznNAbZWZFhR3LlpkkGP5LaqJ">
+<img src="https://drive.google.com/uc?export=view&id=1i2_yGFCTznNAbZWZFhR3LlpkkGP5LaqJ"><br>
+
+<img src="https://drive.google.com/uc?export=view&id=1TrkpuouonFTvux7Afmcsas_K7kfqh-5c">
 
 Our training sessions help our dancers strengthen their techniques and maintain their flexibility. Long-lasting friendships and values such as teamwork perseverance and discipline are also formed between the dancers as they learn from each other. 
 
