@@ -22,7 +22,17 @@ third_nav_title: Performing Arts
 
 #### Overview of the CCA:
 
-Queensway’s Chinese Dance believes in nurturing the passion in dancing in our dancers. We believe in creating a light-hearted environment by encouraging our dancers and building up their confidence. Our CCA motto "To watch us dance, is to hear our hearts speak” reminds us to stay so ever passionate and committed to dancing. Our dancers get an array of experience being exposed to different styles of traditional dances. These dances would be showcased in internal school events like Chinese New Year celebration concerts, Speech Day and Nation Day concerts or external competitions like Singapore Youth Festival. Our training sessions help our dancers strengthen their techniques and maintain their flexibility. Long-lasting friendships and values such as teamwork perseverance and discipline are also formed between the dancers as they learn from each other. 
+Queensway’s Chinese Dance believes in nurturing the passion in dancing in our dancers. We believe in creating a light-hearted environment by encouraging our dancers and building up their confidence. Our CCA motto "To watch us dance, is to hear our hearts speak” reminds us to stay so ever passionate and committed to dancing. Our dancers get an array of experience being exposed to different styles of traditional dances. <br>
+
+<img src="https://drive.google.com/uc?export=view&id=11aVVkx9q1EIv5GvKaDz11wfT_wAKCRfm">
+
+These dances would be showcased in internal school events like Chinese New Year celebration concerts, Speech Day and Nation Day concerts or external competitions like Singapore Youth Festival. <br>
+
+<img src="https://drive.google.com/uc?export=view&id=1i2_yGFCTznNAbZWZFhR3LlpkkGP5LaqJ">
+
+
+
+Our training sessions help our dancers strengthen their techniques and maintain their flexibility. Long-lasting friendships and values such as teamwork perseverance and discipline are also formed between the dancers as they learn from each other. 
 
 
 #### Achievements of the CCA:
