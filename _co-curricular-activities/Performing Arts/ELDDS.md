@@ -42,12 +42,10 @@ Overall, it was a year filled with new and exciting challenges and as the studen
 
 <img src="https://drive.google.com/uc?export=view&id=1dcwHuBGYvSw29rasxzZ8a8W0mlcN-xKO">
 
-  
 
 #### Achievements of the CCA:
 
 **Singapore Youth Festival 2021:** Arts Presentation - Certificate of Accomplishment
-
   
 
 #### Student Experiences:
