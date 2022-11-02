@@ -29,7 +29,9 @@ In basketball CCA, we believe in working hard and training together as a team ra
 
 ![](/images/Basketball1.jpg)
 
-This year was an exciting year when NSG resumed. With the relaxing of safe management measures, the Sec 4 Boys had the opportunity to play their first inter-school NSG games. Our B Division Boys made us proud by qualifying for the South Zone Inter-School Basketball Competition Quarter Finals.
+This year was an exciting year when NSG resumed. With the relaxing of safe management measures, the Sec 4 Boys had the opportunity to play their first inter-school NSG games. Our B Division Boys made us proud by qualifying for the South Zone Inter-School Basketball Competition Quarter Finals.<br>
+
+
 
 ![](/images/Basketball%202.jpg)
 
