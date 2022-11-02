@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS CINDY YEW (IC) <br> MS CHEN WEILING 	|
+| **TEACHERS-IN-CHARGE:** 	| MRS CINDY TAN (IC) <br> MS CHEN WEILING 	|
 
 |  	|  	|
 |---	|---	|
@@ -22,13 +22,15 @@ third_nav_title: Performing Arts
 
 #### Overview of the CCA:
 
-After spending several months attending CCA online last year, many club members were excited to attend CCA physically again. The CCA sessions began with the preparation for the Singapore Youth Festival (SYF) Presentation. Due to the uncertain pandemic situation, adjustments had to be constantly made to take into account the safe management measures. Nonetheless, the actors took all the changes in their stride to achieve a Certificate of Accomplishment. 
+This year, besides having two new instructors to coach the students, the club also had many opportunities to try out new things. In addition to acting skills, students also learnt how to dance as part of their exposure to musical.
 
-Besides preparing for SYF Presentation, club members also had to prepare for the Chinese New Year Concert, National Day Concert and Teachers’ Day Concert. They had to write the scripts, rehearse the scenes, record and edit the videos while juggling their studies. Even though the members were not able to perform in front of a live audience, there was no lacking of opportunities for members to try out a new platform for performance.
+With the easing of SMM, students also had a chance to perform in front of a live audience for the Aesthetics Night. Regenia and Jaedon co-wrote the script for the school’s Aesthetics Night performance which was well-received by the audience.
 
-Since the members were unable to go out and watch plays, the teachers brought the play “October’ to the members. Through watching the play, members had a better understanding of the issues faced by elderly. The lower secondary members also took part in the Artist in Residence project – a scriptwriting course – and interviewed some of the school alumni for the 60th anniversary video.
+The student-led Values-in-Action this year was conducted in collaboration with Queenstown Library. After weeks of rehearsal, the Secondary 3 students put up a short performance at the library for the children.
 
-Hopefully, as the restrictions ease next year, the members can go on more learning journeys and interact more with the community.
+After 2 long years, the club finally had a chance to go on a learning journey to the Esplanade and attended a show Assembly by Drama Box. Needless to say, the students thoroughly enjoyed themselves!
+
+Overall, it was a year filled with new and exciting challenges and as the students prepare for next year’s SYF, they continue to develop themselves holistically.
 
   
 
