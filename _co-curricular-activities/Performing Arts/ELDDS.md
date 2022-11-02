@@ -50,5 +50,5 @@ Overall, it was a year filled with new and exciting challenges and as the studen
 
 #### Student Experiences:
 
-“Drama was one of my greatest experiences in my secondary school life. I made many friends, across the different levels, who all have taught me different lessons to help me improve my confidence and skills. The very first session scared me as everyone seemed so skilled and talented but throughout the years, I learned to grow my confidence in an accepting environment. I am grateful for the experience I had with the club and hope that the club will continue to grow.”
-<br> **Hannah Ng, (401), President**
+*"My role as the President of Drama Club is a great honor to me. Being able to lead such amazing and passionate actors, and making so many precious memories with my members still seems unbelievable to me, and I would trade the world for a chance to experience it again..”
+<br>~Ang En (403)*
