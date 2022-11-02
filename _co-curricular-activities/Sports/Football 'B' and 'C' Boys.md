@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR CHOW JING KANG<br>MR BEN DAVID<br>MR SANTOKH SINGH 	|
+| **TEACHERS-IN-CHARGE:** 	| MR AJAIB SINGH<br>MR CHOW JING KANG<br>MR BEN DAVID<br>MS AUDREY WOO 	|
 
 |  	|  	|
 |---	|---	|
