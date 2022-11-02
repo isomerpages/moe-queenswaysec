@@ -21,9 +21,20 @@ third_nav_title: Uniformed Groups
 
 Queensway Girl Guides’ mission is to enable girls and young women to develop their fullest potential as responsible citizens of the world. In line with our motto, “Be Prepared”, our activities are designed to nurture responsibility and adaptability in our Guides. 
 
-  
+<img src="https://drive.google.com/uc?export=view&id=1eODs3G3WcJQfnkfY_-i8QBHk-r0joLCu">
 
-This year, our Guides continued to hone their leadership skills, via taking the lead in Unit and Patrol activities relating to a range of current issues, such as food sustainability, environmental conservation and cyber-wellness. The highlight of the year was the Guides camp, which took place online. Centred around the theme of “Finding Our Way Together”,  the camp aimed to help our Guides discover their strengths and forge stronger ties as a Unit. Over the course of the camp, our Guides learned about the importance of self-care, and showcased their creativity and talents in the areas of handicraft and gastronomy. 
+  
+This year, our Guides continued to hone their leadership skills, via taking the lead in Unit and Patrol activities relating to a range of current issues, such as food sustainability, environmental conservation and cyber-wellness. The highlight of the year was the Guides camp, which took place online. Centred around the theme of “Finding Our Way Together”,  the camp aimed to help our Guides discover their strengths and forge stronger ties as a Unit. Over the course of the camp, our Guides learned about the importance of self-care, and showcased their creativity and talents in the areas of handicraft and gastronomy. <br>
+
+<img src="https://drive.google.com/uc?export=view&id=1p-n2WTSJZN5NCgXuc1zr8h6gihCvucP_"><br>
+
+<img src="https://drive.google.com/uc?export=view&id=11qxY7Vwcs7BSt0hUeeKIgdnOCyWjKWJX"><br>
+
+<img src="https://drive.google.com/uc?export=view&id=1mBnyXWys-H-mxkkN9KX3Fd7smKrmMMk8">
+
+
+
+
 
 #### Achievements of the CCA:
 
