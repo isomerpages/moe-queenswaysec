@@ -16,8 +16,8 @@ third_nav_title: Sports
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **'B' DIVISION BOYS' CAPTAIN:** 	|   CHAN KEI YUEN, CHAD	|
-| **'B' DIVISION BOYS' VICE-CAPTAIN:** 	|         LUKE CHONG YONG EN	| 
+| **'B' DIVISION BOYS' CAPTAIN:** 	|   CHAN KEI YUEN, CHAD (404)|
+| **'B' DIVISION BOYS' VICE-CAPTAIN:** 	|         LUKE CHONG YONG EN (411)	| 
 
 | 	|  	|
 |---	|---	|
