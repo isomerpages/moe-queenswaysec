@@ -17,7 +17,6 @@ third_nav_title: Performing Arts
 | STUDENT LEADERS 	|  	|
 |---	|---	|
 | **PRESIDENT:** 	|   ALICIA YIP  (411)	|
-| **VICE-PRESIDENT:** 	|  	| 
 
 
 #### Overview of the CCA:
