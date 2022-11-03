@@ -4,12 +4,11 @@ permalink: /academics/mother-tongue-language/
 description: ""
 third_nav_title: Academic Departments
 ---
-
 ### Mother Tongue Language
 
 #### Department Mission
 
-To nurture Queenswayans to learn, understand and appreciate Mother Tongue languages and be immersed in the culture. 
+To nurture Queenswayans to learn, understand and appreciate Mother Tongue languages and be immersed in their own heritage and culture. 
 
 #### Signature Pedagogy
 
