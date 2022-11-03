@@ -77,17 +77,8 @@ Queensway Secondary emerged second in the South Zone B Division Championships  
 |Queensway| St Joseph’s Institution | 0 - 7 |
 |Queensway| St Andrew’s  | 2 - 0 |
 
-Queensway Secondary were third in their preliminary round group and thus did not advance to the next round. This young team has good potential and did well against much older and larger opponents. We should see them coming back strongly in the 2023 competition. They started off by beating Queenstown Secondary in the annual Queens Cup competition by 2-1.
-
-
-
-
-
-
-
-
-
-
+Queensway Secondary were third in their preliminary round group and thus did not advance to the next round. This young team has good potential and did well against much older and larger opponents. We should see them coming back strongly in the 2023 competition. They started off by beating Queenstown Secondary in the annual Queens Cup competition by <br>
+2-1.
 
 
 #### Student Experiences:
