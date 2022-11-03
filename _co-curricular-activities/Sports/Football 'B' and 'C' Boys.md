@@ -29,12 +29,40 @@ We took in 8 Direct School Admission (DSA) boys this year. At the same time 23 o
 
 <img src="https://drive.google.com/uc?export=view&id=1JHYw5IK9LOXyyarWVkPoQlv82cW2Fvri">
 
+#### Achievements of the CCA:
+
+**Results of the South Zone B Division Championships are as follows**:
+
+**South Zone B Division Preliminary Round**
 
 
 
+|  |  | Result |
+| -------- | -------- | -------- |
+| Queensway  | Kent Ridge   | 5 - 0  |
+|Queensway| Kuo Chuan | 5 - 1 |
+|Queensway| Ang Mo Kio | 9 - 1 |
+|Queensway| Queenstown | 8 - 0 |
+
+**South Zone B Division Quarter-Finals**
+
+|  |  | Result |
+| -------- | -------- | -------- |
+| Queensway  | ACS Barker  | 4 - 0  |
 
 
+ **South Zone B Division Semi-Finals**
 
+|  |  | Result |
+| -------- | -------- | -------- |
+| Queensway  | Serangoon Garden | 1 - 0  |
+
+
+**South Zone B Division Finals**
+
+|  |  | Result |
+| -------- | -------- | -------- |
+| Queensway  | Bartley   | 0 - 2  |
 
 
 #### Student Experiences:
