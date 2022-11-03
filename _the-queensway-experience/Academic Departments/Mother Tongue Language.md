@@ -30,8 +30,8 @@ To help Queenswayans explore the world beyond the texbooks, Extensive Reading ma
 ![](/images/Sec3%20ML%20(16).jpg)
 ##### MTL Talent Development Programme (Bilingualism and New Media) 
 
-Bilingual education is a cornerstone of our education system. QSS MTL Talent Development Programme strives to stretch our students and equip them with skills for the future world. We provide various platforms for our TDP students to experience being a news reporter, while honing basic translation skills. TDP students also get opportunities to have closer experiences with Mediacorp.
-
+Bilingual education is a cornerstone of our education system. QSS MTL Talent Development Programme strives to stretch our students and equip them with skills for the future world. We provide various platforms for our TDP students to experience being a news reporter, while honing basic translation skills. TDP students also get opportunities to have closer experiences with Mediacorp.<br>
+*Click [_here_](https://heyzine.com/flip-book/9c6e2d3b00.html)  for QSS bilingual e-newsletter, Connections 2022, a collaboration between Mother Tongue Language and English Language talent development programme students.*
   
 
 ##### Mother Tongue Fortnight 
