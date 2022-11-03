@@ -39,6 +39,8 @@ Bilingual education is a cornerstone of our education system. QSS MTL Talent Dev
 QSS Mother Tongue Fortnight provides an immersive environment for our students to appreciate their own traditions and those of their peers. For each cohort, students of the 3 different MTL learn about a specific tradition (e.g. weddings or traditional games) of their own heritage, before they have a cross-cultural sharing among the different MTL. Those who are attentive throughout the programme stand to win prizes, as each cohort completes the programme with a quiz.
 *Click [_here_](https://sites.google.com/moe.edu.sg/qss-mtl-bilingualism-tdp/mother-tongue-fortnight)  to view snippets of our MT fortnight experience.*<br>
 
+<img src="https://drive.google.com/uc?export=view&id=1A-0o6rVebSHS9oYIbp8XQ6i0t4yvCidy">
+
 <img src="https://drive.google.com/uc?export=view&id=1tYZwOrH_qPYZhhJWqxSk7BKksM-jMDdD"><br>
 
 <img src="https://drive.google.com/uc?export=view&id=1z7WXrxJNCnykjAB-w76lJFs_PH111e9q">
