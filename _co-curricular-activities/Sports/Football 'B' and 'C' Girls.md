@@ -71,15 +71,15 @@ Queensway Secondary emerged second in the National Championships for 2022. The t
 
 #### Student Experiences:
 
-“Football has taught me the value of determination. While there may be obstacles along the way, I should persevere through them, as these are opportunities for me to learn and grow.” 
-<br> **Ariesa Zahran Binte Junaidi (304), Football ‘B’ Girls’ Vice-Captain**
+*“Football has taught me the value of determination. While there may be obstacles along the way, I should persevere through them, as these are opportunities for me to learn and grow.” 
+<br> ~Ariesa Zahran Binte Junaidi (304), Football ‘B’ Girls’ Vice-Captain*
 
   
 
-“I learnt that football is about teamwork and it is important to have lots of communication with one another, both on and off the field. This is so we can understand each other better and improve our performance as a team.” 
-<br> **Irsalina Irwan (311)**
+*“I learnt that football is about teamwork and it is important to have lots of communication with one another, both on and off the field. This is so we can understand each other better and improve our performance as a team.” 
+<br> ~Irsalina Irwan (311)*
 
   
 
-“In these 2 years, I have learnt lots of new skills from being part of the Girls’ Football team. I have learnt how to play and work better with teammates. I really enjoyed the many bonding games and activities organised for us - they were so much fun!”
-<br>**Crystal Wu (212)**
+*“In these 2 years, I have learnt lots of new skills from being part of the Girls’ Football team. I have learnt how to play and work better with teammates. I really enjoyed the many bonding games and activities organised for us - they were so much fun!”
+<br>~Crystal Wu (212)*
