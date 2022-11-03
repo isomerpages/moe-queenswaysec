@@ -69,13 +69,6 @@ Queensway Secondary emerged second in the National Championships for 2022. The t
 |Queensway| Queenstown | 8 - 0 |
 
 
-
-
-
-
-
-
-
 #### Student Experiences:
 
 “Football has taught me the value of determination. While there may be obstacles along the way, I should persevere through them, as these are opportunities for me to learn and grow.” 
