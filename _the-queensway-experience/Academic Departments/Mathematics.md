@@ -22,7 +22,9 @@ B) Illustrate Problem-Solving Heuristics and nurture critical thinking skills th
 
 #### Mathematics Talent Programme
 
-Students with a flair for Mathematics will be able to develop their potential through our Mathematics Talent Programme. We cater to the Maths talents ranging from Secondary 1 to Secondary 3. Students are given the opportunity to hone their mathematics skills as well as developing critical thinking skills through the participation in various competitions.
+Students with a flair for Mathematics will be able to develop their potential through our Mathematics Talent Programme. We cater to the Maths talents ranging from Secondary 1 to Secondary 3. Students are given the opportunity to hone their mathematics skills as well as developing critical thinking skills through the participation in various competitions.<br>
+
+<img src="https://drive.google.com/uc?export=view&id=1lGyIdcFEyZ_KM3XPFE_kMLzjLgAbqciT">
 
 
 
