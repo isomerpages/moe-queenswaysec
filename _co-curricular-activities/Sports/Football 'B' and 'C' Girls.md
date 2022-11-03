@@ -34,9 +34,39 @@ third_nav_title: Sports
 
 #### Achievements of the CCA:
 
+**Results of the National School Games are as follows**:
+
+**National Schools Group Stage**
+
+|Team A  | Team B | Result |
+| -------- | -------- | -------- |
+| Queensway  | Tampines   | 3 - 1  |
+|Queensway|  Bowen | 1 - 1 |
+|Queensway| Dunman | 12 - 0 |
 
 
+**Semi-Finals**
 
+|Team A  | Team B | Result |
+| -------- | -------- | -------- |
+| Queensway  | Methodist   | 9 - 0  |
+
+
+**Finals**
+
+|Team A  | Team B | Result |
+| -------- | -------- | -------- |
+| Queensway  |  Meridian    | 3 - 6  |
+
+Queensway Secondary emerged second in the National Championships for 2022. The team received the colours award and were also pleasantly surprised to be given a windbreaker each through the kind generosity of two members of the school Alumni.
+
+
+|Team A  | Team B | Result |
+| -------- | -------- | -------- |
+| Queensway  | Kent Ridge   | 5 - 0  |
+|Queensway| Kuo Chuan | 5 - 1 |
+|Queensway| Ang Mo Kio | 9 - 1 |
+|Queensway| Queenstown | 8 - 0 |
 
 
 
