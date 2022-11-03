@@ -12,10 +12,11 @@ To nurture Queenswayans to learn, understand and appreciate Mother Tongue langua
 
 #### Signature Pedagogy
 
-##### Collaborative Learning Strategies and Thinking Routines
+##### Collaborative Learning through use of ICT
 
-In QSS, we believe that the acquisition of language is a holistic process that involves cognitive, social and affective skills. This better developed via collaboration. Thinking routines are a series of questions that would lead students to steps of critical thinking. It engages students to explore and delve into deeper conversations. Infusing thinking routines into collaborative learning strategies will improve communication skill and build confidence apart from stimulating learner autonomy. Undergoing this process, our students will be able to grow into responsible, competent and confident language users.
-
+Our Queenswayans undergo Project Work as one of their Weighted Assessments every year from Secondary 1 to 3. Through these Project Work, students research on real-life issues, and learn to communicate in their MTL to a designated audience, to achieve a specific purpose. Students will also hone their ICT skills as they produce digital artefacts through the process. 
+Click [_here_](https://sites.google.com/moe.edu.sg/qss-mtl-bilingualism-tdp/students-works?authuser=0)  to view students' works. 
+ 
 
 #### Special Programmes:
 ![](/images/Sec3%20ML%20(16).jpg)
