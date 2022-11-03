@@ -37,7 +37,7 @@ We took in 8 Direct School Admission (DSA) boys this year. At the same time 23 o
 
 
 
-|  |  | Result |
+|Team A  | Team B | Result |
 | -------- | -------- | -------- |
 | Queensway  | Kent Ridge   | 5 - 0  |
 |Queensway| Kuo Chuan | 5 - 1 |
@@ -46,21 +46,21 @@ We took in 8 Direct School Admission (DSA) boys this year. At the same time 23 o
 
 **South Zone B Division Quarter-Finals**
 
-|  |  | Result |
+|Team A  | Team B | Result |
 | -------- | -------- | -------- |
 | Queensway  | ACS Barker  | 4 - 0  |
 
 
  **South Zone B Division Semi-Finals**
 
-|  |  | Result |
+| Team A |Team B  | Result |
 | -------- | -------- | -------- |
 | Queensway  | Serangoon Garden | 1 - 0  |
 
 
 **South Zone B Division Finals**
 
-|  |  | Result |
+| Team A | Team B  | Result |
 | -------- | -------- | -------- |
 | Queensway  | Bartley   | 0 - 2  |
 
