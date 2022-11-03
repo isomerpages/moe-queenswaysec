@@ -64,6 +64,20 @@ We took in 8 Direct School Admission (DSA) boys this year. At the same time 23 o
 | -------- | -------- | -------- |
 | Queensway  | Bartley   | 0 - 2  |
 
+Queensway Secondary emerged second in the South Zone B Division Championships  for 2022. The school was also recognised with the Fair Play Award.  The team received the colours award and were also pleasantly surprised to be given a windbreaker each through the kind generosity of two members of the school Alumni. We hope to see the return of the National Championships next year as the boys look forward to another successful year.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Student Experiences:
 
