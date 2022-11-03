@@ -35,14 +35,11 @@ Bilingual education is a cornerstone of our education system. QSS MTL Talent Dev
   
 
 ##### Mother Tongue Fortnight 
-
+![](/images/Sec1%20TL%20(4).jpeg)
 QSS Mother Tongue Fortnight provides an immersive environment for our students to appreciate their own traditions and those of their peers. For each cohort, students of the 3 different MTL learn about a specific tradition (e.g. weddings or traditional games) of their own heritage, before they have a cross-cultural sharing among the different MTL. Those who are attentive throughout the programme stand to win prizes, as each cohort completes the programme with a quiz.
 *Click [_here_](https://sites.google.com/moe.edu.sg/qss-mtl-bilingualism-tdp/mother-tongue-fortnight)  to view snippets of our MT fortnight experience.*
 
-##### Mother Tongue Fortnight
-![](/images/Sec1%20TL%20(4).jpeg)
-QSS Mother Tongue Fortnight provides an immersive environment for our students to learn and appreciate the Mother Tongue Language and cultures. Opportunities are given to students to use their Mother Tongue Language in an authentic context and experience the cultures through various workshops and activities.
+##### DIY Resources
 
-
-**[Click here to read on the department's signature programmes and students' works.  
-](http://go.gov.sg/qssmtl)**
+In QSS, we believe that students can be self-directed learners. Therefore, teachers search and recommend media resources on our MTL webpage so that students have ample resources to help them learn their MTL at their own pace.
+*Click [_here_](https://sites.google.com/moe.edu.sg/qss-mtl-bilingualism-tdp/learn-diy/media-resources?authuser=0) for the list of recommended DIY resources.*
