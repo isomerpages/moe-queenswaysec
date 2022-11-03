@@ -17,6 +17,14 @@ To nurture Queenswayans to learn, understand and appreciate Mother Tongue langua
 Our Queenswayans undergo Project Work as one of their Weighted Assessments every year from Secondary 1 to 3. Through these Project Work, students research on real-life issues, and learn to communicate in their MTL to a designated audience, to achieve a specific purpose. Students will also hone their ICT skills as they produce digital artefacts through the process. 
 Click [_here_](https://sites.google.com/moe.edu.sg/qss-mtl-bilingualism-tdp/students-works?authuser=0)  to view students' works. 
  
+ 
+ ##### Intensive and Extensive Reading
+ 
+Sustained reading is key in developing language skills. Therefore, our department focuses on Intensive Reading to optimise learning from the MOE-designated texts. Teachers design blended lessons throughout the year, integrating ICT-enabled lessons (with the use of Quizizz & SLS) with traditional pen-and-paper practices (like penmanship & dictation). This ensures that our Queenswayans get a robust practice of reading, listening, speaking and writing in their MTL throughout their secondary education.
+
+To help Queenswayans explore the world beyond the texbooks, Extensive Reading materials are selected for each level, each stream to cater to students’ learning needs. Students will go through reading activities to help them connect with these books, and to help them realise the joy of reading. As part of our Morning Reading Programme, time is also allocated for students to delve into such MTL materials every Wednesday.
+Click [_here_](https://go.gov.sg/qssmtlreadingmaterials)  for the list of Extensive Reading materials. 
+ 
 
 #### Special Programmes:
 ![](/images/Sec3%20ML%20(16).jpg)
