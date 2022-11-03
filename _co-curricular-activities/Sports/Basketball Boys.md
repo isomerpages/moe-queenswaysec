@@ -12,7 +12,8 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **COACH:**|MR LIM KWEE CHAI 	|
+| **COACH:**| MR LIM KWEE CHAI 	|
+
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
