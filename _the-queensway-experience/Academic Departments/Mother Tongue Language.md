@@ -28,9 +28,9 @@ Click [_here_](https://go.gov.sg/qssmtlreadingmaterials)  for the list of Extens
 
 #### Special Programmes:
 ![](/images/Sec3%20ML%20(16).jpg)
-##### Bilingualism Programme
+##### MTL Talent Development Programme (Bilingualism and New Media) 
 
-Bilingual education is a cornerstone of our education system. QSS Bilingualism Programme aims to help prepare our children to plug into a globalized world and strengthen links to our Asian heritage. Guided by our teachers, students will hone their writing skills and publish their works in school publication. Students will also be provided platforms to participate in speaking and writing competitions, seminars and learning Journeys to ignite their passion and boost their confidence in the languages.
+Bilingual education is a cornerstone of our education system. QSS MTL Talent Development Programme strives to stretch our students and equip them with skills for the future world. We provide various platforms for our TDP students to experience being a news reporter, while honing basic translation skills. TDP students also get opportunities to have closer experiences with Mediacorp.
 
   
 
