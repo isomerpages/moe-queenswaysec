@@ -25,7 +25,9 @@ third_nav_title: Sports
 
 2022 was a good year for the girls as they were able to get to look forward to the National Sports Games (NSG) after a two year wait. The girls had worked hard in the beginning of the year to prepare themselves. There was great enthusiasm and spirit. From a squad of 33 players, 20 were chosen to represent the school in the National School Games. (NSG). Three of our players, Qarissa, Bernice and Abigail were also selected to be part of the National Football Academy (NFA) programme.  
 
+<img src="https://drive.google.com/uc?export=view&id=1DQqmtVFxa7bCHL1bbG978tZuqJs0CPQp"><BR>
 
+<img src="https://drive.google.com/uc?export=view&id=14t-kHgZPdQWwgoQDuuvHdFgcKLudMPCS">
 
 
 
