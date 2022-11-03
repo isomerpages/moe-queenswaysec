@@ -23,7 +23,7 @@ Click [_here_](https://sites.google.com/moe.edu.sg/qss-mtl-bilingualism-tdp/stud
 Sustained reading is key in developing language skills. Therefore, our department focuses on Intensive Reading to optimise learning from the MOE-designated texts. Teachers design blended lessons throughout the year, integrating ICT-enabled lessons (with the use of Quizizz & SLS) with traditional pen-and-paper practices (like penmanship & dictation). This ensures that our Queenswayans get a robust practice of reading, listening, speaking and writing in their MTL throughout their secondary education.
 
 To help Queenswayans explore the world beyond the texbooks, Extensive Reading materials are selected for each level, each stream to cater to students’ learning needs. Students will go through reading activities to help them connect with these books, and to help them realise the joy of reading. As part of our Morning Reading Programme, time is also allocated for students to delve into such MTL materials every Wednesday.
-Click [_here_](https://go.gov.sg/qssmtlreadingmaterials)  for the list of Extensive Reading materials. 
+*Click [_here_](https://go.gov.sg/qssmtlreadingmaterials)  for the list of Extensive Reading materials.* 
  
 
 #### Special Programmes:
@@ -37,6 +37,7 @@ Bilingual education is a cornerstone of our education system. QSS MTL Talent Dev
 ##### Mother Tongue Fortnight 
 
 QSS Mother Tongue Fortnight provides an immersive environment for our students to appreciate their own traditions and those of their peers. For each cohort, students of the 3 different MTL learn about a specific tradition (e.g. weddings or traditional games) of their own heritage, before they have a cross-cultural sharing among the different MTL. Those who are attentive throughout the programme stand to win prizes, as each cohort completes the programme with a quiz.
+*Click [_here_](https://sites.google.com/moe.edu.sg/qss-mtl-bilingualism-tdp/mother-tongue-fortnight)  to view snippets of our MT fortnight experience.*
 
 ##### Mother Tongue Fortnight
 ![](/images/Sec1%20TL%20(4).jpeg)
