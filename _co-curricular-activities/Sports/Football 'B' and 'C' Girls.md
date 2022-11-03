@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR AJAIB SINGH (IC)<br>MS JOSEPHINE LIM<br>MS ASHLEY WONG 	|
+| **TEACHERS-IN-CHARGE:** 	| MR AJAIB SINGH (IC)<br>MR SANTOKH SINGH 	 GILL|
 
 |  	|  	|
 |---	|---	|
