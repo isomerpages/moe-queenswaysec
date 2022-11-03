@@ -23,11 +23,7 @@ third_nav_title: Sports
 
 #### Overview of the CCA: 
 
-Due to the Covid-19 situation, we were unable to compete in school competitions. Yet, the girls remained resilient and enthusiastic in the face of these challenges. They continued to train diligently under the guidance of their coach, Ms Merah. We are proud of six of our Football girls, who were included in the National U-16 football team.
-
-In Semester 2, in-person training was replaced by virtual Zoom sessions as we transitioned from the field to e-CCA. Nevertheless, the girls are looking forward to returning to the field and competitive football in 2022. 
-
-  
+2022 was a good year for the girls as they were able to get to look forward to the National Sports Games (NSG) after a two year wait. The girls had worked hard in the beginning of the year to prepare themselves. There was great enthusiasm and spirit. From a squad of 33 players, 20 were chosen to represent the school in the National School Games. (NSG). Three of our players, Qarissa, Bernice and Abigail were also selected to be part of the National Football Academy (NFA) programme.  
 
 #### Student Experiences:
 
