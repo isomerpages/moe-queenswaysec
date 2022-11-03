@@ -24,8 +24,9 @@ B) Illustrate Problem-Solving Heuristics and nurture critical thinking skills th
 
 Students with a flair for Mathematics will be able to develop their potential through our Mathematics Talent Programme. We cater to the Maths talents ranging from Secondary 1 to Secondary 3. Students are given the opportunity to hone their mathematics skills as well as developing critical thinking skills through the participation in various competitions.<br>
 
-<img src="https://drive.google.com/uc?export=view&id=1lGyIdcFEyZ_KM3XPFE_kMLzjLgAbqciT">
+<img src="https://drive.google.com/uc?export=view&id=1lGyIdcFEyZ_KM3XPFE_kMLzjLgAbqciT"><br>
 
+<img src="https://drive.google.com/uc?export=view&id=1a0Xks9Iyk1mO8mk9r18UsgLca7u25YNY">
 
 
 | Competition | Achievement |  |
@@ -37,10 +38,11 @@ Students with a flair for Mathematics will be able to develop their potential th
 |     |      | SUBRAMANIAM SAMINATHAN SURESH(202) |
 
 
- <img src="/images/math2.png" style="100%"> 
+
 
 #### Maths Trail
 
+ <img src="/images/math2.png" style="100%"> <br>
 The Maths Trail aims to popularise Mathematics through out-of-school activities. By providing opportunities for doing mathematics out of school, it allows students to spend time to think of Maths and relate Maths to real life scenarios.<br>
 <img src="https://drive.google.com/uc?export=view&id=1jQYvPkRsMP7dsuLaJ2uzEzq2nItaCYOx"><br>
 
