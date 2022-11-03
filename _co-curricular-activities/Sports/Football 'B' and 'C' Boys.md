@@ -21,26 +21,13 @@ third_nav_title: Sports
 | **FOOTBALL 'C' BOYS CAPTAIN:** 	| TAN YU MING TRAVIS (204)	|
 | **FOOTBALL 'C' BOYS VICE-CAPTAIN:** 	| HAZIEL FAZRIEN BIN FAIZAL (211)	|
 
-2021 was a difficult year for the Boys’ Football team. Unfortunately, due to the COVID-19 pandemic, we were unable to participate in the National School Games or the other tournaments that we usually compete in. 
+2022 proved to be an eventful year for the boys. They had been training very hard through the December holidays and were engaged in an intensive ActiveSg futsal tournament in February and March this year in preparation for the National School Games (NSG). Out of our squad of 29 players, 23 were selected to represent the school. The boys were confident of playing well for the school and were focused and disciplined in achieving their goals.
 
-  
+<img src="https://drive.google.com/uc?export=view&id=1L5j0P-CSDJqPyjgYoI5k-ELIaDASJKMS"><br>
 
-However, there were still some bright moments in the year. We welcomed our new Secondary One cohort, who impressed us with their vigour and enthusiasm even during these tough times. 
-
-  
-
-We also said farewell to our Secondary Four cohort, and while it is unfortunate that they could not lead us out in the National School Games one more time, we thank them for their leadership and effort, and wish them all the best for their national exams. 
-
-  
-
-Finally, Queensway Secondary Boys’ Football team will be participating in an MOE training pilot over the school holidays, and we are excited to have the opportunity to train together in person once again. We look forward to 2022 and to show the fruits of our training in competition once more.
-
-<img src="https://drive.google.com/uc?export=view&id=1L5j0P-CSDJqPyjgYoI5k-ELIaDASJKMS">
-
+We took in 8 Direct School Admission (DSA) boys this year. At the same time 23 of our squad of 36 players were in Secondary 1. The final team of 20 selected to represent the school comprised 12 Secondary 1 students and 8 Secondary 2 students. The players went through rigorous preparation training. They were also involved in an ActiveSg futsal tournament in Term 1 to prepare them for the tournament. The school was also excited to be part of the Unleash the Roar – an initiative to identify and develop young talent in Singapore schools. 19 students were identified and came under the School Football Academy (SFA) programme. Our captain Travis was selected as one of the players under this programme to travel to Munich and Madrid from 5th November to 3rd December 2022. We wish him all the best and we will continue to support this programme going forward.
 
 <img src="https://drive.google.com/uc?export=view&id=1JHYw5IK9LOXyyarWVkPoQlv82cW2Fvri">
-
-
 
 
 #### Student Experiences:
