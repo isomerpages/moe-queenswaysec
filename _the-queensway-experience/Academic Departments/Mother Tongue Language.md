@@ -34,9 +34,9 @@ Bilingual education is a cornerstone of our education system. QSS MTL Talent Dev
 
   
 
-##### MTL Talent Development Programme
+##### Mother Tongue Fortnight 
 
-QSS MTL Talent Development Programme strives to enhance our students' language proficiency to prepare them for today's globalised world. To guide the students in their journey of delving into MTL languages, we provide various platforms for our students to horn their language skills and showcase their talents.
+QSS Mother Tongue Fortnight provides an immersive environment for our students to appreciate their own traditions and those of their peers. For each cohort, students of the 3 different MTL learn about a specific tradition (e.g. weddings or traditional games) of their own heritage, before they have a cross-cultural sharing among the different MTL. Those who are attentive throughout the programme stand to win prizes, as each cohort completes the programme with a quiz.
 
 ##### Mother Tongue Fortnight
 ![](/images/Sec1%20TL%20(4).jpeg)
