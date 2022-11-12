@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR LEONG WEI JIE ALVIN (OFFICER COMMANDING) <BR> MS QUEK YU PIN 	|
+| **TEACHERS-IN-CHARGE:** 	| MR LEONG WEI JIE ALVIN (OFFICER COMMANDING) <BR> MS ANG MENG LI	|
 
 
 |  	|  	|
