@@ -8,7 +8,7 @@ third_nav_title: Clubs and Societies
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	|  MR AARON ONG (IC) <br> MRS PANG FOOK HOE <br> MR ZAIREE SALLAI 	|
+| **TEACHERS-IN-CHARGE:** 	|  MR AARON ONG (IC) <br> MS YANG YI 	|
 
 
 | STUDENT LEADERS 	|  	|
