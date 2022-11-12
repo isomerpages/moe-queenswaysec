@@ -4,11 +4,8 @@ permalink: /programmes/secondary-one-science-talent-development-programme/
 description: ""
 third_nav_title: Talent Development Programmes
 ---
+###  Science Talent Development Programme
 
-
-### Secondary One Science Talent Development Programme
-
-#### BRIEF SUMMARY OF EVENTS / ACHEIVEMENTS  
 
 The Science Talent Development Programme aims to deepen students’ love of science. The programme provides opportunities for students to carry out hands-on experiments, helping them to acquire useful data collection skills. Students also learn to collaborate effectively, as they need to communicate information and ideas clearly in their teams.
 
@@ -19,6 +16,8 @@ Using the principle of density, students created a lava lamp. They also learned 
   
 
 Other highlights of the Science TDP involve science ‘missions’, where students are challenged to put their problem-solving skills to the test and generate novel ideas, ranging from the creation of an egg lander, to creating a catapult made of ice cream sticks, as well as constructing a bridge from straws. 
+
+We believe that a love for Science should transcend academic grades. Hence, students are invited to participate based on their interest, passion and aptitude. Lower Secondary students are given opportunities to develop their communication skills and to look at the world around them critically through mini-experiments which require them to apply simple Science concepts. Upper Sec students are trained to represent the school in competitions such as the Junior Olympiads for Biology, Chemistry and Physics and the National Science Challenge.  
 
 #### Student Experiences:
 
@@ -32,15 +31,3 @@ _Ethan Kang_<br>
 
 <img src="/images/cce8.png" style="width:60%">
 
-We believe that a love for Science should transcend academic grades. Hence, students are invited to participate based on their interest, passion and aptitude. Lower Secondary students are given opportunities to develop their communication skills and to look at the world around them critically through mini-experiments which require them to apply simple Science concepts. Upper Sec students are trained to represent the school in competitions such as the Junior Olympiads for Biology, Chemistry and Physics and the National Science Challenge.  
-
-  
-
-In 2020, our students have done us proud by attaining the following achievements:
-
-| Competition 	| Achievement 	|
-|:---:	|:---:	|
-| Singapore Junior Physics Olympiad 	| 2 Bronzes, 1 Honourable Mention 	|
-| Singapore Junior Biology Olympiad 	| TBC 	|
-|  Singapore Junior Chemistry Olympiad 	|  Cancelled due to Covid-19 	|
-|  National Science Challenge 	|  TBC 	|
