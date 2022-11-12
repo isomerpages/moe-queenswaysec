@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS. JOANNE LOO <br> MS. KASTHURI 	DEVARAJ|
+| **TEACHERS-IN-CHARGE:** 	| MS. JOANNE LOO <br> MRS KASTHURI 	DAVARAJ<br>MRS ISABEL WONG|
 
 |  	|  	|
 |---	|---	|
@@ -24,7 +24,7 @@ third_nav_title: Performing Arts
 
 ![](/images/Mordern%20Dance%202-20220901_185450%20-%20Joanne%20Loo.jpg)
 
-The modern dance girls performed at various school events in 2022 such as the CCA Fair, Chinese New Year, teachers’ day and Aesthetics Night. The girls’ passion was evident in their performances, and made the CCA a popular one amongst Sec 1 girls. The new dancers joined their seniors in preparing for the team’s biggest performance of the year at the school’s Aesthetics Night. It was an exhilarating journey for the girls as they pushed themselves out of their comfort zone to train for their very first public performance. The result? A beautiful performance they can be proud of for years to come.
+Although relatively new as a CCA, our Modern Dance club has made their mark on Queensway through their exciting performances. Our dancers have a passion for the art form and are given numerous opportunities to showcase their skills in front of audiences at events such as Speech Day and the school Aesthetics Night. In 2023, Modern Dance is looking forward to making their debut at the Singapore Youth Festival!
 
 ![](/images/Modern%20Dance%201-Teachers%20Day%20Performance%202022%20%20-%20Joanne%20Loo.png)
 
@@ -32,7 +32,6 @@ The modern dance girls performed at various school events in 2022 such as the CC
 
 *"As we are a relatively new CCA, Aesthenics Night was only our second time performing live. It was also my first dance performance in front of my family members and friends. We practiced for months and put in a lot of effort to make the show memorable and enjoyable, and I'm glad it was not in vain. Hearing the cheers and claps from our supporters made it a really unforgettable memory."                                    
 ~Judith Kwa*
-
 
 *"The CCA Fair performance at the start of the year was our first live performance. Although only the Sec Ones saw it, I still felt very accomplished as the performance went well and we gained many new members despite being a new CCA. The preparation was tiring and we were so busy that week but we all did our part to make it work."  
 ~Nyguen*
