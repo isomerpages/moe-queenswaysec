@@ -17,5 +17,4 @@ sections:
         - title: Open House 2022
           description: ""
           url: https://sites.google.com/moe.edu.sg/qssopenhouse2022
-      background: /images/Welcome to Queensway Secondary School! (1).png
 ---
