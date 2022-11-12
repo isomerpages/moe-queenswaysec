@@ -51,6 +51,8 @@ third_nav_title: Our People
 |  	| Ms Audrey Chua 	| [chua\_sing\_li\_audrey@schools.gov.sg](mailto:chua_sing_li_audrey@schools.gov.sg) 	|
 |  	| Ms Natalie Feng 	| [feng\_hui\_er@schools.gov.sg](mailto:feng_hui_er@schools.gov.sg) 	|
 |  	| Ms Tharshini Karthigesan 	| [tharshini\_karthigesan@schools.gov.sg](mailto:tharshini_karthigesan@schools.gov.sg) 	|
+|  	| Ms Quek Yu Pin 	| [quek\_yu\_pin@schools.gov.sg](mailto:quek_yu_pin@schools.gov.sg) 	|
+|  	| Mr Chow Jing Kang 	| [chow\_jing\_kang@schools.gov.sg](mailto:chow_jing_kang@schools.gov.sg) 	|
 |  	| 	| 	|
 
 #### Mother Tongue Languages
@@ -64,11 +66,13 @@ third_nav_title: Our People
 |   	| Ms Chia Hui Jun 	| [chia\_hui\_jun@schools.gov.sg](mailto:chia_hui_jun@schools.gov.sg) 	|
 |   	| Mdm Esther 	| [makaisvery\_esther\_periak\_a@schools.gov.sg](mailto:makaisvery_esther_periak_a@schools.gov.sg) 	|
 |   	| Ms Zhang Yi 	| [zhang\_yi\_a@schools.gov.sg](mailto:zhang_yi_a@schools.gov.sg) 	|
+|   	| Ms Yang Yi 	| [yang\_yi\@schools.gov.sg](mailto:yang_yi@schools.gov.sg) 	|
 |   	| Mdm Kartini Bte Djoeraemi 	| [kartini\_djoeraemi@schools.gov.sg](mailto:kartini_djoeraemi@schools.gov.sg) 	|
 |   	| Mdm Zheng Xiumin 	| [zheng\_xiumin@schools.gov.sg](mailto:zheng_xiumin@schools.gov.sg) 	|
 |   	| Mr Senan b Long 	| [senan\_b\_long@schools.gov.sg](mailto:senan_b_long@schools.gov.sg) 	|
 |   	| Mr Ernest Fok  	| [fok\_chee\_wel@schools.gov.sg](mailto:fok_chee_wel@schools.gov.sg) 	|
 |   	| Mdm Ulaganathan Karpagam  	| [ulaganathan\_karpagam@schools.gov.sg](mailto:ulaganthan_karpagam@schools.gov.sg) 	|
+|   	| Ms Ang Meng Li  	| [ang_meng_li@schools.gov.sg](mailto:ang_meng_li@schools.gov.sg) 	|
 
 #### Mathematics
 
@@ -85,6 +89,9 @@ third_nav_title: Our People
 |   	| Ms Philynn Tan  	| [tan\_hong\_bee\_philynn@schools.gov.sg](mailto:tan_hong_bee_philynn@schools.gov.sg) 	|
 |   	| Ms Looi Tse Theng 	| [looi\_tse\_theng@schools.gov.sg](mailto:looi_tse_theng@schools.gov.sg) 	|
 |   	| Ms Brenda Lim  	| [lim\_jing\_qi\_brenda@schools.gov.sg](mailto:lim_jing_qi_brenda@schools.gov.sg) 	|
+|   	| Mr Jonathan Tom Ho  	| [ho\_hai\_long\@schools.gov.sg](mailto:ho_hai_long@schools.gov.sg) 	|
+|   	| Mr Paul Lai  	| [paul_lai_chyi_shyan@schools.gov.sg](mailto:paul_lai_chyi_shyan@schools.gov.sg) 	|
+|   	| Mr Gilbert Tan 	| [gilbert_tan_wei_beng@schools.gov.sg](mailto:gilbert_tan_wei_beng@schools.gov.sg) 	|
 |   	|  	| 	|
 
 #### Science
@@ -101,6 +108,7 @@ third_nav_title: Our People
 |   	| Mr Jimmy Ong  	| [ong\_meng\_guan\_jimmy@schools.gov.sg](mailto:ong_meng_guan_jimmy@schools.gov.sg) 	|
 |   	| Mdm Lim Swee Kheng	| [lim\_swee\_kheng@schools.gov.sg](mailto:lim_swee_kheng@schools.gov.sg) 	|
 |   	| Ms Veronica How	| [how\_xin\_yi\_veronica@schools.gov.sg](mailto:how_xin_yi_veronica@schools.gov.sg) 	|
+|   	| Ms Kala Devi	| [kala_devi_santha_kumar@schools.gov.sg](mailto:kala_devi_santha_kumar@schools.gov.sg) 	|
 
 #### PE & CCA
 
