@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR BEN DAVID NAZARETH<br>MDM KARTINI 	|
+| **TEACHERS-IN-CHARGE:** 	| MDM KARTINI<BR>MR BEN DAVID<BR>MR SAMAD<BR>MR SANTOKH SINGH 	|
 
 |  	|  	|
 |---	|---	|
