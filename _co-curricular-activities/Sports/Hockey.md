@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR GERARD DANKER (IC)
+| **TEACHERS-IN-CHARGE:** 	| MR GERARD DANKER (IC)<BR>MISS AUDREY CHUA<BR>MR AJAIB SINGH
 
 |  	|  	|
 |---	|---	|
