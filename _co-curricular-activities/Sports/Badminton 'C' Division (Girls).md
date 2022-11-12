@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS FINNA LEE <br>MR CHIA YEW HWEE |
+| **TEACHERS-IN-CHARGE:** 	| MR CHIA YEW HWEE <br>MDM TOH SIEW LAN<br>MDM ULAGANATHAN KARPAGAM|
 
 
 | STUDENT LEADERS 	|  	|
