@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR GERARD DANKER (IC)<br>MR RAMALINGAM NAGARAJAN 	|
+| **TEACHERS-IN-CHARGE:** 	| MR GERARD DANKER (IC)
 
 |  	|  	|
 |---	|---	|
@@ -25,6 +25,8 @@ third_nav_title: Sports
 
 The Hockey CCA promotes the partnership between Queensway Secondary School and ACS (Barker Road) where both schools are represented in the National School Games as one combined team. This unique partnership allows not one but two combined teams to be represented in the National School Games. Although the boys come from two schools with different cultures and backgrounds, both share the common aim to participate in the spirit of friendship and camaraderie.
 
+In 2023, we look forward to starting a Girls' team to further our drive for excellence. 
+
 <img src="https://drive.google.com/uc?export=view&id=1sMvx0Zz46BxRIRoH3f3r2kqOQTc5j1Oy"><br>
 
 <img src="https://drive.google.com/uc?export=view&id=1i21GPSxEniDjydJl0nddRaRXi8cVVMQE"><br>
@@ -35,7 +37,7 @@ The Hockey CCA promotes the partnership between Queensway Secondary School and A
 
 
 #### Achievements of the CCA:
-National School Games 2022 C Division: National 3rd position
+This year, our C Division boys did the school proud by achieving 3rd place in the National School Games, toppling many traditional powerhouses of the game along the way.
 
 
 #### Student Experiences:
@@ -46,7 +48,7 @@ National School Games 2022 C Division: National 3rd position
   
 
 *“My experience in hockey began in Cantonment Primary School where I won a medal in the National School Games. My interest and potential in the sport have since grown as I am developing more skills. I have also made many new friends.”
-<br> Muhammad Zaeem (412)*<br>
+<br> Muhammad Zaeem (312)*<br>
 
 *“A year's experience in hockey for me was great and enjoyable. A bit similar to soccer but the difference is that we use a stick and it has many complicated rules. It requires much stamina and need consistent effort to keep up with the CCA training.”
 <br>~Shuan Yeoh (213)*<br>
