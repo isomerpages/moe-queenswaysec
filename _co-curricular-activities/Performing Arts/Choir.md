@@ -21,7 +21,9 @@ third_nav_title: Performing Arts
 
 #### Overview of the CCA:   
 
-Choir put up performances for Inaugural Assembly, Chinese New Year, Speech Day, Aesthetics Night, National Day. We also went on a Learning Journey to watch a concert at The Art House. We performed at CHIJMES during the September holidays and will also be taking part in a choir exchange programme in November where our choir will be performing with a number of other choirs on the same stage.
+Queensway's Choir seeks to inculcate not just a passion for music in our students but also develop their character through our activities.
+
+This year, the Choir put up a number of performances at the Inaugural Assembly, Chinese New Year concert, Speech Day concert, Aesthetics Night and National Day concert. We also went on a learning journey to watch a concert at The Art House. We performed at CHIJMES during the September holidays and will also be taking part in a choir exchange programme in November where our choir will be performing with several other choirs on the same stage.
 
 <img src="https://drive.google.com/uc?export=view&id=1FTWDzBv8wE-H9eGTWO5h8EoraPx_u91A"><br>
 
