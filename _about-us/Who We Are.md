@@ -20,7 +20,6 @@ Discipline • Respect • Responsibility • Excellence
 
 #### Our School Song
 
-Insert audio clip here.
 
 We are proud to proclaim
 <br>We are Queenswayans in name
