@@ -16,6 +16,8 @@ third_nav_title: Clubs and Societies
 | **PRESIDENT:** 	|   SARAH NUHA BINTE SURAIMI (404)	|
 | **VICE-PRESIDENT:** 	|  	|
 
+*Note: This CCA will not be accepting new students in 2023.*
+
 #### Overview of the CCA:
 
 This year, the Art Club embarked on the Wall Mural Painting Project, which spanned two months. Our members brainstormed ideas and worked as a team to come up with the design and paint the mural. Besides that, the Club took part in school-related activities, such as designing a T-shirt for the 60th Anniversary, participating in Logo Design competitions and creating souvenirs for school functions. Additionally, members participated in external competitions like the Organ Donation Awareness Art Competition and SYF goes Online 2021 Art Labs. These activities provide opportunities for our members to showcase their creativity, as well as develop their character, leadership and communication skills.  
