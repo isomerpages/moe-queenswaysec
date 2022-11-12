@@ -61,7 +61,6 @@ third_nav_title: Our People
 | HOD ICT 	| Ms June Tan  	| [june\_tan\_teck\_yoong@schools.gov.sg](mailto:june_tan_teck_yoong@schools.gov.sg) 	|
 | ST, Chinese 	| Ms Low Xin Yee 	| [low\_xin\_yee@schools.gov.sg](mailto:low_xin_yee@schools.gov.sg) 	|
 | SH, ML & TL 	| Ms Iryantee Bte Jaffar 	| [iryantee\_jaffar@schools.gov.sg](mailto:iryantee_jaffar@schools.gov.sg) 	|
-|  	| 	|
 |   	| Ms Chia Hui Jun 	| [chia\_hui\_jun@schools.gov.sg](mailto:chia_hui_jun@schools.gov.sg) 	|
 |   	| Mdm Esther 	| [makaisvery\_esther\_periak\_a@schools.gov.sg](mailto:makaisvery_esther_periak_a@schools.gov.sg) 	|
 |   	| Ms Zhang Yi 	| [zhang\_yi\_a@schools.gov.sg](mailto:zhang_yi_a@schools.gov.sg) 	|
@@ -75,40 +74,41 @@ third_nav_title: Our People
 
 |  	|  	|  	|
 |---	|---	|---	|
-| HOD Mathematics 	| Mrs Sheryl Soh  	| [sim\_kim\_choo@moe.edu.sg](mailto:sim_kim_choo@moe.edu.sg) 	|
-| HOD CCE 	| Mr Ivan Ho  	| [ho\_chong\_huat@moe.edu.sg](mailto:ho_chong_huat@moe.edu.sg) 	|
-| SH, Student Well-being 	| Mr Chua Kee Eng 	| [chua\_kee\_eng@moe.edu.sg](mailto:chua_kee_eng@moe.edu.sg) 	|
-| SH, Mathematics 	| Ms Lily Choo          	| [choo\_li\_chin\_lily@moe.edu.sg](mailto:choo_li_chin_lily@moe.edu.sg) 	|
-| ST, Mathematics 	| Mdm Toh Siew Lan 	| [toh\_siew\_lan@moe.edu.sg](mailto:toh_siew_lan@moe.edu.sg) 	|
-| AYH, Upper Sec 	| Ms Chen Zhiyun 	| [chen\_zhiyun@moe.edu.sg](mailto:chen_zhiyun@moe.edu.sg) 	|
-|   	| Mr Chng Eng Peng 	| [chng\_eng\_peng@moe.edu.sg](mailto:chng_eng_peng@moe.edu.sg) 	|
-|   	| Mr Tham Yu Hsuan 	| [tham\_yu\_hsuan@moe.edu.sg](mailto:tham_yu_hsuan@moe.edu.sg) 	|
-|   	| Ms Philynn Tan  	| [tan\_hong\_bee\_philynn@moe.edu.sg](mailto:tan_hong_bee_philynn@moe.edu.sg) 	|
-|   	| Ms Looi Tse Theng 	| [looi\_tse\_theng@moe.edu.sg](mailto:looi_tse_theng@moe.edu.sg) 	|
+| HOD Mathematics 	| Mrs Sheryl Soh  	| [sim\_kim\_choo@schools.gov.sg](mailto:sim_kim_choo@schools.gov.sg) 	|
+| HOD CCE 	| Mr Ivan Ho  	| [ho\_chong\_huat@schools.gov.sg](mailto:ho_chong_huat@schools.gov.sg) 	|
+| SH, Student Well-being 	| Mr Chua Kee Eng 	| [chua\_kee\_eng@schools.gov.sg](mailto:chua_kee_eng@schools.gov.sg) 	|
+| SH, Mathematics 	| Ms Lily Choo          	| [choo\_li\_chin\_lily@schools.gov.sg](mailto:choo_li_chin_lily@schools.gov.sg) 	|
+| ST, Mathematics 	| Mdm Toh Siew Lan 	| [toh\_siew\_lan@schools.gov.sg](mailto:toh_siew_lan@schools.gov.sg) 	|
+| AYH, Lower Sec 	| Ms Chen Zhiyun 	| [chen\_zhiyun@schools.gov.sg](mailto:chen_zhiyun@schools.gov.sg) 	|
+|   	| Mr Chng Eng Peng 	| [chng\_eng\_peng@schools.gov.sg](mailto:chng_eng_peng@schools.gov.sg) 	|
+|   	| Mr Tham Yu Hsuan 	| [tham\_yu\_hsuan@schools.gov.sg](mailto:tham_yu_hsuan@schools.gov.sg) 	|
+|   	| Ms Philynn Tan  	| [tan\_hong\_bee\_philynn@schools.gov.sg](mailto:tan_hong_bee_philynn@schools.gov.sg) 	|
+|   	| Ms Looi Tse Theng 	| [looi\_tse\_theng@schools.gov.sg](mailto:looi_tse_theng@schools.gov.sg) 	|
 |   	|  	| 	|
 
 #### Science
 
 |  	|  	|  	|
 |---	|---	|---	|
-| HOD Science 	| Ms Tong Ai Li          	| [tong\_ai\_li@moe.edu.sg](mailto:tong_ai_li@moe.edu.sg) 	|
-| School Staff Developer 	| Ms Tan Yen Nee 	| [tan\_yen\_nee\_a@moe.edu.sg](mailto:tan_yen_nee_a@moe.edu.sg) 	|
-| HOD Student Management 	| Ms Jasmine Tay  	| [tay\_ya\_mei\_jasmine@moe.edu.sg](mailto:tay_ya_mei_jasmine@moe.edu.sg) 	|
+| HOD Science 	| Ms Tong Ai Li          	| [tong\_ai\_li@schools.gov.sg](mailto:tong_ai_li@schools.gov.sg) 	|
+| School Staff Developer 	| Ms Tan Yen Nee 	| [tan\_yen\_nee\_a@schools.gov.sg](mailto:tan_yen_nee_a@schools.gov.sg) 	|
+| HOD Student Management 	| Ms Jasmine Tay  	| [tay\_ya\_mei\_jasmine@schools.gov.sg](mailto:tay_ya_mei_jasmine@schools.gov.sg) 	|
 | 	|  	|	|
-| SH, Physics| Ms Shirley Tay 	| [shirley\_tay@moe.edu.sg](mailto:shirley_tay_li_hui@moe.edu.sg) 	|
-|     	| Ms Stella Goh 	| [stella\_goh@moe.edu.sg](mailto:stella_goh@moe.edu.sg) 	|
-|   	| Mrs Pang Fook Hoe 	| [lam\_fook\_hoe@moe.edu.sg](mailto:lam_fook_hoe@moe.edu.sg) 	|
-|   	| Ms Finna Lee  	| [lee\_mei\_teng\_finna@moe.edu.sg](mailto:lee_mei_teng_finna@moe.edu.sg) 	|
-|   	| Mr Jimmy Ong  	| [ong\_meng\_guan\_jimmy@moe.edu.sg](mailto:ong_meng_guan_jimmy@moe.edu.sg) 	|
-
+| SH, Physics| Ms Shirley Tay 	| [shirley\_tay@schools.gov.sg](mailto:shirley_tay_li_hui@schools.gov.sg) 	|
+|     	| Ms Stella Goh 	| [stella\_goh@schools.gov.sg](mailto:stella_goh@schools.gov.sg) 	|
+|   	| Mrs Pang Fook Hoe 	| [lam\_fook\_hoe@schools.gov.sg](mailto:lam_fook_hoe@schools.gov.sg) 	|
+|   	| Ms Finna Lee  	| [lee\_mei\_teng\_finna@schools.gov.sg](mailto:lee_mei_teng_finna@schools.gov.sg) 	|
+|   	| Mr Jimmy Ong  	| [ong\_meng\_guan\_jimmy@schools.gov.sg](mailto:ong_meng_guan_jimmy@schools.gov.sg) 	|
+|   	| Mdm Lim Swee Kheng	| [lim\_swee\_kheng@schools.gov.sg](mailto:lim_swee_kheng@schools.gov.sg) 	|
 
 #### PE & CCA
 
 |  	|  	|  	|
 |---	|---	|---	|
-| HOD PE & CCA 	| Mr Justin Lloyd Fernandez 	| [justin\_lloyd\_fernandez@moe.edu.sg](mailto:justin_lloyd_fernandez@moe.edu.sg) 	|
-| YH, Upper Sec 	| Mr Feroz Ali 	| [feroz\_ali@moe.edu.sg](mailto:feroz_ali@moe.edu.sg) 	|
-| SH, PE LS & Outdoor Ed 	| Ms Teo Yong Chin 	| [teo\_yong\_chin@moe.edu.sg](mailto:teo_yong_chin@moe.edu.sg) 	|
-| AYH, Lower Sec 	| Mr Yeo Choon Hwa 	| [yeo\_choon\_hwa@moe.edu.sg](mailto:yeo_choon_hwa@moe.edu.sg) 	|
-|  	| Mr Ben David Nazareth 	| [ben\_david\_nazareth@moe.edu.sg](mailto:ben_david_nazareth@moe.edu.sg) 	|
-|  	| Mr Danker Gerard Martin 	| [gerard\_danker@moe.edu.sg](mailto:gerard_danker@moe.edu.sg) 	|
+| HOD PE & CCA 	| Mr Justin Lloyd Fernandez 	| [justin\_lloyd\_fernandez@schools.gov.sg](mailto:justin_lloyd_fernandez@schools.gov.sg) 	|
+| YH, Upper Sec 	| Mr Feroz Ali 	| [feroz\_ali@schools.gov.sg](mailto:feroz_ali@schools.gov.sg) 	|
+| SH, PE LS & Outdoor Ed 	| Ms Teo Yong Chin 	| [teo\_yong\_chin@schools.gov.sg](mailto:teo_yong_chin@schools.gov.sg) 	|
+| AYH, Upper Sec 	| Mr Yeo Choon Hwa 	| [yeo\_choon\_hwa@schools.gov.sgg](mailto:yeo_choon_hwa@schools.gov.sg) 	|
+|  	| Mr Ben David Nazareth 	| [ben\_david\_nazareth@schools.gov.sg](mailto:ben_david_nazareth@schools.gov.sg) 	|
+|  	| Mr Danker Gerard Martin 	| [gerard\_danker@schools.gov.sg](mailto:gerard_danker@schools.gov.sg) 	|
+|  	| Mr Abdul Samad 	| [abdul\_samad@schools.gov.sg](mailto:abdul_samad@schools.gov.sg) 	|
