@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR HOWARD TAN (IC)<br>MR MARCUS LOW<br>MS CHEN ZHI YUN 	|
+| **TEACHERS-IN-CHARGE:** 	| MR HOWARD TAN (IC)<br>MR MARCUS LOW<br>MS CHEN ZHIYUN 	|
 
 |  	|  	|
 |---	|---	|
@@ -27,7 +27,7 @@ The 61st Company aims to provide a holistic education for our boys outside of t
  <img src="https://drive.google.com/uc?export=view&id=14Rycui06n_ZNJifGxHj-M7GB8gbU-W4r">
   
 
-Earlier this year, we focused on increasing the engagement of our boys through outdoor and adventure activities. One highlight was the archery training sessions that our boys participated in. They also attended lessons on survival and campcraft skills, ranging from tying knots, pitching a basha and outdoor cooking, to map-reading and navigation. Our boys were given the opportunity to apply the skills that they learned in a virtual  adventure challenge with other schools for 2022.
+In 2022, we focused on increasing the engagement of our boys through outdoor and adventure activities. One highlight was the archery training sessions that our boys participated in. They also attended lessons on survival and campcraft skills, ranging from tying knots, pitching a basha and outdoor cooking, to map-reading and navigation. Our boys were given the opportunity to apply the skills that they learned in a virtual adventure challenge with other schools.
 <img src="https://drive.google.com/uc?export=view&id=1tBxRGAFuIfRyPRWco1zSNyIvhW1zEXQy"><br>
 
 <img src="https://drive.google.com/uc?export=view&id=1FP6sI3nzgoiHy-1762iBq9-UB7OQeoU0">
@@ -36,28 +36,5 @@ Earlier this year, we focused on increasing the engagement of our boys through o
 #### Achievements of the CCA:<br><br>2022 - J M Fraser Award (Silver)
 
 
-##### Recipient for the S.P.Chua Award 2022 - Brigade Level Best Boy<br><br>Warrant Officer Tan Tu Yi
-
-Tu Yi is a responsible leader who is committed to excellence. As the DCSM, he has been a respected leader who is held in high regard by his peers and juniors. Over the years, he has made valuable contributions to the company through his service. He is a deserving recipient of the award.
-
-
-#### AdevntuRe:ignite 2022 - Gold Honour Roll 
-
-The above activity was a virtual adventure challenge  which was held this year from March to April. During this challenge, BB companies all over Singapore competed by completing a series of tasks. These tasks included field cooking, knots and lashings as a well as a battery of physical activities. Our boys came together and worked with each other to complete the activities. Through hard work and perseverance, our boys earned a place on the Gold Honour Roll during this challenge, as a testament to the excellence of their efforts.
-
-
-##### Student Experiences:
-
-*"I chose Boys Brigade in Sec 1 as I was intrigued by the uniform and the many exciting activities. However, I soon realised that the Boys' Brigade was not just a CCA; it is a strong and supportive community that helps us build important life skills. During one expedition, I felt tired and discouraged as I did not have the physical stamina to keep up with the rest. However, my peers encouraged me to persevere, and with their support, I completed the expedition. The experience was an eye-opening one for me, as I learnt to cultivate greater resilience in the face of challenges. <br><br>I was honoured to be appointed as the Company Sergeant Major (CSM) in 2020. Initially, I was worried about the high expectations demanded of the leadership role. However, with the guidance of the officers, and with the support of a strong team of fellow leaders, I grew more confident and comfortable in my role as CSM. My journey in the Boys' Brigade has taught me many valuable life lessons, and I will always cherish the fond memories from my time in the CCA."
-<br>Poon Jun Xin (402), CSM*
-
-  
-
-*"Being part of the Boys’ Brigade has been a very meaningful experience for me. I have made many new friendships and learnt valuable life skills. My time in the CCA has helped me to be more responsible, resilient and respectful towards others. The support and guidance from my teachers and peers have empowered me to step out of my comfort zone to go the extra mile. One of the many things I enjoyed in the Boys' Brigade would be the CCA camps, which were always a highlight for me, since I got to bond with my friends over fun activities like night cycling and archery. The memories from my time in the Boys’ Brigade will always be dear to me."
-<br> Palaniappan Muthu Kumar (401), DCSM*
-
-  
-
-*"My past 3 years in the Boys' Brigade has taught me many values such as patience and integrity. I was able to put these values in practice to successfully mediate a conflict between 2 boys. I believe that my experiences in the Boys’ Brigade have helped me to grow and mature from a playful youth into a responsible young adult. <br>
-I especially enjoyed the Boys’ Brigade camps, which helped me to bond with and forge stronger trust with my peers. The camps also taught me new knowledge and skills, such as orienteering." 
-<br> Dong Shangheng (403), DCSM*
+<b>Recipient for the S.P.Chua Award 2022 (Brigade Level Best Boy)</b><br>Warrant Officer Tan Tu Yi
+ <br><b>AdevntuRe:ignite 2022</b><br>Gold Honour Roll 
