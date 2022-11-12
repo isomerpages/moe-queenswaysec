@@ -14,8 +14,8 @@ sections:
         - title: Secondary 1 Registration
           description: ""
           url: /comingsoon
-        - title: Open House 2023
+        - title: Open House 2022
           description: ""
-          url: /comingsoon
+          url: https://sites.google.com/moe.edu.sg/qssopenhouse2022
       background: /images/Welcome to Queensway Secondary School! (1).png
 ---
