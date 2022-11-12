@@ -4,8 +4,6 @@ permalink: /programmes/mtl-bilingualism-and-talent-development-programme/
 description: ""
 third_nav_title: Talent Development Programmes
 ---
-
-
 ### MTL Bilingualism & Talent Development Programme
 
 #### Chinese Language  
@@ -13,6 +11,8 @@ third_nav_title: Talent Development Programmes
 The Mother Tongue (Chinese Language) Talent Development Programme in Queensway aims to provide a platform for students to hone their language abilities and showcase their language skills through authentic learning experiences.
 
 Students are groomed to participate in various competitions and language programmes such as Bilingual Debate Competition, Bilingual Podcast, Translation Module, Journalism courses, where they showcase and apply the knowledge and language skills that they have learned.
+
+In 2022, the students worked together to create a Bilingual Newsletter, *Connections*! Click [here](https://go.gov.sg/qssconnections2022) to read it.
 
 #### Student Experiences
 
