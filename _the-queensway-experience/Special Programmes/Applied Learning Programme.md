@@ -4,18 +4,14 @@ permalink: /programmes/applied-learning-programme/
 description: ""
 third_nav_title: Special Programmes
 ---
-
 ### Promoting a Sustainable Environment - Applied Learning  Programme (ALP) Tier 1 and 2
-
-
-#### BRIEF SUMMARY OF MAIN EVENTS:  
 
 The Applied Learning Programme is a tiered series of hands-on modules that are carefully curated to expose students to environmental sustainability issues in Singapore; specifically, water and food sustainability. Over the two-year programme, students will take part in interactive modules designed to cultivate a greater sense of environmental responsibility. Working in teams to complete guided experiments, students will be given opportunities to hone their collaboration, critical thinking and problem-solving skills.
 
   
 **1) Sustainability in Water (Tier 1  - Sec 1)** In the first tier of the ALP programme, all Secondary 1 students will learn about the various techniques of water treatment. They will also have the opportunity to harness energy from water and construct a sea perch, which they will use for navigation and water testing purposes.
 
-  
+
 
 **2) Sustainability in Food (Tier 1 - Sec 2)** 
 
@@ -40,5 +36,5 @@ The Science Fiesta is an annual affair that aims to make Science more accessible
 
   
 
- _Satina Sai Keerthan_<br>
+ _Satini Sai Keerthan_<br>
 “I really enjoyed the hands-on activities and working closely with other people on our project to programme our Arduino boards to solve problems facing Sustainability. Through the Tier 2 ALP, I have acquired basic coding in Arduino and turned my ideas into prototypes.”
