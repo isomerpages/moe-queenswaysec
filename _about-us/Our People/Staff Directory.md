@@ -84,6 +84,7 @@ third_nav_title: Our People
 |   	| Mr Tham Yu Hsuan 	| [tham\_yu\_hsuan@schools.gov.sg](mailto:tham_yu_hsuan@schools.gov.sg) 	|
 |   	| Ms Philynn Tan  	| [tan\_hong\_bee\_philynn@schools.gov.sg](mailto:tan_hong_bee_philynn@schools.gov.sg) 	|
 |   	| Ms Looi Tse Theng 	| [looi\_tse\_theng@schools.gov.sg](mailto:looi_tse_theng@schools.gov.sg) 	|
+|   	| Ms Brenda Lim  	| [lim\_jing\_qi\_brenda@schools.gov.sg](mailto:lim_jing_qi_brenda@schools.gov.sg) 	|
 |   	|  	| 	|
 
 #### Science
@@ -93,13 +94,13 @@ third_nav_title: Our People
 | HOD Science 	| Ms Tong Ai Li          	| [tong\_ai\_li@schools.gov.sg](mailto:tong_ai_li@schools.gov.sg) 	|
 | School Staff Developer 	| Ms Tan Yen Nee 	| [tan\_yen\_nee\_a@schools.gov.sg](mailto:tan_yen_nee_a@schools.gov.sg) 	|
 | HOD Student Management 	| Ms Jasmine Tay  	| [tay\_ya\_mei\_jasmine@schools.gov.sg](mailto:tay_ya_mei_jasmine@schools.gov.sg) 	|
-| 	|  	|	|
 | SH, Physics| Ms Shirley Tay 	| [shirley\_tay@schools.gov.sg](mailto:shirley_tay_li_hui@schools.gov.sg) 	|
 |     	| Ms Stella Goh 	| [stella\_goh@schools.gov.sg](mailto:stella_goh@schools.gov.sg) 	|
 |   	| Mrs Pang Fook Hoe 	| [lam\_fook\_hoe@schools.gov.sg](mailto:lam_fook_hoe@schools.gov.sg) 	|
 |   	| Ms Finna Lee  	| [lee\_mei\_teng\_finna@schools.gov.sg](mailto:lee_mei_teng_finna@schools.gov.sg) 	|
 |   	| Mr Jimmy Ong  	| [ong\_meng\_guan\_jimmy@schools.gov.sg](mailto:ong_meng_guan_jimmy@schools.gov.sg) 	|
 |   	| Mdm Lim Swee Kheng	| [lim\_swee\_kheng@schools.gov.sg](mailto:lim_swee_kheng@schools.gov.sg) 	|
+|   	| Ms Veronica How	| [how\_xin\_yi\_veronica@schools.gov.sg](mailto:how_xin_yi_veronica@schools.gov.sg) 	|
 
 #### PE & CCA
 
