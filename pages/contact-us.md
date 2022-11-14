@@ -2,31 +2,26 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: us!
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 2A Margaret Drive
+      - Singapore 049295
+      - ""
+    operating_hours: []
+    maps_link: https://www.google.com/maps/place/Queensway+Secondary+School/@1.3000009,103.8027544,15z/data=!4m2!3m1!1s0x0:0xec20f9662bff22ab?sa=X&ved=2ahUKEwiz_6mBk9_6AhUCALcAHQAEBGUQ_BJ6BQisARAF
+    title: Queensway Secondary School
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6474 1421
+      - email: ""
+      - other: ""
+    title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Feedback link
+          <href=https://docs.google.com/forms/d/e/1FAIpQLSd9x4tVLQBs4Tynd6Z_o7CfmZzUQHx8dYhfNAH39rsRmFkg9A/viewform?c=0&w=1
+          >
+    title: Feedback
 ---

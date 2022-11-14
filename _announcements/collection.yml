@@ -1,0 +1,5 @@
+collections:
+  announcements:
+    output: true
+    order:
+      - School Calendar.md

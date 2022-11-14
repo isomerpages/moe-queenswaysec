@@ -7,12 +7,16 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/BANNER.gif
       key_highlights:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: Queensway Calendar
+        - title: Secondary 1 Registration
           description: ""
-          url: /about-us/school-calendar/
+          url: /comingsoon
+        - title: Open House 2022
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/qssopenhouse2022
+      title: Queensway Secondary School
+      background: /images/hero image (updated).png
 ---

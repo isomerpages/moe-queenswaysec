@@ -1,0 +1,5 @@
+collections:
+  admissions-info:
+    output: true
+    order:
+      - Direct School Admission.md

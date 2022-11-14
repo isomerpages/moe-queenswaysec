@@ -2,16 +2,5 @@ collections:
   programmes:
     output: true
     order:
-      - English Language Talent Development Programme.md
-      - MTL Bilingualism and Talent Development Programme.md
-      - Mathematics Talent Development Programme.md
-      - Secondary One Science Talent Development Programme.md
-      - Student Leadership.md
-      - Sports for Life.md
-      - Applied Learning Programme.md
-      - Character Education/CCE Modules.md
       - Character Education/Student Leadership Development.md
-      - Character Education/Community Involvement & Values in Action.md
-      - Character Education/Sexuality Education.md
-      - Character Education/Education & Career Guidance.md
       - Character Education/.keep

@@ -1,0 +1,5 @@
+collections:
+  alumni-achievements:
+    output: true
+    order:
+      - 2022 QSS All Rounders.md
