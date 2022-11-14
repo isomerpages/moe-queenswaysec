@@ -33,7 +33,6 @@ We believe in working hard and training together as a team. A cooperative team s
 
 
 This year was an exciting year for the Basketball team as the National School Games made a comeback! With the relaxing of safe management measures, the B Division team had the opportunity to play their first inter-school NSG games. They made us proud by qualifying for the South Zone Inter-School Basketball Competition Quarter Finals. 
-
 <br>
 
 <img src="https://drive.google.com/uc?export=view&id=1UPHF0BuWwm16PJ1FMyfiuMe1I3TPvZE6"><br>
