@@ -44,11 +44,11 @@ This year, our C Division boys did the school proud by achieving 3rd place in th
 
 
 *“I shared many wonderful experiences with my teammates and friends but most importantly we all worked hard to become skillful hockey players. We will not give up no matter what difficulties we face and we are working towards becoming the best role models and players for our juniors and the team! You're never a loser until you quit trying."
-<br> Mohamed Hariz (411)*
+<br> ~Mohamed Hariz (411)*
   
 
 *“My experience in hockey began in Cantonment Primary School where I won a medal in the National School Games. My interest and potential in the sport have since grown as I am developing more skills. I have also made many new friends.”
-<br> Muhammad Zaeem (312)*<br>
+<br>~Muhammad Zaeem (312)*<br>
 
 *“A year's experience in hockey for me was great and enjoyable. A bit similar to soccer but the difference is that we use a stick and it has many complicated rules. It requires much stamina and need consistent effort to keep up with the CCA training.”
 <br>~Shuan Yeoh (213)*<br>
