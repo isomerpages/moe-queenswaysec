@@ -42,7 +42,7 @@ third_nav_title: Our People
 |  	|  	|  	|
 |---	|---	|---	|
 | HOD Humanities 	| Ms Irene Wong 	| [wong\_hwee\_ling@schools.gov.sg](mailto:wong_hwee_ling@schools.gov.sg) 	|
-| Year Head, Upper Sec 	| Ms Tan Wei Yi 	| [tan\_wei\_yi@schools.gov.sg](mailto:tan_wei_yi@schools.gov.sg) 	|
+| Year Head, Lower Sec 	| Ms Tan Wei Yi 	| [tan\_wei\_yi@schools.gov.sg](mailto:tan_wei_yi@schools.gov.sg) 	|
 | SH, Humanities 	| Mr Santokh Singh 	| [santokh\_singh@schools.gov.sg](mailto:santokh_singh@schools.gov.sg) 	|
 | ST, History 	| Mr Howard Tan 	| [tan\_ching\_hau\_howard@schools.gov.sg](mailto:tan_ching_hau_howard@schools.gov.sg) 	|
 | SH, Geography 	| Mr Alvin Leong 	| [leong\_wei\_jie\_alvin@schools.gov.sg](mailto:leong_wei_jie_alvin@schools.gov.sg) 	|
