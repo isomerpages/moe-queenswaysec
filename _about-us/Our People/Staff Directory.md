@@ -25,8 +25,8 @@ third_nav_title: Our People
 | HOD English Language 	| Mrs Vani Shankar 	| [dorairaj\_vani@schools.gov.sg](mailto:dorairaj_vani@schools.gov.sg) 	|
 | Lead Teacher, EL 	| Mdm Jayletchimi 	| [jayletchimi\_ramasamy@schools.gov.sg](mailto:jayletchimi_ramasamy@schools.gov.sg) 	|
 | Level Head, EL 	| Mr Makoto Kawaguchi 	| [makoto\_kawaguchi@schools.gov.sg](mailto:makoto_kawaguchi@schools.gov.sg) 	|
+| Subject Head (Covering), Literature 	| Mrs Joanne Chan 	| [jia\_en\_joanne\_loo@moe.edu.sg](mailto:jia_en_joanne_loo@schools.gov.sg) 	|
 |  	| Mrs Angela Loy 	| [ang\_ha\_ngek@moe.edu.sg](mailto:ang_ha_ngek@schools.gov.sg) 	|
-|  	| Mrs Joanne Chan 	| [jia\_en\_joanne\_loo@moe.edu.sg](mailto:jia_en_joanne_loo@schools.gov.sg) 	|
 |  	| Ms Chen Weiling 	| [chen\_weiling@schools.gov.sg](mailto:chen_weiling@schools.gov.sg) 	
 |  	| Mr Marcus Low 	| [low\_xue\_kai\_marcus@schools.gov.sg](mailto:low_xue_kai_marcus@schools.gov.sg) 	|
 |  	| Ms Frieden Ng 	| [ng\_chih\_qing@schools.gov.sg](mailto:ng_chih_qing@schools.gov.sg) 	|
