@@ -28,9 +28,8 @@ In 2022, our team took part in the annual National School Games and demonstrated
 #### Student Experiences:
   
 ‘The best memory was winning our first match as a team in the C Division competition. It was an accomplishment as we are a new team without experience. Besides this, the debriefing session after matches allows the team to reflect on their gameplay and learn from the mistakes made. With a positive mindset, I believe that the team will continue to improve and succeed in future.’
-
-Tan Yu Qi (203)
+<br>
+~Tan Yu Qi (203)
 
 ‘A meaningful experience in my CCA was when I was tasked to lead the whole team in the warm-up session during training. I was also involved in the Sec 1 trial selection. I learnt to lead and take responsibility in carrying out tasks. We will strive to keep improving and make the school proud!’
-
-Tan Ying Yi Matilda (203)
+<br>~Tan Ying Yi Matilda (203)
