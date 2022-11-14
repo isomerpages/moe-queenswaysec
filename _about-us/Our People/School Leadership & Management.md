@@ -12,7 +12,7 @@ third_nav_title: Our People
 | Vice-Principal (EO) 	| Mr. Loh Kar Wai Jay 	|
 | Vice-Principal (EO) 	| Ms. Priya Rajan 	|
 | School Staff Developer 	| Ms. Tan Yen Nee 	|
-| HOD, EL & Lit 	| Ms. Dorairaj Vani 	|
+| HOD, EL & Lit 	| Mrs. Vani Shankar 	|
 | HOD, MTL  	| Mr. Teo Kian Wee 	|
 | HOD, Humanities 	| Ms. Irene Wong 	|
 | HOD, Maths 	| Mrs. Sheryl Soh  	|
@@ -34,7 +34,7 @@ third_nav_title: Our People
 | SH, Student Well-being 	| Mr. Chua Kee Eng 	|
 | SH, Physics 	| Ms. Shirley Tay 	|
 | SH, Humanities 	| Mr. Santokh Singh  	|
-| SH, Geography (Covering) 	| Mr. Alvin Leong 	|
-| SH, ML & TL (Covering) 	| Ms. Iryantee Ja'afar 	|
-| SH, Student Leadership (Covering) 	| Ms. Grace Lee Mei Yan 	|
-| SH, Literature (Covering) 	| Ms. Loo Jia En, Joanne	|
+| SH, Geography 	| Mr. Alvin Leong 	|
+| SH, ML & TL 	| Ms. Iryantee Ja'afar 	|
+| SH, Student Leadership  	| Ms. Grace Lee Mei Yan 	|
+| SH, Literature (Covering) 	| Mrs. Joanne Chan	|
