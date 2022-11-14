@@ -20,7 +20,7 @@ third_nav_title: Sports
 
 *Note: Cross-Country will not be offered as a CCA to new Secondary One students in 2023.*
 
-**
+
 
 STUDENT EXPERIENCE: 
 
@@ -35,4 +35,3 @@ Jeremiah Noel Lee (403)
 
 Thong Xuan (403)
 
-**
