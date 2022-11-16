@@ -3,8 +3,7 @@ title: Student Development Team
 permalink: /about-us/Our-People/student-development-team/
 description: ""
 ---
-
-### Student Development Team
+### Class Mentors
 
 #### SECONDARY 1 CLASS MENTORS
 
@@ -22,43 +21,45 @@ description: ""
 
 #### SECONDARY 2 CLASS MENTORS
 
-##### YEAR HEAD: MR FEROZ ALI
+##### YEAR HEAD: MS CHEN ZHIYUN
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 201 	| Mr Rajan	|  	|  	|
-| 202 	| Mr Danker 	| Ms Veronica How 	|  	|
-| 203 	| Miss Sarah Pang 	| Miss Murni 	|  	|
-| 204 	| Ms Looi Tse Theng 	| Miss Audrey Chua 	|
-| 211 	| Miss Brenda Lim 	| Mr Ben David 	|  	|
-| 212 	| Ms Chen Weiling 	| Ms Lily Choo	|  	|
-| 213 	| Mr Ernest Fok 	| Mdm Kartini 	|  	|
+| 201 	| Mr Chia Yew Hwee	|  Mdm Karpagam	|  	| 
+| 202 	| Mr Ajaib Singh 	| Ms Yang Yi 	|  	| 
+| 203 	| Ms Ethel Choy 	| [Mr Makoto Kawaguchi](mailto:makoto_kawaguchi@schools.gov.sg) 	|  	| 
+| 204 	| Ms Teo Yong Chin 	|  	| 
+| 211 	| Ms Low Xin Yee 	| Mrs Isabel Wong 	|  	| 
+| 212 	| Ms Frieden Ng 	| Mr Marcus Low	| Mdm Kartini 
+| 213 	| Mr Chng Eng Peng 	| Ms Zhang Yi 	| Mr Marcus Tay  	| Mr Senan |
 
-#### SECONDARY 3 CLASS MENTOR
 
-##### ASSISTANT YEAR HEAD: MR YEO CHOON HWA
+
+#### SECONDARY 3 CLASS MENTORS
+
+##### ASSISTANT YEAR HEAD: MR FEROZ ALI
 
 | Class 	|  	|  	|  	|
-|---:	|---	|---	|---	|
-| 301 	| Ms Surinder Kaur 	| Mr Chow Jing Jang 	|  	|
-| 302 	| Mdm Toh Siew Lan 	| Ms Chia Hui Jun 	|  	|
-| 303 	| Mr Alvin Leong 	| Mdm Zheng Xiumin 	|  	|
-| 304 	| Ms Joanne Loo 	| Mr Jimmy Ong 	|  	|
-| 311 	| Ms Stella Goh 	| Mr Aaron Ong 	|  	|
-| 312 	| Mdm Angela Ang 	| Ms Felicia Ang 	|  	|
-| 313 	| Mr Chua Kee Eng 	| Ms Luo Hailun 	| Mr Santokh Singh 	|
+|---	|---	|---	|---	|
+| 301 	| Ms Shirley Tay	|  Ms Kala Devi	|  	|
+| 302 	| Ms Sarah Pang	| Ms Lim Xin Ying 	|  	|
+| 303 	| Ms Philynn Tan 	| Ms Tan Wei Min 	|  	|
+| 304 	| Mrs Cindy Tan 	| Mr Gilbert Tan 	|
+| 311 	| Ms Audrey Chua	| Ms Tharshini 	|  	|
+| 312 	| Mr Gerard Danker 	| Ms Grace Lee	
+| 313 	| Ms Murni 	| Mr Tom Ho 	|
 
 #### SECONDARY 4/5 CLASS MENTORS
 
-##### YEAR HEAD: MS TAN WEI YI
+##### YEAR HEAD: MR FEROZ ALI
 
 | Class 	|  	|  	|  	|
 |---:	|---	|---	|---	|
-| 401 	| Miss Philynn Tan 	| Mrs Pang Fook Hoe 	|  	|
-| 402 	| Mr Makoto 	| Mdm Esther 	|  	|
-| 403 	| Ms Kasthuri 	| Ms Natalie Feng 	| Miss Shirley Tay 	|
-| 404 	| Miss Grace Lee 	| Mrs Isabel Wong 	|  	|
-| 411 	| Ms Gayatri 	| Miss Goh Hui Min 	|  	|
-| 412 	| Mr Tham Yu Hsuan 	| Mdm Eileen Ang 	|  	|
-| 413 	| Mdm Iryantee 	| Mr Howard Tan 	|  	|
-| 511 	| Mrs Cindy Tan 	|  	|  	|
+| 401 	| Ms Surinder Kaur 	| Mr Chow Jing Kang 	|  	|
+| 402 	| Mdm Toh Siew Lan 	| Ms Chia Hui Jun 	|  	|
+| 403 	| Mr Alvin Leong 	| Mdm Zheng Xiumin 	|  	|
+| 404 	| Mrs Joanne Chan 	| Mr Jimmy Ong 	|  	|
+| 411 	| Ms Stella Goh 	| Mr Aaron Ong 	|  	|
+| 412 	| Mrs Angela Loy 	| Mr Tham Yu Hsuan	|  	|
+| 413 	| Mr Chua Kee Eng 	| Ms Luo Hailun 	| 
+| 511 	| Mdm Lim Swee Kheng	| Mr Santokh Singh  	|  	|
