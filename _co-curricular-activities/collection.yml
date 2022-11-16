@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Sports/.keep
-      - Sports/Basketball Boys.md
+      - Sports/Basketball (Boys).md
       - Sports/Badminton 'C' Division (Girls).md
       - Sports/Cross Country.md
       - Sports/Hockey.md
