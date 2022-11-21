@@ -3,26 +3,25 @@ title: Class Mentors
 permalink: /about-us/Our-People/class-mentors/
 description: ""
 ---
-
 ### Class Mentors
 
 #### SECONDARY 1 CLASS MENTORS
 
-##### ASSISTANT YEAR HEAD: MS CHEN ZHIYUN
+##### LOWER SEC YEAR HEAD: MS TAN WEI YI
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 101 	| Mr Chia Yew Hwee 	|  	|  	|
-| 102 	| Mr Ajaib Singh 	| Ms Yang Yi 	|  	|
-| 103 	| Ms Ethel Choy 	| Mr Jonathan Ho 	|  	|
-| 104 	| Mdm Juanna 	| Miss Teo Yong Chin     	| Miss Ashley Wong 	|
-| 111 	| Ms Low Xin Yee 	| Miss Quek Yu Pin 	|  	|
-| 112 	| Mr Marcus Low 	| Ms Kala Devi 	| Ms Frieden Ng 	|
-| 113 	| Mr Marcus Tay 	| Mr Chng EP 	| Miss Zhang Yi 	|
+| 1 Care 	| Mr Ernest Fok 	|  Mrs Kasthuri Davaraj	|  Ms Chen Weiling	|
+| 1 Confidence 	| Ms Natalie Feng 	| Mr Howard Tan 	|  	|
+| 1 Diligence 	| Mdm Iryantee	| Ms Looi Tse Theng 	|  	|
+| 1 Discipline 	| Mdm Lily Choo 	| Mdm Esther     	| Mdm Karpagam 	|
+| 1 Excellence 	| Ms Veronica How 	| Ms Brenda Lim 	|  	|
+| 1 Respect 	| Mrs Gayatri Kumar 	| Mr Paul Lai 	|
+| 1 Responsibility 	| Ms Quek Yu Pin 	| Ms Ang Meng Li
 
 #### SECONDARY 2 CLASS MENTORS
 
-##### YEAR HEAD: MS CHEN ZHIYUN
+##### ASSISTANT YEAR HEAD: MS CHEN ZHIYUN
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
@@ -38,7 +37,7 @@ description: ""
 
 #### SECONDARY 3 CLASS MENTORS
 
-##### ASSISTANT YEAR HEAD: MR FEROZ ALI
+##### UPPER SEC YEAR HEAD: MR FEROZ ALI
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
@@ -52,7 +51,7 @@ description: ""
 
 #### SECONDARY 4/5 CLASS MENTORS
 
-##### YEAR HEAD: MR FEROZ ALI
+##### ASSISTANT YEAR HEAD: MR YEO CHOON HWA
 
 | Class 	|  	|  	|  	|
 |---:	|---	|---	|---	|
