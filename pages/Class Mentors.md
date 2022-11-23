@@ -11,7 +11,7 @@ description: ""
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 1 Care 	| [[Mr Ernest Fok ](mailto:fok_chee_wel@schools.gov.sg)](fok_chee_wel@schools.gov.sg)	|  [[Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@schools.gov.sg)](kasthuri_mahanthran@schools.gov.sg)	|  [Ms Chen Weiling](chen_weiling@schools.gov.sg )	|
+| 1 Care 	| [[Mr Ernest Fok ](mailto:fok_chee_wel@schools.gov.sg)](fok_chee_wel@schools.gov.sg)	|  [[Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@schools.gov.sg)](kasthuri_mahanthran@schools.gov.sg)	|  [[Ms Chen Weiling](mailto:chen_weiling@schools.gov.sg )](chen_weiling@schools.gov.sg )	|
 | 1 Confidence 	| [Ms Natalie Feng ](FENG_Hui_Er@schools.gov.sg)	| [Mr Howard Tan](tan_ching_hau_howard@schools.gov.sg) 	|  	|
 | 1 Diligence 	|[ Mdm Iryantee](iryantee_jaffar@schools.gov.sg)	| [Ms Looi Tse Theng ](looi_tse_theng@schools.gov.sg)	|  	|
 | 1 Discipline 	| [Mdm Lily Choo ](choo_li_chin_lily@schools.gov.sg)	| [Mdm Esther ](makaisvery_esther_periak_a@schools.gov.sg)    	| 	|
