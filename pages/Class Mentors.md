@@ -63,4 +63,4 @@ description: ""
 | 411 	| [Ms Stella Goh ](mailto:stella_goh@schools.gov.sg)	| [Mr Aaron Ong](mailto:ong_meng_yeow_aaron@schools.gov.sg) 	|  	|
 | 412 	| [Mrs Angela Loy ](mailto:ang_ha_ngek@schools.gov.sg  )	| [Mr Tham Yu Hsuan](mailto:tham_yu_hsuan@schools.gov.sg)	|  	|
 | 413 	| [Mr Chua Kee Eng ](mailto:chua_kee_eng@schools.gov.sg)	| [Ms Luo Hailun ](mailto:luo_hailun@schools.gov.sg)	| 
-| 511 	| [Mdm Lim Swee Kheng](mailto:Lim_Swee_Kheng@schools.gov.sg)	| Mr Santokh Singh  	|  	|
+| 511 	| [Mdm Lim Swee Kheng](mailto:Lim_Swee_Kheng@schools.gov.sg)	| [Mr Santokh Singh ](mailto:santokh_singh@schools.gov.sg) 	|  	|
