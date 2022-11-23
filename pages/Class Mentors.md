@@ -12,7 +12,7 @@ description: ""
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
 | 1 Care 	| [Mr Ernest Fok ](fok_chee_wel@schools.gov.sg)	|  [Mrs Kasthuri Davaraj](kasthuri_mahanthran@schools.gov.sg)	|  [Ms Chen Weiling](chen_weiling@schools.gov.sg )	|
-| 1 Confidence 	| Ms Natalie Feng 	| Mr Howard Tan 	|  	|
+| 1 Confidence 	| [Ms Natalie Feng ](FENG_Hui_Er@schools.gov.sg)	| [Mr Howard Tan](tan_ching_hau_howard@schools.gov.sg) 	|  	|
 | 1 Diligence 	| Mdm Iryantee	| Ms Looi Tse Theng 	|  	|
 | 1 Discipline 	| Mdm Lily Choo 	| Mdm Esther     	| 	|
 | 1 Excellence 	| Ms Veronica How 	| Ms Brenda Lim 	|  	|
