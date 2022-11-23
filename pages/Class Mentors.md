@@ -16,7 +16,7 @@ description: ""
 | 1 Diligence 	|[ [Mdm Iryantee](mailto:iryantee_jaffar@schools.gov.sg)](iryantee_jaffar@schools.gov.sg)	| [[Ms Looi Tse Theng](mailto:looi_tse_theng@schools.gov.sg) ](looi_tse_theng@schools.gov.sg)	|  	|
 | 1 Discipline 	| [[Mdm Lily Choo](mailto:choo_li_chin_lily@schools.gov.sg) ](choo_li_chin_lily@schools.gov.sg)	| [[Mdm Esther](mailto:makaisvery_esther_periak_a@schools.gov.sg)](makaisvery_esther_periak_a@schools.gov.sg)    	| 	|
 | 1 Excellence 	| [[Ms Veronica How](mailto:how_xin_yi_veronica@schools.gov.sg) ](how_xin_yi_veronica@schools.gov.sg)	| [[Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@schools.gov.sg)](Lim_Jing_Qi_Brenda@schools.gov.sg) 	|  	|
-| 1 Respect 	| [[Mrs Gayatri Kumar](mailto:gayatri_devi@schools.gov.sg) ](gayatri_devi@schools.gov.sg)	| Mr Paul Lai 	|
+| 1 Respect 	| [[Mrs Gayatri Kumar](mailto:gayatri_devi@schools.gov.sg) ](gayatri_devi@schools.gov.sg)	| [Mr Paul Lai ](mailto:Paul_Lai_Chyi_Shyan@schools.gov.sg)	|
 | 1 Responsibility 	| [[Ms Quek Yu Pin](mailto:Quek_Yu_Pin@schools.gov.sg)](Quek_Yu_Pin@schools.gov.sg) 	| Ms Ang Meng Li
 
 #### SECONDARY 2 CLASS MENTORS
@@ -49,6 +49,7 @@ description: ""
 | 312 	| [Mr Gerard Danker](mailto:gerard_danker@schools.gov.sg) 	|[ Ms Grace Lee	](mailto:mei_yan_grace_lee@schools.gov.sg)
 | 313 	| [Ms Murni ](mailto:murni_iryani_mohd_hanafi@schools.gov.sg)	| [Mr Tom Ho 	](mailto:ho_hai_long@schools.gov.sg)|
 
+
 #### SECONDARY 4/5 CLASS MENTORS
 
 ##### ASSISTANT YEAR HEAD: MR YEO CHOON HWA
@@ -62,4 +63,4 @@ description: ""
 | 411 	| [Ms Stella Goh ](mailto:stella_goh@schools.gov.sg)	| [Mr Aaron Ong](mailto:ong_meng_yeow_aaron@schools.gov.sg) 	|  	|
 | 412 	| [Mrs Angela Loy ](mailto:ang_ha_ngek@schools.gov.sg  )	| [Mr Tham Yu Hsuan](mailto:tham_yu_hsuan@schools.gov.sg)	|  	|
 | 413 	| [Mr Chua Kee Eng ](mailto:chua_kee_eng@schools.gov.sg)	| [Ms Luo Hailun ](mailto:luo_hailun@schools.gov.sg)	| 
-| 511 	| Mdm Lim Swee Kheng	| Mr Santokh Singh  	|  	|
+| 511 	| [Mdm Lim Swee Kheng](mailto:Lim_Swee_Kheng@schools.gov.sg)	| [Mr Santokh Singh ](mailto:santokh_singh@schools.gov.sg) 	|  	|
