@@ -15,7 +15,7 @@ description: ""
 | 1 Confidence 	| [Ms Natalie Feng ](FENG_Hui_Er@schools.gov.sg)	| [Mr Howard Tan](tan_ching_hau_howard@schools.gov.sg) 	|  	|
 | 1 Diligence 	|[ Mdm Iryantee](iryantee_jaffar@schools.gov.sg)	| [Ms Looi Tse Theng ](looi_tse_theng@schools.gov.sg)	|  	|
 | 1 Discipline 	| [Mdm Lily Choo ](choo_li_chin_lily@schools.gov.sg)	| [Mdm Esther ](makaisvery_esther_periak_a@schools.gov.sg)    	| 	|
-| 1 Excellence 	| Ms Veronica How 	| Ms Brenda Lim 	|  	|
+| 1 Excellence 	| [Ms Veronica How ](how_xin_yi_veronica@schools.gov.sg)	| [Ms Brenda Lim](Lim_Jing_Qi_Brenda@schools.gov.sg) 	|  	|
 | 1 Respect 	| Mrs Gayatri Kumar 	| Mr Paul Lai 	|
 | 1 Responsibility 	| Ms Quek Yu Pin 	| Ms Ang Meng Li
 
