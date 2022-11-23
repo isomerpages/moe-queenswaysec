@@ -16,7 +16,7 @@ description: ""
 | 1 Diligence 	|[ [Mdm Iryantee](mailto:iryantee_jaffar@schools.gov.sg)](iryantee_jaffar@schools.gov.sg)	| [[Ms Looi Tse Theng](mailto:looi_tse_theng@schools.gov.sg) ](looi_tse_theng@schools.gov.sg)	|  	|
 | 1 Discipline 	| [[Mdm Lily Choo](mailto:choo_li_chin_lily@schools.gov.sg) ](choo_li_chin_lily@schools.gov.sg)	| [[Mdm Esther](mailto:makaisvery_esther_periak_a@schools.gov.sg)](makaisvery_esther_periak_a@schools.gov.sg)    	| 	|
 | 1 Excellence 	| [[Ms Veronica How](mailto:how_xin_yi_veronica@schools.gov.sg) ](how_xin_yi_veronica@schools.gov.sg)	| [[Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@schools.gov.sg)](Lim_Jing_Qi_Brenda@schools.gov.sg) 	|  	|
-| 1 Respect 	| [[Mrs Gayatri Kumar](mailto:gayatri_devi@schools.gov.sg) ](gayatri_devi@schools.gov.sg)	| Mr Paul Lai 	|
+| 1 Respect 	| [[Mrs Gayatri Kumar](mailto:gayatri_devi@schools.gov.sg) ](gayatri_devi@schools.gov.sg)	| [Mr Paul Lai ](mailto:Paul_Lai_Chyi_Shyan@schools.gov.sg)	|
 | 1 Responsibility 	| [[Ms Quek Yu Pin](mailto:Quek_Yu_Pin@schools.gov.sg)](Quek_Yu_Pin@schools.gov.sg) 	| Ms Ang Meng Li
 
 #### SECONDARY 2 CLASS MENTORS
