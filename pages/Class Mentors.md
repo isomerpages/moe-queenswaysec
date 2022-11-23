@@ -41,7 +41,7 @@ description: ""
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 301 	| Ms Shirley Tay	|  Ms Kala Devi	|  	|
+| 301 	| [Ms Shirley Tay](mailto:Shirley_Tay@schools.gov.sg)	|  [Ms Kala Devi](mailto:kala_devi_santha_kumar@schools.gov.sg)	|  	|
 | 302 	| Ms Sarah Pang	| Ms Lim Xin Ying 	|  	|
 | 303 	| Ms Philynn Tan 	| Ms Tan Wei Min 	|  	|
 | 304 	| Mrs Cindy Tan 	| Mr Gilbert Tan 	|
