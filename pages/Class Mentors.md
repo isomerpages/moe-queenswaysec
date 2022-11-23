@@ -58,7 +58,7 @@ description: ""
 | 401 	| [Ms Surinder Kaur ](mailto:surinder_kaur@schools.gov.sg)	| [Mr Chow Jing Kang](mailto:Chow_Jing_Kang@schools.gov.sg) 	|  	|
 | 402 	| [Mdm Toh Siew Lan ](mailto:toh_siew_lan@schools.gov.sg)	| [Ms Chia Hui Jun](mailto:chia_hui_jun@schools.gov.sg) 	|  	|
 | 403 	| [Mr Alvin Leong](mailto:leong_wei_jie_alvin@schools.gov.sg) 	| [Mdm Zheng Xiumin ](mailto:zheng_xiumin@schools.gov.sg)	|  	|
-| 404 	| Mrs Joanne Chan 	| Mr Jimmy Ong 	|  	|
+| 404 	| [Mrs Joanne Chan ](mailto:jia_en_joanne_loo@schools.gov.sg)	| Mr Jimmy Ong 	|  	|
 | 411 	| Ms Stella Goh 	| Mr Aaron Ong 	|  	|
 | 412 	| Mrs Angela Loy 	| Mr Tham Yu Hsuan	|  	|
 | 413 	| Mr Chua Kee Eng 	| Ms Luo Hailun 	| 
