@@ -25,7 +25,7 @@ description: ""
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 201 	| Mr Chia Yew Hwee	|  Mdm Karpagam	|  	| 
+| 201 	| [Mr Chia Yew Hwee](chia_yew_hwee@schools.gov.sg)	|  Mdm Karpagam	|  	| 
 | 202 	| Mr Ajaib Singh 	| Ms Yang Yi 	|  	| 
 | 203 	| Ms Ethel Choy 	| [Mr Makoto Kawaguchi](mailto:makoto_kawaguchi@schools.gov.sg) 	|  	| 
 | 204 	| Ms Teo Yong Chin 	|  	| 
