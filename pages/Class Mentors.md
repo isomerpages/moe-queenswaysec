@@ -7,14 +7,14 @@ description: ""
 
 #### SECONDARY 1 CLASS MENTORS
 
-##### LOWER SEC YEAR HEAD: MS TAN WEI YI
+##### LOWER SEC YEAR HEAD: [MS TAN WEI YI](mailto:tan_wei_yi@schools.gov.sg)
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
 | 1 Care 	| Mr Ernest Fok 	|  Mrs Kasthuri Davaraj	|  Ms Chen Weiling	|
 | 1 Confidence 	| Ms Natalie Feng 	| Mr Howard Tan 	|  	|
 | 1 Diligence 	| Mdm Iryantee	| Ms Looi Tse Theng 	|  	|
-| 1 Discipline 	| Mdm Lily Choo 	| Mdm Esther     	| Mdm Karpagam 	|
+| 1 Discipline 	| Mdm Lily Choo 	| Mdm Esther     	| 	|
 | 1 Excellence 	| Ms Veronica How 	| Ms Brenda Lim 	|  	|
 | 1 Respect 	| Mrs Gayatri Kumar 	| Mr Paul Lai 	|
 | 1 Responsibility 	| Ms Quek Yu Pin 	| Ms Ang Meng Li
