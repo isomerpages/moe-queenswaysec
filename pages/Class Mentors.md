@@ -30,7 +30,7 @@ description: ""
 | 203 	|[ Ms Ethel Choy](mailto:choy_hui_zhen_ethel@schools.gov.sg) 	| [Mr Makoto Kawaguchi](mailto:makoto_kawaguchi@schools.gov.sg) 	|  	| 
 | 204 	| [Ms Teo Yong Chin ](mailto:teo_yong_chin@schools.gov.sg)	|  	| 
 | 211 	| [Ms Low Xin Yee ](mailto:low_xin_yee@schools.gov.sg)	| [Mrs Isabel Wong](mailto:lee_siew_min_isabel@schools.gov.sg) 	|  	| 
-| 212 	| Ms Frieden Ng 	| Mr Marcus Low	| Mdm Kartini 
+| 212 	| [Ms Frieden Ng](mailto:ng_chih_qing@schools.gov.sg) 	| Mr Marcus Low	| Mdm Kartini 
 | 213 	| Mr Chng Eng Peng 	| Ms Zhang Yi 	| Mr Marcus Tay  	| Mr Senan |
 
 
