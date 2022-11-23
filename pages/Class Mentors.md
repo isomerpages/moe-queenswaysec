@@ -56,7 +56,7 @@ description: ""
 | Class 	|  	|  	|  	|
 |---:	|---	|---	|---	|
 | 401 	| [Ms Surinder Kaur ](mailto:surinder_kaur@schools.gov.sg)	| [Mr Chow Jing Kang](mailto:Chow_Jing_Kang@schools.gov.sg) 	|  	|
-| 402 	| Mdm Toh Siew Lan 	| Ms Chia Hui Jun 	|  	|
+| 402 	| [Mdm Toh Siew Lan ](mailto:toh_siew_lan@schools.gov.sg)	| Ms Chia Hui Jun 	|  	|
 | 403 	| Mr Alvin Leong 	| Mdm Zheng Xiumin 	|  	|
 | 404 	| Mrs Joanne Chan 	| Mr Jimmy Ong 	|  	|
 | 411 	| Ms Stella Goh 	| Mr Aaron Ong 	|  	|
