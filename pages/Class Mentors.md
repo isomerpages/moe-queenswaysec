@@ -28,7 +28,7 @@ description: ""
 | 201 	| [[Mr Chia Yew Hwee](mailto:chia_yew_hwee@schools.gov.sg)](chia_yew_hwee@schools.gov.sg)	|  Mdm Karpagam	|  	| 
 | 202 	| [Mr Ajaib Singh](mailto:ajaib_singh_gurbachan_s@schools.gov.sg) 	|[Ms Yang Yi ](mailto:Yang_Yi@schools.gov.sg)	|  	| 
 | 203 	|[ Ms Ethel Choy](mailto:choy_hui_zhen_ethel@schools.gov.sg) 	| [Mr Makoto Kawaguchi](mailto:makoto_kawaguchi@schools.gov.sg) 	|  	| 
-| 204 	| Ms Teo Yong Chin 	|  	| 
+| 204 	| [Ms Teo Yong Chin ](mailto:teo_yong_chin@schools.gov.sg)	|  	| 
 | 211 	| Ms Low Xin Yee 	| Mrs Isabel Wong 	|  	| 
 | 212 	| Ms Frieden Ng 	| Mr Marcus Low	| Mdm Kartini 
 | 213 	| Mr Chng Eng Peng 	| Ms Zhang Yi 	| Mr Marcus Tay  	| Mr Senan |
