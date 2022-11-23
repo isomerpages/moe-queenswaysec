@@ -44,7 +44,7 @@ description: ""
 | 301 	| [Ms Shirley Tay](mailto:Shirley_Tay@schools.gov.sg)	|  [Ms Kala Devi](mailto:kala_devi_santha_kumar@schools.gov.sg)	|  	|
 | 302 	| [Ms Sarah Pang](mailto:Sarah_PANG_PEI_WEN@schools.gov.sg)	| Ms Lim Xin Ying 	|  	|
 | 303 	|[ Ms Philynn Tan ](mailto:tan_hong_bee_philynn@schools.gov.sg)	| Ms Tan Wei Min 	|  	|
-| 304 	| Mrs Cindy Tan 	| Mr Gilbert Tan 	|
+| 304 	|[ Mrs Cindy Tan ](mailto:yew_siew_ping_cindy@schools.gov.sg)	| Mr Gilbert Tan 	|
 | 311 	| Ms Audrey Chua	| Ms Tharshini 	|  	|
 | 312 	| Mr Gerard Danker 	| Ms Grace Lee	
 | 313 	| Ms Murni 	| Mr Tom Ho 	|
