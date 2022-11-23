@@ -45,7 +45,7 @@ description: ""
 | 302 	| [Ms Sarah Pang](mailto:Sarah_PANG_PEI_WEN@schools.gov.sg)	| Ms Lim Xin Ying 	|  	|
 | 303 	|[ Ms Philynn Tan ](mailto:tan_hong_bee_philynn@schools.gov.sg)	| Ms Tan Wei Min 	|  	|
 | 304 	|[ Mrs Cindy Tan ](mailto:yew_siew_ping_cindy@schools.gov.sg)	| [Mr Gilbert Tan ](mailto:Gilbert_Tan_Wei_Beng@schools.gov.sg)	|
-| 311 	| Ms Audrey Chua	| Ms Tharshini 	|  	|
+| 311 	| [Ms Audrey Chua](mailto:chua_sing_li_audrey@schools.gov.sg)	| Ms Tharshini 	|  	|
 | 312 	| Mr Gerard Danker 	| Ms Grace Lee	
 | 313 	| Ms Murni 	| Mr Tom Ho 	|
 
