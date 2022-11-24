@@ -16,7 +16,7 @@ third_nav_title: Our People
 | 1 Confidence 	| [Ms Natalie Feng](mailto:FENG_Hui_Er@schools.gov.sg)	| [Mr Howard Tan](mailto:tan_ching_hau_howard@schools.gov.sg) 	|
 | 1 Diligence 	|[ Mdm Iryantee](mailto:iryantee_jaffar@schools.gov.sg)| [Ms Looi Tse Theng](mailto:looi_tse_theng@schools.gov.sg)|
 | 1 Discipline 	| [Mdm Lily Choo](mailto:choo_li_chin_lily@schools.gov.sg) | [Mdm Esther](mailto:makaisvery_esther_periak_a@schools.gov.sg)	|
-| 1 Excellence 	| [[Ms Veronica How](mailto:how_xin_yi_veronica@schools.gov.sg) ](how_xin_yi_veronica@schools.gov.sg)	| [Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@schools.gov.sg)|
+| 1 Excellence 	| [Ms Veronica How](mailto:how_xin_yi_veronica@schools.gov.sg)	| [Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@schools.gov.sg)|
 | 1 Respect 	| [Mrs Gayatri Kumar](mailto:gayatri_devi@schools.gov.sg)| [Mr Paul Lai ](mailto:Paul_Lai_Chyi_Shyan@schools.gov.sg)	|
 | 1 Responsibility 	| [Ms Quek Yu Pin](mailto:Quek_Yu_Pin@schools.gov.sg)	| Ms Ang Meng Li
 
