@@ -23,6 +23,7 @@ description: ""
 | ART 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
 | COMM SERVICE 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
 | MEDIA 	|   	|  3.30-5.30 	|   	|  	|   	|   	|
+
 <br><br>
 
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
@@ -43,6 +44,7 @@ description: ""
 | ART 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
 | COMM SERVICE 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
 | MEDIA 	|   	|  3.30-5.30 	|   	|  	|   	|  	|
+
 <br><br>
 
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|

@@ -1,6 +1,6 @@
 ---
 title: Appeal and Transfer Information
-permalink: /secondary-1-registration/appeal-and-transfer-information
+permalink: /secondary-1-registration/appeal-and-transfer-information/
 description: ""
 ---
 ### Appeal/Transfer Information
@@ -9,7 +9,7 @@ description: ""
 I am appealing to transfer out of QSS to another school, do I still need to attend the Sec 1 Registration Day?**  
 
  _Answer:_
-_Yes, please attend the Sec 1 Registration Day as per normal. This will ensure a place for your child in our school in the event the appeal is unsuccessful._
+_Yes, please attend the Sec 1 Registration Day as per normal. This will ensure a place for your child in our school in the event the appeal is unsuccessful._ Test test test test
 
   
 **Question:  

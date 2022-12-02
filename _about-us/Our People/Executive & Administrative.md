@@ -11,7 +11,8 @@ third_nav_title: Our People
 | Principal 	| Mr. Peter Tan Chong Tze 	| peter_tan@schools.gov.sg 	|
 | Vice-Principal (EO) 	| Mr. Loh Kar Wai Jay 	| loh_kar_wai_jay@schools.gov.sg 	|
 | Vice-Principal (EO) 	| Ms. Priya Rajan 	| v_priya_rajan@schools.gov.sg 	|
-| Operations Manager 	| Mr. Ismail Bin Sa'at 	| ismail_saat@moe.edu.sg 	|
+| Operations Manager 	| Mr. Ismail Bin Sa'at 	| ismail_saat@moe.edu.sg |
+| Operations Manager 	| Mr. Mohamad Majeed Marican	| Mohamad_Majeed_Marican@moe.edu.sg |
 | Admin  Manager 	| Ms. Ong Jingping Brenda 	| ong_jingping_brenda@moe.edu.sg 	|
 | Admin Executive 	| Ms. Mary-Ann Tay 	| tay_kim_hon_mary-ann@schools.gov.sg 	|
 | ICT Manager 	| Mr. Zairee Bin Sallai 	| zairee_sallai@moe.edu.sg 	|

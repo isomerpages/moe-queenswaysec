@@ -2,6 +2,7 @@
 title: Class Mentors
 permalink: /about-us/Our-People/class-mentors/
 description: ""
+third_nav_title: Our People
 ---
 ### Class Mentors
 
@@ -11,13 +12,13 @@ description: ""
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 1 Care 	| [[Mr Ernest Fok ](mailto:fok_chee_wel@schools.gov.sg)](fok_chee_wel@schools.gov.sg)	|  [[Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@schools.gov.sg)](kasthuri_mahanthran@schools.gov.sg)	|  [[Ms Chen Weiling](mailto:chen_weiling@schools.gov.sg )](chen_weiling@schools.gov.sg )	|
-| 1 Confidence 	| [[Ms Natalie Feng](mailto:FENG_Hui_Er@schools.gov.sg) ](FENG_Hui_Er@schools.gov.sg)	| [[Mr Howard Tan](mailto:tan_ching_hau_howard@schools.gov.sg)](tan_ching_hau_howard@schools.gov.sg) 	|  	|
-| 1 Diligence 	|[ [Mdm Iryantee](mailto:iryantee_jaffar@schools.gov.sg)](iryantee_jaffar@schools.gov.sg)	| [[Ms Looi Tse Theng](mailto:looi_tse_theng@schools.gov.sg) ](looi_tse_theng@schools.gov.sg)	|  	|
-| 1 Discipline 	| [[Mdm Lily Choo](mailto:choo_li_chin_lily@schools.gov.sg) ](choo_li_chin_lily@schools.gov.sg)	| [[Mdm Esther](mailto:makaisvery_esther_periak_a@schools.gov.sg)](makaisvery_esther_periak_a@schools.gov.sg)    	| 	|
-| 1 Excellence 	| [[Ms Veronica How](mailto:how_xin_yi_veronica@schools.gov.sg) ](how_xin_yi_veronica@schools.gov.sg)	| [[Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@schools.gov.sg)](Lim_Jing_Qi_Brenda@schools.gov.sg) 	|  	|
-| 1 Respect 	| [[Mrs Gayatri Kumar](mailto:gayatri_devi@schools.gov.sg) ](gayatri_devi@schools.gov.sg)	| [Mr Paul Lai ](mailto:Paul_Lai_Chyi_Shyan@schools.gov.sg)	|
-| 1 Responsibility 	| [[Ms Quek Yu Pin](mailto:Quek_Yu_Pin@schools.gov.sg)](Quek_Yu_Pin@schools.gov.sg) 	| Ms Ang Meng Li
+| 1 Care 	| [Mr Ernest Fok ](mailto:fok_chee_wel@schools.gov.sg)	|  [Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@schools.gov.sg)	|  [Ms Chen Weiling](mailto:chen_weiling@schools.gov.sg )|
+| 1 Confidence 	| [Ms Natalie Feng](mailto:FENG_Hui_Er@schools.gov.sg)	| [Mr Howard Tan](mailto:tan_ching_hau_howard@schools.gov.sg) 	|
+| 1 Diligence 	|[ Mdm Iryantee](mailto:iryantee_jaffar@schools.gov.sg)| [Ms Looi Tse Theng](mailto:looi_tse_theng@schools.gov.sg)|
+| 1 Discipline 	| [Mdm Lily Choo](mailto:choo_li_chin_lily@schools.gov.sg) | [Mdm Esther](mailto:makaisvery_esther_periak_a@schools.gov.sg)	|
+| 1 Excellence 	| [Ms Veronica How](mailto:how_xin_yi_veronica@schools.gov.sg)	| [Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@schools.gov.sg)|
+| 1 Respect 	| [Mrs Gayatri Kumar](mailto:gayatri_devi@schools.gov.sg)| [Mr Paul Lai ](mailto:Paul_Lai_Chyi_Shyan@schools.gov.sg)	|
+| 1 Responsibility 	| [Ms Quek Yu Pin](mailto:Quek_Yu_Pin@schools.gov.sg)	| Ms Ang Meng Li
 
 #### SECONDARY 2 CLASS MENTORS
 
@@ -25,7 +26,7 @@ description: ""
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 201 	| [[Mr Chia Yew Hwee](mailto:chia_yew_hwee@schools.gov.sg)](chia_yew_hwee@schools.gov.sg)	|  Mdm Karpagam	|  	| 
+| 201 	| [Mr Chia Yew Hwee](mailto:chia_yew_hwee@schools.gov.sg)|  Mdm Karpagam	|  	| 
 | 202 	| [Mr Ajaib Singh](mailto:ajaib_singh_gurbachan_s@schools.gov.sg) 	|[Ms Yang Yi ](mailto:Yang_Yi@schools.gov.sg)	|  	| 
 | 203 	|[ Ms Ethel Choy](mailto:choy_hui_zhen_ethel@schools.gov.sg) 	| [Mr Makoto Kawaguchi](mailto:makoto_kawaguchi@schools.gov.sg) 	|  	| 
 | 204 	| [Ms Teo Yong Chin ](mailto:teo_yong_chin@schools.gov.sg)	|  	| 
