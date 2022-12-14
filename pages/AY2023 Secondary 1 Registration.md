@@ -3,7 +3,6 @@ title: AY2023 Secondary 1 Registration
 permalink: /comingsoon/
 description: ""
 ---
-
 ## **AY2023 Secondary 1**
                
 All the staff and students at Queensway Secondary School warmly welcome you, our new Secondary 1 student, and your parents/guardian to our school.
