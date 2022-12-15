@@ -11,11 +11,11 @@ Welcome to the QSS Family!
 
 ### **Posting Matters**
 
-Click here for the information.
+Click here for the information.  
 
 ### **Principal's Message**
 
-Coming Soon.
+Coming Soon.  
 
 ### **e-Registration and Orientation matters**
 
