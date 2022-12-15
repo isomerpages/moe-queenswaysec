@@ -3,9 +3,6 @@ title: 2023 Secondary 1
 permalink: /2023Secondary1/
 description: ""
 ---
-
-
-
 ## **AY2023 Secondary 1**
                
 All the staff and students at Queensway Secondary School warmly welcome you, our new Secondary 1 student, and your parents/guardian to our school.
@@ -22,4 +19,4 @@ Coming Soon.
 
 ### **e-Registration and Orientation matters**
 
-Please refer to this page on 21st December 2022 at 9am for more information.
+Please refer to this page on 21st December 2022 at 10am for more information.
