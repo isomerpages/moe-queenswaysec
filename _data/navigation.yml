@@ -1,7 +1,5 @@
 logo: /images/qsslogo.png
 links:
-  - title: Open House 2022
-    url: https://sites.google.com/moe.edu.sg/qssopenhouse2022
   - title: About Us
     url: /announcements/
     sublinks:
@@ -23,7 +21,7 @@ links:
     url: /2023 Secondary 1
     sublinks:
       - title: 2023 Secondary 1
-        url: /2023 Secondary 1/
+        url: /2023secondary1/
       - title: DSA
         url: /comingsoon
       - title: School Prospectus
