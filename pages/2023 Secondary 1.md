@@ -11,11 +11,11 @@ Welcome to the QSS Family!
 
 ### **Posting Matters**
 
-Click [here](/files/S1-Press Release of 2022 Sec 1 Posting Results.pdf) for the information.  
+Click [here](https://drive.google.com/file/d/12hHYAbJ0LY_HBTDgoBaIJEx504hYt-qD/view?usp=share_link) for the information.  
 
 ### **Principal's Message**
 
-Click here for the letter.  
+Click [here](https://drive.google.com/file/d/1lQmWWV0oHg6dKUEBpXTSPZnbyaORd302/view?usp=share_link) for the letter.  
 
 ### **e-Registration and Orientation matters**
 
