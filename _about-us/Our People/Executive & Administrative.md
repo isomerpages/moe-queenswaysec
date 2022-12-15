@@ -32,3 +32,4 @@ third_nav_title: Our People
 | Full-Time School Counsellor 	| Ms. Teo Hwee Lian 	|  teo_hwee_lian@moe.edu.sg	|
 | Special Education Needs Officer	| Mdm. Chew Leong Kiong 	|  chew_leong_kiong@moe.edu.sg 	|
 | School Welfare Officer 	| Mr. Alex Chin 	| chin_yu_shun@moe.edu.sg 	|
+ECG Counsellor 	| Mr. Kenny Tan 	| 	|
