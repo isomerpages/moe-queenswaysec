@@ -34,7 +34,7 @@ third_nav_title: Our People
 |  	| Ms Surinder Kaur 	| [surinder\_kaur@schools.gov.sg](mailto:surinder_kaur@schools.gov.sg) 	|
 |  	| Mrs Cindy Tan 	| [yew\_siew\_ping\_cindy@schools.gov.sg](mailto:yew_siew_ping_cindy@schools.gov.sg) 	|
 |  	| Mrs Kasthuri Davaraj 	| [kasthuri\_mahanthran@schools.gov.sg](mailto:kasthuri_mahanthran@schools.gov.sg) 	|
-|  	| Ms Tan Wei Min 	| [tan\_wei\_min\@schools.gov.sg](mailto:tan_wei_min@schools.gov.sg) 	|
+|  	| Ms Tan Wei Min 	| [tan\_wei\_min@schools.gov.sg](mailto:tan_wei_min@schools.gov.sg) 	|
 |  	| Ms Sarah Pang 	| [sarah\_pang\_pei\_wen@moe.edu.sg](mailto:sarah_pang_pei_wen@moe.edu.sg) 	|
 
 ### Humanities
