@@ -11,7 +11,7 @@ Welcome to the QSS Family!
 
 ### **Posting Matters**
 
-Click here for the information.  
+Click [here](/files/S1-Press Release of 2022 Sec 1 Posting Results.pdf) for the information.  
 
 ### **Principal's Message**
 
