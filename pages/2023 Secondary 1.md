@@ -3,6 +3,7 @@ title: 2023 Secondary 1
 permalink: /2023-Secondary-1/
 description: ""
 ---
+
 ## **2023 Secondary 1**
 All the staff and students at Queensway Secondary School (QSS ) warmly welcome you, our new Secondary 1 student, and your parents/guardian to our school.
 
@@ -22,6 +23,7 @@ Student posted to QSS need **not** report to the school after the release of sch
 As part of e-Registration for 2023 Secondary 1 students, there will be a e-briefing on 22 December 2023. The e-briefing will commence at 9 am.
        
 Click [here](https://moe-singapore.zoom.us/j/84474116384) for the e-Briefing or use the meeting details:
+
 **Meeting ID: 844 7411 6384**
 **Passcode: QSS23Star**
         
