@@ -1,5 +1,5 @@
 collections:
-  2023-secondary-1:
+  secondary-1-registration:
     output: true
     order:
       - Secondary 1 Posting/Overview.md
