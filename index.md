@@ -13,7 +13,7 @@ sections:
           url: /announcements/
         - title: Secondary 1 Registration
           description: ""
-          url: /2023-Secondary-1/
+          url: /comingsoon/
         - title: Open House 2022
           description: ""
           url: https://sites.google.com/moe.edu.sg/qssopenhouse2022
