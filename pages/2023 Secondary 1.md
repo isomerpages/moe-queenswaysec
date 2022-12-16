@@ -3,9 +3,7 @@ title: 2023 Secondary 1
 permalink: /2023-Secondary-1/
 description: ""
 ---
-
 ## **2023 Secondary 1**
-               
 All the staff and students at Queensway Secondary School (QSS ) warmly welcome you, our new Secondary 1 student, and your parents/guardian to our school.
 
 Welcome to the QSS Family!   
