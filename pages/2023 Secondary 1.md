@@ -26,4 +26,4 @@ Click [here](https://moe-singapore.zoom.us/j/84474116384) for the e-Briefing or 
 **Meeting ID: 844 7411 6384**
 **Passcode: QSS23Star**
         
-For more information, please refer to this page on 21 December 2022, 9 am onward.
+Click here for Important Information for 2023 Secondary 1 students.
