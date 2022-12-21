@@ -11,7 +11,7 @@ description: ""
 | NCC 	| 3.30-5.30 	|   	|   	|   	|   	|   	|
 | NCDCC 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
 | GUIDES 	| 3.30-5.30 	|   	|   	|   	|   	|   	|
-| BOYS BRIGADE 	|   	|   	|   	|   	|   	| 9-12 noon 	|
+| BOYS BRIGADE 	|   	|   	|   	|   	|   	| 8.30-12 noon 	|
 |   	|   	|   	|   	|   	|   	|   	|
 | CHINESE DANCE 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
 | MODERN DANCE 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
