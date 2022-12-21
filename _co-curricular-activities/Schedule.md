@@ -17,7 +17,7 @@ description: ""
 | MODERN DANCE 	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|   	|
 | CHOIR 	|   	|  	| 3.30-5.30pm 	| 3.30-5.30pm 	|   	|   	|
 | BAND 	| 3.30-6pm (Junior) <br> 3.30-6pm (Main) 	|   	| 3.30-6pm (Junior) 	| 3.30-6pm (Main)  	|   	|   	|
-| DRAMA 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
+| DRAMA 	| 3.30-5.30pm 	|   	| 	|  3.30-5.30pm 	|   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|
 | LIBRARY 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
 | ART 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
