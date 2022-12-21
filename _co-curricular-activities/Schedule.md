@@ -19,10 +19,9 @@ description: ""
 | Concert BAND 	| 3.30-6pm (Junior) <br> 3.30-6pm (Main) 	|   	| 3.30-6pm (Junior) 	| 3.30-6pm (Main)  	|   	|   	|
 | ELDDS 	| 3.30-5.30pm 	|   	| 	|  3.30-5.30pm 	|   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|
-| LIBRARY 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
-| ART 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
-| COMM SERVICE 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
-| MEDIA 	|   	|  3.30-5.30 	|   	|  	|   	|   	|
+| LIBRARY 	|   	|   	|   	| 3.30-5.30pm 	|   	|   	|
+| COMM SERVICE 	|   	|   	|   	| 3.30-5.30pm 	|   	|   	|
+| MEDIA 	|   	|  3.30-5.30pm 	|   	|  	|   	|   	|
 
 <br><br>
 
@@ -49,7 +48,7 @@ description: ""
 
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Sepak Takraw Boys<br>(B Div) 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
+| Sepak Takraw Boys<br>(B Div) 	|  	|   	| 3.30-5.30pm 	|   	|   3.30-5.30pm	|   	|
 | Cross Country<br>Boys & Girls<br>(B Div) 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
 | Hockey Boys<br>(B & C Div) 	| 3.30-5.30 	|   	|   	| 3.30-5.30 	|   	|   	|
 | Badminton Girls<br>(C Div) 	|   	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|
