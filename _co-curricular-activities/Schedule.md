@@ -51,4 +51,5 @@ description: ""
 | Sepak Takraw Boys<br>(B Div) 	|  	|   	| 3.30-5.30pm 	|   	|   3.30-5.30pm	|   	|
 | Cross Country<br>Boys & Girls<br>(B Div) 	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|   	|
 | Hockey Boys<br>(B & C Div) 	|  	|  3.30-5.30pm 	|   	| 3.30-5.30pm 	|  3.30-5.30pm 	|   	|
-| Badminton Girls<br>(C Div) 	|   	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|
+| Badminton Girls<br>(B Div) 	|   3.30-5.30pm	| 	|   	| 3.30-5.30pm 	|   	|   	|
+| Badminton Girls<br>(C Div) 	|   	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|
