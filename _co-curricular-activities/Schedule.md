@@ -13,8 +13,8 @@ description: ""
 | GUIDES 	| 3.30-5.30pm 	|   	|   	|   	|   	|   	|
 | BOYS BRIGADE 	|   	|   	|   	|   	|   	| 8.30-12noon 	|
 |   	|   	|   	|   	|   	|   	|   	|
-| CHINESE DANCE 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
-| MODERN DANCE 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
+| CHINESE DANCE 	| 3.30-5.30pm 	|   	| 3.30-5.30pm	|   	|   	|   	|
+| MODERN DANCE 	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|   	|
 | CHOIR 	|   	| 3.30-5.30  	| 3.30-5.30 	|  	|   	|   	|
 | BAND 	| 3.30-6 (Junior) <br> 3.30-6 (Senior) 	|   	| 3.30-6 (Junior) 	| 3.30-6(Senior)  	|   	|   	|
 | DRAMA 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
