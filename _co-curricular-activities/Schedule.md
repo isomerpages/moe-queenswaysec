@@ -10,8 +10,8 @@ description: ""
 | NPCC <br> Boys & Girls Unit	|   	|   	|   	| 3.30-5.30pm 	|   	|   	|
 | NCC <br> Boys & Girls Unit	| 3.30-5.30pm 	|   	|   	|   	|   	|   	|
 | NCDCC (Closing in 2023. Not Applicable to Sec 1 Intake in 2023) |   	|   	|   	| 3.30-5.30pm 	|   	|   	|
-| GIRLS GUIDES 	| 3.30-5.30pm 	|   	|   	|   	|   	|   	|
-| BOYS BRIGADE 	|   	|   	|   	|   	|   	| 8.30-12noon 	|
+| GIRLS GUIDES (GG) 	| 3.30-5.30pm 	|   	|   	|   	|   	|   	|
+| BOYS BRIGADE (BB) 	|   	|   	|   	|   	|   	| 8.30-12noon 	|
 |   	|   	|   	|   	|   	|   	|   	|
 | CHINESE DANCE 	| 3.30-5.30pm 	|   	| 3.30-5.30pm	|   	|   	|   	|
 | MODERN DANCE 	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|   	|
