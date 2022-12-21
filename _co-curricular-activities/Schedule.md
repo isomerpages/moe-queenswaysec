@@ -7,11 +7,11 @@ description: ""
 
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| NPCC 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
-| NCC 	| 3.30-5.30 	|   	|   	|   	|   	|   	|
-| NCDCC 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
-| GUIDES 	| 3.30-5.30 	|   	|   	|   	|   	|   	|
-| BOYS BRIGADE 	|   	|   	|   	|   	|   	| 8.30-12 noon 	|
+| NPCC 	|   	|   	|   	| 3.30-5.30pm 	|   	|   	|
+| NCC 	| 3.30-5.30pm 	|   	|   	|   	|   	|   	|
+| NCDCC 	|   	|   	|   	| 3.30-5.30pm 	|   	|   	|
+| GUIDES 	| 3.30-5.30pm 	|   	|   	|   	|   	|   	|
+| BOYS BRIGADE 	|   	|   	|   	|   	|   	| 8.30-12noon 	|
 |   	|   	|   	|   	|   	|   	|   	|
 | CHINESE DANCE 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
 | MODERN DANCE 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
