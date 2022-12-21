@@ -16,7 +16,7 @@ description: ""
 | CHINESE DANCE 	| 3.30-5.30pm 	|   	| 3.30-5.30pm	|   	|   	|   	|
 | MODERN DANCE 	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|   	|
 | CHOIR 	|   	|  	| 3.30-5.30pm 	| 3.30-5.30pm 	|   	|   	|
-| BAND 	| 3.30-6pm (Junior) <br> 3.30-6pm (Senior) 	|   	| 3.30-6pm (Junior) 	| 3.30-6pm (Senior)  	|   	|   	|
+| BAND 	| 3.30-6pm (Junior) <br> 3.30-6pm (Main) 	|   	| 3.30-6pm (Junior) 	| 3.30-6pm (Main)  	|   	|   	|
 | DRAMA 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
 |   	|   	|   	|   	|   	|   	|   	|
 | LIBRARY 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
