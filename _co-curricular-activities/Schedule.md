@@ -27,9 +27,9 @@ description: ""
 
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Sepak Takraw Boys<br>(B Div) 	|  	|   	| 3.30-5.30pm 	|   	|   3.30-5.30pm	|   	|
-| Cross Country<br>Boys & Girls<br> 	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|   	|
-| Hockey Boys<br>(B & C Div) 	|  	|  3.30-5.30pm 	|   	| 3.30-5.30pm 	|  3.30-5.30pm 	|   	|
+| Sepak Takraw Boys<br>(B Div) (Closing in 2023. Not Applicable to Sec 1 Intake in 2023)	|  	|   	| 3.30-5.30pm 	|   	|   3.30-5.30pm	|   	|
+| Cross Country<br>Mixed<br>(Closing in 2023. Not Applicable to Sec 1 Intake in 2023)  	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|   	|
+| Hockey Boys<br>(B & C Div) 	|  	|  3.30-6pm 	|   	| 3.30-6pm 	|  3.30-6pm 	|   	|
 | Badminton Girls<br>(B Div) 	|   3.30-5.30pm	| 	|   	| 3.30-5.30pm 	|   	|   	|
 | Badminton Girls<br>(C Div) 	|   	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|
 | Volleyball Girls<br> 	|  3.30-6pm 	| 3.30-6pm 	|   	| 3.30-6pm 	|   	|   	|
