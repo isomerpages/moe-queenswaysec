@@ -27,27 +27,6 @@ description: ""
 
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| NPCC 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
-| NCC 	| 3.30-5.30 	|   	|   	|   	|   	|   	|
-| NCDCC 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
-| GUIDES 	| 3.30-5.30 	|   	|   	|   	|   	|   	|
-| BOYS BRIGADE 	|   	|   	|   	|   	|   	| 9-12 noon 	|
-|   	|   	|   	|   	|   	|   	|   	|
-| CHNESE DANCE 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
-| MODERN DANCE 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
-| CHOIR 	|   	| 3.30-5.30  	| 3.30-5.30 	|  	|   	|   	|
-| BAND 	| 3.30-6 (Junior) <br> 3.30-6 (Senior) 	|   	| 3.30-6 (Junior) 	| 3.30-6(Senior)  	|   	|   	|
-| DRAMA 	| 3.30-5.30 	|   	| 3.30-5.30 	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|
-| LIBRARY 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
-| ART 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
-| COMM SERVICE 	|   	|   	|   	| 3.30-5.30 	|   	|   	|
-| MEDIA 	|   	|  3.30-5.30 	|   	|  	|   	|  	|
-
-<br><br>
-
-| DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
-|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | Sepak Takraw Boys<br>(B Div) 	|  	|   	| 3.30-5.30pm 	|   	|   3.30-5.30pm	|   	|
 | Cross Country<br>Boys & Girls<br> 	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|   	|
 | Hockey Boys<br>(B & C Div) 	|  	|  3.30-5.30pm 	|   	| 3.30-5.30pm 	|  3.30-5.30pm 	|   	|
