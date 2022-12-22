@@ -4,8 +4,6 @@ permalink: /programmes/sports-for-life/
 description: ""
 third_nav_title: Special Programmes
 ---
-
-
 ### Sports for Life & Outdoor Education (LLP)
 
 
@@ -33,4 +31,4 @@ The 2-tiered SOE Programme enables students with higher ability and interest to 
 | • Swimming Programme 	| • Sports Spectatorship Programme 	|
 | • Water Sports Programme 	| • Sports Education Programme 	|
 | • First Aid Programme 	| • Sports Competitive Programme 	|
-| • Outdoor Activities & Camp 	| • NYAA Programme 	|
+| • Outdoor Activities & Camp 	| |
