@@ -14,7 +14,7 @@ Click [here](https://drive.google.com/file/d/12hHYAbJ0LY_HBTDgoBaIJEx504hYt-qD/v
 
 ### **Principal's Message**
 
-Click [here](https://drive.google.com/file/d/1lQmWWV0oHg6dKUEBpXTSPZnbyaORd302/view?usp=share_link) for the letter.  
+Click [here](https://drive.google.com/file/d/1fWXeg2gw10bGMi-Kpoi3kKdu1goRUKhj/view?usp=share_link) for the letter.  
 
 ### **e-Registration and Orientation matters**
 Student posted to QSS need **not** report to the school after the release of school posting results. **All** incoming 2023 Secondary 1 students **must** register online via Parents Gateway (PG). Registration will done online only.
