@@ -14,7 +14,7 @@ Click [here](https://drive.google.com/file/d/12hHYAbJ0LY_HBTDgoBaIJEx504hYt-qD/v
 
 ### **Principal's Message**
 
-Click [here](https://drive.google.com/file/d/1lQmWWV0oHg6dKUEBpXTSPZnbyaORd302/view?usp=share_link) for the letter.  
+Click [here](https://drive.google.com/file/d/1fWXeg2gw10bGMi-Kpoi3kKdu1goRUKhj/view?usp=share_link) for the letter.  
 
 ### **e-Registration and Orientation matters**
 Student posted to QSS need **not** report to the school after the release of school posting results. **All** incoming 2023 Secondary 1 students **must** register online via Parents Gateway (PG). Registration will done online only.
@@ -24,7 +24,11 @@ As part of e-Registration for 2023 Secondary 1 students, there will be a e-brief
 **Meeting ID: 844 7411 6384**
 **Passcode: QSS23Star**
         
-Click [here](https://drive.google.com/file/d/1ZmBA7XrM3va2BvI91UuJ9MA3WvYoP6hU/view?usp=share_link) for Important Information for 2023 Secondary 1 students.
+Click [here](https://drive.google.com/file/d/1MpJ7huVCgaDk_3QgzDDf-NWi3FZSvehB/view?usp=share_link) for Updated Important Information for 2023 Secondary 1 students (as of 22 Dec).
+
+Click [here](https://drive.google.com/file/d/1-DCroNZK9fQ4r0C5jivnoeuPykZ1i_DT/view?usp=share_link) for 2023 webinar slides - Secondary 1 students conducted on 22 December morning.
+
+The responses to the questions asked during the webinar will be sent via PG by 26 December.
 
 ### **Appeals, School Transfers Procedures**
 
