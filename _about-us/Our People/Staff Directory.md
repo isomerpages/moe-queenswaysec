@@ -10,9 +10,9 @@ third_nav_title: Our People
 |---	|---	|---	|
 | HOD CT 	| Mr Kevin Chong 	| [chong\_kok\_wai\_kevin@schools.gov.sg](mailto:chong_kok_wai_kevin@schools.gov.sg) 	|
 | LT, D&T 	| Mdm Eileen Ang 	| [ang\_bee\_kiow\_eileen@schools.gov.sg](mailto:ang_bee_kiow_eileen@moe.edu.sg) 	|
-|  	| Mrs Gayatri Kumar 	| [gayatri\_devi@schools.gov.sg](mailto:gayatri_devi@moe.edu.sg) 	|
-|  	| Mrs Isabel Wong 	| [lee\_siew\_min\_isabel@moe.edu.sg](mailto:lee_siew_min_isabel@schools.gov.sg) 	|
-|  	| Ms Murni Iryani Bte Md Hanafi 	| [murni\_iryani\_mohd\_hanafi@schools.gov.sg](mailto:murni_iryani_mohd_hanafi@moe.edu.sg) 	|
+|  	| Mrs Gayatri Kumar 	| [gayatri\_devi@schools.gov.sg](mailto:gayatri_devi@schools.gov.sg) 	|
+|  	| Mrs Isabel Wong 	| [lee\_siew\_min\_isabel@schools.gov.sg](mailto:lee_siew_min_isabel@schools.gov.sg) 	|
+|  	| Ms Murni Iryani Bte Md Hanafi 	| [murni\_iryani\_mohd\_hanafi@schools.gov.sg](mailto:murni_iryani_mohd_hanafi@schools.gov.sg) 	|
 |  	| Mrs Ding Hailun 	| [luo\_hailun@schools.gov.sg](mailto:luo_hailun@moe.edu.sg) 	|
 |  	|	|	|
 |  	| Mr Marcus Tay 	| [tay\_hiong\_kiat\_marcus@schools.gov.sg](mailto:tay_hiong_kiat_marcus@moe.edu.sg) 	|
@@ -25,8 +25,8 @@ third_nav_title: Our People
 | HOD English Language 	| Mrs Vani Shankar 	| [dorairaj\_vani@schools.gov.sg](mailto:dorairaj_vani@schools.gov.sg) 	|
 | Lead Teacher, EL 	| Mdm Jayletchimi 	| [jayletchimi\_ramasamy@schools.gov.sg](mailto:jayletchimi_ramasamy@schools.gov.sg) 	|
 | Level Head, EL 	| Mr Makoto Kawaguchi 	| [makoto\_kawaguchi@schools.gov.sg](mailto:makoto_kawaguchi@schools.gov.sg) 	|
-| Subject Head (Covering), Literature 	| Mrs Joanne Chan 	| [jia\_en\_joanne\_loo@moe.edu.sg](mailto:jia_en_joanne_loo@schools.gov.sg) 	|
-|  	| Mrs Angela Loy 	| [ang\_ha\_ngek@moe.edu.sg](mailto:ang_ha_ngek@schools.gov.sg) 	|
+| Subject Head (Covering), Literature 	| Mrs Joanne Chan 	| [jia\_en\_joanne\_loo@schools.gov.sg](mailto:jia_en_joanne_loo@schools.gov.sg) 	|
+|  	| Mrs Angela Loy 	| [ang\_ha\_ngek@schools.gov.sg](mailto:ang_ha_ngek@schools.gov.sg) 	|
 |  	| Ms Chen Weiling 	| [chen\_weiling@schools.gov.sg](mailto:chen_weiling@schools.gov.sg) 	
 |  	| Mr Marcus Low 	| [low\_xue\_kai\_marcus@schools.gov.sg](mailto:low_xue_kai_marcus@schools.gov.sg) 	|
 |  	| Ms Frieden Ng 	| [ng\_chih\_qing@schools.gov.sg](mailto:ng_chih_qing@schools.gov.sg) 	|
@@ -35,7 +35,7 @@ third_nav_title: Our People
 |  	| Mrs Cindy Tan 	| [yew\_siew\_ping\_cindy@schools.gov.sg](mailto:yew_siew_ping_cindy@schools.gov.sg) 	|
 |  	| Mrs Kasthuri Davaraj 	| [kasthuri\_mahanthran@schools.gov.sg](mailto:kasthuri_mahanthran@schools.gov.sg) 	|
 |  	| Ms Tan Wei Min 	| [tan\_wei\_min@schools.gov.sg](mailto:tan_wei_min@schools.gov.sg) 	|
-|  	| Ms Sarah Pang 	| [sarah\_pang\_pei\_wen@moe.edu.sg](mailto:sarah_pang_pei_wen@moe.edu.sg) 	|
+|  	| Ms Sarah Pang 	| [sarah\_pang\_pei\_wen@schools.gov.sg](mailto:sarah_pang_pei_wen@schools.gov.sg) 	|
 
 ### Humanities
 
@@ -53,6 +53,7 @@ third_nav_title: Our People
 |  	| Ms Tharshini Karthigesan 	| [tharshini\_karthigesan@schools.gov.sg](mailto:tharshini_karthigesan@schools.gov.sg) 	|
 |  	| Ms Quek Yu Pin 	| [quek\_yu\_pin@schools.gov.sg](mailto:quek_yu_pin@schools.gov.sg) 	|
 |  	| Mr Chow Jing Kang 	| [chow\_jing\_kang@schools.gov.sg](mailto:chow_jing_kang@schools.gov.sg) 	|
+|  	| Mr Ajaib Singh 	| [ajaib\_singh\_gurbachan\_s@schools.gov.sg](mailto:ajaib_singh_gurbachan_s@schools.gov.sg)
 |  	| 	| 	|
 
 #### Mother Tongue Languages
