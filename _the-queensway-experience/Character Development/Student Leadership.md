@@ -6,7 +6,7 @@ third_nav_title: Character Development
 ---
 ### Student Leadership
 
-	<img src="https://drive.google.com/file/d/1Rh15vzF1lE4263IqMduI4BjL2Tv9IJit/viewusp=share_link" alt\="_alternatetext_"\>
+<img src="https://drive.google.com/uc?export=view&id=1Rh15vzF1lE4263IqMduI4BjL2Tv9IJit">
 
 Our philosophy of student leadership development is guided by the following beliefs:
 
@@ -25,6 +25,8 @@ The Lower Secondary curriculum is based on the idea of “Unleashing the Servant
 
 The Upper Secondary curriculum enhances the lower secondary curriculum where ‘self’ and ‘team’ leadership are introduced. At Upper Secondary, student leaders are taught knowledge and skills to support initiatives for active student leadership to make a positive difference in class, at home, within the school and in the community. Hence, the key message to the student leaders is that leadership is not about positions of power but positions of positive influence. Past examples of opportunities available for the student leaders have included a mentorship program by university students and leadership workshops by external vendors.
 
+<img src="https://drive.google.com/uc?export=view&id=1TiWUycaZW0FYKkSGwxnJLhqFhV8vXbCz">
+
 The school has an extensive and structured system in providing opportunities for both broad-based and role-based student leadership development for our students.
 
 #### Quotes
@@ -34,3 +36,5 @@ Clarice Koh En Qi, Trainee Prefect
 
 ‘Overall, my leadership journey has been difficult but fulfilling. The amount of life skills I’ve picked up is something that I wholeheartedly thank the Prefectorial Board for. No words can describe my gratitude for how much the Prefectorial Board has shaped my core memory of Queensway Secondary School.’<br>-
 Kang Qi Xuan, Head Prefect
+
+<img src="https://drive.google.com/uc?export=view&id=1Ya1c7XHXSuSp-uRRSD9QDUjJMT98zcj3">
