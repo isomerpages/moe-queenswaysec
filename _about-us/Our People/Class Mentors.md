@@ -22,7 +22,7 @@ third_nav_title: Our People
 
 #### SECONDARY 2 CLASS MENTORS
 
-##### ASSISTANT YEAR HEAD: MS CHEN ZHIYUN
+##### ASSISTANT YEAR HEAD: [MS CHEN ZHIYUN](mailto:chen_zhiyun@schools.gov.sg)
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
@@ -38,7 +38,7 @@ third_nav_title: Our People
 
 #### SECONDARY 3 CLASS MENTORS
 
-##### UPPER SEC YEAR HEAD: MR FEROZ ALI
+##### UPPER SEC YEAR HEAD: [MR FEROZ ALI](mailto:feroz_ali@schools.gov.sg)
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
@@ -53,7 +53,7 @@ third_nav_title: Our People
 
 #### SECONDARY 4/5 CLASS MENTORS
 
-##### ASSISTANT YEAR HEAD: MR YEO CHOON HWA
+##### ASSISTANT YEAR HEAD: [MR YEO CHOON HWA](mailto:yeo_choon_hwa@schools.gov.sg)
 
 | Class 	|  	|  	|  	|
 |---:	|---	|---	|---	|
