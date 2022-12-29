@@ -6,9 +6,9 @@ third_nav_title: Academic Departments
 ---
 ### Science
 
-#### Department Mission
-
 <img src="https://drive.google.com/uc?export=view&id=1t5PJhUrzasHUGaMfO_X4-vTSOpVS1Igr">
+
+#### Department Mission
 
 For all Queenswayans to enjoy learning Science, regardless of age or course.
 
