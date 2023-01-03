@@ -13,11 +13,11 @@ third_nav_title: Uniformed Groups
 |  |  |  |
 | -------- | -------- | -------- |
 | **STUDENT LEADERS** 	|  	|
-| **OVERALL IC:** 	|MOHAMED SIRAJUDEEN AMIR MUKHTAR (301) 	|
-| **TRAINING AND COMPETITION IC:** 	|           REON ONG XIANG YONG (301)<br>SIN MING DE XAVIER (302) 	|
-| **ADMINISTRATIVE IC:** 	| AUSTIN CHAN JIE XIAN (303)<br>TOH YONG KIT (304) 	|
-| **LOGISTICS IC:** 	| CODY LIU FENG RUI (303)<br>ERIC TAY JIAJUN(304) 	|
-| **PROJECTS AND WELFARE IC:** 	| T-SNEHA (302)<br>BIELZA ANDREI NICOLAS (312) 	|
+| **OVERALL IC:** 	|MOHAMED SIRAJUDEEN AMIR MUKHTAR 401) 	|
+| **TRAINING AND COMPETITION IC:** 	|           REON ONG XIANG YONG (401)<br>SIN MING DE XAVIER (402) 	|
+| **ADMINISTRATIVE IC:** 	| AUSTIN CHAN JIE XIAN (403)<br>TOH YONG KIT (404) 	|
+| **LOGISTICS IC:** 	| CODY LIU FENG RUI (401)<br>ERIC TAY JIAJUN (404) 	|
+| **PROJECTS AND WELFARE IC:** 	| T-SNEHA (402)<br>BIELZA ANDREI NICOLAS (412) 	|
 
 In NPCC, we believe in developing all our cadets holistically. Our cadets will be given the opportunity to conduct training and activities under the supervision of our Teacher Officers to develop their leadership and communication skills. Cadets will be taught the basic drills and fundamental police knowledge. 
 
