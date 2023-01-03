@@ -4,13 +4,11 @@ permalink: /cca/Clubs-and-Societies/community-service-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
-
 ### Community Service Club
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	|  MS ANGELA ANG (IC) <br> MR IVAN HO CHONG HUAT 	|
+| **TEACHER-IN-CHARGE:** 	|  MR IVAN HO (I/C)
 
 
 | STUDENT LEADERS 	|  	|
