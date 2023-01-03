@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS SARAH PANG (IC)<br>MS QUEK YU PIN<br>MS LIM XIN YING 	|
+| **TEACHERS-IN-CHARGE:** 	| MS SARAH PANG (IC)
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
