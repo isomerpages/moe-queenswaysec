@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS LOOI TSE THENG (CO)<br>MS PHILYNN TAN<br>MR JONATHAN HO 	|
+| **TEACHERS-IN-CHARGE:** 	| MS LOOI TSE THENG (CO)
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
@@ -53,5 +53,4 @@ In 2022, our Secondary 1 cadets participated in Camp F.O.R.G.E, where they enjoy
 
 ‘When I joined the National Cadet Corps,I did not have any expectations. However, I soon realized that the National Cadet Corps is more than just a uniformed group. Before I knew it, I have learnt values that couldn’t be taught elsewhere. One of the events that taught me a lot about values was Camp STEEL. There was also the National Cadet Corps Sport Championship where we had to compete with other schools through various types of sports such as football and Captain’s Ball. Even though, we lost in football, it taught us about teamwork and communication as we attacked and defended. Overall, I am grateful that I had the opportunity to join the National Cadet Corps.’<br>Dario (411)
 
-‘One memorable event that was conducted after the SMM rules were relaxed was the Senior Specialist Leader’s Course (SSLC), a program to hone the leadership skills of NCC student leaders. Through the course, I picked up skills on how to lead the CCA better, as well as how to handle any difficulties with ease. I also got to work with other NCC members from various schools. Even though we had our share of laughter and jokes, we had also learnt how to work together to overcome hardships. Besides bonding with my fellow NCC-mates, SSLC was able to impart to me essential leadership skills and experience to better lead my juniors. All in all, NCC had given me many opportunities and invaluable experiences that I will carry with me.’<br>Xaviar (411) 
-
+‘One memorable event that was conducted after the SMM rules were relaxed was the Senior Specialist Leader’s Course (SSLC), a program to hone the leadership skills of NCC student leaders. Through the course, I picked up skills on how to lead the CCA better, as well as how to handle any difficulties with ease. I also got to work with other NCC members from various schools. Even though we had our share of laughter and jokes, we had also learnt how to work together to overcome hardships. Besides bonding with my fellow NCC-mates, SSLC was able to impart to me essential leadership skills and experience to better lead my juniors. All in all, NCC had given me many opportunities and invaluable experiences that I will carry with me.’<br>Xaviar (411)
