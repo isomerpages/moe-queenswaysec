@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| ASP (NPCC) JIMMY ONG (OC)<br> INSP (NPCC) VERONICA HOW (ADJUTANT)<br>ASP (NPCC) KALA DEVI<br>INSP (NPCC) STELLA GOH 	|
+| **TEACHER-IN-CHARGE:** 	| ASP (NPCC) JIMMY ONG (OC)
 
 |  |  |  |
 | -------- | -------- | -------- |
