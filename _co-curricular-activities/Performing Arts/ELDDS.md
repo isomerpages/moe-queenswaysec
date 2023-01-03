@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MRS CINDY TAN (IC) <br> MS CHEN WEILING <br>MS TAN WEI MIN	|
+| **TEACHERS-IN-CHARGE:** 	| MRS CINDY TAN (IC) 
 
 |  	|  	|
 |---	|---	|
