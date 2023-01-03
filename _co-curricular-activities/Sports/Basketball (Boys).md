@@ -4,12 +4,11 @@ permalink: /cca/sports/basketball-boys/
 description: ""
 third_nav_title: Sports
 ---
-
 ### Basketball (Boys)
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR THAM YU HSUAN (IC)<br>MR YEO CHOON HWA <br> MR CHNG ENG PENG 	|
+| **TEACHER-IN-CHARGE:** 	| MR THAM YU HSUAN (IC)|
 
 |  	|  	|
 |---	|---	|
