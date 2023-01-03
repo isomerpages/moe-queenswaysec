@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	|  MS. CHIA HUI JUN <br> MR. MARCUS TAY HIONG KIAT <br> MS. SHIRLEY TAY 	|
+| **TEACHER-IN-CHARGE:** 	|  MS. CHIA HUI JUN (I/C)
 
 |  	|  	|
 |---	|---	|
