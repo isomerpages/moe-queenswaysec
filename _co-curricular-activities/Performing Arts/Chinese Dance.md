@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS. LOW XIN YEE (IC) <br> MDM. ZHENG XIUMIN 	|
+| **TEACHER-IN-CHARGE:** 	| MS. LOW XIN YEE (IC)
 
 |  	|  	|
 |---	|---	|
