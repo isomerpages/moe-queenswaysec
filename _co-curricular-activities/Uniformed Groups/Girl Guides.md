@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS SARAH PANG (IC)
+| **TEACHER-IN-CHARGE:** 	| MS SARAH PANG (I/C)
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
