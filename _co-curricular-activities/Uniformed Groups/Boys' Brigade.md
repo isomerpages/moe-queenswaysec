@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR HOWARD TAN (IC)<br>MR MARCUS LOW<br>MS CHEN ZHIYUN 	|
+| **TEACHER-IN-CHARGE:** 	| MR HOWARD TAN (I/C)
 
 |  	|  	|
 |---	|---	|
@@ -37,4 +37,4 @@ In 2022, we focused on increasing the engagement of our boys through outdoor and
 
 
 <b>Recipient for the S.P.Chua Award 2022 (Brigade Level Best Boy)</b><br>Warrant Officer Tan Tu Yi
- <br><b>AdevntuRe:ignite 2022</b><br>Gold Honour Roll 
+ <br><b>AdevntuRe:ignite 2022</b><br>Gold Honour Roll
