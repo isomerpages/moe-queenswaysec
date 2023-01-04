@@ -41,6 +41,3 @@ The Science Fiesta is an annual affair that aims to make Science more accessible
 “I have learned interesting knowledge from the ALP programme. Apart from conducting fun experiments with food, I have also acquired practical skills to obtain accurate results in my experiments. ALP is a fun subject. I enjoyed every ALP session. My favourite session taught me how to use upcycled materials from home to grow edible plants. It allowed me to express my creativity while learning more about Science.”  
 
   
-
- _Satini Sai Keerthan_<br>
-“I really enjoyed the hands-on activities and working closely with other people on our project to programme our Arduino boards to solve problems facing Sustainability. Through the Tier 2 ALP, I have acquired basic coding in Arduino and turned my ideas into prototypes.”
