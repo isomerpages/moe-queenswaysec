@@ -19,6 +19,8 @@ The Applied Learning Programme is a tiered series of hands-on modules that are c
 **2) Sustainability in Food (Tier 1 - Sec 2)**<br>
 In Secondary 2, apart from learning about the fundamentals of nutrition, students will learn about the latest technological advancements in food production, innovation and waste management, which Singapore can leverage upon to ensure food security.
 
+<img src="https://drive.google.com/uc?export=view&id=1-mmwL-i4-XLzviOceWHlhm2tF3oVUf_t">
+
   
 **3) Programming and its application in Sustainability  (Tier 2 - Sec 3)** Selected students acquired the basic programming language used in Arduino microcontrollers, and learnt to programme their Arduino boards using the drag-and-drop mBlock interface. They teamed up to build their Arduino Bots, and collaborated to test the feasibility and practicality of the completed prototypes to tackle various sustainability issues.  
   
