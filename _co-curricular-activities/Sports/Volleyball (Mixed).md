@@ -4,12 +4,11 @@ permalink: /cca/Sports/volleyball/
 description: ""
 third_nav_title: Sports
 ---
-
 ### Volleyball
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS TEO YONG CHIN <br>MS ZHANG YI <br>MDM LIM SWEE KHENG<br>MS BRENDA LIM<br>MR GILBERT TAN WEI BENG<BR>MDM LILY CHOO	|
+| **TEACHER-IN-CHARGE:** 	| MS TEO YONG CHIN (I/C)	|
 
 |  	|  	|
 |---	|---	|

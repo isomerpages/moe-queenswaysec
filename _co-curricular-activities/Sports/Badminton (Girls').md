@@ -4,12 +4,11 @@ permalink: /cca/Sports/badminton-girls/
 description: ""
 third_nav_title: Sports
 ---
-
 ### Badminton 'C' Division (Girls)
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR CHIA YEW HWEE <br>MDM TOH SIEW LAN<br>MDM ULAGANATHAN KARPAGAM|
+| **TEACHER-IN-CHARGE:** 	| MR CHIA YEW HWEE  (IC)|
 
 
 | STUDENT LEADERS 	|  	|

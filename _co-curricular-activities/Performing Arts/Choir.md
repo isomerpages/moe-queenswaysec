@@ -8,16 +8,9 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	|  MS. SURINDER KAUR  <br> MDM IRYANTEE <br> MDM ESTHER 	|
-
-|  	|  	|
-|---	|---	|
-| **INSTRUCTORS** 	| LIM HUI MIN <br>  MATTHEW SIEW <br>	|
-
-| STUDENT LEADERS 	|  	|
-|---	|---	|
-| SETH LIM XIN	|
-| RAAKIN MANJUR	|
+| **TEACHERS-IN-CHARGE:** 	|  MS. SURINDER KAUR (I/C)|  
+|**INSTRUCTORS** 	| LIM HUI MIN <br>  MATTHEW SIEW <br>	|	|
+| STUDENT LEADERS 	| SETH LIM XIN <br>RAAKIN MANJUR 	|
 
 #### Overview of the CCA:   
 

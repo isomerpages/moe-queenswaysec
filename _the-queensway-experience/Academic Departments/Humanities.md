@@ -14,7 +14,7 @@ To develop Queenswayans into concerned students and critical thinkers in a globa
 
 #### TEACHING APPROACH
 
-The Humanities Department in Queensway Secondary School comprises the Humanities Subjects (History, Geography, Social Studies) and the Commerce Subjects (POA).
+The Humanities Department in Queensway Secondary School comprises History, Geography and Social Studies.
 
 <img src="/images/hum1.png" style="width:100%"> Central to Humanities education in Queensway Secondary School is the Humanities Inquiry Approach, which seeks to promote learning through inquiry. The process entails looking at:
 

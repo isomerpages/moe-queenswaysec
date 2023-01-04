@@ -8,7 +8,7 @@ third_nav_title: Clubs and Societies
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	|  MR AARON ONG (IC) <br> MS YANG YI 	|
+| **TEACHER-IN-CHARGE:** 	|  MR AARON ONG (I/C) 
 
 
 | STUDENT LEADERS 	|  	|

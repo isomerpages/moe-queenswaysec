@@ -8,10 +8,7 @@ third_nav_title: Performing Arts
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MS. JOANNE LOO <br> MRS KASTHURI 	DAVARAJ<br>MRS ISABEL WONG|
-
-|  	|  	|
-|---	|---	|
+| **TEACHER-IN-CHARGE:** 	| MRS. JOANNE CHAN (I/C)|
 | **INSTRUCTOR:** 	| MR ROBIN TEH 	|
 
 |  	|  	|
