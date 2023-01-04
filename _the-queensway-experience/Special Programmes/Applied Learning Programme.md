@@ -12,6 +12,8 @@ The Applied Learning Programme is a tiered series of hands-on modules that are c
 **1) Sustainability in Water (Tier 1  - Sec 1)** 
 <br>In the first tier of the ALP programme, all Secondary 1 students will learn about the various techniques of water treatment. They will also have the opportunity to harness energy from water and construct a sea perch, which they will use for navigation and water testing purposes.
 
+<img src="https://drive.google.com/uc?export=view&id=197HTXX3FAm7sTBHIOT9JmWnHPR-5Y_eA">
+
 
 
 **2) Sustainability in Food (Tier 1 - Sec 2)**<br>
