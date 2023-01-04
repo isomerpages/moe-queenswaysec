@@ -26,6 +26,8 @@ In Secondary 2, apart from learning about the fundamentals of nutrition, student
   
 **4) Science Fiesta**   
 The Science Fiesta is an annual affair that aims to make Science more accessible and engaging for our students, by demystifying the natural phenomena in everyday life. During this year’s Science Fiesta, the Lower Secondary students observed various Science experiments and demonstrations relating to the theme of Sustainability.  
+
+<img src="https://drive.google.com/uc?export=view&id=1V4XLoIT_BxdT4h8BFmG9VI6oB4rtNQA1">
   
 
 #### Student Experiences:
