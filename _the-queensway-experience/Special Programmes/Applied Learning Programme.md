@@ -22,7 +22,7 @@ In Secondary 2, apart from learning about the fundamentals of nutrition, student
 <img src="https://drive.google.com/uc?export=view&id=1-mmwL-i4-XLzviOceWHlhm2tF3oVUf_t">
 
   
-**3) Green Team Changemakers(Tier 2 - Sec 3)** <br>Selected students acquired the basic programming language used in Arduino microcontrollers, and learnt to programme their Arduino boards using the drag-and-drop mBlock interface. They teamed up to build their Arduino Bots, and collaborated to test the feasibility and practicality of the completed prototypes to tackle various sustainability issues.  
+**3) Green Team Changemakers(Tier 2 - Sec 3)** <br>  In this programme, students will gain a deeper understanding of the UN Sustainable Development Goals (SDGs) and related issues, and be equipped with green skills necessary to identify and exploit opportunities for the building of a green economy. They will explore selected SDGs through hands-on activities, conduct green audits and analyse the data obtained, before embarking on projects to drive positive environmental change in their communities.
   
 **4) Science Fiesta**   
 The Science Fiesta is an annual affair that aims to make Science more accessible and engaging for our students, by demystifying the natural phenomena in everyday life. During this year’s Science Fiesta, the Lower Secondary students observed various Science experiments and demonstrations relating to the theme of Sustainability.  
