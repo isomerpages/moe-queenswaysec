@@ -9,7 +9,8 @@ third_nav_title: Special Programmes
 The Applied Learning Programme is a tiered series of hands-on modules that are carefully curated to expose students to environmental sustainability issues in Singapore; specifically, water and food sustainability. Over the two-year programme, students will take part in interactive modules designed to cultivate a greater sense of environmental responsibility. Working in teams to complete guided experiments, students will be given opportunities to hone their collaboration, critical thinking and problem-solving skills.
 
   
-**1) Sustainability in Water (Tier 1  - Sec 1)** In the first tier of the ALP programme, all Secondary 1 students will learn about the various techniques of water treatment. They will also have the opportunity to harness energy from water and construct a sea perch, which they will use for navigation and water testing purposes.
+**1) Sustainability in Water (Tier 1  - Sec 1)** 
+In the first tier of the ALP programme, all Secondary 1 students will learn about the various techniques of water treatment. They will also have the opportunity to harness energy from water and construct a sea perch, which they will use for navigation and water testing purposes.
 
 
 
