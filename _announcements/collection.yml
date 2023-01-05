@@ -2,5 +2,5 @@ collections:
   announcements:
     output: true
     order:
-      - GCE O Level Release.md
+      - GCE O Level Results Release.md
       - School Calendar.md
