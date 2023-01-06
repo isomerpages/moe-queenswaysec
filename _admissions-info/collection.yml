@@ -2,9 +2,9 @@ collections:
   admissions-info:
     output: true
     order:
+      - 2023 Secondary 1.md
+      - Financial Assistance.md
+      - Booklists.md
       - Locker Rental.md
       - Uniforms.md
-      - Booklists.md
-      - Financial Assistance.md
-      - 2023 Secondary 1.md
       - Direct School Admission.md
