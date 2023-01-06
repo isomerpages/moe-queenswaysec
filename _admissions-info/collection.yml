@@ -2,6 +2,7 @@ collections:
   admissions-info:
     output: true
     order:
+      - Booklists.md
       - Financial Assistance.md
       - 2023 Secondary 1.md
       - Direct School Admission.md
