@@ -1,0 +1,10 @@
+collections:
+  student-info:
+    output: true
+    order:
+      - 2023 Secondary 1.md
+      - Financial Assistance Scheme.md
+      - Booklists.md
+      - Locker Rental.md
+      - Uniforms.md
+      - Direct School Admission.md
