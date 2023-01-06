@@ -2,6 +2,7 @@ collections:
   admissions-info:
     output: true
     order:
+      - Locker Rental.md
       - Uniforms.md
       - Booklists.md
       - Financial Assistance.md
