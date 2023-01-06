@@ -21,6 +21,6 @@ You can download the booklists for the various levels here.
 [Secondary 3 Normal Technical](https://drive.google.com/file/d/1yXwXCaQdSJMU56kDgH0SUrc9yhsQlJTS/view?usp=share_link)
 
 **Secondary 4/5**<br>
-Secondary 4 Express/Secondary 5<br>
-Secondary 4 Normal Academic <br>
-Secondary 4 Normal Technical
+[Secondary 4 Express/Secondary 5](https://drive.google.com/file/d/1oyhfyeGvcFFwTnRc4e8l6GfioGOPqd5e/view?usp=sharing)<br>
+[Secondary 4 Normal Academic](https://drive.google.com/file/d/1qMjov-8xulVebHgBITvCAc2VHwX0pc0T/view?usp=share_link) <br>
+[Secondary 4 Normal Technical](https://drive.google.com/file/d/1rzFQnHW-jKwLGqYYjtk_6R2oPFpaaOsH/view?usp=share_link)
