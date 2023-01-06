@@ -1,5 +1,5 @@
 collections:
-  admissions-info:
+  student-info:
     output: true
     order:
       - 2023 Secondary 1.md
