@@ -20,18 +20,20 @@ links:
   - title: Current & Prospective students
     url: /2023-Secondary-1/
     sublinks:
+      - title: Financial Assistance Scheme
+        url: /admissions-info/fas
+      - title: Booklists
+        url: /admissions-info/booklists
       - title: 2023 Secondary 1
         url: /2023-Secondary-1/
       - title: DSA
         url: /dsa/
       - title: School Prospectus
         url: https://drive.google.com/file/d/1V6OBOXRgpsA3WD8qAdnIh13CaScTPEHe/view?usp=sharing
-      - title: Financial Assistance Scheme
-        url: /admissions-info/fas
-      - title: Booklists
-        url: /admissions-info/booklists
-      - title: Submenu Title
-        url: /permalink
+      - title: Locker Rental
+        url: /admissions-info/lockers
+      - title: Uniforms
+        url: /admissions-info/uniform
   - title: The Queensway Experience
     url: /academics/english-language-and-literature/
     sublinks:
