@@ -1,8 +1,9 @@
 ---
 title: Booklists
-permalink: /admissions-info/permalink/
+permalink: /admissions-info/booklists/
 description: ""
 ---
+
 You can download the booklists for the various levels here.
 
 **Secondary 1**<br>
