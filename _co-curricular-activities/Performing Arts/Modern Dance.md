@@ -15,7 +15,7 @@ third_nav_title: Performing Arts
 |---	|---	|
 | **STUDENT LEADERS:**	|  	|
 |JUDITH KWA ZI YING|
-|NYGUEN NGOC THUY TRAM|
+|NGYUEN NGOC THUY TRAM|
          
 #### Overview of the CCA:   
 
