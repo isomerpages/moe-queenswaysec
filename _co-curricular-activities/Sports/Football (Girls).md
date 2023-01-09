@@ -8,7 +8,7 @@ third_nav_title: Sports
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MRS GAYATRI KUMAR<br>MDM MURNI IRYANI<BR>MS NATALIE FENG|
+| **TEACHER-IN-CHARGE:** 	| MRS GAYATRI KUMAR
 
 |  	|  	|
 |---	|---	|
@@ -25,7 +25,7 @@ third_nav_title: Sports
 
 At Queensway, we believe that the Beautiful Game should be enjoyed by everybody. Our Football (Girls) team embodies the school's values of Excellence, Discipline, Respect and Responsibility through their actions on and off the pitch. In 2022, our C Division Girls were national finalists while their seniors emerged as National Champions.
 
-Outside of rigorous training sessions, the girls have numerous opportunities to develop their skills and talents in the sport. This includes participation in the National Football Academy Programme. Numerous Queenswayans have represented the nation in age-group football and we are also proud that some have even been called up to the senior national team. In 2022, Irsalina bte Irwan was recognised as the 2022 Sportsgirl of the Year (Football) at the 52nd National School Sports Colours Award ceremony. 
+Outside of rigorous training sessions, the girls have numerous opportunities to develop their skills and talents in the sport. Numerous Queenswayans have represented the nation in age-group football and we are also proud that some have even been called up to the senior national team. In 2022, Irsalina bte Irwan was recognised as the 2022 Sportsgirl of the Year (Football) at the 52nd National School Sports Colours Award ceremony. 
 
 <img src="https://drive.google.com/uc?export=view&id=1DQqmtVFxa7bCHL1bbG978tZuqJs0CPQp"><BR>
 
