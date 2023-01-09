@@ -12,12 +12,12 @@ third_nav_title: Our People
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 1 Care 	| [Mr Ernest Fok ](mailto:fok_chee_wel@moe.edu.sg)	|  [Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@moe.edu.sg)	|  [Ms Chen Weiling](mailto:chen_weiling@moe.edu.sg )|
+| 1 Care 	| [Mrs Gayatri Kumar](mailto:gayatri_devi@moe.edu.sg)| [Mr Paul Lai ](mailto:Paul_Lai_Chyi_Shyan@moe.edu.sg)	|
 | 1 Confidence 	| [Ms Natalie Feng](mailto:FENG_Hui_Er@moe.edu.sg)	| [Mr Howard Tan](mailto:tan_ching_hau_howard@moe.edu.sg) 	|
 | 1 Diligence 	|[ Mdm Iryantee](mailto:iryantee_jaffar@moe.edu.sg)| [Ms Looi Tse Theng](mailto:looi_tse_theng@moe.edu.sg)|
 | 1 Discipline 	| [Mdm Lily Choo](mailto:choo_li_chin_lily@moe.edu.sg) | [Mdm Esther](mailto:makaisvery_esther_periak_a@moe.edu.sg)	|
 | 1 Excellence 	| [Ms Veronica How](mailto:how_xin_yi_veronica@moe.edu.sg)	| [Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@moe.edu.sg)|
-| 1 Respect 	| [Mrs Gayatri Kumar](mailto:gayatri_devi@moe.edu.sg)| [Mr Paul Lai ](mailto:Paul_Lai_Chyi_Shyan@moe.edu.sg)	|
+| 1 Respect 	| [Mr Ernest Fok ](mailto:fok_chee_wel@moe.edu.sg)	|  [Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@moe.edu.sg)	|  [Ms Chen Weiling](mailto:chen_weiling@moe.edu.sg )|
 | 1 Responsibility 	| [Ms Quek Yu Pin](mailto:Quek_Yu_Pin@moe.edu.sg)	| [Ms Ang Meng Li](mailto:ang_meng_li@moe.edu.sg)	|
 
 #### SECONDARY 2 CLASS MENTORS
