@@ -4,12 +4,11 @@ permalink: /cca/Sports/football-boys/
 description: ""
 third_nav_title: Sports
 ---
-
 ### Football (Boys)
 
 |  	|  	|
 |---	|---	|
-| **TEACHERS-IN-CHARGE:** 	| MR CHOW JING KANG<br>MR SENAN B LONG<br>MR BEN DAVID<br>MS THARSHINI 	|
+| **TEACHER-IN-CHARGE:** 	| MRS GAYATRI KUMAR
 
 |  	|  	|
 |---	|---	|
