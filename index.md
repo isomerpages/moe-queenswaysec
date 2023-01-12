@@ -16,7 +16,7 @@ sections:
           url: /2023-Secondary-1/
         - title: HBL Calendar
           description: ""
-          url: https://sites.google.com/moe.edu.sg/qssopenhouse2022
+          url: /student-info/hblcalendar/
       title: Queensway Secondary School
       background: /images/hero image (updated).png
 ---
