@@ -2,6 +2,7 @@ collections:
   student-info:
     output: true
     order:
+      - School Calendar.md
       - HBL Calendar.md
       - 2023 Secondary 1.md
       - Financial Assistance Scheme.md
