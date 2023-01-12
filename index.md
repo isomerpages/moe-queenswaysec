@@ -11,12 +11,12 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: 2023 Secondary 1
+        - title: School Calendar
           description: ""
-          url: /2023-Secondary-1/
-        - title: Open House 2022
+          url: /student-info/schoolcalendar/
+        - title: HBL Calendar
           description: ""
-          url: https://sites.google.com/moe.edu.sg/qssopenhouse2022
+          url: /student-info/hblcalendar/
       title: Queensway Secondary School
       background: /images/hero image (updated).png
 ---
