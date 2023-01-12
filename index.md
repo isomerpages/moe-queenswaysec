@@ -13,7 +13,7 @@ sections:
           url: /announcements/
         - title: School Calendar
           description: ""
-          url: /2023-Secondary-1/
+          url: /student-info/schoolcalendar/
         - title: HBL Calendar
           description: ""
           url: /student-info/hblcalendar/
