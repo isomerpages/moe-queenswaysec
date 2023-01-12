@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - GCE O Level Results Release.md
-      - School Calendar.md
