@@ -3,6 +3,7 @@ title: School Calendar
 permalink: /student-info/schoolcalendar/
 description: ""
 ---
+Click [here]() to download the school calendar in a pdf format. 
 ![](/images/2023%20School%20Calendar/0123Jan.jpg)
 ![](/images/2023%20School%20Calendar/0223Feb.jpg)
 ![](/images/2023%20School%20Calendar/0323Mar.jpg)
