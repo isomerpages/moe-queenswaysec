@@ -2,7 +2,6 @@ collections:
   secondary-1-registration:
     output: true
     order:
-      - Secondary 1 Posting/Overview.md
       - Secondary 1 Posting/AEP and MEP.md
       - Secondary 1 Posting/Higher Mother Tongue.md
       - Secondary 1 Posting/Languages other than Chinese, Malay or Tamil.md
