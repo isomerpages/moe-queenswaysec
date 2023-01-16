@@ -9,7 +9,7 @@ third_nav_title: Sports
 |  	|  	|
 |---	|---	|
 | **TEACHER-IN-CHARGE:** 	| MR CHIA YEW HWEE  (IC)|
-
+| **COACH:** 	|  MR JUDE LOH CHUN LI	|
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
