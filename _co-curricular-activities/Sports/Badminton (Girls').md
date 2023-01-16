@@ -13,8 +13,11 @@ third_nav_title: Sports
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **CAPTAIN:** 	|  TAN YU-QI (203)	|
-| **VICE-CAPTAIN:** 	| JENISSA JAIN (201) <br> TAN YING YI MATILDA (202) 	|
+| **'B' DIVISION CAPTAIN:** 	|  TAN YU-QI (302)	|
+| **'B' DIVISION VICE-CAPTAIN:** 	| TAN YING YI MATILDA (301)<BR>YAU XIN TONG TRICIA (303)	|
+| **'C' DIVISION CAPTAIN:** 	|  JOSIEN NG (203)	|
+| **'C' DIVISION VICE-CAPTAIN:** 	|  SOH YI XUAN I (202)<BR>TAN SOH HWEE MEGHAN (204)	|
+GHAN (204
 
 #### Overview of the CCA:   
 
