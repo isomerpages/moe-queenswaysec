@@ -4,7 +4,6 @@ permalink: /academics/english-language-and-literature/
 description: ""
 third_nav_title: Academic Departments
 ---
-
 ### English Language & Literature
 
 #### Department Mission
@@ -15,7 +14,7 @@ To inspire a passion for the English Language and Literature so as to create a s
 
 #### Signature Pedagogy: CLEARR
 
-**English Language** in Queensway is taught using the CLEARR Pedagogical Framework, with learning experiences designed in four phases:
+**English Language** in Queensway Secondary is taught using the CLEARR Pedagogical Framework, with learning experiences designed in four phases:
  
 ***Contextualise***: Knowledge is activated and interest is built;
 
