@@ -1,9 +1,9 @@
 ---
 title: Languages other than Chinese, Malay or Tamil
-permalink: /secondary-1-registration/Secondary-1-Posting/languagess-other-than-chinese-malay-or-tamil
+permalink: /secondary-1-registration/Secondary-1-Posting/languagess-other-than-chinese-malay-or-tamil/
 description: ""
-third_nav_title: Secondary 1 Posting
 ---
+
 #### Other languages other than Mainstream Mother Tongue (languages other than Chinese, Malay or Tamil)
 
 As part of MOE’s bilingual policy, it is compulsory for all students to take at least one language as their Mother Tongue Language. Other than the mainstream Mother Tongue Languages, some students are eligible to take other languages as their Mother Tongue Language, while some are eligible to take a 3rd language.

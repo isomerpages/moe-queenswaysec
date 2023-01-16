@@ -2,8 +2,8 @@
 title: Higher Mother Tongue
 permalink: /secondary-1-registration/Secondary-1-Posting/higher-mother-tongue/
 description: ""
-third_nav_title: Secondary 1 Posting
 ---
+
 ### Higher Mother Tongue
 
 Students who wish to take Higher Mother Tongue must meet either of the criteria below:\- obtained a PSLE Score of 8 or better AND took MTL at PSLE;
