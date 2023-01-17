@@ -4,7 +4,7 @@ permalink: /cca/Sports/badminton-girls/
 description: ""
 third_nav_title: Sports
 ---
-### Badminton 'C' Division (Girls)
+### Badminton (Girls)
 
 |  	|  	|
 |---	|---	|
