@@ -44,7 +44,7 @@ third_nav_title: Our People
 |---	|---	|---	|---	|
 | 301 	| [Ms Shirley Tay](mailto:Shirley_Tay@moe.edu.sg)	|  [Ms Kala Devi](mailto:kala_devi_santha_kumar@moe.edu.sg)	|  	|
 | 302 	| [Ms Sarah Pang](mailto:Sarah_PANG_PEI_WEN@moe.edu.sg)	| [Ms Lim Xin Ying](mailto:lim_xin_ying_1@moe.edu.sg) 	|  	|
-| 303 	|[ Ms Philynn Tan ](mailto:tan_hong_bee_philynn@moe.edu.sg)	| Ms Tan Wei Min 	|  	|
+| 303 	|[ Ms Philynn Tan ](mailto:tan_hong_bee_philynn@moe.edu.sg)	| [Ms Tan Wei Min](mailto:tan_wei_min@moe.edu.sg) 	|  	|
 | 304 	|[ Mrs Cindy Tan ](mailto:yew_siew_ping_cindy@moe.edu.sg)	| [Mr Gilbert Tan ](mailto:Gilbert_Tan_Wei_Beng@moe.edu.sg)	|
 | 311 	| [Ms Audrey Chua](mailto:chua_sing_li_audrey@moe.edu.sg)	| [Ms Tharshini](mailto:tharshini_karthigesan@moe.edu.sg) 	|  	|
 | 312 	| [Mr Gerard Danker](mailto:gerard_danker@moe.edu.sg) 	|[ Ms Grace Lee	](mailto:mei_yan_grace_lee@moe.edu.sg)
