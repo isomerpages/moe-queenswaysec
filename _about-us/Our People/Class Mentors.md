@@ -13,12 +13,12 @@ third_nav_title: Our People
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
 | 1 Care 	| [Mrs Gayatri Kumar](mailto:gayatri_devi@moe.edu.sg)| [Mr Paul Lai ](mailto:Paul_Lai_Chyi_Shyan@moe.edu.sg)	|
-| 1 Confidence 	| [Ms Natalie Feng](mailto:FENG_Hui_Er@moe.edu.sg)	| [Mr Howard Tan](mailto:tan_ching_hau_howard@moe.edu.sg) 	|
-| 1 Diligence 	|[ Mdm Iryantee](mailto:iryantee_jaffar@moe.edu.sg)| [Ms Looi Tse Theng](mailto:looi_tse_theng@moe.edu.sg)|
-| 1 Discipline 	| [Mdm Lily Choo](mailto:choo_li_chin_lily@moe.edu.sg) | [Mdm Esther](mailto:makaisvery_esther_periak_a@moe.edu.sg)	|
-| 1 Excellence 	| [Ms Veronica How](mailto:how_xin_yi_veronica@moe.edu.sg)	| [Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@moe.edu.sg)|
+| 1 Confidence 	| [Ms Quek Yu Pin](mailto:Quek_Yu_Pin@moe.edu.sg)	| [Ms Ang Meng Li](mailto:ang_meng_li@moe.edu.sg) 	|
+| 1 Diligence 	| [Mdm Lily Choo](mailto:choo_li_chin_lily@moe.edu.sg) | [Mdm Esther](mailto:makaisvery_esther_periak_a@moe.edu.sg)|
+| 1 Discipline 	| [Ms Veronica How](mailto:how_xin_yi_veronica@moe.edu.sg)	| [Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@moe.edu.sg)	|
+| 1 Excellence 	| [ Mdm Iryantee](mailto:iryantee_jaffar@moe.edu.sg)| [Ms Looi Tse Theng](mailto:looi_tse_theng@moe.edu.sg)|
 | 1 Respect 	| [Mr Ernest Fok ](mailto:fok_chee_wel@moe.edu.sg)	|  [Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@moe.edu.sg)	|  [Ms Chen Weiling](mailto:chen_weiling@moe.edu.sg )|
-| 1 Responsibility 	| [Ms Quek Yu Pin](mailto:Quek_Yu_Pin@moe.edu.sg)	| [Ms Ang Meng Li](mailto:ang_meng_li@moe.edu.sg)	|
+| 1 Responsibility 	| [Ms Natalie Feng](mailto:FENG_Hui_Er@moe.edu.sg)	| [Mr Howard Tan](mailto:tan_ching_hau_howard@moe.edu.sg)	|
 
 #### SECONDARY 2 CLASS MENTORS
 
@@ -28,7 +28,7 @@ third_nav_title: Our People
 |---	|---	|---	|---	|
 | 201 	| [Mr Chia Yew Hwee](mailto:chia_yew_hwee@moe.edu.sg)|  [Mdm Karpagam](mailto:ulaganathan_karpagam@moe.edu.sg)	|  	| 
 | 202 	| [Mr Ajaib Singh](mailto:ajaib_singh_gurbachan_s@moe.edu.sg) 	|[Ms Yang Yi ](mailto:Yang_Yi@moe.edu.sg)	|  	| 
-| 203 	|[ Ms Ethel Choy](mailto:choy_hui_zhen_ethel@moe.edu.sg) 	| [Mr Makoto Kawaguchi](mailto:makoto_kawaguchi@moe.edu.sg) 	|  	| 
+| 203 	| [Ms Ethel Choy](mailto:choy_hui_zhen_ethel@moe.edu.sg) 	| [Mr Makoto Kawaguchi](mailto:makoto_kawaguchi@moe.edu.sg) 	|  	| 
 | 204 	| [Ms Teo Yong Chin ](mailto:teo_yong_chin@moe.edu.sg)	|  	| 
 | 211 	| [Ms Low Xin Yee ](mailto:low_xin_yee@moe.edu.sg)	| [Mrs Isabel Wong](mailto:lee_siew_min_isabel@moe.edu.sg) 	|  	| 
 | 212 	| [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg) 	|[ Mr Marcus Low ](mailto:LOW_Xue_Kai_Marcus@moe.edu.sg)	| [Mdm Kartini ](mailto:kartini_djoeraemi@moe.edu.sg)
@@ -48,7 +48,7 @@ third_nav_title: Our People
 | 304 	|[ Mrs Cindy Tan ](mailto:yew_siew_ping_cindy@moe.edu.sg)	| [Mr Gilbert Tan ](mailto:Gilbert_Tan_Wei_Beng@moe.edu.sg)	|
 | 311 	| [Ms Audrey Chua](mailto:chua_sing_li_audrey@moe.edu.sg)	| [Ms Tharshini](mailto:tharshini_karthigesan@moe.edu.sg) 	|  	|
 | 312 	| [Mr Gerard Danker](mailto:gerard_danker@moe.edu.sg) 	|[ Ms Grace Lee	](mailto:mei_yan_grace_lee@moe.edu.sg)
-| 313 	| [Ms Murni ](mailto:murni_iryani_mohd_hanafi@moe.edu.sg)	| [Mr Tom Ho](mailto:ho_hai_long@moe.edu.sg)|
+| 313 	| [Ms Murni ](mailto:murni_iryani_mohd_hanafi@moe.edu.sg)	| [Mr Tom Ho](mailto:ho_hai_long@moe.edu.sg)| [Mr Ben David](mailto:ben_david_nazareth)  	|
 
 
 #### SECONDARY 4/5 CLASS MENTORS
