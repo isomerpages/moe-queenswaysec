@@ -57,6 +57,20 @@ description: ""
 
 ### **2020**
 
+|**Uniformed Groups** | **Performing Arts** | |
+| -------- | -------- | -------- |
+| National Cadet Corps<br>Distinction | Choir<br>Distinction |  |
+|National Police Cadet Corps<br>Gold | Malay Dance<br>Distinction | |
+|Girls Guide<br>Gold| Chinese Dance<br>Accomplishment |  |
+|Boys' Brigade<br>Silver | Band<br>Accomplishment |  |
+|| ELDDS<br>Accomplishment |  |
+
+
+
+
+
+
+
 | | **Uniformed Groups** | |
 | -------- | -------- | -------- |
 | NCC (Boys) | NPCC | SJAB |
