@@ -9,14 +9,9 @@ description: ""
 | -------- | -------- | -------- |
 | Volleyball (Girls)<br>South Zone Champions (B Div)     | National Cadet Corps<br>Distinction  | Band<br>Accomplishment | 
 |Volleyball (Boys)<br>South Zone 2nd (B Div) | National Police Cadet Corps <br>Gold | Chinese Dance<br>Distinction
-|Volleyball (Girls)<br>South Zone Champions (C Div) | National Civil Defence Cadet Corps<br>Gold | English Language Literary Drama and Debate Society<br>Accomplishment|
-|Football (Girls)<br>South Zone Champions (B Div) | Girls Guide<br>Gold | -------- |
+|Volleyball (Girls)<br>South Zone Champions (C Div) | National Civil Defence Cadet Corps<br>Gold | ELDDS<br>Accomplishment|
+|Football (Girls)<br>South Zone Champions (B Div) | Girls Guide<br>Gold |  |
 |Football (Boys)<br>South Zone 2nd (B Div)| Boys' Brigade<br>Silver |  |
-
-
-
-
-
 
 
 
@@ -46,10 +41,13 @@ description: ""
 
 ### **2021**
 
-| | **Sports** | |
+|**Sports**| **Performing Arts** | |
 | -------- | -------- | -------- |
-| Volleyball 'B' Girls | Volleyball 'B' Boys | Sepaktakraw 'B' Boys |
-| *2nd South Zone* | *3rd South Zone* | *3rd South Zone* |
+| Volleyball (Girls)<br> South Zone 2nd (B Div)| Chinese Dance <br>SYF Distinction |  |
+| Volleyball (Boys)<br> South Zone 2nd (B Div) | ELDDS<br>Accomplishment |  |
+| Sepak Takraw<br>National 3rd (B Div) | Band<br>SYF Accomplishment |  |
+
+
 
 | | **Performing Arts** | |
 | -------- | -------- | -------- |
