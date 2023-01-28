@@ -92,11 +92,11 @@ description: ""
 
 |**Sports** | **Uniformed Groups** |  **Performing Arts**|
 | -------- | -------- | -------- |
-| Football (Boys)<br>Qualified for League 1 (B Div)    | National Cadet Corps (Boys)<br>Best Unit Competition (Gold)  | Choir<br>SYF Distinction | 
-| Football (Girls)<br>National Champions (B Div)|National Cadet Corps (Girls)<br>Best Unit Competition (Gold) |Malay Dance<br>SYF Distinction |
-| Football (Boys)<br>Qualified for League 1 (C Div)| Boys' Brigade <br>JM Fraser Award (Silver) |Chinese Dance <br>SYF Accomplishment|
-| Football (Girls)<br>Nationals 1st (C Div)| Girls Guide<br>Puan Noor  Aishah Award (Gold) | |
-| Volleyball (Girls)<br>Nationals 3rd (B Div)<br>South Zone 3rd (B Div)|National Police Cadet Corps<br>Best Unit Competition (Gold)  | |
+| Football (Boys)<br>Qualified for League 1 (B Div)    | National Cadet Corps (Boys)<br>Best Unit Competition (Gold)  | Choir<br>SYF (Distinction) | 
+| Football (Girls)<br>National Champions (B Div)|National Cadet Corps (Girls)<br>Best Unit Competition (Gold) |Malay Dance<br>SYF (Distinction) |
+| Football (Boys)<br>Qualified for League 1 (C Div)| Boys' Brigade <br>JM Fraser Award (Silver) |Chinese Dance <br>SYF (Accomplishment)|
+| Football (Girls)<br>Nationals 1st (C Div)| Girls Guide<br>Puan Noor  Aishah Award (Gold) | Band<br>SYF (Accomplishment)|
+| Volleyball (Girls)<br>Nationals 3rd (B Div)<br>South Zone 3rd (B Div)|National Police Cadet Corps<br>Best Unit Competition (Gold)  |ELDDS<br>SYF (Distinction) |
 | Volleyball (Boys)<br>Nationals 3rd (B Div)<br>South Zone 3rd (B Div|St. John Ambulance Brigade Corps <br>Achievement Award (Gold) | |
 | Volleyball (Boys)<br>South Zone 4th (C Div)|National Civil Defence Cadet Corps<br>Gold  | |
 
