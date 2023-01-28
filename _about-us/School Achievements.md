@@ -96,7 +96,7 @@ description: ""
 | Football (Girls)<br>National Champions (B Div)|National Cadet Corps (Girls)<br>Best Unit Competition (Gold) | |
 | Football (Boys)<br>Qualified for League 1 (C Div)| Boys' Brigade <br>JM Fraser Award (Silver) | |
 | Football (Girls)<br>Nationals 1st (C Div)| Girls Guide<br>Puan Noor  Aishah Award (Gold) | |
-| Volleyball (Girls)<br>Nationals 3rd (B Div)<br>South Zone 3rd (B Div)|  | |
+| Volleyball (Girls)<br>Nationals 3rd (B Div)<br>South Zone 3rd (B Div)|National Police Cadet Corps<br>Best Unit Competition (Gold)  | |
 | Volleyball (Boys)<br>Nationals 3rd (B Div)<br>South Zone 3rd (B Div|  | |
 | Volleyball (Boys)<br>South Zone 4th (C Div)|  | |
 
