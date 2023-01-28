@@ -101,6 +101,19 @@ description: ""
 | Volleyball (Boys)<br>South Zone 4th (C Div)|National Civil Defence Cadet Corps<br>Gold  | |
 
 
+### **Colours Award 2019**
+
+|**Team Colours Award** | **Uniformed Groups** |  **Performing Arts**|
+| -------- | -------- | -------- |
+| Football (Boys)<br>Qualified for League 1 (B Div)    | National Cadet Corps (Boys)<br>Best Unit Competition (Gold)  | Choir<br>SYF (Distinction) | 
+
+
+
+
+
+
+
+
 
 
 
