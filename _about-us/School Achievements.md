@@ -106,8 +106,8 @@ description: ""
 |**Team Colours Award** | **Individual Colours Award** |  **Individual Colours Distinction Award**|
 | -------- | -------- | -------- |
 | B Girls Football   | Tan Kee Ler (Sepak Takraw) | Hazel Lim Ya Ting<br>(Football) | 
-| C Girls Football   | National Cadet Corps (Boys)<br>Best Unit Competition (Gold)  | Choir<br>SYF (Distinction) | 
-
+| C Girls Football   | | Muhammad Farid Bin Jafiri<br> (Football) | 
+| | | Ho Matsuoka Evangalista Kenji Austin<br> (Football) | 
 
 
 
