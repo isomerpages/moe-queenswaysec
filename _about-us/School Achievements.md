@@ -92,7 +92,7 @@ description: ""
 
 |**Sports** | **Uniformed Groups** |  **Performing Arts**|
 | -------- | -------- | -------- |
-| Football (Boys)<br>Qualified for League 1 (B Div)    |   |  | 
+| Football (Boys)<br>Qualified for League 1 (B Div)    | National Cadet Corps (Boys)<br>Best Unit Competition (Gold)  |  | 
 | Football (Girls)<br>National Champions (B Div)| | |
 | Football (Boys)<br>Qualified for League 1 (C Div)|  | |
 | Football (Girls)<br>Nationals 1st (C Div)|  | |
