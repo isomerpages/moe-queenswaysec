@@ -103,10 +103,10 @@ description: ""
 
 ### **Colours Award 2019**
 
-|**Team Colours Award** | **Uniformed Groups** |  **Performing Arts**|
+|**Team Colours Award** | **Individual Colours Award** |  **Individual Colours Distinction Award**|
 | -------- | -------- | -------- |
-| Football (Boys)<br>Qualified for League 1 (B Div)    | National Cadet Corps (Boys)<br>Best Unit Competition (Gold)  | Choir<br>SYF (Distinction) | 
-
+| B Girls Football   | Tan Kee Ler (Sepak Takraw) | Choir<br>SYF (Distinction) | 
+| C Girls Football   | National Cadet Corps (Boys)<br>Best Unit Competition (Gold)  | Choir<br>SYF (Distinction) | 
 
 
 
