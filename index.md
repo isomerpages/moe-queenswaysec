@@ -2,7 +2,7 @@
 layout: homepage
 title: Queensway Secondary School
 description: Brief site description here
-image: /images/qsslogo.png
+image: /images/Logo - Colour Updated.png
 permalink: /
 notification: ""
 sections:
@@ -20,3 +20,4 @@ sections:
       title: Queensway Secondary School
       background: /images/hero image (updated).png
 ---
+
