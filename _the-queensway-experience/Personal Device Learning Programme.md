@@ -12,4 +12,5 @@ The use of the PLD aims to:
 * Support self-directed and collaborative learning
 * Enhance teaching and learning
 
-At QSS, the PLD of choice is the Lenovo 500e 2nd Gen Chromebook Convertible. The total cost after GST is $519.00 (with 3-year insurance). 
+PDLP Resources for Parents:
+
