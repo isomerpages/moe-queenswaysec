@@ -1,6 +1,6 @@
 title: Queensway Secondary School
-url: ""
-favicon: /images/qsslogo.png
+url: https://queenswaysec.moe.edu.sg
+favicon: /images/Logo - Colour Updated.png
 colors:
   primary-color: "#733991"
   secondary-color: "#4a255a"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.du62j8uucogi5.amplifyapp.com
 prod: https://master.du62j8uucogi5.amplifyapp.com
-shareicon: /images/qsslogo.png
+shareicon: /images/Logo - Colour Updated.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

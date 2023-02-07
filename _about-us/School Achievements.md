@@ -8,98 +8,65 @@ description: ""
 | **Sports** | **Uniformed Groups** |**Performing Arts**  |
 | -------- | -------- | -------- |
 | Volleyball (Girls)<br>South Zone Champions (B Div)     | National Cadet Corps<br>Distinction  | Band<br>Accomplishment | 
-|Volleyball (Boys)<br>South Zone 2nd (B Div) | National Police Cadet Corps <br>Gold | 
+|Volleyball (Boys)<br>South Zone 2nd (B Div) | National Police Cadet Corps <br>Gold | Chinese Dance<br>Distinction
+|Volleyball (Girls)<br>South Zone Champions (C Div) | National Civil Defence Cadet Corps<br>Gold | ELDDS<br>Accomplishment|
+|Football (Girls)<br>South Zone Champions (B Div) | Girls Guide<br>Gold |  |
+|Football (Boys)<br>South Zone 2nd (B Div)| Boys' Brigade<br>Silver |  |
 
 
-
-
-
-
-
-
-
-| | **Sports** | |
-| -------- | -------- | -------- |
-| Football 'B' Girls    | Football 'C' Girls    | Football 'B' Boys | 
-|*1st National Division* | *2nd National Division* | *2nd South Zone Division* |
-| | | |
-| Volleyball 'B' Girls | Volleyball 'C' Girls | Volleyball 'B' Boys |
-| *1st South Zone* | *1st South Zone* | *2nd South Zone* |
-| | | |
-| Hockey 'C' Boys |
-| *3rd National Division* |
-
-| | **Uniformed Groups** | |
-| -------- | -------- | -------- |
-| NCC (Boys) | NPCC | NCDCC |
-|*Distinction* | *Gold* | *Gold* |
-| | | |
-| Boys' Brigade | Girls Guide |
-| *Silver* | *Gold* |
-
-| | **Performing Arts** | |
-| -------- | -------- | -------- |
-| Band | Chinese Dance | ELDDS |
-| *Accomplisment* | *Distinction* | *Accomplishment* |
 
 ### **2021**
 
-| | **Sports** | |
+|**Sports**| **Performing Arts** | |
 | -------- | -------- | -------- |
-| Volleyball 'B' Girls | Volleyball 'B' Boys | Sepaktakraw 'B' Boys |
-| *2nd South Zone* | *3rd South Zone* | *3rd South Zone* |
+| Volleyball (Girls)<br> South Zone 2nd (B Div)| Chinese Dance <br>SYF Distinction |  |
+| Volleyball (Boys)<br> South Zone 2nd (B Div) | ELDDS<br>Accomplishment |  |
+| Sepak Takraw<br>National 3rd (B Div) | Band<br>SYF Accomplishment |  |
 
-| | **Performing Arts** | |
-| -------- | -------- | -------- |
-| Band | Chinese Dance | ELDDS |
-| *Accomplisment* | *Distinction* | *Accomplishment*
-|
+
+
+
 
 ### **2020**
 
-| | **Uniformed Groups** | |
+|**Uniformed Groups** | **Performing Arts** | |
 | -------- | -------- | -------- |
-| NCC (Boys) | NPCC | SJAB |
-|*Distinction* | *Gold* | *Gold* |
-| | | |
-| Boys' Brigade | Girls Guide |
-| *Silver* | *Gold* |
+| National Cadet Corps<br>Distinction | Choir<br>Distinction |  |
+|National Police Cadet Corps<br>Gold | Malay Dance<br>Distinction | |
+|Girls Guide<br>Gold| Chinese Dance<br>Accomplishment |  |
+|Boys' Brigade<br>Silver | Band<br>Accomplishment |  |
+|| ELDDS<br>Accomplishment |  |
 
-| | **Performing Arts** | |
-| -------- | -------- | -------- |
-| Band | Chinese Dance | ELDDS |
-| *Accomplisment* | *Accomplishment* | *Accomplishment* |
-| | | |
-| Malay Dance | Choir |
-| *Distinction* | *Distinction* |
+
+
 
 ### **2019**
 
-| | **Sports** | |
+|**Sports** | **Uniformed Groups** |  **Performing Arts**|
 | -------- | -------- | -------- |
-| Football 'B' Girls    | Football 'C' Girls    | Football 'B' Boys | 
-|*1st National Division* | *1st National Division* | *League 1 QF* |
-| Football 'C' Boys | 
-| *League 1 QF* |
-| | | |
-| Volleyball 'B' Girls | Volleyball 'B' Boys |
-| *3rd South Zone* | *3rd South Zone* |
-| | | |
-| Sepaktakraw 'B' Boys |
-| *3rd National Division* |
+| Football (Boys)<br>Qualified for League 1 (B Div)    | National Cadet Corps (Boys)<br>Best Unit Competition (Gold)  | Choir<br>SYF (Distinction) | 
+| Football (Girls)<br>National Champions (B Div)|National Cadet Corps (Girls)<br>Best Unit Competition (Gold) |Malay Dance<br>SYF (Distinction) |
+| Football (Boys)<br>Qualified for League 1 (C Div)| Boys' Brigade <br>JM Fraser Award (Silver) |Chinese Dance <br>SYF (Accomplishment)|
+| Football (Girls)<br>Nationals 1st (C Div)| Girls Guide<br>Puan Noor  Aishah Award (Gold) | Band<br>SYF (Accomplishment)|
+| Volleyball (Girls)<br>Nationals 3rd (B Div)<br>South Zone 3rd (B Div)|National Police Cadet Corps<br>Best Unit Competition (Gold)  |ELDDS<br>SYF (Distinction) |
+| Volleyball (Boys)<br>Nationals 3rd (B Div)<br>South Zone 3rd (B Div|St. John Ambulance Brigade Corps <br>Achievement Award (Gold) | |
+| Volleyball (Boys)<br>South Zone 4th (C Div)|National Civil Defence Cadet Corps<br>Gold  | |
 
-| | **Uniformed Groups** | |
-| -------- | -------- | -------- |
-| NCC (Boys) | NPCC | NCDCC |
-|*Distinction* | *Gold* | *Gold* |
-| | | |
-| Boys' Brigade | Girls Guide |
-| *Silver* | *Gold* |
 
-| | **Performing Arts** | |
+### **Colours Award 2019**
+
+|**Team Colours Award** | **Individual Colours Award** |  **Individual Colours Distinction Award**|
 | -------- | -------- | -------- |
-| Band | Chinese Dance | ELDDS |
-| *Accomplisment* | *Accomplishment* | *Accomplishment* |
-| | | |
-| Malay Dance | Choir |
-| *Distinction* | *Distinction* |
+| B Girls Football   | Tan Kee Ler (Sepak Takraw) | Hazel Lim Ya Ting<br>(Football) | 
+| C Girls Football   | | Muhammad Farid Bin Jafiri<br> (Football) | 
+| | | Ho Matsuoka Evangalista Kenji Austin<br> (Football) | 
+| | | Muhammad Danie Hafiy Bin Mohammad Hanafi<br> (Football) | 
+| | | Nur Adrianna Binte Hazeri<br> (Football) | 
+| | | Summer Chong<br> (Football) | 
+| | | Wan Nashirah Binte Wan Mohammad Alam Syah <br> (Football) | 
+| | | Noordiyannah Binti Norazhar <br> (Football) | 
+| | | Ariesa Zahran Binte Junaidi<br> (Football) | 
+| | | Nurzaherra Maisarah Binte Mohamad Rostam<br> (Football) | 
+| | | Irsalina Binte Irwan<br> (Football) | 
+
+
