@@ -40,7 +40,9 @@ b.    Character and Citizenship Education (CCE)
 
 7.       Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-For information on QSS's Sexuality Programme, please click 
+For information on QSS's Sexuality Programme, please click [here](/files/2023%20Info%20on%20SEd%20for%20schs%20website%20QSS.pdf).
+
+
 
 
 
