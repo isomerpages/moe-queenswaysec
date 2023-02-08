@@ -40,7 +40,7 @@ b.    Character and Citizenship Education (CCE)
 
 7.       Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-
+<img src="https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1QMK-mYaEcGmlyn2KHkjzT9ZVAeKLE-Xu/view?usp=share_linkimgid">
 
 
 
