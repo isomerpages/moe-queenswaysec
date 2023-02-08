@@ -55,7 +55,7 @@ For information on QSS's Sexuality Programme, please click [here](/files/2023%20
 <br>
 <br>
 
-Sexuality education is an important programme in our schools. It aims to help our young understand the physiological, social and emotional changes they experience as they mature, develop healthy relationships with the opposite sex and to teach them how to make responsible choices. It is premised on the importance of the heterosexual married family as the basic unit of society, and respect for the values and beliefs of the different ethnic and religious communities on sexuality issues.
+
 
   
 
