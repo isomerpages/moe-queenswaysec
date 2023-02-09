@@ -45,13 +45,13 @@ For information on QSS's Sexuality Programme, please click [here](/files/2023%20
 
 **Information for Parents**
 
-10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+8.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.      Letters to parents: Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents through the parent gateway and is also downloadable [here](/files/Sexuality%20Opt%20Out%20Form.pdf) . The completed form is to be submitted to the Class Mentors by 10/03/2023.
+9.      Letters to parents: Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents through the parent gateway and is also downloadable [here](/files/Sexuality%20Opt%20Out%20Form.pdf) . The completed form is to be submitted to the Class Mentors by 10/03/2023.
 
-12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form.  This form will be distributed to parents through the parent gateway and is also downloadable [here](/files/Eteen%20opt%20out%20form.pdf). The completed form is to be submitted to the Class Mentors by 10/03/2023.
+10.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form.  This form will be distributed to parents through the parent gateway and is also downloadable [here](/files/Eteen%20opt%20out%20form.pdf). The completed form is to be submitted to the Class Mentors by 10/03/2023.
 
-13.      Parents can contact the school at 64741421 for discussion or to seek clarification about the school’s Sexuality Education programme.
+11.      Parents can contact the school at 64741421 for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 
 
