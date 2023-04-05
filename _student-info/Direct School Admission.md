@@ -13,7 +13,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 
 The Direct School Admission (DSA-Sec) Exercise is a scheme which gives the school the flexibility to select students for admission based on the recognition of their achievements and talents other than just academic results achieved at the national examinations.
 
-#### QSS DSA-Sec Exercise 2022
+#### QSS DSA-Sec Exercise 2023
 
 Primary Six pupils may seek direct school admission into Queensway Secondary School before the Secondary One Posting Exercise (November 2022).  
 
