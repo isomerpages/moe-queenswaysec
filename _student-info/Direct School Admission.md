@@ -42,24 +42,8 @@ Click&nbsp;[here](https://staging.du62j8uucogi5.amplifyapp.com/useful-links/Pros
 
 #### Selection Criteria
 
-<img src="/images/dsa2.png" style="width:90%">
-
-Parents and students are encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.  
-
-Do note that meeting all criteria does not guarantee the student will be shortlisted or given an offer.
+Coming Soon...
 
 #### Selection Schedule
 
-Only shortlisted applicants will be informed to attend a selection trial/ test/ interview.
-
-The selection sessions will be scheduled between 27 June 2022 and 12 September 2022.
-
-Any communication made between the school and applicants will be via email to both his/ her parents’ email accounts. Hence, please ensure that the email addresses provided in the application form remain valid during the period. In addition, please provide both parents’ current mobile telephone numbers.
-
-All applications will be informed on the outcome of their application by 15 September 2022.
-
-Successful applicants will receive a School Preference Form from 31 October 2022 to 4 November 2022 via Postman.gov.sg. Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences. Results of the DSA will be released on the same day as the release of the PSLE results. QSS reserves the right not to release the results and reasons for non-selection.
-
-Students who are successfully admitted to the school visa DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from Sec 1- 4.
-
-Do note that all documents submitted in connection with this DSA application are non-returnable.
+Coming Soon...
