@@ -29,13 +29,13 @@ a) Sports &amp; Outdoor Education
 
 b) Performing Arts  
 
-• Choir (Boys &amp; Girls) <br> 
-• Concert Band (Boys &amp; Girls)   
-• English Drama (Boys &amp; Girls) <br>
-• Modern Dance (Girls) <br>
-• Chinese Dance (Girls) <br>
+• Choir  <br> 
+• Concert Band    
+• English Drama <br>
+• Modern Dance <br>
+• Chinese Dance<br>
 
-Click&nbsp;[here](https://staging.du62j8uucogi5.amplifyapp.com/useful-links/Prospective-Student/school-achievements-2022/)&nbsp;for a list of our achievements over the years!
+Click&nbsp;[here](https://www.queenswaysec.moe.edu.sg/achievements/)&nbsp;for a list of our achievements over the years!
 
 #### Selection Criteria
 
