@@ -15,24 +15,19 @@ The Direct School Admission (DSA-Sec) Exercise is a scheme which gives the schoo
 
 #### QSS DSA-Sec Exercise 2023
 
-![DSA Areas](/images/dsa%20areas%202023%20pictures.jpg)
+Primary Six pupils may seek direct school admission into Queensway Secondary School before the Secondary One Posting Exercise (November 2023).  
 
-Primary Six pupils may seek direct school admission into Queensway Secondary School before the Secondary One Posting Exercise (November 2022).  
+We invite pupils in Primary Six in 2023 to apply for DSA-Sec to the school in the following broad areas:  
 
-We invite pupils in Primary Six in 2022 to apply for DSA-Sec to the school in the following broad areas:  
-
-a) Science for Sustainable Development  
-b) Bilingualism<br>
-c) Sports &amp; Outdoor Education
+a) Sports &amp; Outdoor Education
 
 • Basketball ( Boys) <br>
 • Badminton (Girls) <br>
 • Football (Boys &amp; Girls) <br>
-• Hockey (Boys) <br>
+• Hockey (Boys &amp; Girls) <br>
 • Volleyball (Boys &amp; Girls) <br>
-• Outdoor Adventure (Boys &amp; Girls)
 
-d) Performing Arts  
+b) Performing Arts  
 
 • Choir (Boys &amp; Girls) <br> 
 • Concert Band (Boys &amp; Girls)   
