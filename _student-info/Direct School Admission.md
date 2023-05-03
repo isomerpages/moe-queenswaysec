@@ -39,5 +39,4 @@ Click&nbsp;[here](https://www.queenswaysec.moe.edu.sg/achievements/)&nbsp;for a 
 
 #### Selection Criteria
 
-
-
+![DSA Selection Criteria 2023](/images/dsa%20selection%20criteria%202023.jpg)
