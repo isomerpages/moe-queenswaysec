@@ -39,8 +39,5 @@ Click&nbsp;[here](https://www.queenswaysec.moe.edu.sg/achievements/)&nbsp;for a 
 
 #### Selection Criteria
 
-Coming Soon...
 
-#### Selection Schedule
 
-Coming Soon...
