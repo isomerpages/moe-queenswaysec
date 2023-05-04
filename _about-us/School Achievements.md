@@ -10,9 +10,10 @@ description: ""
 | Volleyball (Girls)<br>South Zone Champions (B Div)     | National Cadet Corps<br>Distinction  | Band<br>Accomplishment | 
 |Volleyball (Boys)<br>South Zone 2nd (B Div) | National Police Cadet Corps <br>Gold | Chinese Dance<br>Distinction
 |Volleyball (Girls)<br>South Zone Champions Nationals Top 8 (C Div) | National Civil Defence Cadet Corps<br>Gold | ELDDS<br>Accomplishment|
-|Football (Girls)<br>South Zone Champions (B Div) | Girls Guide<br>Gold |  |
+|Football (Girls)<br>South Zone National Champion (B Div) | Girls Guide<br>Gold |  |
+|Football (Girls)<br>South Zone National 2nd (C Div)| Boys' Brigade<br>Silver |  |
 |Football (Boys)<br>South Zone 2nd (B Div)| Boys' Brigade<br>Silver |  |
-
+|Football (Boys)<br>South Zone Prelims (C Div)|  |  |
 
 
 ### **2021**
