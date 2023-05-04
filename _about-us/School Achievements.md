@@ -14,7 +14,7 @@ description: ""
 |Football (Girls)<br>South Zone National 2nd (C Div)| Boys' Brigade<br>Silver |  |
 |Football (Boys)<br>South Zone 2nd (B Div)| Boys' Brigade<br>Silver |  |
 |Football (Boys)<br>South Zone Prelims (C Div)|  |  |
-
+|Hockey (Boys)<br>South Zone Nationals 3rd (C Div)|  |  |
 
 ### **2021**
 
