@@ -9,7 +9,7 @@ description: ""
 
 #### DSA-Sec for Admission to Secondary 1 in 2024
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of charge and will be open soon. For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of charge and the exercise will take place from 4 May 2023 11 am to 31 May 2023, 3 pm. To apply and/or find out more information about the application process, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
 The Direct School Admission (DSA-Sec) Exercise is a scheme which gives the school the flexibility to select students for admission based on the recognition of their achievements and talents other than just academic results achieved at the national examinations.
 
