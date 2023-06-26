@@ -39,7 +39,8 @@ third_nav_title: Students
 
 ##### Please refer to the following documents for the school's policies, rules & regulations:
 
-*   [School rules & regulations](/files/School%20Rules%20and%20Regulations.pdf)
+*  [School Rules & Regulations](https://www.queenswaysec.moe.edu.sg/useful-links/students/overview/)
+
 *   [Exam rules & regulations](/files/Exam%20Rules%20and%20Regulations.pdf)
 *   [CCA Guidelines](/files/CCA%20Guidelines.pdf)
 
