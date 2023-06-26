@@ -5,6 +5,8 @@ description: ""
 ---
 ### Announcements
 
+*  [2023 06 26 - Principal's Letter for Start of Semester 2](/files/Principal's%20Letters/20230626%20-%20start%20of%20semester%202%20principal's%20letter.pdf)
+
 * [2023 05 26 - Principal's Letter for End of Term](/files/Principal's%20Letters/20230526%20-%20end%20of%20term%20letter.pdf)
 
 * [2023 05 09 - Updates on Learning Fiesta, SYF Results, SEA Games & PTM](/files/Principal's%20Letters/20230509%20-%20updates%20on%20learning%20fiesta,%20syf%20results,%20sea%20games%20&%20ptm.pdf)
