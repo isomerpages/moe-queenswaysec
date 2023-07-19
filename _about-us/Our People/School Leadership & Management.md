@@ -37,4 +37,4 @@ third_nav_title: Our People
 | SH, Geography 	| Mr. Alvin Leong 	|
 | SH, ML & TL 	| Ms. Iryantee Ja'afar 	|
 | SH, Student Leadership  	| Ms. Grace Lee Mei Yan 	|
-| SH, Literature (Covering) 	| Mrs. Joanne Chan	|
+| SH, Literature 	| Mrs. Joanne Chan	|
