@@ -62,6 +62,6 @@ third_nav_title: Our People
 | 403 	| [Mr Alvin Leong](mailto:leong_wei_jie_alvin@moe.edu.sg) 	| [Mdm Zheng Xiumin ](mailto:zheng_xiumin@moe.edu.sg)	|  	|
 | 404 	| [Mrs Joanne Chan ](mailto:jia_en_joanne_loo@moe.edu.sg)	| [Mr Jimmy Ong ](mailto:ong_meng_guan_jimmy@moe.edu.sg)	|  	|
 | 411 	| [Ms Stella Goh ](mailto:stella_goh@moe.edu.sg)	| [Mr Aaron Ong](mailto:ong_meng_yeow_aaron@moe.edu.sg) 	|  	|
-| 412 	| 	| [Mr Tham Yu Hsuan](mailto:tham_yu_hsuan@moe.edu.sg)	|  	|
+| 412 	| [Mr Tham Yu Hsuan](mailto:tham_yu_hsuan@moe.edu.sg)	| [Ms Sarah Grace Lim](mailto:sarah_grace_lim@moe.edu.sg)	|  	|
 | 413 	| [Mr Chua Kee Eng ](mailto:chua_kee_eng@moe.edu.sg)	| [Ms Luo Hailun ](mailto:luo_hailun@moe.edu.sg)	| 
 | 511 	| [Mdm Lim Swee Kheng](mailto:Lim_Swee_Kheng@moe.edu.sg)	| [Mr Santokh Singh ](mailto:santokh_singh@moe.edu.sg) 	|  	|
