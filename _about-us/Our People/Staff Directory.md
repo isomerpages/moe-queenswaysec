@@ -28,13 +28,11 @@ third_nav_title: Our People
 |  	|Ms Frieden Ng |  [ng\_chih\_qing@moe.edu.sg](mailto:ng_chih_qing@moe.edu.sg) 		|
 |  	| Mr Aaron Ong | 	[ong\_meng\_yeow\_aaron@moe.edu.sg](mailto:ong_meng_yeow_aaron@moe.edu.sg) 	 	|
 |  	| Ms Surinder Kaur	| [surinder\_kaur@moe.edu.sg](mailto:surinder_kaur@moe.edu.sg) 	|
-|  	| 	|	|
-|  	| 	| |
-|  	|  	| |
-|  	| Mrs Cindy Tan 	| [yew\_siew\_ping\_cindy@moe.edu.sg](mailto:yew_siew_ping_cindy@moe.edu.sg) 	|
-|  	| Mrs Kasthuri Davaraj 	| [kasthuri\_mahanthran@moe.edu.sg](mailto:kasthuri_mahanthran@moe.edu.sg) 	|
-|  	| Ms Tan Wei Min 	| [tan\_wei\_min@moe.edu.sg](mailto:tan_wei_min@moe.edu.sg) 	|
-|  	| Ms Sarah Pang 	| [sarah\_pang\_pei\_wen@moe.edu.sg](mailto:sarah_pang_pei_wen@moe.edu.sg) 	|
+|  	| Mrs Cindy Tan |	[yew\_siew\_ping\_cindy@moe.edu.sg](mailto:yew_siew_ping_cindy@moe.edu.sg)|
+|  	| Mrs Kasthuri Davaraj 	| [kasthuri\_mahanthran@moe.edu.sg](mailto:kasthuri_mahanthran@moe.edu.sg) |
+|  	| Ms Tan Wei Min | [tan\_wei\_min@moe.edu.sg](mailto:tan_wei_min@moe.edu.sg) |
+|  	| Ms Sarah Pang 		|  [sarah\_pang\_pei\_wen@moe.edu.sg](mailto:sarah_pang_pei_wen@moe.edu.sg) 	|
+
 
 ### Humanities
 
