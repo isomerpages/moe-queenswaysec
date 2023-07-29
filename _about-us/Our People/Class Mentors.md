@@ -31,7 +31,7 @@ third_nav_title: Our People
 | 203 	| [Ms Ethel Choy](mailto:choy_hui_zhen_ethel@moe.edu.sg) 	| [Mr Makoto Kawaguchi](mailto:makoto_kawaguchi@moe.edu.sg) 	|  	| 
 | 204 	| [Ms Teo Yong Chin ](mailto:teo_yong_chin@moe.edu.sg)	|  	| 
 | 211 	| [Ms Low Xin Yee ](mailto:low_xin_yee@moe.edu.sg)	| [Mrs Isabel Wong](mailto:lee_siew_min_isabel@moe.edu.sg) 	|  	| 
-| 212 	| [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg) 	| | 
+| 212 	| [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg) 	| [Ms Nisa](mailto: | 
 | 213 	| [Mr Chng Eng Peng](mailto:chng_eng_peng@moe.edu.sg) 	|[ Ms Zhang Yi](mailto:Zhang_Yi_A@moe.edu.sg) 	| | [Mr Senan](mailto:senan_b_long@moe.edu.sg) |
 
 
