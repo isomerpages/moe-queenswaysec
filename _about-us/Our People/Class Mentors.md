@@ -14,11 +14,11 @@ third_nav_title: Our People
 |---	|---	|---	|---	|
 | 1 Care 	| [Mrs Gayatri Kumar](mailto:gayatri_devi@moe.edu.sg)| [Mr Paul Lai ](mailto:Paul_Lai_Chyi_Shyan@moe.edu.sg)	|
 | 1 Confidence 	| [Ms Quek Yu Pin](mailto:Quek_Yu_Pin@moe.edu.sg)	| [Ms Ang Meng Li](mailto:ang_meng_li@moe.edu.sg) 	|
-| 1 Diligence 	| [Mdm Lily Choo](mailto:choo_li_chin_lily@moe.edu.sg) | [Mdm Esther](mailto:makaisvery_esther_periak_a@moe.edu.sg)|
+| 1 Diligence 	| [Mdm Lily Choo](mailto:choo_li_chin_lily@moe.edu.sg) | 
 | 1 Discipline 	| [Ms Veronica How](mailto:how_xin_yi_veronica@moe.edu.sg)	| [Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@moe.edu.sg)	|
 | 1 Excellence 	| [ Mdm Iryantee](mailto:iryantee_jaffar@moe.edu.sg)| [Ms Looi Tse Theng](mailto:looi_tse_theng@moe.edu.sg)|
-| 1 Respect 	| [Mr Ernest Fok ](mailto:fok_chee_wel@moe.edu.sg)	|  [Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@moe.edu.sg)	|  [Ms Chen Weiling](mailto:chen_weiling@moe.edu.sg )|
-| 1 Responsibility 	| [Ms Natalie Feng](mailto:FENG_Hui_Er@moe.edu.sg)	| [Mr Howard Tan](mailto:tan_ching_hau_howard@moe.edu.sg)	|
+| 1 Respect 	| [Mr Ernest Fok ](mailto:fok_chee_wel@moe.edu.sg)	|  [Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@moe.edu.sg)	| 
+| 1 Responsibility 	| | [Mr Howard Tan](mailto:tan_ching_hau_howard@moe.edu.sg)	|
 
 #### SECONDARY 2 CLASS MENTORS
 
@@ -31,8 +31,8 @@ third_nav_title: Our People
 | 203 	| [Ms Ethel Choy](mailto:choy_hui_zhen_ethel@moe.edu.sg) 	| [Mr Makoto Kawaguchi](mailto:makoto_kawaguchi@moe.edu.sg) 	|  	| 
 | 204 	| [Ms Teo Yong Chin ](mailto:teo_yong_chin@moe.edu.sg)	|  	| 
 | 211 	| [Ms Low Xin Yee ](mailto:low_xin_yee@moe.edu.sg)	| [Mrs Isabel Wong](mailto:lee_siew_min_isabel@moe.edu.sg) 	|  	| 
-| 212 	| [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg) 	|[ Mr Marcus Low ](mailto:LOW_Xue_Kai_Marcus@moe.edu.sg)	| [Mdm Kartini ](mailto:kartini_djoeraemi@moe.edu.sg)
-| 213 	| [Mr Chng Eng Peng](mailto:chng_eng_peng@moe.edu.sg) 	|[ Ms Zhang Yi](mailto:Zhang_Yi_A@moe.edu.sg) 	| [Mr Marcus Tay ](mailto:tay_hiong_kiat_marcus@moe.edu.sg) 	| [Mr Senan](mailto:senan_b_long@moe.edu.sg) |
+| 212 	| [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg) 	| | 
+| 213 	| [Mr Chng Eng Peng](mailto:chng_eng_peng@moe.edu.sg) 	|[ Ms Zhang Yi](mailto:Zhang_Yi_A@moe.edu.sg) 	| | [Mr Senan](mailto:senan_b_long@moe.edu.sg) |
 
 
 
