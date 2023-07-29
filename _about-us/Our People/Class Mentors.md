@@ -29,7 +29,7 @@ third_nav_title: Our People
 | 201 	| [Mr Chia Yew Hwee](mailto:chia_yew_hwee@moe.edu.sg)|  [Mdm Karpagam](mailto:ulaganathan_karpagam@moe.edu.sg)	|  	| 
 | 202 	| [Ms Yang Yi](mailto:Yang_Yi@moe.edu.sg)	|[Ms Melcia Leong ](mailto:hui_lin_melcia_leong@moe.edu.sg)	| [Ms Athirah](mailto:athirah_syahirah_shaul_hameed@moe.edu.sg) 	| 
 | 203 	| [Ms Ethel Choy](mailto:choy_hui_zhen_ethel@moe.edu.sg) 	| [Mr Makoto Kawaguchi](mailto:makoto_kawaguchi@moe.edu.sg) 	|  	| 
-| 204 	| [Ms Teo Yong Chin ](mailto:teo_yong_chin@moe.edu.sg)	| [Ms Jasvinder] (mailto:jasvinder_kaur_pannu@moe.edu.sg)	| 
+| 204 	| [Ms Teo Yong Chin ](mailto:teo_yong_chin@moe.edu.sg)	| [Ms Jasvinder ](mailto:jasvinder_kaur_pannu@moe.edu.sg)	| 
 | 211 	| [Ms Low Xin Yee ](mailto:low_xin_yee@moe.edu.sg)	| [Mrs Isabel Wong](mailto:lee_siew_min_isabel@moe.edu.sg) 	|  	| 
 | 212 	| [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg) 	| [Ms Nisa](mailto: | 
 | 213 	| [Mr Chng Eng Peng](mailto:chng_eng_peng@moe.edu.sg) 	|[ Ms Zhang Yi](mailto:Zhang_Yi_A@moe.edu.sg) 	| | [Mr Senan](mailto:senan_b_long@moe.edu.sg) |
