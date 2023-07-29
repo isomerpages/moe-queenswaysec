@@ -25,12 +25,12 @@ third_nav_title: Our People
 | Lead Teacher, EL 	| Mdm Jayletchimi 	| [jayletchimi\_ramasamy@moe.edu.sg](mailto:jayletchimi_ramasamy@moe.edu.sg) 	|
 | Level Head, EL 	| Mr Makoto Kawaguchi 	| [makoto\_kawaguchi@moe.edu.sg](mailto:makoto_kawaguchi@moe.edu.sg) 	|
 | Subject Head, Literature 	| Mrs Joanne Chan 	| [jia\_en\_joanne\_loo@moe.edu.sg](mailto:jia_en_joanne_loo@moe.edu.sg) 	|
-|  	| Mrs Angela Loy 	| [ang\_ha\_ngek@moe.edu.sg](mailto:ang_ha_ngek@moe.edu.sg) 	|
-|  	| Ms Chen Weiling 	| [chen\_weiling@moe.edu.sg](mailto:chen_weiling@moe.edu.sg) 	
-|  	| Mr Marcus Low 	| [low\_xue\_kai\_marcus@moe.edu.sg](mailto:low_xue_kai_marcus@moe.edu.sg) 	|
-|  	| Ms Frieden Ng 	| [ng\_chih\_qing@moe.edu.sg](mailto:ng_chih_qing@moe.edu.sg) 	|
-|  	| Mr Aaron Ong 	| [ong\_meng\_yeow\_aaron@moe.edu.sg](mailto:ong_meng_yeow_aaron@moe.edu.sg) 	|
-|  	| Ms Surinder Kaur 	| [surinder\_kaur@moe.edu.sg](mailto:surinder_kaur@moe.edu.sg) 	|
+|  	|Ms Frieden Ng |  [ng\_chih\_qing@moe.edu.sg](mailto:ng_chih_qing@moe.edu.sg) 		|
+|  	| Mr Aaron Ong | 	[ong\_meng\_yeow\_aaron@moe.edu.sg](mailto:ong_meng_yeow_aaron@moe.edu.sg) 	 	|
+|  	| Ms Surinder Kaur	| [surinder\_kaur@moe.edu.sg](mailto:surinder_kaur@moe.edu.sg) 	|
+|  	| 	|	|
+|  	| 	| |
+|  	|  	| |
 |  	| Mrs Cindy Tan 	| [yew\_siew\_ping\_cindy@moe.edu.sg](mailto:yew_siew_ping_cindy@moe.edu.sg) 	|
 |  	| Mrs Kasthuri Davaraj 	| [kasthuri\_mahanthran@moe.edu.sg](mailto:kasthuri_mahanthran@moe.edu.sg) 	|
 |  	| Ms Tan Wei Min 	| [tan\_wei\_min@moe.edu.sg](mailto:tan_wei_min@moe.edu.sg) 	|
