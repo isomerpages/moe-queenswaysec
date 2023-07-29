@@ -46,12 +46,10 @@ third_nav_title: Our People
 | SH, Student Leadership	| Ms Grace Lee 	| [mei\_yan\_grace\_lee@moe.edu.sg](mailto:mei_yan_grace_lee@moe.edu.sg) 	|
 |  	| Ms Ethel Choy 	| [choy\_hui\_zhen\_ethel@moe.edu.sg](mailto:choy_hui_zhen_ethel@moe.edu.sg) 	|
 |  	| Ms Audrey Chua 	| [chua\_sing\_li\_audrey@moe.edu.sg](mailto:chua_sing_li_audrey@moe.edu.sg) 	|
-|  	| Ms Natalie Feng 	| [feng\_hui\_er@moe.edu.sg](mailto:feng_hui_er@moe.edu.sg) 	|
-|  	| Ms Tharshini Karthigesan 	| [tharshini\_karthigesan@moe.edu.sg](mailto:tharshini_karthigesan@moe.edu.sg) 	|
+|  	| Ms Tharshini Karthigesan | [tharshini\_karthigesan@moe.edu.sg](mailto:tharshini_karthigesan@moe.edu.sg) |
 |  	| Ms Quek Yu Pin 	| [quek\_yu\_pin@moe.edu.sg](mailto:quek_yu_pin@moe.edu.sg) 	|
 |  	| Mr Chow Jing Kang 	| [chow\_jing\_kang@moe.edu.sg](mailto:chow_jing_kang@moe.edu.sg) 	|
-|  	| Mr Ajaib Singh 	| [ajaib\_singh\_gurbachan\_s@moe.edu.sg](mailto:ajaib_singh_gurbachan_s@moe.edu.sg)
-|  	| 	| 	|
+
 
 #### Mother Tongue Languages
 
