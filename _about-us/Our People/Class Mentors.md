@@ -18,7 +18,7 @@ third_nav_title: Our People
 | 1 Discipline 	| [Ms Veronica How](mailto:how_xin_yi_veronica@moe.edu.sg)	| [Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@moe.edu.sg)	|
 | 1 Excellence 	| [ Mdm Iryantee](mailto:iryantee_jaffar@moe.edu.sg)| [Ms Looi Tse Theng](mailto:looi_tse_theng@moe.edu.sg)|
 | 1 Respect 	| [Mr Ernest Fok ](mailto:fok_chee_wel@moe.edu.sg)	|  [Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@moe.edu.sg)	| 
-| 1 Responsibility 	| | [Mr Howard Tan](mailto:tan_ching_hau_howard@moe.edu.sg)	|
+| 1 Responsibility 	| [Mr Howard Tan](mailto:tan_ching_hau_howard@moe.edu.sg)	| [Ms Megan](mailto:	|
 
 #### SECONDARY 2 CLASS MENTORS
 
