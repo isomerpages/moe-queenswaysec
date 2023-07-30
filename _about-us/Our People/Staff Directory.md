@@ -39,16 +39,16 @@ third_nav_title: Our People
 |  	|  	|  	|
 |---	|---	|---	|
 | HOD Humanities 	| Ms Irene Wong 	| [wong\_hwee\_ling@moe.edu.sg](mailto:wong_hwee_ling@moe.edu.sg) 	|
-| Year Head, Lower Sec 	| Ms Tan Wei Yi 	| [tan\_wei\_yi@moe.edu.sg](mailto:tan_wei_yi@moe.edu.sg) 	|
 | SH, Humanities 	| Mr Santokh Singh 	| [santokh\_singh@moe.edu.sg](mailto:santokh_singh@moe.edu.sg) 	|
 | ST, History 	| Mr Howard Tan 	| [tan\_ching\_hau\_howard@moe.edu.sg](mailto:tan_ching_hau_howard@moe.edu.sg) 	|
 | SH, Geography 	| Mr Alvin Leong 	| [leong\_wei\_jie\_alvin@moe.edu.sg](mailto:leong_wei_jie_alvin@moe.edu.sg) 	|
 | SH, Student Leadership	| Ms Grace Lee 	| [mei\_yan\_grace\_lee@moe.edu.sg](mailto:mei_yan_grace_lee@moe.edu.sg) 	|
 |  	| Ms Ethel Choy 	| [choy\_hui\_zhen\_ethel@moe.edu.sg](mailto:choy_hui_zhen_ethel@moe.edu.sg) 	|
 |  	| Ms Audrey Chua 	| [chua\_sing\_li\_audrey@moe.edu.sg](mailto:chua_sing_li_audrey@moe.edu.sg) 	|
-|  	| Ms Tharshini Karthigesan | [tharshini\_karthigesan@moe.edu.sg](mailto:tharshini_karthigesan@moe.edu.sg) |
-|  	| Ms Quek Yu Pin 	| [quek\_yu\_pin@moe.edu.sg](mailto:quek_yu_pin@moe.edu.sg) 	|
+|  	|Ms Quek Yu Pin | [quek\_yu\_pin@moe.edu.sg](mailto:quek_yu_pin@moe.edu.sg)  |
 |  	| Mr Chow Jing Kang 	| [chow\_jing\_kang@moe.edu.sg](mailto:chow_jing_kang@moe.edu.sg) 	|
+
+
 
 
 #### Mother Tongue Languages
@@ -79,6 +79,7 @@ third_nav_title: Our People
 | SH, Student Well-being 	| Mr Chua Kee Eng 	| [chua\_kee\_eng@moe.edu.sg](mailto:chua_kee_eng@moe.edu.sg) 	|
 | SH, Mathematics 	| Ms Lily Choo          	| [choo\_li\_chin\_lily@moe.edu.sg](mailto:choo_li_chin_lily@moe.edu.sg) 	|
 | ST, Mathematics 	| Mdm Toh Siew Lan 	| [toh\_siew\_lan@moe.edu.sg](mailto:toh_siew_lan@moe.edu.sg) 	|
+| Year Head, Lower Sec 	| Ms Tan Wei Yi 	| [tan\_wei\_yi@moe.edu.sg](mailto:tan_wei_yi@moe.edu.sg) 	|
 | AYH, Lower Sec 	| Ms Chen Zhiyun 	| [chen\_zhiyun@moe.edu.sg](mailto:chen_zhiyun@moe.edu.sg) 	|
 |   	| Mr Chng Eng Peng 	| [chng\_eng\_peng@moe.edu.sg](mailto:chng_eng_peng@moe.edu.sg) 	|
 |   	| Mr Tham Yu Hsuan 	| [tham\_yu\_hsuan@moe.edu.sg](mailto:tham_yu_hsuan@moe.edu.sg) 	|
@@ -87,7 +88,7 @@ third_nav_title: Our People
 |   	| Ms Brenda Lim  	| [lim\_jing\_qi\_brenda@moe.edu.sg](mailto:lim_jing_qi_brenda@moe.edu.sg) 	|
 |   	| Mr Jonathan Tom Ho  	| [ho\_hai\_long\@moe.edu.sg](mailto:ho_hai_long@moe.edu.sg) 	|
 |   	| Mr Paul Lai  	| [paul_lai_chyi_shyan@moe.edu.sg](mailto:paul_lai_chyi_shyan@moe.edu.sg) 	|
-|   	| Mr Gilbert Tan 	| [gilbert_tan_wei_beng@moe.edu.sg](mailto:gilbert_tan_wei_beng@moe.edu.sg) 	|
+|  	| Ms Tharshini Karthigesan | [tharshini\_karthigesan@moe.edu.sg](mailto:tharshini_karthigesan@moe.edu.sg) |
 |   	|  	| 	|
 
 #### Science
@@ -105,6 +106,7 @@ third_nav_title: Our People
 |   	| Mdm Lim Swee Kheng	| [lim\_swee\_kheng@moe.edu.sg](mailto:lim_swee_kheng@moe.edu.sg) 	|
 |   	| Ms Veronica How	| [how\_xin\_yi\_veronica@moe.edu.sg](mailto:how_xin_yi_veronica@moe.edu.sg) 	|
 |   	| Ms Kala Devi	| [kala_devi_santha_kumar@moe.edu.sg](mailto:kala_devi_santha_kumar@moe.edu.sg) 	|
+|   	| Mr Gilbert Tan 	| [gilbert_tan_wei_beng@moe.edu.sg](mailto:gilbert_tan_wei_beng@moe.edu.sg) 	|
 
 #### PE & CCA
 
