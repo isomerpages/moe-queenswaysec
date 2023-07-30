@@ -101,12 +101,12 @@ third_nav_title: Our People
 | SH, Physics| Ms Shirley Tay 	| [shirley\_tay@moe.edu.sg](mailto:shirley_tay_li_hui@moe.edu.sg) 	|
 |     	| Ms Stella Goh 	| [stella\_goh@moe.edu.sg](mailto:stella_goh@moe.edu.sg) 	|
 |   	| Mrs Pang Fook Hoe 	| [lam\_fook\_hoe@moe.edu.sg](mailto:lam_fook_hoe@moe.edu.sg) 	|
-|   	| Ms Finna Lee  	| [lee\_mei\_teng\_finna@moe.edu.sg](mailto:lee_mei_teng_finna@moe.edu.sg) 	|
 |   	| Mr Jimmy Ong  	| [ong\_meng\_guan\_jimmy@moe.edu.sg](mailto:ong_meng_guan_jimmy@moe.edu.sg) 	|
 |   	| Mdm Lim Swee Kheng	| [lim\_swee\_kheng@moe.edu.sg](mailto:lim_swee_kheng@moe.edu.sg) 	|
 |   	| Ms Veronica How	| [how\_xin\_yi\_veronica@moe.edu.sg](mailto:how_xin_yi_veronica@moe.edu.sg) 	|
 |   	| Ms Kala Devi	| [kala_devi_santha_kumar@moe.edu.sg](mailto:kala_devi_santha_kumar@moe.edu.sg) 	|
 |   	| Mr Gilbert Tan 	| [gilbert_tan_wei_beng@moe.edu.sg](mailto:gilbert_tan_wei_beng@moe.edu.sg) 	|
+
 
 #### PE & CCA
 
