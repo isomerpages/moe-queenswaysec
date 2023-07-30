@@ -60,15 +60,15 @@ third_nav_title: Our People
 | ST, Chinese 	| Ms Low Xin Yee 	| [low\_xin\_yee@moe.edu.sg](mailto:low_xin_yee@moe.edu.sg) 	|
 | SH, ML & TL 	| Ms Iryantee Bte Jaffar 	| [iryantee\_jaffar@moe.edu.sg](mailto:iryantee_jaffar@moe.edu.sg) 	|
 |   	| Ms Chia Hui Jun 	| [chia\_hui\_jun@moe.edu.sg](mailto:chia_hui_jun@moe.edu.sg) 	|
-|   	| Mdm Esther 	| [makaisvery\_esther\_periak\_a@moe.edu.sg](mailto:makaisvery_esther_periak_a@moe.edu.sg) 	|
-|   	| Ms Zhang Yi 	| [zhang\_yi\_a@moe.edu.sg](mailto:zhang_yi_a@moe.edu.sg) 	|
-|   	| Ms Yang Yi 	| [yang\_yi\@moe.edu.sg](mailto:yang_yi@moe.edu.sg) 	|
-|   	| Mdm Kartini Bte Djoeraemi 	| [kartini\_djoeraemi@moe.edu.sg](mailto:kartini_djoeraemi@moe.edu.sg) 	|
-|   	| Mdm Zheng Xiumin 	| [zheng\_xiumin@moe.edu.sg](mailto:zheng_xiumin@moe.edu.sg) 	|
-|   	| Mr Senan b Long 	| [senan\_b\_long@moe.edu.sg](mailto:senan_b_long@moe.edu.sg) 	|
-|   	| Mr Ernest Fok  	| [fok\_chee\_wel@moe.edu.sg](mailto:fok_chee_wel@moe.edu.sg) 	|
-|   	| Mdm Ulaganathan Karpagam  	| [ulaganathan\_karpagam@moe.edu.sg](mailto:ulaganthan_karpagam@moe.edu.sg) 	|
+|   	|Ms Zhang Yi  | [zhang\_yi\_a@moe.edu.sg](mailto:zhang_yi_a@moe.edu.sg) 	|
+|   	| Ms Yang Yi  | [yang\_yi\@moe.edu.sg](mailto:yang_yi@moe.edu.sg) |
+|   	|Mdm Zheng Xiumin | [zheng\_xiumin@moe.edu.sg](mailto:zheng_xiumin@moe.edu.sg) |
+|   	| Mr Senan b Long 	|[senan\_b\_long@moe.edu.sg](mailto:senan_b_long@moe.edu.sg) 	 	|
+|   	| Mr Ernest Fok 	| [fok\_chee\_wel@moe.edu.sg](mailto:fok_chee_wel@moe.edu.sg) 	|
+|   	| Mdm Ulaganathan Karpagam  	| [ulaganathan\_karpagam@moe.edu.sg](mailto:ulaganthan_karpagam@moe.edu.sg) |
 |   	| Ms Ang Meng Li  	| [ang_meng_li@moe.edu.sg](mailto:ang_meng_li@moe.edu.sg) 	|
+
+
 
 #### Mathematics
 
