@@ -67,7 +67,7 @@ third_nav_title: Our People
 |   	| Mr Ernest Fok 	| [fok\_chee\_wel@moe.edu.sg](mailto:fok_chee_wel@moe.edu.sg) 	|
 |   	| Mdm Ulaganathan Karpagam  	| [ulaganathan\_karpagam@moe.edu.sg](mailto:ulaganthan_karpagam@moe.edu.sg) |
 |   	| Ms Ang Meng Li  	| [ang_meng_li@moe.edu.sg](mailto:ang_meng_li@moe.edu.sg) 	|
-
+|   	| Ms Manikandan Sugana  	| [manikandan_suguna@moe.edu.sg](mailto:manikandan_suguna@moe.edu.sg) 	|
 
 
 #### Mathematics
