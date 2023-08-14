@@ -7,6 +7,5 @@ description: ""
 
 ![](/images/HBL%201%20updated.jpg)
 
-![](/images/HBL%202%20updated.jpg)
-
+![HBL Sem 2 Latest](/images/hbl%202%20updated%2014%20aug.jpg)
 
