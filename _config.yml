@@ -3,7 +3,7 @@ url: https://queenswaysec.moe.edu.sg
 favicon: /images/Logo - Colour Updated.png
 colors:
   primary-color: "#733991"
-  secondary-color: "#ffffff"
+  secondary-color: "#4a255a"
   media-colors:
     - title: media-color-one
       color: "#49759a"
