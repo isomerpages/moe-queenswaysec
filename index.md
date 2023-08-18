@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Farewell messages for Mr Tan
-          description: Send your messages here
+        - title: Well-Wishes For Mr TAN
+          description: ""
           url: https://docs.google.com/forms/d/e/1FAIpQLSeKBLcJhwIPjikCwSbsv5sOLfegYbbGBPk5vM116ZMfxa1ZQg/viewform
         - title: Announcements
           description: ""
@@ -20,5 +20,5 @@ sections:
         - title: HBL Calendar
           description: ""
           url: /student-info/hblcalendar/
-      background: /images/wellwishes1.jpg
+      background: /images/wellwishes2.jpg
 ---
