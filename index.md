@@ -21,6 +21,4 @@ sections:
           description: ""
           url: /student-info/hblcalendar/
       background: /images/envelope1.jpeg
-      subtitle: Click the link below to send your well-wishes to our Principal Mr
-        Peter Tan, who is retiring at the end of the year.
 ---
