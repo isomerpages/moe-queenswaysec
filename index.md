@@ -20,5 +20,5 @@ sections:
         - title: HBL Calendar
           description: ""
           url: /student-info/hblcalendar/
-      background: /images/instagram1.jpeg
+      background: /images/wellwishes1.jpg
 ---
