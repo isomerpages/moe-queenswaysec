@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Farewell messages for Mr Tan
+          description: Send your messages here
+          url: https://docs.google.com/forms/d/e/1FAIpQLSeKBLcJhwIPjikCwSbsv5sOLfegYbbGBPk5vM116ZMfxa1ZQg/viewform
         - title: Announcements
           description: ""
           url: /announcements/
@@ -17,7 +20,5 @@ sections:
         - title: HBL Calendar
           description: ""
           url: /student-info/hblcalendar/
-      title: Queensway Secondary School
-      background: /images/hero image (updated).png
+      background: /images/wellwishes1.jpg
 ---
-
