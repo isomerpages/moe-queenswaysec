@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Farewell messages for Mr Tan
+          description: Send your messages here
+          url: ""
         - title: Announcements
           description: ""
           url: /announcements/
@@ -17,7 +20,8 @@ sections:
         - title: HBL Calendar
           description: ""
           url: /student-info/hblcalendar/
-      title: Queensway Secondary School
-      background: /images/hero image (updated).png
+      title: Farewell Mr Tan
+      background: /images/envelope1.jpeg
+      subtitle: Click the link below to send your well-wishes to our Principal Mr
+        Peter Tan, who is retiring at the end of the year.
 ---
-
