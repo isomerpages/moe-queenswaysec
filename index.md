@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Farewell messages for Mr Tan
           description: Send your messages here
-          url: ""
+          url: https://docs.google.com/forms/d/e/1FAIpQLSeKBLcJhwIPjikCwSbsv5sOLfegYbbGBPk5vM116ZMfxa1ZQg/viewform
         - title: Announcements
           description: ""
           url: /announcements/
