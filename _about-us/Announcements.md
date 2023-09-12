@@ -5,7 +5,7 @@ description: ""
 ---
 ### Announcements
 
-*  
+*  [2023 09 12 - Principal's Letter for Start of Term 4](/files/Principal's%20Letters/20230912%20-%20start%20of%20term%204.pdf)
 *  [Principal's Letter for Updates on Presidential Election, Teachers' Day, Sec 4&5 Examinations and NSG](/files/Principal's%20Letters/2023%2008%2016%20-%20updates%20on%20presidential%20election,%20teachers%20day,%20sec%204&5%20examinations%20&%20nsg.pdf)
 *  [2023 07 11 - Principal's Letter for Updates on Sec 1 Adventure Camp and Full Subject Based Banding](/files/Principal's%20Letters/20230711%20-%20updates%20on%20sec%201%20adventure%20camp%20and%20full%20subject%20based%20banding%20(full%20sbb)_11%20jul%202023.pdf)
 *  [2023 06 26 - Principal's Letter for Start of Semester 2](/files/Principal's%20Letters/20230626%20-%20start%20of%20semester%202.pdf)
