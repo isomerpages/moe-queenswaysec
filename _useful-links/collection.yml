@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Application for Canteen Vendor.md
-      - Students/Overview.md
       - Students/Student Learning Space.md
       - Students/.keep
       - Parents/Overview.md
