@@ -10,7 +10,7 @@ description: ""
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Chinese Noodles/Thai Food     | 31 Dec 2023     | Thai Food acceptable     |
-| Cold Drink Stall     | 31 Dec 2023     |       |
+| Cold Drink Stall     | 16 Oct 2023     |       |
 
 
 
