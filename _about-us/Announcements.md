@@ -5,6 +5,7 @@ description: ""
 ---
 ### Announcements
 
+*  [2023 10 12 - Principal's Letter for End of Term](/files/Principal's%20Letters/20231012%20-%20end%20of%20term_change%20of%20principal,%20exams%20and%20post%20exam%20matters.pdf)
 *  [2023 09 26 - Principal's Letter Regarding EOY Exams and Awards](/files/Principal's%20Letters/20230926%20-%20eoy%20exams%20and%20awards.pdf)
 *  [2023 09 12 - Principal's Letter for Start of Term 4](/files/Principal's%20Letters/20230912%20-%20start%20of%20term%204.pdf)
 *  [Principal's Letter for Updates on Presidential Election, Teachers' Day, Sec 4&5 Examinations and NSG](/files/Principal's%20Letters/2023%2008%2016%20-%20updates%20on%20presidential%20election,%20teachers%20day,%20sec%204&5%20examinations%20&%20nsg.pdf)
