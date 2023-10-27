@@ -5,6 +5,7 @@ description: ""
 ---
 ### Announcements
 
+*  [End of Term - Principal's Farewell Letter](/files/Principal's%20Letters/20231027%20-%20end%20of%20term%20principal%20farewell%20letter.pdf)
 *  [2023 10 12 - Principal's Letter for End of Term](/files/Principal's%20Letters/20231012%20-%20end%20of%20term_change%20of%20principal,%20exams%20and%20post%20exam%20matters.pdf)
 *  [2023 09 26 - Principal's Letter Regarding EOY Exams and Awards](/files/Principal's%20Letters/20230926%20-%20eoy%20exams%20and%20awards.pdf)
 *  [2023 09 12 - Principal's Letter for Start of Term 4](/files/Principal's%20Letters/20230912%20-%20start%20of%20term%204.pdf)
