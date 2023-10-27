@@ -6,9 +6,7 @@ description: ""
 You can download the booklists for the various levels here.
 
 **Secondary 1**<br>
-[Secondary 1 Express]()<br>
-[Secondary 1 Normal Academic]()<br>
-[Secondary 1 Normal Technical ]()
+
 
 **Secondary 2**<br>
 [Secondary 2 Express](https://drive.google.com/file/d/1PpZx2d4-K9mR9x6dQfSuE7y7kEfEmF9W/view?usp=drive_link)<br>
