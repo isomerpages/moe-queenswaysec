@@ -10,6 +10,7 @@ sections:
       key_highlights:
         - title: Click here to check out our Open House mini-site!
           description: ""
-          url: ""
+          url: https://sites.google.com/moe.edu.sg/qssopenhouse2023/
       background: /images/ohbanner.jpg
+      variant: image
 ---
