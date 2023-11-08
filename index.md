@@ -8,17 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Well-Wishes For Mr TAN
+        - title: Click here to check out our Open House mini-site!
           description: ""
-          url: https://docs.google.com/forms/d/e/1FAIpQLSeKBLcJhwIPjikCwSbsv5sOLfegYbbGBPk5vM116ZMfxa1ZQg/viewform
-        - title: Announcements
-          description: ""
-          url: /announcements/
-        - title: School Calendar
-          description: ""
-          url: /student-info/schoolcalendar/
-        - title: HBL Calendar
-          description: ""
-          url: /student-info/hblcalendar/
-      background: /images/wellwishes2.jpg
+          url: https://sites.google.com/moe.edu.sg/qssopenhouse2023/
+      background: /images/ohbanner.jpg
+      variant: image
 ---
