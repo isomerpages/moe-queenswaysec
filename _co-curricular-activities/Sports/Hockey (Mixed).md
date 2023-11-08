@@ -3,6 +3,7 @@ title: Hockey (Mixed)
 permalink: /cca/Sports/hockey/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Hockey (Mixed)
 
@@ -16,28 +17,22 @@ third_nav_title: Sports
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **SENIOR CAPTAIN:** 	|  SAMUEL SHILOH NG (401)	|
-| **SENIOR VICE-CAPTAIN:** 	| NG YAN KAI (401)<BR>ALARIC SEAH JUN HONG (403)|
+| **SENIOR CAPTAIN:** 	| &nbsp;SAMUEL SHILOH NG (401)	|
+| **SENIOR VICE-CAPTAIN:** 	| NG YAN KAI (401)<br>ALARIC SEAH JUN HONG (403)|
 | **JUNIOR CAPTAIN:** 	|  CHUA YU CHEN (202)|
-| **JUNIOR VICE-CAPTAIN:** 	| SHUAN YEOH (213)<BR>MOHAMED HAZIM (213)|
+| **JUNIOR VICE-CAPTAIN:** 	| SHUAN YEOH (213)<br>MOHAMED HAZIM (213)|
 
 #### Overview of the CCA:
 
-The Hockey CCA promotes the partnership between Queensway Secondary School and ACS (Barker Road) where both schools are represented in the National School Games as one combined team. This unique partnership allows not one but two combined teams to be represented in the National School Games. Although the boys come from two schools with different cultures and backgrounds, both share the common aim to participate in the spirit of friendship and camaraderie.
+The Hockey team is unique amongst Queensway CCA Groups as the teams form a combined squad with Anglo-Chinese School (Barker Road) and Singapore Chinese Girls School. The combined ACSBR-QSS Boys' squad has grown from strength to strength despite being a relatively new team, coming in fourth at the 2023 National School Games' C Division competition. The Girls' team, meanwhile, has been training hard and the foundations have been laid for future success.
 
-In 2023, we look forward to starting a Girls' team to further our drive for excellence. 
+<img src="https://drive.google.com/uc?export=view&amp;id=1sMvx0Zz46BxRIRoH3f3r2kqOQTc5j1Oy"><br>
 
-<img src="https://drive.google.com/uc?export=view&id=1sMvx0Zz46BxRIRoH3f3r2kqOQTc5j1Oy"><br>
+<img src="https://drive.google.com/uc?export=view&amp;id=1i21GPSxEniDjydJl0nddRaRXi8cVVMQE"><br>
 
-<img src="https://drive.google.com/uc?export=view&id=1i21GPSxEniDjydJl0nddRaRXi8cVVMQE"><br>
+<img src="https://drive.google.com/uc?export=view&amp;id=1eGQE9m16PvmVWR5ZYxvKNuC1w02VlHbK"><br>
 
-<img src="https://drive.google.com/uc?export=view&id=1eGQE9m16PvmVWR5ZYxvKNuC1w02VlHbK"><br>
-
-<img src="https://drive.google.com/uc?export=view&id=1BYp7UoimQbQJ9U1TDghUGDR1Vf5FSIrx"><br>
-
-
-#### Achievements of the CCA:
-This year, our C Division boys did the school proud by achieving 3rd place in the National School Games, toppling many traditional powerhouses of the game along the way.
+<img src="https://drive.google.com/uc?export=view&amp;id=1BYp7UoimQbQJ9U1TDghUGDR1Vf5FSIrx"><br>
 
 
 #### Student Experiences:
