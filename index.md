@@ -11,5 +11,5 @@ sections:
         - title: Click here to check out our Open House mini-site!
           description: ""
           url: ""
-      background: /images/open house banner for site.png
+      background: /images/ohbanner.jpg
 ---
