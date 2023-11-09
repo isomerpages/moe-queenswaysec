@@ -4,6 +4,38 @@ permalink: /achievements/
 description: ""
 variant: markdown
 ---
+## **School Achievements 2023**
+
+| **Sports** | **Uniformed Groups** |**Performing Arts**  |
+| -------- | -------- | -------- |
+| Football (Girls)<br>National 3<sup>rd</sup> (B Div)     | National Cadet Corps<br>Distinction  | Chinese Dance<br>Distinction | 
+| Football (Girls)<br>National 2<sup>nd</sup> (C Div)    | National Police Cadet Corps<br>Gold  | Malay Dance<br>Closed | 
+| Volleyball (Girls)<br>South Zone 1<sup>st</sup> (B Div)    | Girl Guides<br>Gold | ELDDS<br>Distinction | 
+| Volleyball (Girls)<br>South Zone 3<sup>rd</sup> (C Div)    | Boys Brigade<br>Silver | Band<br>Accomplishment | 
+| Football (Boys)<br> 2 Tier 4<sup>th</sup> (B Div)    | Boys Brigade<br>Silver | Band<br>Accomplishment | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## **School Achievements 2022**
 
 | **Sports** | **Uniformed Groups** |**Performing Arts**  |
