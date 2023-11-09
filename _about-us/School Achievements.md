@@ -4,6 +4,21 @@ permalink: /achievements/
 description: ""
 variant: markdown
 ---
+## **School Achievements 2023**
+
+| **Sports** | **Uniformed Groups** |**Performing Arts**  |
+| -------- | -------- | -------- |
+| Football (Girls)<br>National 3<sup>rd</sup> (B Div)     | National Cadet Corps<br>Distinction  | Chinese Dance<br>Distinction | 
+| Football (Girls)<br>National 2<sup>nd</sup> (C Div)    | National Police Cadet Corps<br>Gold  | Malay Dance<br>Closed | 
+| Volleyball (Girls)<br>South Zone 1<sup>st</sup> (B Div)    | Girl Guides<br>Gold | ELDDS<br>Distinction | 
+| Volleyball (Girls)<br>South Zone 3<sup>rd</sup> (C Div)    | Boys Brigade<br>Silver | Band<br>Accomplishment | 
+| Football (Boys)<br> 2 Tier 4<sup>th</sup> (B Div)    |  | Choir<br>Accomplishment | 
+| Basketball (Boys)<br> South Zone 4<sup>th</sup> (C Div)    |  | Modern Dance<br>Accomplishment | 
+| Volleyball (Boys)<br> South Zone 2<sup>nd</sup> (B Div)    |  | | 
+| Hockey (Boys)<br> National 4<sup>th</sup> (C Div)    |  | | 
+
+
+
 ## **School Achievements 2022**
 
 | **Sports** | **Uniformed Groups** |**Performing Arts**  |
@@ -53,19 +68,3 @@ variant: markdown
 | Volleyball (Boys)<br>Nationals 3rd (B Div)<br>South Zone 3rd (B Div|St. John Ambulance Brigade Corps <br>Achievement Award (Gold) | |
 | Volleyball (Boys)<br>South Zone 4th (C Div)|National Civil Defence Cadet Corps<br>Gold  | |
 
-
-### **Colours Award 2019**
-
-|**Team Colours Award** | **Individual Colours Award** |  **Individual Colours Distinction Award**|
-| -------- | -------- | -------- |
-| B Girls Football   | Tan Kee Ler (Sepak Takraw) | Hazel Lim Ya Ting<br>(Football) | 
-| C Girls Football   | | Muhammad Farid Bin Jafiri<br> (Football) | 
-| | | Ho Matsuoka Evangalista Kenji Austin<br> (Football) | 
-| | | Muhammad Danie Hafiy Bin Mohammad Hanafi<br> (Football) | 
-| | | Nur Adrianna Binte Hazeri<br> (Football) | 
-| | | Summer Chong<br> (Football) | 
-| | | Wan Nashirah Binte Wan Mohammad Alam Syah <br> (Football) | 
-| | | Noordiyannah Binti Norazhar <br> (Football) | 
-| | | Ariesa Zahran Binte Junaidi<br> (Football) | 
-| | | Nurzaherra Maisarah Binte Mohamad Rostam<br> (Football) | 
-| | | Irsalina Binte Irwan<br> (Football) |
