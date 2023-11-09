@@ -2,6 +2,7 @@
 title: School Achievements
 permalink: /achievements/
 description: ""
+variant: markdown
 ---
 ## **School Achievements 2022**
 
