@@ -11,13 +11,13 @@ sections:
         - title: Click here to check out our Open House mini-site!
           description: ""
           url: https://sites.google.com/moe.edu.sg/qssopenhouse2023/
-      background: /images/ohbanner.jpg
+      background: /images/school facade.jpg
       variant: image
   - infopic:
       title: 2023 Open House
       subtitle: Add an image and text
       id: infopic
-      description: "25 November 2023, "
+      description: 25 November 2023,
       button: Button Text
       alt: Image alt text
 ---
