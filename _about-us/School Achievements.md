@@ -4,7 +4,7 @@ permalink: /achievements/
 description: ""
 variant: markdown
 ---
-## **School Achievements 2023**
+## **School Achievements 2022**
 
 | **Sports** | **Uniformed Groups** |**Performing Arts**  |
 | -------- | -------- | -------- |
