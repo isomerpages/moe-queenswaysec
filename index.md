@@ -21,4 +21,5 @@ sections:
       button: CLICK HERE FOR MORE INFORMATION
       image: /images/oh programme banner.png
       url: https://sites.google.com/moe.edu.sg/qssopenhouse2023/
+      alt: Open House Programme
 ---
