@@ -19,23 +19,6 @@ variant: markdown
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## **School Achievements 2022**
 
 | **Sports** | **Uniformed Groups** |**Performing Arts**  |
