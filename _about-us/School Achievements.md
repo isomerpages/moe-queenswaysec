@@ -13,9 +13,9 @@ variant: markdown
 | Volleyball (Girls)<br>South Zone 1<sup>st</sup> (B Div)    | Girl Guides<br>Gold | ELDDS<br>Distinction | 
 | Volleyball (Girls)<br>South Zone 3<sup>rd</sup> (C Div)    | Boys Brigade<br>Silver | Band<br>Accomplishment | 
 | Football (Boys)<br> 2 Tier 4<sup>th</sup> (B Div)    |  | Choir<br>Accomplishment | 
-
-
-
+| Basketball (Boys)<br> South Zone 4<sup>th</sup> (C Div)    |  | Modern Dance<br>Accomplishment | 
+| Volleyball (Boys)<br> South Zone 2<sup>nd</sup> (B Div)    |  | | 
+| Hockey (Boys)<br> National 4<sup>th</sup> (C Div)    |  | | 
 
 
 
