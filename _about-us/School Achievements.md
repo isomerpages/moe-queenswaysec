@@ -68,19 +68,3 @@ variant: markdown
 | Volleyball (Boys)<br>Nationals 3rd (B Div)<br>South Zone 3rd (B Div|St. John Ambulance Brigade Corps <br>Achievement Award (Gold) | |
 | Volleyball (Boys)<br>South Zone 4th (C Div)|National Civil Defence Cadet Corps<br>Gold  | |
 
-
-### **Colours Award 2019**
-
-|**Team Colours Award** | **Individual Colours Award** |  **Individual Colours Distinction Award**|
-| -------- | -------- | -------- |
-| B Girls Football   | Tan Kee Ler (Sepak Takraw) | Hazel Lim Ya Ting<br>(Football) | 
-| C Girls Football   | | Muhammad Farid Bin Jafiri<br> (Football) | 
-| | | Ho Matsuoka Evangalista Kenji Austin<br> (Football) | 
-| | | Muhammad Danie Hafiy Bin Mohammad Hanafi<br> (Football) | 
-| | | Nur Adrianna Binte Hazeri<br> (Football) | 
-| | | Summer Chong<br> (Football) | 
-| | | Wan Nashirah Binte Wan Mohammad Alam Syah <br> (Football) | 
-| | | Noordiyannah Binti Norazhar <br> (Football) | 
-| | | Ariesa Zahran Binte Junaidi<br> (Football) | 
-| | | Nurzaherra Maisarah Binte Mohamad Rostam<br> (Football) | 
-| | | Irsalina Binte Irwan<br> (Football) |
