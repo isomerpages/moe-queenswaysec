@@ -15,9 +15,10 @@ sections:
       variant: image
   - infopic:
       title: 2023 Open House
-      subtitle: Add an image and text
+      subtitle: QUEENSWAY SECONDARY SCHOOL
       id: infopic
-      description: 25 November 2023,
-      button: Button Text
-      alt: Image alt text
+      description: 25 November 2023, 0900 - 1300
+      button: CLICK HERE FOR MORE INFORMATION
+      image: /images/oh programme banner.png
+      url: https://sites.google.com/moe.edu.sg/qssopenhouse2023/
 ---
