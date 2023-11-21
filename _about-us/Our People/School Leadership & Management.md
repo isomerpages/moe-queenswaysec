@@ -29,9 +29,8 @@ variant: markdown
 | Assistant Year Head 	| Mr. Yeo Choon Hwa 	|
 | Lead Teacher, English 	| Mdm. Jayletchimi d/o Ramasamy 	|
 | Lead Teacher, D&T 	| Mdm. Eileen Ang 	|
-| Level Head, English 	| Mr. Makoto Kawaguchi 	|
-| SH, Maths 	| Ms. Lily Choo  	|
-| SH, PE LS & Outdoor Education 	| Mr. Umar Abdul Hamid  	|
+| SH, Mathematics 	| Ms. Lily Choo  	|
+| SH, PE & Outdoor Education 	| Mr. Umar Abdul Hamid  	|
 | SH, Student Well-being 	| Mr. Chua Kee Eng 	|
 | SH, Physics 	| Ms. Shirley Tay 	|
 | SH, Humanities 	| Mr. Santokh Singh  	|
