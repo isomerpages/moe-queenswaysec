@@ -84,8 +84,8 @@ variant: markdown
 |   	| Ms Philynn Tan  	| [tan\_hong\_bee\_philynn@moe.edu.sg](mailto:tan_hong_bee_philynn@moe.edu.sg) 	|
 |   	| Ms Looi Tse Theng 	| [looi\_tse\_theng@moe.edu.sg](mailto:looi_tse_theng@moe.edu.sg) 	|
 |   	| Ms Brenda Lim  	| [lim\_jing\_qi\_brenda@moe.edu.sg](mailto:lim_jing_qi_brenda@moe.edu.sg) 	|
-|   	| Mr Jonathan Tom Ho  	| [ho\_hai\_long\@moe.edu.sg](mailto:ho_hai_long@moe.edu.sg) 	|
-|   	| Mr Sim Zhi Wei  	| [sim\_zhii\_wei\@moe.edu.sg](mailto:sim_zhi_wei@moe.edu.sg) 	|
+|   	| Mr Jonathan Tom Ho  	| [ho\_hai\_long@moe.edu.sg](mailto:ho_hai_long@moe.edu.sg) 	|
+|   	| Mr Sim Zhi Wei  	| [sim\_zhii\_wei@moe.edu.sg](mailto:sim_zhi_wei@moe.edu.sg) 	|
 |   	| Mr Paul Lai  	| [paul_lai_chyi_shyan@moe.edu.sg](mailto:paul_lai_chyi_shyan@moe.edu.sg) 	|
 |  	| Ms Tharshini Karthigesan | [tharshini\_karthigesan@moe.edu.sg](mailto:tharshini_karthigesan@moe.edu.sg) |
 |   	|  	| 	|
@@ -107,7 +107,7 @@ variant: markdown
 |   	| Mr Gilbert Tan 	| [gilbert_tan_wei_beng@moe.edu.sg](mailto:gilbert_tan_wei_beng@moe.edu.sg) 	|
 |   	| Ms Dora Tay 	| [dora_tay_hui_xuan@moe.edu.sg](mailto:dora_tay_hui_xuan@moe.edu.sg) 	|
 |   	| Ms Tan Qing	| [tan_qing@moe.edu.sg](mailto:tan_qing@moe.edu.sg) 	|
-|   	| Ms Lim Xin Ying	| lim_xin_ying@moe.edu.sg](mailto:lim_xin_ying@moe.edu.sg) 	|
+|   	| Ms Lim Xin Ying	| [lim_xin_ying@moe.edu.sg](mailto:lim_xin_ying@moe.edu.sg) 	|
 |   	| Ms Kim Chan	|  	|
 
 #### PE & CCA
