@@ -25,8 +25,8 @@ variant: markdown
 | HOD, Science  	| Ms. Tong Ai Li  	|
 | Year Head (covering) 	| Ms. Teo Yong Chin 	|
 | Year Head| Mr. Feroz Ali 	|
-| Assistant Year Head, Lower Sec 	| Ms. Chen Zhiyun 	|
-| Assistant Year Head, Upper Sec 	| Mr. Yeo Choon Hwa 	|
+| Assistant Year Head 	| Ms. Chen Zhiyun 	|
+| Assistant Year Head 	| Mr. Yeo Choon Hwa 	|
 | Lead Teacher, English 	| Mdm. Jayletchimi d/o Ramasamy 	|
 | Lead Teacher, D&T 	| Mdm. Eileen Ang 	|
 | Level Head, English 	| Mr. Makoto Kawaguchi 	|
