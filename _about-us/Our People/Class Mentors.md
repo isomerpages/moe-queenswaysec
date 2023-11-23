@@ -14,9 +14,9 @@ variant: markdown
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
 | 1 Care 	| [Ms Stella Goh](mailto:stella_goh@moe.edu.sg)| 	|
-| 1 Confidence 	| [Ms Melcia Leong](mailto:hui_lin_melcia_leong@moe.edu.sg)	| [Ms Mardiana](mailto:) 	|
+| 1 Confidence 	| [Ms Melcia Leong](mailto:hui_lin_melcia_leong@moe.edu.sg)	| [Mdm Mardiana](mailto:mardiana_binti_mohd_ahzhar@schools.gov.sg) 	|
 | 1 Diligence 	| [Ms Jasvinder](mailto:jasvinder_kaur_pannu@moe.edu.sg) | [Mr Ernest Fok](mailto:fok_chee_wel@moe.edu.sg) |  
-| 1 Discipline 	| [Ms Chia Hui Jun](mailto:chia_hui_jun@moe.edu.sg) 	| [Ms Kim Chan](mailto:)	|
+| 1 Discipline 	| [Ms Chia Hui Jun](mailto:chia_hui_jun@moe.edu.sg) 	| [Ms Kim Chan](mailto:chan_xinhui_kim@moe.edu.sg)	|
 | 1 Empathy 	| [Mr Chia Yew Hwee](mailto:chia_yew_hwee@moe.edu.sg) | [Mdm Toh Siew Lan](mailto:toh_siew_lan@moe.edu.sg)| 
 | 1 Excellence 	|[Mr Chow Jing Kang](mailto:Chow_Jing_Kang@moe.edu.sg) | [Mdm Karpagam](mailto:ulaganathan_karpagam@moe.edu.sg)|
 | 1 Respect 	| [Mr Aaron Ong](mailto:ong_meng_yeow_aaron@moe.edu.sg) 	|  [Ms Yang Yi](mailto:Yang_Yi@moe.edu.sg)	| 
@@ -48,8 +48,8 @@ variant: markdown
 | 302 	| [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg)	| [Mr Sim Zhi Wei](mailto:sim_zhi_wei@moe.edu.sg) 	|  	|
 | 303 	|[ Ms Veronica How ](mailto:how_xin_yi_veronica@moe.edu.sg)	| 	|  	|
 | 304 	|[ Mr Alvin Leong](mailto:leong_wei_jie_alvin@moe.edu.sg)	| [Ms Zhang Yi ](mailto:zhang_yi_a@moe.edu.sg)	|
-| 311 	| [Ms Low Xin Yee](mailto:low_xin_yee@moe.edu.sg)	| [Mr Jasbir](mailto:) 	|  	|
-| 312 	| [Ms Megan](mailto:goh_xin_yi_megan@moe.edu.sg) 	|[ Mr Umar](mailto:)
+| 311 	| [Ms Low Xin Yee](mailto:low_xin_yee@moe.edu.sg)	| [Mr Jasbir Singh](mailto:jasbir_singh_a@moe.edu.sg) 	|  	|
+| 312 	| [Ms Megan Goh](mailto:goh_xin_yi_megan@moe.edu.sg) 	|[ Mr Umar](mailto:umar_abdul_hamid@moe.edu.sg)
 | 313 	| [Mr Chua Kee Eng ](mailto:chua_kee_eng@moe.edu.sg)	| [Ms Luo Hailun](mailto:luo_hailun@moe.edu.sg)|	|
 
 
