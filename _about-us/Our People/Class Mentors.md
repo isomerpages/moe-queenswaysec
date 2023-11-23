@@ -46,8 +46,8 @@ variant: markdown
 |---	|---	|---	|---	|
 | 301 	| [Mrs Joanne Chan ](mailto:jia_en_joanne_loo@moe.edu.sg)		|  [CL Teacher](mailto:)	|  	|
 | 302 	| [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg)	| [Mr Sim Zhi Wei](mailto:sim_zhi_wei@moe.edu.sg) 	|  	|
-| 303 	|[ Ms Philynn Tan ](mailto:tan_hong_bee_philynn@moe.edu.sg)	| [Ms Tan Wei Min](mailto:tan_wei_min@moe.edu.sg) 	|  	|
-| 304 	|[ Mrs Cindy Tan ](mailto:yew_siew_ping_cindy@moe.edu.sg)	| [Mr Gilbert Tan ](mailto:Gilbert_Tan_Wei_Beng@moe.edu.sg)	|
+| 303 	|[ Ms Veronica How ](mailto:how_xin_yi_veronica@moe.edu.sg)	| 	|  	|
+| 304 	|[ Mr Alvin Leong](mailto:leong_wei_jie_alvin@moe.edu.sg)	| [Mr Gilbert Tan ](mailto:Gilbert_Tan_Wei_Beng@moe.edu.sg)	|
 | 311 	| [Ms Audrey Chua](mailto:chua_sing_li_audrey@moe.edu.sg)	| [Ms Tharshini](mailto:tharshini_karthigesan@moe.edu.sg) 	|  	|
 | 312 	| [Mr Gerard Danker](mailto:gerard_danker@moe.edu.sg) 	|[ Ms Grace Lee	](mailto:mei_yan_grace_lee@moe.edu.sg)
 | 313 	| [Ms Murni ](mailto:murni_iryani_mohd_hanafi@moe.edu.sg)	| [Mr Tom Ho](mailto:ho_hai_long@moe.edu.sg)| [Mr Ben David](mailto:ben_david_nazareth)  	|
