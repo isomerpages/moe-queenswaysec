@@ -15,9 +15,9 @@ variant: markdown
 |---	|---	|---	|---	|
 | 1 Care 	| [Ms Stella Goh](mailto:stella_goh@moe.edu.sg)| 	|
 | 1 Confidence 	| [Ms Melcia Leong](mailto:hui_lin_melcia_leong@moe.edu.sg)	| [Ms Mardiana](mailto:) 	|
-| 1 Diligence 	| [Ms Jasvinder](mailto:jasvinder_kaur_pannu@moe.edu.sg) | [Mr Ernest Fok (Sem1)](mailto:fok_chee_wel@moe.edu.sg) |  [Ms Arwinder (Sem2)](mailto:)  	|
+| 1 Diligence 	| [Ms Jasvinder](mailto:jasvinder_kaur_pannu@moe.edu.sg) | [Mr Ernest Fok](mailto:fok_chee_wel@moe.edu.sg) |  
 | 1 Discipline 	| [Ms Chia Hui Jun](mailto:chia_hui_jun@moe.edu.sg) 	| [Ms Kim Chan](mailto:)	|
-| 1 Empathy 	| [Mr Chia Yew Hwee](mailto:chia_yew_hwee@moe.edu.sg) | [Mdm Toh Siew Lan (Sem 1)](mailto:toh_siew_lan@moe.edu.sg)|  [Ms Teng Shumin (Sem2)](mailto:)  	|
+| 1 Empathy 	| [Mr Chia Yew Hwee](mailto:chia_yew_hwee@moe.edu.sg) | [Mdm Toh Siew Lan](mailto:toh_siew_lan@moe.edu.sg)| 
 | 1 Excellence 	|[Mr Chow Jing Kang](mailto:Chow_Jing_Kang@moe.edu.sg) | [Mdm Karpagam](mailto:ulaganathan_karpagam@moe.edu.sg)|
 | 1 Respect 	| [Mr Aaron Ong](mailto:ong_meng_yeow_aaron@moe.edu.sg) 	|  [Ms Yang Yi](mailto:Yang_Yi@moe.edu.sg)	| 
 | 1 Responsibility 	| [Ms Ethel Choy](mailto:choy_hui_zhen_ethel@moe.edu.sg) | [Mr Jimmy Ong](mailto:ong_meng_guan_jimmy@moe.edu.sg)	|
@@ -32,9 +32,9 @@ variant: markdown
 | 2 Confidence  	| [Ms Quek Yu Pin](mailto:quek_yu_pin@moe.edu.sg)	|[Mr Senan](mailto:senan_b_long@moe.edu.sg)| 	| 
 |2 Diligence 	| [Ms Lily Choo](mailto:choo_li_chin_lily@moe.edu.sg) 	| [Ms Suguna](mailto:manikandan_suguna@moe.edu.sg) 	|  	| 
 |  2 Discipline 	| [Ms Brenda Lim ](mailto:lim_jing_qi_brenda@moe.edu.sg)	| 	| 
-| 2 Excellence | [Mdm Iryantee ](mailto:iryantee_jaffar@moe.edu.sg)	| [Ms Looi Tse Theng (Sem 1)](mailto:looi_tse_theng@moe.edu.sg)	| [Mr Martin (Sem 2)](mailto:)	  	| 
+| 2 Excellence | [Mdm Iryantee ](mailto:iryantee_jaffar@moe.edu.sg)	| [Ms Looi Tse Theng ](mailto:looi_tse_theng@moe.edu.sg)	| 
 | 2 Respect | [Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@moe.edu.sg) 	| [Mr Ajaib Singh](mailto:ajaib_singh_gurbachan_s@moe.edu.sg)| 
-| 2 Responsibility 		| [Mr Howard Tan](mailto:tan_ching_hau_howard@moe.edu.sg) 	|[Ms Surinder Kaur (Sem 1) ](mailto:surinder_kaur@moe.edu.sg) 	|  [Ms Ang Meng Li](mailto:ang_meng_li@moe.edu.sg)|  |
+| 2 Responsibility 		| [Mr Howard Tan](mailto:tan_ching_hau_howard@moe.edu.sg) 	|[Ms Surinder Kaur](mailto:surinder_kaur@moe.edu.sg) 	|
 
 
 
@@ -60,10 +60,10 @@ variant: markdown
 | Class 	|  	|  	|  	|
 |---:	|---	|---	|---	|
 | 401 	| [Ms Shirley Tay](mailto:Shirley_Tay@moe.edu.sg)	| [Ms Kala](mailto:kala_devi_santha_kumar@moe.edu.sg) 	|  	|
-| 402 	|  [Ms Lim Xin Ying](mailto:lim_xin_ying_1@moe.edu.sg) 	| [Ms Sarah Pang (Sem 2)](mailto:Sarah_PANG_PEI_WEN@moe.edu.sg) 	|  	|
+| 402 	|  [Ms Lim Xin Ying](mailto:lim_xin_ying_1@moe.edu.sg) 	| [Ms Sarah Pang ](mailto:Sarah_PANG_PEI_WEN@moe.edu.sg) 	|  	|
 | 403 	| [Ms Philynn Tan](mailto:tan_hong_bee_philynn@moe.edu.sg) 	| [Ms Dora Tay ](mailto:dora_tay_hui_xuan@moe.edu.sg)	|  	|
 | 404 	| [Ms Cindy](mailto:yew_siew_ping_cindy@moe.edu.sg)	| [Mr Gilbert ](mailto:gilbert_tan_wei_beng@moe.edu.sg)	|  	|
-| 411 	| [Ms Tharshini ](mailto:tharshini_karthigesan@moe.edu.sg)	| [Ms Audrey Chua (Sem 1)](mailto:chua_sing_li_audrey@moe.edu.sg) 	|  	|
+| 411 	| [Ms Tharshini ](mailto:tharshini_karthigesan@moe.edu.sg)	| [Ms Audrey Chua](mailto:chua_sing_li_audrey@moe.edu.sg) 	|  	|
 | 412 	| [Ms Tan Qing](mailto:tan_qing@moe.edu.sg)	| [Mr Danker](mailto:gerard_danker@moe.edu.sg)	|  	|
 | 413 	| [Ms Murni ](mailto:murni_iryani_mohd_hanafi@moe.edu.sg)	| [Mr Tom Ho ](mailto:ho_hai_long@moe.edu.sg)	| 
 | 511 	| [Mr Tham Yu Hsuan](mailto:tham_yu_hsuan@moe.edu.sg)	|  	|  	|
