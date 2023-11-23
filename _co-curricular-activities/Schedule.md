@@ -19,10 +19,8 @@ variant: markdown
 | CHOIR 	|   	|  	| 3.30-5.30pm 	| 3.30-5.30pm 	|   	|   	|
 | Concert BAND 	| 3.30-6pm (Junior) <br> 3.30-6pm (Main) 	|   	| 3.30-6pm (Junior) 	| 3.30-6pm (Main)  	|   	|   	|
 | ELDDS 	| 3.30-5.30pm 	|   	| 	|  3.30-5.30pm 	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|
-| LIBRARY 	|   	|   3.30 - 5.30 pm	|   	|  	|   	|   	|
-| COMM SERVICE 	|   	|   	|   	| 3.30-5.30pm 	|   	|   	|
-| MEDIA 	|   	|  3.30-5.30pm 	|   	|  	|   	|   	|
+|   	|  
+| MEDIA CLUB	|   	|  3.30-5.30pm 	|   	|  3.30-5.30pm 		|   	|   	|
 
 <br><br>
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
