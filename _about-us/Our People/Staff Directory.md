@@ -67,7 +67,7 @@ variant: markdown
 |   	| Mdm Ulaganathan Karpagam  	| [ulaganathan\_karpagam@moe.edu.sg](mailto:ulaganthan_karpagam@moe.edu.sg) |
 |   	| Ms Ang Meng Li  	| [ang_meng_li@moe.edu.sg](mailto:ang_meng_li@moe.edu.sg) 	|
 |   	| Ms Manikandan Suguna  	| [manikandan_suguna@moe.edu.sg](mailto:manikandan_suguna@moe.edu.sg) 	|
-|   	| Ms Mardiana	|  	|
+|   	| Ms Mardiana	| [mardiana_binti_mohd_ahzhar@moe.edu.sg](mailto:mardiana_binti_mohd_ahzhar@moe.edu.sg) 	|	|
 
 #### Mathematics
 
@@ -108,7 +108,7 @@ variant: markdown
 |   	| Ms Dora Tay 	| [dora_tay_hui_xuan@moe.edu.sg](mailto:dora_tay_hui_xuan@moe.edu.sg) 	|
 |   	| Ms Tan Qing	| [tan_qing@moe.edu.sg](mailto:tan_qing@moe.edu.sg) 	|
 |   	| Ms Lim Xin Ying	| [lim_xin_ying@moe.edu.sg](mailto:lim_xin_ying@moe.edu.sg) 	|
-|   	| Ms Kim Chan	|  	|
+|   	| Ms Kim Chan	| [chan_xinhui_kim@moe.edu.sg](mailto:chan_xinhui_kim@moe.edu.sg) 	| 	|
 
 #### PE & CCA
 
