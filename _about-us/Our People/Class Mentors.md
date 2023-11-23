@@ -44,8 +44,8 @@ variant: markdown
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 301 	| [Ms Shirley Tay](mailto:Shirley_Tay@moe.edu.sg)	|  [Ms Kala Devi](mailto:kala_devi_santha_kumar@moe.edu.sg)	|  	|
-| 302 	| [Ms Sarah Pang](mailto:Sarah_PANG_PEI_WEN@moe.edu.sg)	| [Ms Lim Xin Ying](mailto:lim_xin_ying_1@moe.edu.sg) 	|  	|
+| 301 	| [Mrs Joanne Chan ](mailto:jia_en_joanne_loo@moe.edu.sg)		|  [CL Teacher](mailto:)	|  	|
+| 302 	| [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg)	| [Mr Sim Zhi Wei](mailto:sim_zhi_wei@moe.edu.sg) 	|  	|
 | 303 	|[ Ms Philynn Tan ](mailto:tan_hong_bee_philynn@moe.edu.sg)	| [Ms Tan Wei Min](mailto:tan_wei_min@moe.edu.sg) 	|  	|
 | 304 	|[ Mrs Cindy Tan ](mailto:yew_siew_ping_cindy@moe.edu.sg)	| [Mr Gilbert Tan ](mailto:Gilbert_Tan_Wei_Beng@moe.edu.sg)	|
 | 311 	| [Ms Audrey Chua](mailto:chua_sing_li_audrey@moe.edu.sg)	| [Ms Tharshini](mailto:tharshini_karthigesan@moe.edu.sg) 	|  	|
@@ -59,8 +59,8 @@ variant: markdown
 
 | Class 	|  	|  	|  	|
 |---:	|---	|---	|---	|
-| 401 	| [Ms Surinder Kaur ](mailto:surinder_kaur@moe.edu.sg)	| [Mr Chow Jing Kang](mailto:Chow_Jing_Kang@moe.edu.sg) 	|  	|
-| 402 	| [Mdm Toh Siew Lan ](mailto:toh_siew_lan@moe.edu.sg)	| [Ms Chia Hui Jun](mailto:chia_hui_jun@moe.edu.sg) 	|  	|
+| 401 	| [Ms Shirley Tay](mailto:Shirley_Tay@moe.edu.sg)	| [Mr Chow Jing Kang](mailto:Chow_Jing_Kang@moe.edu.sg) 	|  	|
+| 402 	|  [Ms Lim Xin Ying](mailto:lim_xin_ying_1@moe.edu.sg) 	| [Ms Sarah Pang (Sem 2)](mailto:Sarah_PANG_PEI_WEN@moe.edu.sg) 	|  	|
 | 403 	| [Mr Alvin Leong](mailto:leong_wei_jie_alvin@moe.edu.sg) 	| [Mdm Zheng Xiumin ](mailto:zheng_xiumin@moe.edu.sg)	|  	|
 | 404 	| [Mrs Joanne Chan ](mailto:jia_en_joanne_loo@moe.edu.sg)	| [Mr Jimmy Ong ](mailto:ong_meng_guan_jimmy@moe.edu.sg)	|  	|
 | 411 	| [Ms Stella Goh ](mailto:stella_goh@moe.edu.sg)	| [Mr Aaron Ong](mailto:ong_meng_yeow_aaron@moe.edu.sg) 	|  	|
