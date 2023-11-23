@@ -25,7 +25,6 @@ variant: markdown
 | MEDIA 	|   	|  3.30-5.30pm 	|   	|  	|   	|   	|
 
 <br><br>
-
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | Hockey<br> Boys &amp; Girls<br>(B &amp; C Div) 	|  	|  3.30-6pm 	|   	| 3.30-6pm 	|  3.30-6pm 	|   	|
@@ -36,6 +35,6 @@ variant: markdown
 | Basketball Boys C Boys<br> 	|   	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|
 | Basketball Boys B Boys<br> 	| 3.30-5.30pm 	|  	|   	| 3.30-5.30pm 	|   	|   	|
 | Football Girls B Girls<br> 	|  3.30-5.30pm 	|	| 3.30-5.30pm  	|  	|   	|   	|
-| Football Girls C Girls<br> 	|  |  3.30-5.30pm		|  |3.30-5.30pm |   	|   	|
-| Football Boys B Boys<br> 	|  3.30-5.30pm 	| 	|  3.30-5.30pm  	|  	| 	|   	|
-| Football Boys C Boys<br> 	| | 3.30-5.30pm	| 	| 3.30-5.30pm 	|  	|   	|
+| Football Girls C Girls<br> 	|  | 	|3.30-5.30pm	  || 3.30-5.30pm	  	|   	|
+| Football Boys B Boys<br> 	|  3.30-5.30pm 	| 	| 	| 3.30-5.30pm   	| 	|   	|
+| Football Boys C Boys<br> 	| | 3.30-5.30pm	| 	| 	| 3.30-5.30pm   	|   	|
