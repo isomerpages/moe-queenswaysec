@@ -59,7 +59,7 @@ variant: markdown
 
 | Class 	|  	|  	|  	|
 |---:	|---	|---	|---	|
-| 401 	| [Ms Shirley Tay](mailto:Shirley_Tay@moe.edu.sg)	| [Mr Chow Jing Kang](mailto:Chow_Jing_Kang@moe.edu.sg) 	|  	|
+| 401 	| [Ms Shirley Tay](mailto:Shirley_Tay@moe.edu.sg)	| [Ms Kala](mailto:kala_devi_santha_kumar@moe.edu.sg) 	|  	|
 | 402 	|  [Ms Lim Xin Ying](mailto:lim_xin_ying_1@moe.edu.sg) 	| [Ms Sarah Pang (Sem 2)](mailto:Sarah_PANG_PEI_WEN@moe.edu.sg) 	|  	|
 | 403 	| [Mr Alvin Leong](mailto:leong_wei_jie_alvin@moe.edu.sg) 	| [Mdm Zheng Xiumin ](mailto:zheng_xiumin@moe.edu.sg)	|  	|
 | 404 	| [Mrs Joanne Chan ](mailto:jia_en_joanne_loo@moe.edu.sg)	| [Mr Jimmy Ong ](mailto:ong_meng_guan_jimmy@moe.edu.sg)	|  	|
