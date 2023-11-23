@@ -9,7 +9,7 @@ variant: markdown
 
 #### SECONDARY 1 CLASS MENTORS
 
-##### LOWER SEC YEAR HEAD: [MS TAN WEI YI](mailto:tan_wei_yi@moe.edu.sg)
+##### LOWER SEC YEAR HEAD: [MR YEO CHOON HWA](mailto:yeo_choon_hwa@moe.edu.sg)
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
@@ -24,7 +24,7 @@ variant: markdown
 
 #### SECONDARY 2 CLASS MENTORS
 
-##### ASSISTANT YEAR HEAD: [MS CHEN ZHIYUN](mailto:chen_zhiyun@moe.edu.sg)
+##### ASSISTANT YEAR HEAD: [MS TEO YONG CHIN](mailto:teo_yong_chin@moe.edu.sg)
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
@@ -40,7 +40,7 @@ variant: markdown
 
 #### SECONDARY 3 CLASS MENTORS
 
-##### UPPER SEC YEAR HEAD: [MR FEROZ ALI](mailto:feroz_ali@moe.edu.sg)
+##### UPPER SEC YEAR HEAD: [MS CHEN ZHIYUN](mailto:chen_zhiyun@moe.edu.sg)
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
@@ -55,7 +55,7 @@ variant: markdown
 
 #### SECONDARY 4/5 CLASS MENTORS
 
-##### ASSISTANT YEAR HEAD: [MR YEO CHOON HWA](mailto:yeo_choon_hwa@moe.edu.sg)
+##### ASSISTANT YEAR HEAD: [MR FEROZ ALI](mailto:feroz_ali@moe.edu.sg)
 
 | Class 	|  	|  	|  	|
 |---:	|---	|---	|---	|
