@@ -3,12 +3,15 @@ title: Basketball (Boys)
 permalink: /cca/sports/basketball-boys/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Basketball (Boys)
 
 |  	|  	|
 |---	|---	|
 | **TEACHER-IN-CHARGE:** 	| MR THAM YU HSUAN (IC)|
+|||
+
 
 |  	|  	|
 |---	|---	|
@@ -17,27 +20,27 @@ third_nav_title: Sports
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **'B' DIVISION BOYS' CAPTAIN:** 	|   CHAN KEI YUEN, CHAD (404)|
+| **'B' DIVISION BOYS' CAPTAIN:** 	| &nbsp; CHAN KEI YUEN, CHAD (404)|
 | **'B' DIVISION BOYS' VICE-CAPTAIN:** 	|         LUKE CHONG YONG EN (411)	| 
 
 | 	|  	|
 |---	|---	|
-| **'C' DIVISION BOYS' CAPTAIN:** 	|  DARREN LIM CHEE HAO|
+| **'C' DIVISION BOYS' CAPTAIN:** 	| &nbsp;DARREN LIM CHEE HAO|
 | **'C' DIVISION BOYS' VICE-CAPTAIN:** 	| MIKO RAPHAEL RAHARDJO 	| 
 
-#### Overview of the CCA:   
+#### Overview of the CCA:&nbsp;  
 We believe in working hard and training together as a team. A cooperative team spirit must be cultivated both on and off the court. We also believe in developing resilience, an essential 21st Century Competency. At the end of their QSS journey, we want to establish future-ready citizens who can contribute to society.
 
 ![](/images/Basketball1.jpg)
 
 
 
-This year was an exciting year for the Basketball team as the National School Games made a comeback! With the relaxing of safe management measures, the B Division team had the opportunity to play their first inter-school NSG games. They made us proud by qualifying for the South Zone Inter-School Basketball Competition Quarter Finals. 
+This year was an exciting year for the Basketball team as the National School Games made a comeback! With the relaxing of safe management measures, the B Division team had the opportunity to play their first inter-school NSG games. They made us proud by qualifying for the South Zone Inter-School Basketball Competition Quarter Finals.&nbsp;
 <br>
 
-<img src="https://drive.google.com/uc?export=view&id=1UPHF0BuWwm16PJ1FMyfiuMe1I3TPvZE6"><br>
+<img src="https://drive.google.com/uc?export=view&amp;id=1UPHF0BuWwm16PJ1FMyfiuMe1I3TPvZE6"><br>
 
-<img src="https://drive.google.com/uc?export=view&id=1FglR54h1ckjDIuaO0TVZBS5G3ms_n-0E">
+<img src="https://drive.google.com/uc?export=view&amp;id=1FglR54h1ckjDIuaO0TVZBS5G3ms_n-0E">
 
 
 ![](/images/Basketball%202.jpg)
