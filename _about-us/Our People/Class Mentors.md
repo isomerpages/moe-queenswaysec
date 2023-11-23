@@ -32,7 +32,7 @@ variant: markdown
 | 2 Confidence  	| [Ms Quek Yu Pin](mailto:quek_yu_pin@moe.edu.sg)	|[Mr Senan](mailto:senan_b_long@moe.edu.sg)| 	| 
 |2 Diligence 	| [Ms Lily Choo](mailto:choo_li_chin_lily@moe.edu.sg) 	| [Ms Suguna](mailto:manikandan_suguna@moe.edu.sg) 	|  	| 
 |  2 Discipline 	| [Ms Brenda Lim ](mailto:lim_jing_qi_brenda@moe.edu.sg)	| 	| 
-| 2 Excellence | [Mdm Iryantee ](mailto:iryantee_jaffar@moe.edu.sg)	| [Mrs Isabel Wong](mailto:lee_siew_min_isabel@moe.edu.sg) 	|  	| 
+| 2 Excellence | [Mdm Iryantee ](mailto:iryantee_jaffar@moe.edu.sg)	| [Ms Looi Tse Theng](mailto:looi_tse_theng@moe.edu.sg)	|  	| 
 | 2 Respect | [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg) 	| [Ms Nisa](mailto:pravenisa_b_viswambharan@moe.edu.sg)| 
 | 2 Responsibility 		| [Mr Chng Eng Peng](mailto:chng_eng_peng@moe.edu.sg) 	|[ Ms Zhang Yi](mailto:Zhang_Yi_A@moe.edu.sg) 	| | [Mr Senan](mailto:senan_b_long@moe.edu.sg) |
 
