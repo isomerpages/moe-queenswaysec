@@ -24,7 +24,7 @@ variant: markdown
 <br><br>
 
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
-|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|<br><br>
+|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | Hockey<br> Boys &amp; Girls<br>(B &amp; C Div) 	|  	|  3.30-6pm 	|   	| 3.30-6pm 	|  3.30-6pm 	|   	|
 | Badminton Girls<br>(B Div) 	|   3.30-5.30pm	| 	|   	| 3.30-5.30pm 	|   	|   	|
 | Badminton Girls<br>(C Div) 	|   	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|
