@@ -13,7 +13,7 @@ variant: markdown
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 1 Care 	| [Ms Stella Goh](mailto:stella_goh@moe.edu.sg)| [NIE EL/SS ](mailto:)	|
+| 1 Care 	| [Ms Stella Goh](mailto:stella_goh@moe.edu.sg)| 	|
 | 1 Confidence 	| [Ms Melcia Leong](mailto:hui_lin_melcia_leong@moe.edu.sg)	| [Ms Mardiana](mailto:) 	|
 | 1 Diligence 	| [Ms Jasvinder](mailto:jasvinder_kaur_pannu@moe.edu.sg) | [Mr Ernest Fok (Sem1)](mailto:fok_chee_wel@moe.edu.sg) |  [Ms Arwinder (Sem2)](mailto:)  	|
 | 1 Discipline 	| [Ms Chia Hui Jun](mailto:chia_hui_jun@moe.edu.sg) 	| [Ms Kim Chan](mailto:)	|
@@ -44,7 +44,7 @@ variant: markdown
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 301 	| [Mrs Joanne Chan ](mailto:jia_en_joanne_loo@moe.edu.sg)		|  [CL Teacher](mailto:)	|  	|
+| 301 	| [Mrs Joanne Chan ](mailto:jia_en_joanne_loo@moe.edu.sg)		|  	|  	|
 | 302 	| [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg)	| [Mr Sim Zhi Wei](mailto:sim_zhi_wei@moe.edu.sg) 	|  	|
 | 303 	|[ Ms Veronica How ](mailto:how_xin_yi_veronica@moe.edu.sg)	| 	|  	|
 | 304 	|[ Mr Alvin Leong](mailto:leong_wei_jie_alvin@moe.edu.sg)	| [Ms Zhang Yi ](mailto:zhang_yi_a@moe.edu.sg)	|
