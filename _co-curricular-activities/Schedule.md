@@ -22,6 +22,7 @@ variant: markdown
 | MEDIA CLUB	|   	|  3.30-5.30pm 	|   	|  3.30-5.30pm 		|   	|   	|
 
 <br><br>
+
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | Hockey<br> Boys &amp; Girls<br>(B &amp; C Div) 	|  	|  3.30-6pm 	|   	| 3.30-6pm 	|  3.30-6pm 	|   	|
