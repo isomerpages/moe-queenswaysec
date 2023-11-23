@@ -50,7 +50,7 @@ variant: markdown
 | 304 	|[ Mr Alvin Leong](mailto:leong_wei_jie_alvin@moe.edu.sg)	| [Ms Zhang Yi ](mailto:zhang_yi_a@moe.edu.sg)	|
 | 311 	| [Ms Low Xin Yee](mailto:low_xin_yee@moe.edu.sg)	| [Mr Jasbir](mailto:) 	|  	|
 | 312 	| [Ms Megan](mailto:goh_xin_yi_megan@moe.edu.sg) 	|[ Mr Umar](mailto:)
-| 313 	| [Mr Chua Kee Eng ](mailto:chua_kee_eng@moe.edu.sg)	| [Mrs Ding Hailun](mailto:luo_hailun@moe.edu.sg)|	|
+| 313 	| [Mr Chua Kee Eng ](mailto:chua_kee_eng@moe.edu.sg)	| [Ms Luo Hailun](mailto:luo_hailun@moe.edu.sg)|	|
 
 
 #### SECONDARY 4/5 CLASS MENTORS
@@ -64,6 +64,6 @@ variant: markdown
 | 403 	| [Ms Philynn Tan](mailto:tan_hong_bee_philynn@moe.edu.sg) 	| [Ms Dora Tay ](mailto:dora_tay_hui_xuan@moe.edu.sg)	|  	|
 | 404 	| [Ms Cindy](mailto:yew_siew_ping_cindy@moe.edu.sg)	| [Mr Gilbert ](mailto:gilbert_tan_wei_beng@moe.edu.sg)	|  	|
 | 411 	| [Ms Tharshini ](mailto:tharshini_karthigesan@moe.edu.sg)	| [Ms Audrey Chua (Sem 1)](mailto:chua_sing_li_audrey@moe.edu.sg) 	|  	|
-| 412 	| [Mr Tham Yu Hsuan](mailto:tham_yu_hsuan@moe.edu.sg)	| [Ms Sarah Grace Lim](mailto:sarah_grace_lim@moe.edu.sg)	|  	|
-| 413 	| [Mr Chua Kee Eng ](mailto:chua_kee_eng@moe.edu.sg)	| [Ms Luo Hailun ](mailto:luo_hailun@moe.edu.sg)	| 
+| 412 	| [Ms Tan Qing](mailto:tan_qing@moe.edu.sg)	| [Mr Danker](mailto:gerard_danker@moe.edu.sg)	|  	|
+| 413 	| [Ms Murni ](mailto:murni_iryani_mohd_hanafi@moe.edu.sg	| [Mr Tom Ho ](mailto:ho_hai_long@moe.edu.sg)	| 
 | 511 	| [Mdm Lim Swee Kheng](mailto:Lim_Swee_Kheng@moe.edu.sg)	| [Mr Santokh Singh ](mailto:santokh_singh@moe.edu.sg) 	|  	|
