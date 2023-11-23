@@ -18,8 +18,8 @@ variant: markdown
 | 1 Diligence 	| [Ms Jasvinder](mailto:jasvinder_kaur_pannu@moe.edu.sg) | [Mr Ernest Fok (Sem1)](mailto:fok_chee_wel@moe.edu.sg) |  [Ms Arwinder (Sem2)](mailto:)  	|
 | 1 Discipline 	| [Ms Chia Hui Jun](mailto:chia_hui_jun@moe.edu.sg) 	| [Ms Kim Chan](mailto:)	|
 | 1 Excellence 	|[Mr Chow Jing Kang](mailto:Chow_Jing_Kang@moe.edu.sg) | [Mdm Karpagam](mailto:ulaganathan_karpagam@moe.edu.sg)|
-| 1 Respect 	| [Mr Ernest Fok ](mailto:fok_chee_wel@moe.edu.sg)	|  [Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@moe.edu.sg)	| 
-| 1 Responsibility 	| [Mr Howard Tan](mailto:tan_ching_hau_howard@moe.edu.sg)	| [Ms Megan](mailto:goh_xin_yi_megan@moe.edu.sg)	|
+| 1 Respect 	| [Mr Aaron Ong](mailto:ong_meng_yeow_aaron@moe.edu.sg) 	|  [Ms Yang Yi](mailto:Yang_Yi@moe.edu.sg)	| 
+| 1 Responsibility 	| [Ms Ethel Choy](mailto:choy_hui_zhen_ethel@moe.edu.sg) | [Mr Jimmy Ong](mailto:ong_meng_guan_jimmy@moe.edu.sg)	|
 
 #### SECONDARY 2 CLASS MENTORS
 
