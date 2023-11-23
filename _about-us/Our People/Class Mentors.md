@@ -49,7 +49,7 @@ variant: markdown
 | 303 	|[ Ms Veronica How ](mailto:how_xin_yi_veronica@moe.edu.sg)	| 	|  	|
 | 304 	|[ Mr Alvin Leong](mailto:leong_wei_jie_alvin@moe.edu.sg)	| [Ms Zhang Yi ](mailto:zhang_yi_a@moe.edu.sg)	|
 | 311 	| [Ms Low Xin Yee](mailto:low_xin_yee@moe.edu.sg)	| [Mr Jasbir](mailto:) 	|  	|
-| 312 	| [Mr Gerard Danker](mailto:gerard_danker@moe.edu.sg) 	|[ Ms Grace Lee	](mailto:mei_yan_grace_lee@moe.edu.sg)
+| 312 	| [Ms Megan](mailto:goh_xin_yi_megan@moe.edu.sg) 	|[ Mr Umar](mailto:)
 | 313 	| [Ms Murni ](mailto:murni_iryani_mohd_hanafi@moe.edu.sg)	| [Mr Tom Ho](mailto:ho_hai_long@moe.edu.sg)| [Mr Ben David](mailto:ben_david_nazareth)  	|
 
 
