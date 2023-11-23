@@ -29,9 +29,9 @@ variant: markdown
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
 | 2 Care  	| [Ms Gayatri](mailto:gayatri_devi@moe.edu.sg)|  [Mr Paul Lai](mailto:paul_lai_chyi_shyan@moe.edu.sg)	|  	| 
-| 2 Confidence  	| [Ms Yang Yi](mailto:Yang_Yi@moe.edu.sg)	|[Ms Melcia Leong ](mailto:hui_lin_melcia_leong@moe.edu.sg)	| [Ms Athirah](mailto:athirah_syahirah_shaul_hameed@moe.edu.sg) 	| 
-|2 Diligence 	| [Ms Ethel Choy](mailto:choy_hui_zhen_ethel@moe.edu.sg) 	| [Mr Makoto Kawaguchi](mailto:makoto_kawaguchi@moe.edu.sg) 	|  	| 
-|  2 Discipline 	| [Ms Teo Yong Chin ](mailto:teo_yong_chin@moe.edu.sg)	| [Ms Jasvinder ](mailto:jasvinder_kaur_pannu@moe.edu.sg)	| 
+| 2 Confidence  	| [Ms Quek Yu Pin](mailto:quek_yu_pin@moe.edu.sg)	|[Mr Senan](mailto:senan_b_long@moe.edu.sg)| 	| 
+|2 Diligence 	| [Ms Lily Choo](mailto:choo_li_chin_lily@moe.edu.sg) 	| [Ms Suguna](mailto:manikandan_suguna@moe.edu.sg) 	|  	| 
+|  2 Discipline 	| [Ms Brenda Lim ](mailto:teo_yong_chin@moe.edu.sg)	| [Ms Jasvinder ](mailto:jasvinder_kaur_pannu@moe.edu.sg)	| 
 | 2 Excellence | [Ms Low Xin Yee ](mailto:low_xin_yee@moe.edu.sg)	| [Mrs Isabel Wong](mailto:lee_siew_min_isabel@moe.edu.sg) 	|  	| 
 | 2 Respect | [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg) 	| [Ms Nisa](mailto:pravenisa_b_viswambharan@moe.edu.sg)| 
 | 2 Responsibility 		| [Mr Chng Eng Peng](mailto:chng_eng_peng@moe.edu.sg) 	|[ Ms Zhang Yi](mailto:Zhang_Yi_A@moe.edu.sg) 	| | [Mr Senan](mailto:senan_b_long@moe.edu.sg) |
