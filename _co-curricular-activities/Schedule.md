@@ -10,7 +10,6 @@ variant: markdown
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | NPCC <br> Boys &amp; Girls Unit	|   3.30-5.30pm	|   	|   	| 3.30-5.30pm 	|   	|   	|
 | NCC <br> Boys &amp; Girls Unit	| 3.30-5.30pm 	|   	|   	| 3.30-5.30pm  	|   	|   	|
-| NCDCC (Closing in 2023. Not Applicable to Sec 1 Intake in 2023) |   	|   	|   	| 3.30-5.30pm 	|   	|   	|
 | GIRLS GUIDES (GG) 	| 3.30-5.30pm 	|   	|   	| 3.30-5.30pm  	|   	|   	|
 | BOYS BRIGADE (BB) 	|   	|   	|   	|   	|   	| 8.30-12noon 	|
 |   	|   	|   	|   	|   	|   	|   	|
