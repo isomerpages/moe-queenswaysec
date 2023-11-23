@@ -62,7 +62,7 @@ variant: markdown
 | 401 	| [Ms Shirley Tay](mailto:Shirley_Tay@moe.edu.sg)	| [Ms Kala](mailto:kala_devi_santha_kumar@moe.edu.sg) 	|  	|
 | 402 	|  [Ms Lim Xin Ying](mailto:lim_xin_ying_1@moe.edu.sg) 	| [Ms Sarah Pang (Sem 2)](mailto:Sarah_PANG_PEI_WEN@moe.edu.sg) 	|  	|
 | 403 	| [Ms Philynn Tan](mailto:tan_hong_bee_philynn@moe.edu.sg) 	| [Ms Dora Tay ](mailto:dora_tay_hui_xuan@moe.edu.sg)	|  	|
-| 404 	| [Mrs Joanne Chan ](mailto:jia_en_joanne_loo@moe.edu.sg)	| [Mr Jimmy Ong ](mailto:ong_meng_guan_jimmy@moe.edu.sg)	|  	|
+| 404 	| [Ms Cindy Tan ](mailto:yew_siew_ping_cindy@moe.edu.sg)	| [Mr Jimmy Ong ](mailto:ong_meng_guan_jimmy@moe.edu.sg)	|  	|
 | 411 	| [Ms Stella Goh ](mailto:stella_goh@moe.edu.sg)	| [Mr Aaron Ong](mailto:ong_meng_yeow_aaron@moe.edu.sg) 	|  	|
 | 412 	| [Mr Tham Yu Hsuan](mailto:tham_yu_hsuan@moe.edu.sg)	| [Ms Sarah Grace Lim](mailto:sarah_grace_lim@moe.edu.sg)	|  	|
 | 413 	| [Mr Chua Kee Eng ](mailto:chua_kee_eng@moe.edu.sg)	| [Ms Luo Hailun ](mailto:luo_hailun@moe.edu.sg)	| 
