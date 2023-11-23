@@ -3,6 +3,7 @@ title: Class Mentors
 permalink: /about-us/Our-People/class-mentors/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### Class Mentors
 
@@ -12,8 +13,8 @@ third_nav_title: Our People
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 1 Care 	| [Mrs Gayatri Kumar](mailto:gayatri_devi@moe.edu.sg)| [Mr Paul Lai ](mailto:Paul_Lai_Chyi_Shyan@moe.edu.sg)	|
-| 1 Confidence 	| [Ms Quek Yu Pin](mailto:Quek_Yu_Pin@moe.edu.sg)	| [Ms Ang Meng Li](mailto:ang_meng_li@moe.edu.sg) 	|
+| 1 Care 	| [Ms Stella Goh](mailto:stella_goh@moe.edu.sg)| [NIE EL/SS ](mailto:)	|
+| 1 Confidence 	| [Ms Melcia Leong](mailto:hui_lin_melcia_leong@moe.edu.sg)	| [Ms Mardiana](mailto:) 	|
 | 1 Diligence 	| [Mdm Lily Choo](mailto:choo_li_chin_lily@moe.edu.sg) | [Ms Suguna](mailto:manikandan_suguna@schools.gov.sg) | 
 | 1 Discipline 	| [Ms Veronica How](mailto:how_xin_yi_veronica@moe.edu.sg)	| [Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@moe.edu.sg)	|
 | 1 Excellence 	| [ Mdm Iryantee](mailto:iryantee_jaffar@moe.edu.sg)| [Ms Looi Tse Theng](mailto:looi_tse_theng@moe.edu.sg)|
