@@ -16,7 +16,7 @@ variant: markdown
 | 1 Care 	| [Ms Stella Goh](mailto:stella_goh@moe.edu.sg)| [NIE EL/SS ](mailto:)	|
 | 1 Confidence 	| [Ms Melcia Leong](mailto:hui_lin_melcia_leong@moe.edu.sg)	| [Ms Mardiana](mailto:) 	|
 | 1 Diligence 	| [Ms Jasvinder](mailto:jasvinder_kaur_pannu@moe.edu.sg) | [Mr Ernest Fok (Sem1)](mailto:fok_chee_wel@moe.edu.sg) |  [Ms Arwinder (Sem2)](mailto:)  	|
-| 1 Discipline 	| [Ms Veronica How](mailto:how_xin_yi_veronica@moe.edu.sg)	| [Ms Brenda Lim](mailto:Lim_Jing_Qi_Brenda@moe.edu.sg)	|
+| 1 Discipline 	| [Ms Chia Hui Jun](mailto:chia_hui_jun@moe.edu.sg) 	| [Ms Kim Chan](mailto:)	|
 | 1 Excellence 	| [ Mdm Iryantee](mailto:iryantee_jaffar@moe.edu.sg)| [Ms Looi Tse Theng](mailto:looi_tse_theng@moe.edu.sg)|
 | 1 Respect 	| [Mr Ernest Fok ](mailto:fok_chee_wel@moe.edu.sg)	|  [Mrs Kasthuri Davaraj](mailto:kasthuri_mahanthran@moe.edu.sg)	| 
 | 1 Responsibility 	| [Mr Howard Tan](mailto:tan_ching_hau_howard@moe.edu.sg)	| [Ms Megan](mailto:goh_xin_yi_megan@moe.edu.sg)	|
