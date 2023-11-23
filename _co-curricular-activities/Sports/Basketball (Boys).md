@@ -10,9 +10,8 @@ variant: markdown
 |  	|  	|
 |---	|---	|
 | **TEACHER-IN-CHARGE:** 	| MR THAM YU HSUAN (IC)|
-||Mr Chng Eng Peng|
-||Mr Yeo Choon Hwa|
-||Ms Tan Qing|
+|||
+
 
 |  	|  	|
 |---	|---	|
