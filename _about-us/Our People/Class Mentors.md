@@ -65,5 +65,5 @@ variant: markdown
 | 404 	| [Ms Cindy](mailto:yew_siew_ping_cindy@moe.edu.sg)	| [Mr Gilbert ](mailto:gilbert_tan_wei_beng@moe.edu.sg)	|  	|
 | 411 	| [Ms Tharshini ](mailto:tharshini_karthigesan@moe.edu.sg)	| [Ms Audrey Chua (Sem 1)](mailto:chua_sing_li_audrey@moe.edu.sg) 	|  	|
 | 412 	| [Ms Tan Qing](mailto:tan_qing@moe.edu.sg)	| [Mr Danker](mailto:gerard_danker@moe.edu.sg)	|  	|
-| 413 	| [Ms Murni ](mailto:murni_iryani_mohd_hanafi@moe.edu.sg	| [Mr Tom Ho ](mailto:ho_hai_long@moe.edu.sg)	| 
+| 413 	| [Ms Murni ](mailto:murni_iryani_mohd_hanafi@moe.edu.sg)	| [Mr Tom Ho ](mailto:ho_hai_long@moe.edu.sg)	| 
 | 511 	| [Mr Tham Yu Hsuan](mailto:tham_yu_hsuan@moe.edu.sg)	|  	|  	|
