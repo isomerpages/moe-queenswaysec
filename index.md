@@ -13,9 +13,11 @@ sections:
       title: 2023 Open House
       subtitle: QUEENSWAY SECONDARY SCHOOL
       id: infopic
-      description: 25 November 2023, 0900 - 1300
-      button: CLICK HERE FOR MORE INFORMATION
+      description: The 2023 Open House is now over. We thank all parents and students
+        for their support. For answers to questions raised during the Open
+        House, please click below.
+      button: CLICK HERE
       image: /images/oh programme banner.png
-      url: https://sites.google.com/moe.edu.sg/qssopenhouse2023/
+      url: https://sites.google.com/moe.edu.sg/qssopenhouse2023/ask-a-question?authuser=0
       alt: Open House Programme
 ---
