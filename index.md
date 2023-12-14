@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/school facade.jpg
       variant: image
-      url: https://cms.isomer.gov.sg/sites/moe-queenswaysec/folders/student-info/editPage/2023%20Secondary%201.md
+      url: https://www.queenswaysec.moe.edu.sg/2023-Secondary-1/
       button: Sec 1 Information for 2024
   - infopic:
       title: 2023 Open House
