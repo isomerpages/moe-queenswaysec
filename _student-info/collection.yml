@@ -2,7 +2,6 @@ collections:
   student-info:
     output: true
     order:
-      - 2024 Secondary 1.md
       - School Calendar.md
       - HBL Calendar.md
       - School Rules and Regulations.md
