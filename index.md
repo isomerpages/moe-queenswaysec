@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/school facade.jpg
-      variant: image
+      variant: center
       url: /2023-Secondary-1/
       button: Sec 1 Information for 2024
   - infopic:
