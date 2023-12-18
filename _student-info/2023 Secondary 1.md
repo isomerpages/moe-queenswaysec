@@ -2,41 +2,48 @@
 title: 2023 Secondary 1
 permalink: /2023-Secondary-1/
 description: ""
+variant: markdown
 ---
-## **2023 Secondary 1**
-All the staff and students at Queensway Secondary School (QSS ) warmly welcome you, our new Secondary 1 student, and your parents/guardian to our school.
+## **2024 Secondary 1**
+All the staff and students at Queensway Secondary School (QSS) warmly welcome you, our new Secondary 1 student, and your parents/guardians to our school.
 
-Welcome to the QSS Family!   
+Welcome to the QSS Family! 
 
 ### **Posting Matters**
 
-Click [here](https://drive.google.com/file/d/12hHYAbJ0LY_HBTDgoBaIJEx504hYt-qD/view?usp=share_link) for the information.  
+Click [here](https://drive.google.com/file/d/1OgxRLDfh2W13WCZeNyMr-M0Xv4vCiv3d/view?usp=drive\_link) for the information.  
+
+Students posted to QSS need **not** report to the school after the release of school posting results.
 
 ### **Principal's Message**
 
-Click [here](https://drive.google.com/file/d/1fWXeg2gw10bGMi-Kpoi3kKdu1goRUKhj/view?usp=share_link) for the letter.  
+Click [here](https://drive.google.com/file/d/1fWXeg2gw10bGMi-Kpoi3kKdu1goRUKhj/view?usp=share\_link) for the letter.  
+
+
+### **Secondary 1 Information webpage**
+
+A designated **one-stop Secondary 1 Information webpage** has been set up at the following link to prepare your child for the coming school year.
+
+You will find all the information you need concerning purchase of uniforms and books, our Sec 1 Orientation programme, and all other information to get your child off to a good start in Queensway when school begins on **Tuesday, 2 January 2024.**
+
+Click  [here]() for the Information webpage.
+
 
 ### **e-Registration and Orientation matters**
-Student posted to QSS need **not** report to the school after the release of school posting results. **All** incoming 2023 Secondary 1 students **must** register online via Parents Gateway (PG). Registration will done online only.
+<u>**All**</u> incoming 2023 Secondary 1 students **must** register online via Parents Gateway (PG). Registration will be done online only.
 
-As part of e-Registration for 2023 Secondary 1 students, there will be a e-briefing on 22 December 2022. The e-briefing will commence at 9 am. You may use the link [here](https://moe-singapore.zoom.us/j/84474116384) for the e-Briefing or use the meeting details:
+The **Sec 1 Orientation Programme** will be held from **2 – 5 January 2024**. There will be an <u> **overnight stay on 3 January**</u> , in school. The Orientation Programme will provide students an opportunity to know the school and ease the transition from primary school to secondary school.
 
-**Meeting ID: 844 7411 6384**
-**Passcode: QSS23Star**
-        
-Click [here](https://drive.google.com/file/d/1MpJ7huVCgaDk_3QgzDDf-NWi3FZSvehB/view?usp=share_link) for Updated Important Information for 2023 Secondary 1 students (as of 22 Dec).
+Kindly note that students are to report to school by **7.45 am on 2 January 2024.** They will assemble in the parade square.
 
-Click [here](https://drive.google.com/file/d/1-DCroNZK9fQ4r0C5jivnoeuPykZ1i_DT/view?usp=share_link) for 2023 webinar slides - Secondary 1 students conducted on 22 December morning.
-
-The responses to the questions asked during the webinar will be sent via PG by 26 December.
 
 ### **Appeals, School Transfers Procedures**
 
 **Appeals on non-medical reason**
 
-2022 Primary 6 students who have received their secondary school posting for Academic Year 2023 admission may use this form ([here](https://form.gov.sg/639b2eed97c81d0012c29e6b)) to appeal for transfer to Queensway Secondary School.
+2023 Primary 6 students who have received their secondary school posting for Academic Year 2023 admission may use this form [here]([https://go.gov.sg/qss1appeal](https://go.gov.sg/qss1appeal)) to appeal for transfer to Queensway Secondary School.
 
-Please note that your PSLE score should meet our school’s cut-off point (COP) for the posting year. All appeal forms should be submitted by 29 December 2022, 5pm.
+Please note that your PSLE score should meet our school’s cut-off point (COP) for the posting year. All appeal forms should be submitted by **26 December 2023, 12pm**.
          
 **Appeals on medical reason**
        
