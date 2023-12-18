@@ -30,9 +30,9 @@ Click  [here]() for the Information webpage.
 
 
 ### **e-Registration and Orientation matters**
-<u>**All**</u> incoming 2023 Secondary 1 students **must** register online via Parents Gateway (PG). Registration will be done online only.
+**<u>All</u>** incoming 2023 Secondary 1 students **must** register online via Parents Gateway (PG). Registration will be done online only.
 
-The **Sec 1 Orientation Programme** will be held from **2 – 5 January 2024**. There will be an <u> **overnight stay on 3 January**</u> , in school. The Orientation Programme will provide students an opportunity to know the school and ease the transition from primary school to secondary school.
+The **Sec 1 Orientation Programme** will be held from **2 – 5 January 2024**. There will be an **<u>overnight stay on 3 January</u>**, in school. The Orientation Programme will provide students an opportunity to know the school and ease the transition from primary school to secondary school.
 
 Kindly note that students are to report to school by **7.45 am on 2 January 2024.** They will assemble in the parade square.
 
