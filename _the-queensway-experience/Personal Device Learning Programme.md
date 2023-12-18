@@ -53,7 +53,21 @@ The school will need to use your child’s/ward’s full name, Student iCON ID a
 ###### ***Further Queries***
 If there are further queries, please email the School at qss@moe.edu.sg
 
+##### PLD Resources for Parents
 
+[Parent Handbook On Learning With A PLD (I)](/files/Parent_handbook_on_Learning_with_a_PLD__I_.pdf)
+
+[Parent Handbook On Learning With A PLD (II)](/files/Parent_handbook_on_Learning_with_a_PLD__II_.pdf)
+
+##### DMA Information for Parents
+
+[Parent Guide on DMA and Video Resources](https://go.gov.sg/dmaparentguide-mg)
+
+
+###### **For Requests to changing of DMA Option, please email Ms Samantha  at samantha_alexa_teng@moe.edu.sg**
+
+**Lenovo Service Centre**
+![](/images/Lenovo_Repair_Centre.png)
 
 Every Queensway student will be issued with a Personal Learning Device (PLD) under a co-payment system.
 
