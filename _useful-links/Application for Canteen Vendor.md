@@ -2,6 +2,7 @@
 title: Application for Canteen Vendor
 permalink: /useful-links/applicationforcanteenvendor/
 description: ""
+variant: markdown
 ---
 #### School Canteen Advertisement
 
@@ -10,7 +11,6 @@ description: ""
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Chinese Noodles/Thai Food (Halal/Non-Halal)     | 31 Dec 2023     |      |
-| Cold Drink Stall     | 16 Oct 2023     |       |
 
 
 
