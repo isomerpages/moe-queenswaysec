@@ -20,13 +20,13 @@ Students posted to QSS need **<u>not</u>** report to the school after the releas
 Click [here](https://drive.google.com/file/d/1zqKdlZ_5nyKx8z0XLk0lHuwcNm5yHpdO/view?usp=sharing) for the letter.  
 
 
-### **Secondary 1 Information webpage**
+### **Secondary 1 Information page**
 
 A designated **one-stop Secondary 1 Information page** has been set up at the following link to prepare your child for the coming school year.
 
 You will find the information you need concerning purchase of uniforms and books, our Sec 1 Orientation programme, and all other information to get your child off to a good start in Queensway when school begins on **Tuesday, 2 January 2024.**
 
-Click  [here](https://drive.google.com/file/d/1omOxJi\_SO7HIZeBGscrAl645Wf1ifrxU/view?usp=sharing](https://drive.google.com/file/d/1omOxJi_SO7HIZeBGscrAl645Wf1ifrxU/view?usp=sharing) for the Information page.
+Click  [here](https://drive.google.com/file/d/1omOxJi_SO7HIZeBGscrAl645Wf1ifrxU/view?usp=sharing) for the Information page.
 
 
 ### **e-Registration and Orientation matters**
