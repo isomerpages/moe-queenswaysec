@@ -17,7 +17,7 @@ Students posted to QSS need **<u>not</u>** report to the school after the releas
 
 ### **Principal's Message**
 
-Click [here](https://drive.google.com/file/d/11XMVdzH3FDKNRdZ0wwe68uihPlEyO6_O/view) for the letter.  
+Click [here](https://drive.google.com/file/d/11XMVdzH3FDKNRdZ0wwe68uihPlEyO6_O/view?usp=sharing) for the letter.  
 
 
 ### **Secondary 1 Information page**
