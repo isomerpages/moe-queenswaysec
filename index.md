@@ -4,7 +4,10 @@ title: Queensway Secondary School
 description: Brief site description here
 image: /images/Logo - Colour Updated.png
 permalink: /
-notification: ""
+notification: "Note: MOE has advised all schools that there is a technical delay
+  in the posting details of 2024 Secondary 1 students. Please refer to the PG
+  announcements or updates from the QSS website for e-registration details from
+  tomorrow onwards."
 sections:
   - hero:
       background: /images/school facade.jpg
