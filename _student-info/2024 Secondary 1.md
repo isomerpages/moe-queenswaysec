@@ -30,7 +30,7 @@ Click  [here](https://drive.google.com/file/d/1cmNelghGfV72A8apYg7rwZOX76EJS3jY/
 
 
 ### **e-Registration and Orientation matters**
-**<u>All</u>** incoming 2024 Secondary 1 students **<u>must</u>** register online via Parents Gateway (PG) on 21 Dec 2023. 
+All incoming 2024 Secondary 1 students are to register online via Parents Gateway (PG). 
 
 The **Sec 1 Orientation Programme** will be held from **2 – 5 January 2024**.           The Orientation Programme will provide students an opportunity to know the school and ease the transition from primary school to secondary school.
 
