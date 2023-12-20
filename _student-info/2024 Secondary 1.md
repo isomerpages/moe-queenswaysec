@@ -26,7 +26,7 @@ A designated **one-stop Secondary 1 Information page** has been set up at the fo
 
 You will find the information you need concerning purchase of uniforms and books, our Sec 1 Orientation programme, and all other information to get your child off to a good start in Queensway when school begins on **Tuesday, 2 January 2024.**
 
-Click  [here](https://drive.google.com/file/d/1txY8Ws_Td5TE7sW675j1ZywtsqLgwP9x/view) for the Information page. (Updated as of 10:00 am)
+Click  [here](https://drive.google.com/file/d/19wpBAmNEfDvuaorRvEEeojkoWinDGxoa/view) for the Information page. (Updated as of 10:20 am)
 
 
 ### **e-Registration and Orientation matters**
