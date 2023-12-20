@@ -37,7 +37,7 @@ The **Sec 1 Orientation Programme** will be held from **2 – 5 January 2024**. 
 Kindly note that students are to report to school by **8 am on 2 January 2024.** They will assemble in the parade square.
 
 
-### **Appeals, School Transfers Procedures**
+### **Appeals and School Transfer Procedures**
 
 **Appeals for non-medical reasons**
 
