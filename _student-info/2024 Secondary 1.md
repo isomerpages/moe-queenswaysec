@@ -11,7 +11,7 @@ Welcome to the QSS Family!
 
 ### **Posting Matters**
 
-Click [here](https://drive.google.com/file/d/1OgxRLDfh2W13WCZeNyMr-M0Xv4vCiv3d/view?usp=drive_link) for the information.  
+Click [here](https://drive.google.com/file/d/1OgxRLDfh2W13WCZeNyMr-M0Xv4vCiv3d/view?usp=drive_link) for the MOE press release.
 
 Students posted to QSS need **<u>not</u>** report to the school after the release of school posting results.
 
