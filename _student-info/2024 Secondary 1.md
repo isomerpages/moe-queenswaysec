@@ -39,12 +39,12 @@ Kindly note that students are to report to school by **8 am on 2 January 2024.**
 
 ### **Appeals, School Transfers Procedures**
 
-**Appeals on non-medical reason**
+**Appeals for non-medical reasons**
 
 2023 Primary 6 students who have received their secondary school posting for Academic Year 2024 admission may use this form Click [here](https://go.gov.sg/qss1appeal) to appeal for transfer to Queensway Secondary School.
 
 Please note that your PSLE score should meet our school’s cut-off point (COP) for the posting year. All appeal forms should be submitted by **26 December 2023, 12pm**.
          
-**Appeals on medical reason**
+**Appeals for medical reasons**
        
 For students who require a transfer due to serious medical conditions or severe physical impairments, you will need to appeal directly at our school’s General Office during the Medical Appeal Exercise (MAE) by 21 December 12 noon. You are required to bring supporting medical documents. Please contact our school’s General Office at 64741421.
