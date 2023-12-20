@@ -17,7 +17,7 @@ Students posted to QSS need **<u>not</u>** report to the school after the releas
 
 ### **Principal's Message**
 
-Click [here](https://drive.google.com/file/d/1ACuQWPeLXgmkDAlGQ_VVhV4I4INFqlMp/view) for the letter.  
+Click [here](https://drive.google.com/file/d/1ZO9l2cNROCfKrcT4p2Ipq_dxY1zO-7pZ/view) for the letter.  
 
 
 ### **Secondary 1 Information page**
@@ -26,11 +26,11 @@ A designated **one-stop Secondary 1 Information page** has been set up at the fo
 
 You will find the information you need concerning purchase of uniforms and books, our Sec 1 Orientation programme, and all other information to get your child off to a good start in Queensway when school begins on **Tuesday, 2 January 2024.**
 
-Click  [here](https://drive.google.com/file/d/19wpBAmNEfDvuaorRvEEeojkoWinDGxoa/view) for the Information page. (Updated as of 10:20 am)
+Click  [here](https://drive.google.com/file/d/1cmNelghGfV72A8apYg7rwZOX76EJS3jY/view?usp=sharing) for the Information page. (Updated as at 20/12/2023, 04:00 pm)
 
 
 ### **e-Registration and Orientation matters**
-**<u>All</u>** incoming 2024 Secondary 1 students **<u>must</u>** register online via Parents Gateway (PG) on 21 Dec 2023. 
+All incoming 2024 Secondary 1 students are to register online via Parents Gateway (PG). 
 
 The **Sec 1 Orientation Programme** will be held from **2 – 5 January 2024**.           The Orientation Programme will provide students an opportunity to know the school and ease the transition from primary school to secondary school.
 

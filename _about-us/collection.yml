@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Announcements.md
-      - Principal's Message.md
       - Who We Are.md
       - School Achievements.md
       - Staff Achievements.md
