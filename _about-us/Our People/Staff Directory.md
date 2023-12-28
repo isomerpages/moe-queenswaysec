@@ -48,6 +48,7 @@ variant: markdown
 |  	| Mr Chow Jing Kang 	| [chow\_jing\_kang@moe.edu.sg](mailto:chow_jing_kang@moe.edu.sg) 	|
 |  	| Mr Jasbir Singh 	| [jasbir\_singh\_a@moe.edu.sg](mailto:jasbir_singh_a@moe.edu.sg) 	|
 |  	| Mr Ajaib Singh 	| [ajaib_singh_gurbachan_s@moe.edu.sg](mailto:ajaib_singh_gurbachan_s@moe.edu.sg) 	|
+|  	| Ms Megan Goh 	| [goh\_xin\_yi\_megan@moe.edu.sg](mailto:goh_xin_yi_megan@moe.edu.sg) 	|
 
 
 #### Mother Tongue Languages
