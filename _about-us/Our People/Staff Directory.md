@@ -48,6 +48,7 @@ variant: markdown
 |  	| Mr Chow Jing Kang 	| [chow\_jing\_kang@moe.edu.sg](mailto:chow_jing_kang@moe.edu.sg) 	|
 |  	| Mr Jasbir Singh 	| [jasbir\_singh\_a@moe.edu.sg](mailto:jasbir_singh_a@moe.edu.sg) 	|
 |  	| Mr Ajaib Singh 	| [ajaib_singh_gurbachan_s@moe.edu.sg](mailto:ajaib_singh_gurbachan_s@moe.edu.sg) 	|
+|  	| Ms Megan Goh 	| [goh\_xin\_yi\_megan@moe.edu.sg](mailto:goh_xin_yi_megan@moe.edu.sg) 	|
 
 
 #### Mother Tongue Languages
@@ -85,7 +86,7 @@ variant: markdown
 |   	| Ms Looi Tse Theng 	| [looi\_tse\_theng@moe.edu.sg](mailto:looi_tse_theng@moe.edu.sg) 	|
 |   	| Ms Brenda Lim  	| [lim\_jing\_qi\_brenda@moe.edu.sg](mailto:lim_jing_qi_brenda@moe.edu.sg) 	|
 |   	| Mr Jonathan Tom Ho  	| [ho\_hai\_long@moe.edu.sg](mailto:ho_hai_long@moe.edu.sg) 	|
-|   	| Mr Sim Zhi Wei  	| [sim\_zhii\_wei@moe.edu.sg](mailto:sim_zhi_wei@moe.edu.sg) 	|
+|   	| Mr Sim Zhi Wei  	| [sim\_zhi\_wei@moe.edu.sg](mailto:sim_zhi_wei@moe.edu.sg) 	|
 |   	| Mr Paul Lai  	| [paul_lai_chyi_shyan@moe.edu.sg](mailto:paul_lai_chyi_shyan@moe.edu.sg) 	|
 |  	| Ms Tharshini Karthigesan | [tharshini\_karthigesan@moe.edu.sg](mailto:tharshini_karthigesan@moe.edu.sg) |
 |   	|  	| 	|
