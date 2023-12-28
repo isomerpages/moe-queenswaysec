@@ -13,7 +13,7 @@ variant: markdown
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 1 Care 	| [Ms Stella Goh](mailto:stella_goh@moe.edu.sg)| 	|
+| 1 Care 	| [Ms Stella Goh](mailto:stella_goh@moe.edu.sg)| 	|[Ms Kim Chan](mailto:)
 | 1 Confidence 	| [Ms Melcia Leong](mailto:hui_lin_melcia_leong@moe.edu.sg)	| [Mdm Mardiana](mailto:mardiana_binti_mohd_ahzhar@schools.gov.sg) 	|
 | 1 Diligence 	| [Ms Jasvinder Kaur](mailto:jasvinder_kaur_pannu@moe.edu.sg) | [Mr Ernest Fok](mailto:fok_chee_wel@moe.edu.sg) |  
 | 1 Discipline 	| [Ms Chia Hui Jun](mailto:chia_hui_jun@moe.edu.sg) 	| [Ms Kim Chan](mailto:chan_xinhui_kim@moe.edu.sg)	|
