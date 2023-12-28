@@ -15,10 +15,10 @@ variant: markdown
 |---	|---	|---	|---	|
 | 1 Care 	| [Ms Stella Goh](mailto:stella_goh@moe.edu.sg)| 	|[Ms Kim Chan](mailto:)
 | 1 Confidence 	| [Ms Melcia Leong](mailto:hui_lin_melcia_leong@moe.edu.sg)	|  	|
-| 1 Diligence 	| [Ms Chia Hui Jun](mailto:chia_hui_jun@moe.edu.sg) |  [Mdm Toh Siew Lan(Sem 1)](mailto:toh_siew_lan@moe.edu.sg)[Mr Ernest Fok](mailto:fok_chee_wel@moe.edu.sg) |  [Ms Arwinder](mailto:@moe.edu.sg) |
+| 1 Diligence 	| [Ms Chia Hui Jun](mailto:chia_hui_jun@moe.edu.sg) |  [Mdm Toh Siew Lan(Sem 1)](mailto:toh_siew_lan@moe.edu.sg) |  [Ms Arwinder](mailto:@moe.edu.sg) |
 | 1 Discipline 	|[Mr Aaron Ong](mailto:ong_meng_yeow_aaron@moe.edu.sg)  	| [Mdm Mardiana](mailto:mardiana_binti_mohd_ahzhar@schools.gov.sg) 	|
 | 1 Excellence 	|[Mr Chow Jing Kang](mailto:Chow_Jing_Kang@moe.edu.sg) | [Mdm Karpagam](mailto:ulaganathan_karpagam@moe.edu.sg)|
-| 1 Respect 	| [Ms Jasvinder Kaur](mailto:jasvinder_kaur_pannu@moe.edu.sg) [Mr Aaron Ong](mailto:ong_meng_yeow_aaron@moe.edu.sg) 	|  [Ms Yang Yi](mailto:Yang_Yi@moe.edu.sg)	| 
+| 1 Respect 	| [Ms Jasvinder Kaur](mailto:jasvinder_kaur_pannu@moe.edu.sg) |  [Ms Yang Yi](mailto:Yang_Yi@moe.edu.sg)	| 
 | 1 Responsibility 	| [Ms Ethel Choy](mailto:choy_hui_zhen_ethel@moe.edu.sg) | [Mr Jimmy Ong](mailto:ong_meng_guan_jimmy@moe.edu.sg)	|
 
 #### SECONDARY 2 CLASS MENTORS
@@ -43,7 +43,7 @@ variant: markdown
 
 | Class 	|  	|  	|  	|
 |---	|---	|---	|---	|
-| 301 	| [Mrs Joanne Chan ](mailto:jia_en_joanne_loo@moe.edu.sg)		|  	|  	|
+| 301 	| [Mrs Joanne Chan ](mailto:jia_en_joanne_loo@moe.edu.sg)		| [Mr Ernest Fok(Sem 1)](mailto:fok_chee_wel@moe.edu.sg) 	|  	|
 | 302 	| [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg)	| [Mr Sim Zhi Wei](mailto:sim_zhi_wei@moe.edu.sg) 	|  	|
 | 303 	|[ Ms Veronica How ](mailto:how_xin_yi_veronica@moe.edu.sg)	| 	|  	|
 | 304 	|[ Mr Alvin Leong](mailto:leong_wei_jie_alvin@moe.edu.sg)	| [Ms Zhang Yi ](mailto:zhang_yi_a@moe.edu.sg)	|
