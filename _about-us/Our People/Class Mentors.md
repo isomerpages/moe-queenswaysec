@@ -46,7 +46,7 @@ variant: markdown
 | 301 	| [Mrs Joanne Chan ](mailto:jia_en_joanne_loo@moe.edu.sg)		| [Mr Ernest Fok(Sem 1)](mailto:fok_chee_wel@moe.edu.sg) 	|  	|
 | 302 	| [Ms Frieden Ng](mailto:ng_chih_qing@moe.edu.sg)	| [Mr Sim Zhi Wei](mailto:sim_zhi_wei@moe.edu.sg) 	|  	|
 | 303 	|[ Ms Veronica How ](mailto:how_xin_yi_veronica@moe.edu.sg)	| [Ms Zhang Yi ](mailto:zhang_yi_a@moe.edu.sg)		|  	|
-| 304 	|[ Mr Alvin Leong](mailto:leong_wei_jie_alvin@moe.edu.sg)	|[ Ms Tan Yen Nee](mailto:tan_yen_nee@moe.edu.sg)		| [ Ms Shumin (Sem 2)](mailto:@moe.edu.sg)		|
+| 304 	|[ Mr Alvin Leong](mailto:leong_wei_jie_alvin@moe.edu.sg)	|[ Ms Tan Yen Nee (Sem 1)](mailto:tan_yen_nee@moe.edu.sg)		| [ Ms Shumin (Sem 2)](mailto:@moe.edu.sg)		|
 | 311 	| [Ms Low Xin Yee](mailto:low_xin_yee@moe.edu.sg)	| [Mr Jasbir Singh](mailto:jasbir_singh_a@moe.edu.sg) 	|  	|
 | 312 	| [Ms Megan Goh](mailto:goh_xin_yi_megan@moe.edu.sg) 	|[ Mr Umar Abdul Hamid](mailto:umar_abdul_hamid@moe.edu.sg)
 | 313 	| [Mr Chua Kee Eng ](mailto:chua_kee_eng@moe.edu.sg)	| [Ms Luo Hailun](mailto:luo_hailun@moe.edu.sg)|	|
