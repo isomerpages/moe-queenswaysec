@@ -59,10 +59,10 @@ variant: markdown
 | Class 	|  	|  	|  	|
 |---:	|---	|---	|---	|
 | 401 	| [Ms Shirley Tay](mailto:Shirley_Tay@moe.edu.sg)	| [Ms Kala Devi](mailto:kala_devi_santha_kumar@moe.edu.sg) 	|  	|
-| 402 	|  [Ms Lim Xin Ying](mailto:lim_xin_ying_1@moe.edu.sg) 	| [Ms Sarah Pang ](mailto:Sarah_PANG_PEI_WEN@moe.edu.sg) 	|  	|
+| 402 	|  [Ms Lim Xin Ying](mailto:lim_xin_ying_1@moe.edu.sg) 	| [Ms Sarah Pang (Sem 1) ](mailto:Sarah_PANG_PEI_WEN@moe.edu.sg) 	|  	|
 | 403 	| [Ms Philynn Tan](mailto:tan_hong_bee_philynn@moe.edu.sg) 	| [Ms Dora Tay ](mailto:dora_tay_hui_xuan@moe.edu.sg)	|  	|
 | 404 	| [Mrs Cindy Tan](mailto:yew_siew_ping_cindy@moe.edu.sg)	| [Mr Gilbert Tan ](mailto:gilbert_tan_wei_beng@moe.edu.sg)	|  	|
-| 411 	| [Ms K Tharshini ](mailto:tharshini_karthigesan@moe.edu.sg)	| [Ms Audrey Chua](mailto:chua_sing_li_audrey@moe.edu.sg) 	|  	|
+| 411 	| [Ms K Tharshini ](mailto:tharshini_karthigesan@moe.edu.sg)	| [Ms Audrey Chua (Sem 1)](mailto:chua_sing_li_audrey@moe.edu.sg) 	|  	|
 | 412 	| [Ms Tan Qing](mailto:tan_qing@moe.edu.sg)	| [Mr Gerard Danker](mailto:gerard_danker@moe.edu.sg)	|  	|
 | 413 	| [Ms Murni ](mailto:murni_iryani_mohd_hanafi@moe.edu.sg)	| [Mr Tom Ho ](mailto:ho_hai_long@moe.edu.sg)	| 
 | 511 	| [Mr Tham Yu Hsuan](mailto:tham_yu_hsuan@moe.edu.sg)	|  	|  	|
