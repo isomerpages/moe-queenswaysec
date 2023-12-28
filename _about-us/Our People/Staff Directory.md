@@ -85,7 +85,7 @@ variant: markdown
 |   	| Ms Looi Tse Theng 	| [looi\_tse\_theng@moe.edu.sg](mailto:looi_tse_theng@moe.edu.sg) 	|
 |   	| Ms Brenda Lim  	| [lim\_jing\_qi\_brenda@moe.edu.sg](mailto:lim_jing_qi_brenda@moe.edu.sg) 	|
 |   	| Mr Jonathan Tom Ho  	| [ho\_hai\_long@moe.edu.sg](mailto:ho_hai_long@moe.edu.sg) 	|
-|   	| Mr Sim Zhi Wei  	| [sim\_zhii\_wei@moe.edu.sg](mailto:sim_zhi_wei@moe.edu.sg) 	|
+|   	| Mr Sim Zhi Wei  	| [sim\_zhi\_wei@moe.edu.sg](mailto:sim_zhi_wei@moe.edu.sg) 	|
 |   	| Mr Paul Lai  	| [paul_lai_chyi_shyan@moe.edu.sg](mailto:paul_lai_chyi_shyan@moe.edu.sg) 	|
 |  	| Ms Tharshini Karthigesan | [tharshini\_karthigesan@moe.edu.sg](mailto:tharshini_karthigesan@moe.edu.sg) |
 |   	|  	| 	|
