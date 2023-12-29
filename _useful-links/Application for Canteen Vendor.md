@@ -10,7 +10,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Noodles/Thai Food (Halal/Non-Halal)     | 31 Dec 2023     |      |
+|      |      |      |
 
 
 
