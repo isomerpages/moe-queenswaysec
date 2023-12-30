@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Announcements
 
-*  [Start of the School Year for 2024](/files/Start_of_the_school_year_2024_30_Dec_2023__final_.pdf)
+* [Start of the School Year for 2024](/files/Start_of_the_school_year_2024_30_Dec_2023_final.pdf)
 *  [End of Term - Principal's Farewell Letter](/files/Principal's%20Letters/20231027%20-%20end%20of%20term%20principal%20farewell%20letter.pdf)
 *  [2023 10 12 - Principal's Letter for End of Term](/files/Principal's%20Letters/20231012%20-%20end%20of%20term_change%20of%20principal,%20exams%20and%20post%20exam%20matters.pdf)
 *  [2023 09 26 - Principal's Letter Regarding EOY Exams and Awards](/files/Principal's%20Letters/20230926%20-%20eoy%20exams%20and%20awards.pdf)
