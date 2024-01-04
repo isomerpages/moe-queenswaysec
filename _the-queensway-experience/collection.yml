@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - PDLP/.keep
-      - PDLP/Information for Students.md
       - PDLP/Overview.md
       - PDLP/Resources for Parents.md
       - PDLP/Info on DMA.md
       - PDLP/Videos on PDLP.md
       - PDLP/Parent Guide on DMA.md
+      - PDLP/Information for Students.md
       - PDLP/Blended Learning.md
       - Academic Departments/.keep
       - Academic Departments/English Language and Literature.md
