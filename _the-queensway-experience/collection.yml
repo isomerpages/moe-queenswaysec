@@ -2,11 +2,11 @@ collections:
   the-queensway-experience:
     output: true
     order:
-      - PDLP/Information for Students.md
       - PDLP/.keep
+      - PDLP/Information for Students.md
       - PDLP/Overview.md
-      - PDLP/Info on DMA.md
       - PDLP/Resources for Parents.md
+      - PDLP/Info on DMA.md
       - PDLP/Videos on PDLP.md
       - PDLP/Parent Guide on DMA.md
       - PDLP/Blended Learning.md
