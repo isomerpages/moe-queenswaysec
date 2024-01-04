@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - PDLP/.keep
-      - PDLP/Personal Device Learning Programme.md
+      - PDLP/Overview.md
       - PDLP/Blended Learning.md
       - Academic Departments/.keep
       - Academic Departments/English Language and Literature.md
