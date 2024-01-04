@@ -2,6 +2,7 @@ collections:
   the-queensway-experience:
     output: true
     order:
+      - PDLP/Information for Students.md
       - PDLP/.keep
       - PDLP/Overview.md
       - PDLP/Info on DMA.md
