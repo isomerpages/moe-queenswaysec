@@ -2,10 +2,10 @@
 title: HBL Calendar
 permalink: /student-info/hblcalendar/
 description: ""
+variant: markdown
 ---
 **Please see the following table for the Home-Based Learning dates this year.**
 
-![](/images/HBL%201%20updated.jpg)
+![HBL Sem 1 Dates 2024](/images/HBL_Sem_1_Dates_2024.jpg)
 
-![HBL Sem 2 Latest](/images/hbl%202%20updated%2014%20aug.jpg)
-
+![HBL Sem 2 Latest]()
