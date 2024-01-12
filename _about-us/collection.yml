@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Announcements/2023 Announcements.md
       - Announcements/.keep
       - Announcements.md
       - Who We Are.md
