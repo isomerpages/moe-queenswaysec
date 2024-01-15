@@ -2,6 +2,7 @@
 title: Who We Are
 permalink: /about-us/who-we-are/
 description: ""
+variant: tiptap
 ---
 ### Who We Are
 

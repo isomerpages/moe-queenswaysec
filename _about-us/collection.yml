@@ -2,7 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Announcements.md
+      - Announcements/2024 Announcements.md
+      - Announcements/2023 Announcements.md
+      - Announcements/.keep
       - Who We Are.md
       - School Achievements.md
       - Staff Achievements.md
