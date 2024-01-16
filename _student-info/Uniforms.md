@@ -2,7 +2,7 @@
 title: Uniforms
 permalink: /admissions-info/uniform/
 description: ""
+variant: markdown
 ---
-
-Our uniform vendor is Yang Tze Kiang Pte Ltd.<br>
-Please visit their website [here](https://www.yangtzekiang.com.sg/eshop/) for more information.
+Our uniform vendor is My Uniform Shop (ASIA) Pte Ltd.<br>
+Please visit their website [here](https://www.myuniformshop.com.sg/shop-now) for more information.
