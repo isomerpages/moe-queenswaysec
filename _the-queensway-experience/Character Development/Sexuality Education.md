@@ -70,6 +70,3 @@ https://drive.google.com/file/d/14ogtPTHxoskWetIuycQ4wStLHU1zT3Ux/view?usp=drive
 
   
 
-1\.  **[SEd Info for school] Upload doc file here**<br>
-2.  **[[SEdParents Opt-Out Form](https://drive.google.com/file/d/10MkedLktgm7nH1JMlOylu85CrMs_8dAz/view?usp=share_link)](/files/SEd-Annex%20A.pdf)** <br>
-3.  **[[eTeens Parents Opt-Out Form](https://drive.google.com/file/d/1jiSkoLfpikErq_HUL0n92lk6DNBBdjdH/view?usp=share_link)](/files/SEd-Annex%20B.pdf)**
