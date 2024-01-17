@@ -48,8 +48,8 @@ For information on QSS's Sexuality Programme, please click [here](        [https
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Letters to parents: Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents through the parent gateway and is also downloadable [here](
-https://drive.google.com/file/d/14ogtPTHxoskWetIuycQ4wStLHU1zT3Ux/view?usp=drive_link) . The completed form is to be submitted to the Class Mentors by 22/01/2024.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be sent to parents via the Parents Gateway. The completed form is to be submitted by 22/01/2024 (all levels). A hardcopy form for reference can be found [here](
+https://drive.google.com/file/d/14ogtPTHxoskWetIuycQ4wStLHU1zT3Ux/view?usp=drive_link) . 
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. &nbsp;This form will be distributed to parents through the parent gateway and is also downloadable [here]( https://drive.google.com/file/d/1BrnjJVABO8YlP_7Iia69QziLQ-ljrDdR/view?usp=drive_link). The completed form is to be submitted to the Class Mentors by 24/01/2024.
 
@@ -65,8 +65,3 @@ https://drive.google.com/file/d/14ogtPTHxoskWetIuycQ4wStLHU1zT3Ux/view?usp=drive
 <br>
 <br>
 <br>
-
-
-
-  
-
