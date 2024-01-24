@@ -1,0 +1,13 @@
+collections:
+  student-info:
+    output: true
+    order:
+      - School Calendar.md
+      - HBL Calendar.md
+      - School Rules and Regulations.md
+      - 2024 Secondary 1.md
+      - Financial Assistance Scheme.md
+      - Booklists.md
+      - Locker Rental.md
+      - Uniforms.md
+      - Direct School Admission.md

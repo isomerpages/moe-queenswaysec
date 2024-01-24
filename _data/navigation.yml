@@ -1,0 +1,75 @@
+logo: /images/Logo - Colour Updated.png
+links:
+  - title: About Us
+    url: /about-us/who-we-are/
+    sublinks:
+      - title: Announcements
+        url: /announcements/
+      - title: Who We Are
+        url: /about-us/who-we-are/
+      - title: School Achievements
+        url: /achievements
+      - title: Staff Achievements
+        url: /about-us/staffachievements
+      - title: Our People
+        url: /about-us/our-people/school-leadership-and-management/
+      - title: Yearbook Archive
+        url: /about-us/yearbook-archive/
+      - title: Contact Us
+        url: /about-us/contact-us/
+  - title: Current & Prospective students
+    url: /2024-secondary-1/
+    sublinks:
+      - title: Financial Assistance Scheme
+        url: /admissions-info/fas
+      - title: Booklists
+        url: /admissions-info/booklists
+      - title: 2024 Secondary 1
+        url: /2024-secondary-1/
+      - title: DSA
+        url: /dsa/
+      - title: School Prospectus
+        url: https://drive.google.com/file/d/1bzbZnx6RVnSlSR0MGG8RxwAYoJH4auAN/view
+      - title: Locker Rental
+        url: /admissions-info/lockers
+      - title: Uniforms
+        url: /admissions-info/uniform
+      - title: School Calendar
+        url: /student-info/schoolcalendar/
+      - title: HBL Calendar
+        url: /student-info/hblcalendar/
+  - title: The Queensway Experience
+    url: /academics/english-language-and-literature/
+    sublinks:
+      - title: Academic Departments
+        url: /academics/english-language-and-literature/
+      - title: PDLP
+        url: /the-queensway-experience/pdlp/overview/
+      - title: Co-Curricular Activities
+        url: /cca/sports/basketball-boys/
+      - title: Character Development
+        url: /programmes/Character-Education/cce-modules/
+      - title: Special Programmes
+        url: /programmes/applied-learning-programme/
+  - title: Life Beyond Queensway
+    url: /life-beyond-Queensway/2022qssallrounders/
+    sublinks:
+      - title: Alumni Voices
+        url: /life-beyond-Queensway/alumnivoices/
+      - title: Alumni Achievements
+        url: /life-beyond-Queensway/2022qssallrounders/
+  - title: Useful Links
+    url: /useful-links/applicationforcanteenvendor/
+    sublinks:
+      - title: Student Learning Space
+        url: https://vle.learning.moe.edu.sg
+      - title: SLS Info-Site
+        url: https://docs.learning.moe.edu.sg/sls/index.html?fbclid=IwAR0SKOoXdHHcP6zd3sknxiJOPILcYkpU2nZYXZh7mcbr_cjV9Ub6NbKfd0M
+      - title: Parents' Gateway
+        url: https://pg.moe.edu.sg
+      - title: Canteen Vendor Application
+        url: /useful-links/applicationforcanteenvendor/
+      - title: Open House 2023
+        url: https://sites.google.com/moe.edu.sg/qssopenhouse2023/
+      - title: GPA Insurance Claim
+        url: /useful-links/parents/insuranceclaim/

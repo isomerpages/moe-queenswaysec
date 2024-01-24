@@ -1,0 +1,27 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Sports/.keep
+      - Sports/Basketball (Boys).md
+      - Sports/Badminton (Girls').md
+      - Sports/Hockey (Mixed).md
+      - Sports/Football (Boys).md
+      - Sports/Football (Girls).md
+      - Sports/Volleyball (Mixed).md
+      - Performing Arts/.keep
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/ELDDS.md
+      - Performing Arts/Modern Dance.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Cadet Corps.md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Clubs and Societies/Community Service Club.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Media Club.md
+      - Clubs and Societies/Library.md
+      - Schedule.md

@@ -1,0 +1,6 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Character Education/Student Leadership Development.md
+      - Character Education/.keep
