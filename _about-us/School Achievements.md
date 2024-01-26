@@ -9,11 +9,11 @@ variant: markdown
 | **Sports** | **Uniformed Groups** |**Performing Arts**  |
 | -------- | -------- | -------- |
 | Football (Girls)<br>National 3<sup>rd</sup> (B Div)     | National Cadet Corps<br>Distinction  | Chinese Dance<br>Distinction | 
-| Football (Girls)<br>National 2<sup>nd</sup> (C Div)    | National Police Cadet Corps<br>Gold  | Malay Dance<br>Closed | 
-| Volleyball (Girls)<br>South Zone 1<sup>st</sup> (B Div)    | Girl Guides<br>Gold | ELDDS<br>Distinction | 
-| Volleyball (Girls)<br>South Zone 3<sup>rd</sup> (C Div)    | Boys Brigade<br>Silver | Band<br>Accomplishment | 
-| Football (Boys)<br> 2 Tier 4<sup>th</sup> (B Div)    |  | Choir<br>Accomplishment | 
-| Basketball (Boys)<br> South Zone 4<sup>th</sup> (C Div)    |  | Modern Dance<br>Accomplishment | 
+| Football (Girls)<br>National 2<sup>nd</sup> (C Div)    | National Police Cadet Corps<br>Gold  | ELDDS<br>Distinction | 
+| Volleyball (Girls)<br>South Zone 1<sup>st</sup> (B Div)    | Girl Guides<br>Gold | Band<br>Accomplishment  | 
+| Volleyball (Girls)<br>South Zone 3<sup>rd</sup> (C Div)    | Boys Brigade<br>Gold | Choir<br>Accomplishment | 
+| Football (Boys)<br> 2 Tier 4<sup>th</sup> (B Div)    |  |  Modern Dance<br>Accomplishment | 
+| Basketball (Boys)<br> South Zone 4<sup>th</sup> (C Div)    |  |  | 
 | Volleyball (Boys)<br> South Zone 2<sup>nd</sup> (B Div)    |  | | 
 | Hockey (Boys)<br> National 4<sup>th</sup> (C Div)    |  | | 
 
