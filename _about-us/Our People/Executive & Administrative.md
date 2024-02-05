@@ -25,8 +25,7 @@ variant: markdown
 | Operations Support Officer 	| Mdm. Suchila Devi 	|  	|
 | Operations Support Officer 	| Mdm. Johara Beevi d/o Meerasha 	|  	|
 | Operations Support Officer 	| Mr. Abdul Razak Bin Kamseer 	|  	|
-| Operations Support Officer 	| Mr. Chan Kwok Leong 	|  	|
-| 	|	|  	|
+| Operations Support Officer 	| Mr. Chan Kwok Leong 	| 
 | STEM Instructor (Laboratory)	| Mr. Andrew Cheong Swee Keong	| 
 | STEM Instructor (Laboratory)	| Mdm Toh Mui Hoong	|
 | STEM Instructor (Laboratory)	| Mdm. Jamie Tan Sock Bee	|
