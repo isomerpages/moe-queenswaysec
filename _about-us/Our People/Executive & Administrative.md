@@ -12,8 +12,8 @@ variant: markdown
 | Principal 	| Ms Audrey Chen Li Ying 	| audrey_chen@schools.gov.sg 	|
 | Vice-Principal (EO) 	| Mr. Teo Weihong 	| teo_weihong@schools.gov.sg 	|
 | Vice-Principal (EO) 	| Ms. Priya Rajan 	| v_priya_rajan@schools.gov.sg 	|
-| Operations Manager 	| Mr. Mohamad Majeed Marican	| Mohamad_Majeed_Marican@schools.gov.sg |
 | Admin  Manager 	| Ms. Ong Jingping Brenda 	| ong_jingping_brenda@schools.gov.sg 	|
+| Operations Manager 	| Mr. Mohamad Majeed Marican	| Mohamad_Majeed_Marican@schools.gov.sg |
 | Admin Executive 	| Ms. Mary-Ann Tay 	| tay_kim_hon_mary-ann@schools.gov.sg 	|
 | ICT Associate 	| Ms. Samantha Teng 	| samantha_alexa_teng@moe.edu.sg 	|
 | Corporate Support Officer 	| Ms Shalini Damaris Nagarajan 	| shalini_damaris_nagarajan@schools.gov.sg 	|
