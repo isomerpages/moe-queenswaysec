@@ -2,10 +2,14 @@
 title: Booklists
 permalink: /admissions-info/booklists/
 description: ""
+variant: markdown
 ---
 You can download the booklists for the various levels here.
 
 **Secondary 1**<br>
+[Secondary 1 G3](https://drive.google.com/file/d/1fWHNWBvB_AFqkkQASh_wYVUlioJudm2L/view?usp=drive_link)<br>
+[Secondary 1 G2](https://drive.google.com/file/d/1lPFFfqDmg6vV057EgjvpAq9_G64ASh9U/view?usp=drive_link)<br>
+[Secondary 1 G1](https://drive.google.com/file/d/1vOTzi6j69uz-kEaw6hhtng1O89c2uxyk/view?usp=drive_link)
 
 
 **Secondary 2**<br>
