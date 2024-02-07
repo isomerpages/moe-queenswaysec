@@ -9,8 +9,7 @@ variant: markdown
 
 |  	|  	|
 |---	|---	|
-| **TEACHER-IN-CHARGE:** 	| MR THAM YU HSUAN (IC)|
-|||
+| **TEACHER-IN-CHARGE:**| MR THAM YU HSUAN (IC)|
 
 
 |  	|  	|
