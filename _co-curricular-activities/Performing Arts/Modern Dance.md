@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /cca/Performing-Arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### Modern Dance
 
@@ -11,11 +12,7 @@ third_nav_title: Performing Arts
 | **TEACHER-IN-CHARGE:** 	| MRS. JOANNE CHAN (I/C)|
 | **INSTRUCTOR:** 	| MR ROBIN TEH 	|
 
-|  	|  	|
-|---	|---	|
-| **STUDENT LEADERS:**	|  	|
-|JUDITH KWA ZI YING|
-|NGYUEN NGOC THUY TRAM|
+
          
 #### Overview of the CCA:   
 
@@ -24,6 +21,13 @@ third_nav_title: Performing Arts
 Although relatively new as a CCA, our Modern Dance club has made their mark on Queensway through their exciting performances. Our dancers have a passion for the art form and are given numerous opportunities to showcase their skills in front of audiences at events such as Speech Day and the school Aesthetics Night. In 2023, Modern Dance is looking forward to making their debut at the Singapore Youth Festival!
 
 ![](/images/Modern%20Dance%201-Teachers%20Day%20Performance%202022%20%20-%20Joanne%20Loo.png)
+
+
+#### Accomplishment in 2023:
+
+Singapore Youth Festival Accomplishment
+
+
 
 #### Student Experiences:
 
