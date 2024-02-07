@@ -1,19 +1,179 @@
 ---
 title: 2022 QSS All Rounders
-permalink: /life-beyond-Queensway/2022qssallrounders/
+permalink: /alumni-achievements/permalink/
+variant: tiptap
 description: ""
 ---
-
-| ![](/images/2022%20QSS%20All%20Rounders/aiden.jpg) | ![](/images/2022%20QSS%20All%20Rounders/hannah.jpg) | 
-| -------- | -------- | 
-| ![](/images/2022%20QSS%20All%20Rounders/javier.jpg)    | ![](/images/2022%20QSS%20All%20Rounders/justin.jpg)     |
-| -------- | -------- | 
-| ![](/images/2022%20QSS%20All%20Rounders/lijade.jpg)    | ![](/images/2022%20QSS%20All%20Rounders/muthu.jpg)     |
-| -------- | -------- | 
-| ![](/images/2022%20QSS%20All%20Rounders/naomi.jpg)    | ![](/images/2022%20QSS%20All%20Rounders/shangheng.jpg)     |
-| -------- | -------- | 
-| ![](/images/2022%20QSS%20All%20Rounders/shannen.jpg)    | ![](/images/2022%20QSS%20All%20Rounders/shien.jpg)     |
-| -------- | -------- | 
-| ![](/images/2022%20QSS%20All%20Rounders/tiara.jpg)    | ![](/images/2022%20QSS%20All%20Rounders/xuanen.jpg)     |
-| -------- | -------- | 
-| ![](/images/2022%20QSS%20All%20Rounders/yizhe.jpg)    | ![](/images/2022%20QSS%20All%20Rounders/zhiquan.jpg)     |
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_24.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_23.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_22.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_21.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_20.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_19.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_18.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_17.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_16.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_15.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_14.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_13.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_12.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_11.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_09.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_08.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_07.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_06.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_05.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_04.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_03.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_02.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2022/ABC_Page_01.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
