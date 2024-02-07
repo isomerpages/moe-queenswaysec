@@ -3,25 +3,20 @@ title: Concert Band
 permalink: /cca/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### Concert Band
 
 |  	|  	|
 |---	|---	|
-| **TEACHER-IN-CHARGE:** 	|  MS. CHIA HUI JUN (I/C)
+| **TEACHER-IN-CHARGE:** 	| &nbsp;MS. CHIA HUI JUN (I/C)
 
 |  	|  	|
 |---	|---	|
 | **INSTRUCTORS** 	| MR EDMUND CHANG <br> MRS YEA	|
 
-| STUDENT LEADERS 	|  	|
-|---	|---	|
-|CHLOE CHONG QI WEI|
-| ETHAN CHAN|
-|FANG SZE EN	|
-| RASHMIKA D/O ANBARASAN	|
 
-#### Overview of the CCA:   
+#### Overview of the CCA:&nbsp;  
  
 Queensway Secondary School Concert Band aims to cultivate students to develop a passion for music-making and to instill them a sense of responsibility, living up to 21st Century Competencies and values of team-work and leadership.
 
@@ -32,8 +27,10 @@ To keep the band members actively involved in honing their skills and bringing t
 ![](/images/Band%202.jpg)
 
 
-#### Achievements of the CCA:
-CERTIFICATE OF ACCOMPLISHMENT IN SYF (2021)
+#### Achievement in 2023:
+
+CERTIFICATE OF ACCOMPLISHMENT IN SYF 
+
 
 #### Student Experiences:
 
