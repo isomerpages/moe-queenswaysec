@@ -24,6 +24,6 @@ Our boys undergo rigorous training to develop their skills and talent for the ga
 
 <img src="https://drive.google.com/uc?export=view&amp;id=1JHYw5IK9LOXyyarWVkPoQlv82cW2Fvri">
 
-#### Achievements of the CCA:
+#### Achievement in 2023:
 
 4th (2 tier)
