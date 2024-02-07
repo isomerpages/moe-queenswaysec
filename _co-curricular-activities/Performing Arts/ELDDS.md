@@ -3,6 +3,7 @@ title: ELDDS
 permalink: /cca/Performing-Arts/ELDDS/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### Drama
 
@@ -14,9 +15,7 @@ third_nav_title: Performing Arts
 |---	|---	|
 | **INSTRUCTORS:** 	| MS CHERMAINE<br>MS MOLI 	|
 
-| STUDENT LEADERS 	|  	|
-|---	|---	|
-| **PRESIDENT:** 	| &nbsp;&nbsp;ALICIA YIP  (411)	|
+
 
 
 #### Overview of the CCA:
@@ -39,9 +38,7 @@ The Club also provides exposure to our budding actors, scriptwriters, directors 
 <img src="https://drive.google.com/uc?export=view&amp;id=1dcwHuBGYvSw29rasxzZ8a8W0mlcN-xKO">
 
 
-#### Achievements of the CCA:
 
-**Singapore Youth Festival 2021:**&nbsp;Arts Presentation - Certificate of Accomplishment
   
 
 #### Student Experiences:
