@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /cca/Uniformed-Groups/national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### National Police Cadet Corps
 
@@ -12,18 +13,20 @@ third_nav_title: Uniformed Groups
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **STUDENT LEADERS** 	|  	|
-| **OVERALL IC:** 	|MOHAMED SIRAJUDEEN AMIR MUKHTAR 401) 	|
-| **TRAINING AND COMPETITION IC:** 	|           REON ONG XIANG YONG (401)<br>SIN MING DE XAVIER (402) 	|
-| **ADMINISTRATIVE IC:** 	| AUSTIN CHAN JIE XIAN (403)<br>TOH YONG KIT (404) 	|
-| **LOGISTICS IC:** 	| CODY LIU FENG RUI (401)<br>ERIC TAY JIAJUN (404) 	|
-| **PROJECTS AND WELFARE IC:** 	| T-SNEHA (402)<br>BIELZA ANDREI NICOLAS (412) 	|
 
-In NPCC, we believe in developing all our cadets holistically. Our cadets will be given the opportunity to conduct training and activities under the supervision of our Teacher Officers to develop their leadership and communication skills. Cadets will be taught the basic drills and fundamental police knowledge. 
+
+In NPCC, we believe in developing all our cadets holistically. Our cadets will be given the opportunity to conduct training and activities under the supervision of our Teacher Officers to develop their leadership and communication skills. Cadets will be taught the basic drills and fundamental police knowledge.&nbsp;
 
 ![](/images/NPCC%202-Sec%204%20parade%203.jpeg)
 
 Queensway Secondary School NPCC Unit consists of more than 80 cadets, led by 4 teacher-officers, with the mission of developing cadets into caring and responsible citizens. Working closely with NPCC HQ, the following training and activities were conducted for our cadets.
+
+
+#### Accomplishment in 2023: 
+
+Gold Award
+
+
 
 ##### Outdoor Training:
 
@@ -31,12 +34,12 @@ Queensway Secondary School NPCC Unit consists of more than 80 cadets, led by 4 t
     
 *   Parades – National Police Annual Parade, National Day Parade, Speech Day Parade, Muster Parade
     
-*   Online Area 14 Games Day – NPCC cadets from seven different schools gathered to participate in friendly games.  
+*   Online Area 14 Games Day – NPCC cadets from seven different schools gathered to participate in friendly games.&nbsp;&nbsp;
     
 *   Inter unit e-Crime Scene Investigation Competition
     
 
-##### Indoor Training: 
+##### Indoor Training:&nbsp;
 
 *   Rifle/Revolver Shooting Practice and Competition
     
