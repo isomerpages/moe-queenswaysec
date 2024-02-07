@@ -18,16 +18,6 @@ variant: markdown
 | **COACH:**| MR LIM KWEE CHAI 	|
 
 
-| STUDENT LEADERS 	|  	|
-|---	|---	|
-| **'B' DIVISION BOYS' CAPTAIN:** 	| &nbsp; CHAN KEI YUEN, CHAD (404)|
-| **'B' DIVISION BOYS' VICE-CAPTAIN:** 	|         LUKE CHONG YONG EN (411)	| 
-
-| 	|  	|
-|---	|---	|
-| **'C' DIVISION BOYS' CAPTAIN:** 	| &nbsp;DARREN LIM CHEE HAO|
-| **'C' DIVISION BOYS' VICE-CAPTAIN:** 	| MIKO RAPHAEL RAHARDJO 	| 
-
 #### Overview of the CCA:&nbsp;  
 We believe in working hard and training together as a team. A cooperative team spirit must be cultivated both on and off the court. We also believe in developing resilience, an essential 21st Century Competency. At the end of their QSS journey, we want to establish future-ready citizens who can contribute to society.
 
@@ -44,6 +34,14 @@ This year was an exciting year for the Basketball team as the National School Ga
 
 
 ![](/images/Basketball%202.jpg)
+
+
+#### Achievement in 2023
+
+4th Placing in Zonal C Boys
+
+
+
 
 #### Student Experiences:
 
