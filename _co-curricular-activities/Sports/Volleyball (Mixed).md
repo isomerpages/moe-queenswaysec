@@ -3,6 +3,7 @@ title: Volleyball (Mixed)
 permalink: /cca/Sports/volleyball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Volleyball
 
@@ -14,17 +15,14 @@ third_nav_title: Sports
 |---	|---	|
 | **INSTRUCTORS:** 	|NG CHEE HOE <br>TAN ZHI QIANG <br>ANG SWEE AUN|
 
-|  	|  	|
-|---	|---	|
-| **GIRLS' CAPTAIN:** 	|SWEE YU EN	(401)|
-| **BOYS' CAPTAIN:** 	| LEE SHENLEI (401)	|
 
 
-#### Overview of the CCA:   
+#### Overview of the CCA:&nbsp;  
 
 Our Volleyball teams demonstrate Excellence not just through their success on national platforms, but also through the sheer grit and resilience that Queensway seeks to cultivate in our players. Our players do not just learn Volleyball skills, but also about the importance of teamwork and about cultivating a strong and resilient mindset. It is this foundation that has led to our successes over the years. 
 
-##### Achievements
-B Division Boys - Runners Up, South Zone
-C Division Girls - Champions, South Zone
-B Division Girls - Champions, South Zone
+##### Achievements in 2023:
+1st in Zonal for B Girls<br>
+3rd in Zonal for C Girls 
+
+2nd in Zonal for B Boys

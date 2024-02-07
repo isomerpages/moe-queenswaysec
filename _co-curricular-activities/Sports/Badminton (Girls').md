@@ -3,23 +3,18 @@ title: Badminton (Girls')
 permalink: /cca/Sports/badminton-girls/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### Badminton (Girls)
 
 |  	|  	|
 |---	|---	|
 | **TEACHER-IN-CHARGE:** 	| MR CHIA YEW HWEE  (IC)|
-| **COACH:** 	|  MR JUDE LOH CHUN LI	|
-
-| STUDENT LEADERS 	|  	|
-|---	|---	|
-| **'B' DIVISION CAPTAIN:** 	|  TAN YU-QI (302)	|
-| **'B' DIVISION VICE-CAPTAIN:** 	| TAN YING YI MATILDA (301)<BR>YAU XIN TONG TRICIA (303)	|
-| **'C' DIVISION CAPTAIN:** 	|  JOSIEN NG (203)	|
-| **'C' DIVISION VICE-CAPTAIN:** 	|  SOH YI XUAN I (202)<BR>TAN SOH HWEE MEGHAN (204)	|
+| **COACH:** 	| &nbsp;MR JUDE LOH CHUN LI	|
 
 
-#### Overview of the CCA:   
+
+#### Overview of the CCA:&nbsp;  
 
 Badminton is a newer CCA offered in Queensway. Our girls go through a rigorous developmental training programme to learn fundamental skills in the sport to lay the foundation for further progression.
 
@@ -27,6 +22,8 @@ Badminton is a newer CCA offered in Queensway. Our girls go through a rigorous d
 
 In 2022, our team took part in the annual National School Games and demonstrated sportsmanship, perseverance and resilience. Whilst the team are still relative novices, they have shown a great attitude and we hope that in time to come, they will continue to show enthusiasm and a spirit of learning as they strive for even greater heights.
 ![](/images/Badminton%202-NSG%20Competition%20-%20Chia%20Yew%20Hwee.jpeg)
+
+
 
 #### Student Experiences:
   

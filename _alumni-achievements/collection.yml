@@ -2,4 +2,5 @@ collections:
   alumni-achievements:
     output: true
     order:
+      - 2023 QSS All Rounders.md
       - 2022 QSS All Rounders.md

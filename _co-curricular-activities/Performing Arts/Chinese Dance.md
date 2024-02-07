@@ -3,6 +3,7 @@ title: Chinese Dance
 permalink: /cca/Performing-Arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### Chinese Dance
 
@@ -14,31 +15,27 @@ third_nav_title: Performing Arts
 |---	|---	|
 | **INSTRUCTORS** 	| MR LI DUO WEI |
 
-| STUDENT LEADERS 	|  	|
-|---	|---	|
-| **PRESIDENT:** 	| CHEN XIN YI (401)	|
-| **VICE-PRESIDENT:** 	| ANG EN XI GRACE (412)	|
 
 
 #### Overview of the CCA:
 
 The motto of Queensway’s Chinese Dance is “To watch us dance, is to hear our hearts speak”. It reminds us to stay passionate and committed to dancing. In 2022, with the relaxation of Safe Management Measures, we have taken part in internal events like Chinese New Year, Speech Day and National Day concerts as well as Fiesta Mondial, our school’s Aesthetics Night. Our rigorous training sessions help our dancers strengthen their techniques and maintain their flexibility. Long-lasting friendships and values such as teamwork, perseverance and discipline are also emphasised. <br>
 
-<img src="https://drive.google.com/uc?export=view&id=11aVVkx9q1EIv5GvKaDz11wfT_wAKCRfm">
+<img src="https://drive.google.com/uc?export=view&amp;id=11aVVkx9q1EIv5GvKaDz11wfT_wAKCRfm">
 
 
-<img src="https://drive.google.com/uc?export=view&id=1i2_yGFCTznNAbZWZFhR3LlpkkGP5LaqJ"><br>
+<img src="https://drive.google.com/uc?export=view&amp;id=1i2_yGFCTznNAbZWZFhR3LlpkkGP5LaqJ"><br>
 
-<img src="https://drive.google.com/uc?export=view&id=1TrkpuouonFTvux7Afmcsas_K7kfqh-5c">
+<img src="https://drive.google.com/uc?export=view&amp;id=1TrkpuouonFTvux7Afmcsas_K7kfqh-5c">
 
-<img src="https://drive.google.com/uc?export=view&id=1xVCJjzBvgGj3mbx48kls3u9iLuldEOda"><br>
+<img src="https://drive.google.com/uc?export=view&amp;id=1xVCJjzBvgGj3mbx48kls3u9iLuldEOda"><br>
 
-<img src="https://drive.google.com/uc?export=view&id=1KYJrKND4SoQLytRcPTVvAOjL_4U95lhY">
+<img src="https://drive.google.com/uc?export=view&amp;id=1KYJrKND4SoQLytRcPTVvAOjL_4U95lhY">
 
 
-#### Achievements of the CCA:
+#### Achievement in 2023:
 
-Singapore Youth Festival (2021) Distinction
+Singapore Youth Festival Distinction
 
 #### Student Experiences:
 

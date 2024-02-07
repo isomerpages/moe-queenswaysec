@@ -15,12 +15,6 @@ variant: markdown
 |---	|---	|
 | **COACHES:** 	|ActiveSg Hockey Academy coaching team 	|
 
-| STUDENT LEADERS 	|  	|
-|---	|---	|
-| **SENIOR CAPTAIN:** 	| &nbsp;SAMUEL SHILOH NG (401)	|
-| **SENIOR VICE-CAPTAIN:** 	| NG YAN KAI (401)<br>ALARIC SEAH JUN HONG (403)|
-| **JUNIOR CAPTAIN:** 	|  CHUA YU CHEN (202)|
-| **JUNIOR VICE-CAPTAIN:** 	| SHUAN YEOH (213)<br>MOHAMED HAZIM (213)|
 
 #### Overview of the CCA:
 
@@ -33,6 +27,13 @@ The Hockey team is unique amongst Queensway CCA Groups as the teams form a combi
 <img src="https://drive.google.com/uc?export=view&amp;id=1eGQE9m16PvmVWR5ZYxvKNuC1w02VlHbK"><br>
 
 <img src="https://drive.google.com/uc?export=view&amp;id=1BYp7UoimQbQJ9U1TDghUGDR1Vf5FSIrx"><br>
+
+
+#### Achievement in 2023 
+
+4th in National C Boys
+
+
 
 
 #### Student Experiences:
