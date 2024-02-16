@@ -27,7 +27,7 @@ variant: markdown
 * Address: 2A Margaret Drive, Singapore 149295
 * Contact No: 6474 1421
 * Email: qss@moe.edu.sg
-* Contact Person: Mr Ismail / Ms Brenda Ong  
+* Contact Person: Mr Majeed / Ms Brenda Ong  
 
 **How to get there?**
 * Nearest MRT: Commonwealth MRT (EW20 line) – 10 minutes walking distance
