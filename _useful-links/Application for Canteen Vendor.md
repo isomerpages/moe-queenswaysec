@@ -7,10 +7,8 @@ variant: markdown
 #### School Canteen Advertisement
 
 
+![Canteen Vendor 1](/images/Type_of_Stall.jpg)
 
-| Type of Stall | Closing Date | Requirements |
-| -------- | -------- | -------- |
-|      |      |      |
 
 
 
