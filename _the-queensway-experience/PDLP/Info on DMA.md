@@ -45,13 +45,12 @@ third_nav_title: PDLP
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Summary of DMA Settings after School Hours&nbsp;</h4>
 <p><em>During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours. The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours.</em>
 </p>
 <p></p>
 <h4>What the different options mean</h4>
-<h5>Default</h5>
+<h4>Default</h4>
 <p>Default setting treats the Chromebook as a device which is used for learning
 only. The restrictions set in place are derived from the perspective of
 how a teacher would want the device to behave in order for the student
@@ -107,6 +106,6 @@ at home?</p>
 child/ward might face?</p>
 </li>
 </ul>
-<p>For Requests to changing of DMA Option, please email Mdm June Tan at
-<a href="mailto:June_tan_teck_yoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">June_tan_teck Yoong@schools.gov.sg</a>
+<p>For Requests to changing of DMA Option, please email Christina Chua
+<a href="mailto:June_tan_teck_yoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hui_hong@schools.gov.sg</a>
 </p>
