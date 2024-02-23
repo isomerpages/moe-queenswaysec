@@ -114,5 +114,5 @@ child/ward might face?</p>
 </li>
 </ul>
 <p>For Requests to changing of DMA Option, please email Christina Chua
-<a href="mailto:June_tan_teck_yoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hui_hong@schools.gov.sg</a>
+<a href="mailto:June_tan_teck_yoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hui_hong@moe.edu.sg</a>
 </p>
