@@ -2,8 +2,12 @@
 title: Yearbook Archive
 permalink: /about-us/yearbook-archive/
 description: ""
+variant: markdown
 ---
 ### Yearbook Archive
+
+2023 Yearbook
+<a href="https://online.fliphtml5.com/obrr/inuj/">  <img style="width:60%" src="/images/2023_yearbook.png">  </a> 
 
 2022 Yearbook
 <a href="https://online.fliphtml5.com/obrr/lfxc/">  <img style="width:60%" src="/images/yearbookcover2022.png">  </a> 
