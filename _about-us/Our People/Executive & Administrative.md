@@ -15,7 +15,7 @@ variant: markdown
 | Admin  Manager 	| Ms. Ong Jingping Brenda 	| ong_jingping_brenda@schools.gov.sg 	|
 | Operations Manager 	| Mr. Mohamad Majeed Marican	| Mohamad_Majeed_Marican@schools.gov.sg |
 | Admin Executive 	| Ms. Mary-Ann Tay 	| tay_kim_hon_mary-ann@schools.gov.sg 	|
-| ICT Associate 	| Ms. Samantha Teng 	| samantha_alexa_teng@moe.edu.sg 	|
+| ICT Manager 	| Ms. Christina Chua 	| chua_hui_hong@moe.edu.sg	|
 | Corporate Support Officer 	| Ms Shalini Damaris Nagarajan 	| shalini_damaris_nagarajan@schools.gov.sg 	|
 | Corporate Support Officer 	| Ms. Uma Mageswari N R 	| uma_mageswari_n_ramaiya@schools.gov.sg 	|
 | Corporate Support Officer 	| Mdm. Rahimah Bte Mohamed Idris 	| rahimah_mohamed_idris@schools.gov.sg 	|
