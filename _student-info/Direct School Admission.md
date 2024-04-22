@@ -4,7 +4,8 @@ permalink: /dsa/
 description: ""
 variant: markdown
 ---
-### Direct School Admission  
 
 <img src="/images/dsa1.png" style="width:80%">
 
+### Direct School Admission  
+![QSS Talent Areas](/images/Talent_Area.jpg)
