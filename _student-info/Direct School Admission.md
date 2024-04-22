@@ -8,5 +8,3 @@ variant: markdown
 
 <img src="/images/dsa1.png" style="width:80%">
 
-#### DSA Applications for 2024 have now closed.
-
