@@ -20,18 +20,10 @@ variant: markdown
 
 The Hockey team is unique amongst Queensway CCA Groups as the teams form a combined squad with Anglo-Chinese School (Barker Road) and Singapore Chinese Girls School. The combined ACSBR-QSS Boys' squad has grown from strength to strength despite being a relatively new team, coming in fourth at the 2023 National School Games' C Division competition. The Girls' team, meanwhile, has been training hard and the foundations have been laid for future success.
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1sMvx0Zz46BxRIRoH3f3r2kqOQTc5j1Oy"><br>
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1i21GPSxEniDjydJl0nddRaRXi8cVVMQE"><br>
+#### Achievement in 2024 
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1eGQE9m16PvmVWR5ZYxvKNuC1w02VlHbK"><br>
-
-<img src="https://drive.google.com/uc?export=view&amp;id=1BYp7UoimQbQJ9U1TDghUGDR1Vf5FSIrx"><br>
-
-
-#### Achievement in 2023 
-
-4th in National C Boys
+3rd in National B Boys
 
 
 
