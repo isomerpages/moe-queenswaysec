@@ -28,20 +28,13 @@ Our core values are:
 7\. &nbsp; Adventurous spirit<br>
 8\. &nbsp; Safety.
 
-
-<img src="https://drive.google.com/uc?export=view&amp;id=12zebs--DB3kKOX1BNFYe_iQKDLoR9vLM">
+![](https://lh4.googleusercontent.com/mv7mCisgzgtdLnGI9q3xV76eKVmqNQQQHGepZcqIJtuYNs18qjBbAK3_-XoRvwzxEb2ntj16L6GOgFtASDARyFIESWbR_Q3QAsAIgZ__oK6cdcSyQQma-XtHGeHXjJNy0w=w1280)
 
 Members are taught to display these core values during NCC’s trainings and camps. For instance, the core value of discipline must be adhered to during our weekly training sessions. The cadets develop resilience as they go through a series of physical conditioning exercises and strength training, such as pushups, planks, and sit-ups to prepare themselves for their yearly Physical Training test.
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1kwvmun96q6VomMj_VLNR7y_lZXYE2Dtm">
-
-
 In 2022, our Secondary 1 cadets participated in Camp F.O.R.G.E, where they enjoyed fun and exciting activities such as the Flying Fox, Abseiling and High Elements. In Camp S.T.E.E.L, the Secondary 2 cadets were exposed to hands-on weapons training, where they learned how to dismantle and assemble the SAR-21, as well as how to deal with gun jams. Another highlight of Camp S.T.E.E.L was the paintball 5-versus-5 match, where the Secondary 2 cadets learned the value of teamwork, as they had to work together closely in order to achieve victory. Last but not least, the Secondary 3 cadets stepped up to teach their juniors key skills involved in the Total Defence Bronze and Silver courses, as part of their Total Defence Gold Course requirements.
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1pPITsgtzwBm0bxwaTGtm7RyULwz5q6kp"><br>
-
-<img src="https://drive.google.com/uc?export=view&amp;id=1I4QLfevB7JLk439Kg4vlCeTFR5n7JYV4">
-
+![](https://lh4.googleusercontent.com/5d9n0AlbmFsqJFolvyIZoYj-1B3MOLbXQ0-2N2Nm6JEt9xH6_JPGXhczdeBkJlyOle-vptA6UqJcwIv-xQ4VUqj0tr_n21lGuWxsU3LUs78QehPz6HyScNxZ9_xBKg5-=w1280)
 
 
 #### Accomplishment in 2023:
