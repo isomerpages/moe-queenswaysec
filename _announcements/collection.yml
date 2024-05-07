@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements.md
       - GCE O Level Results Release.md
