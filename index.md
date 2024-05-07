@@ -10,6 +10,6 @@ sections:
       background: /images/school facade.jpg
       variant: center
       url: /dsa/
-      button: Direct School Admissions 2025
+      button: Direct School Admission 2025
       title: QUEENSWAY SECONDARY SCHOOL
 ---
