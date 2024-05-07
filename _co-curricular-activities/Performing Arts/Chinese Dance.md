@@ -20,17 +20,9 @@ variant: markdown
 #### Overview of the CCA:
 
 The motto of Queensway’s Chinese Dance is “To watch us dance, is to hear our hearts speak”. It reminds us to stay passionate and committed to dancing. In 2022, with the relaxation of Safe Management Measures, we have taken part in internal events like Chinese New Year, Speech Day and National Day concerts as well as Fiesta Mondial, our school’s Aesthetics Night. Our rigorous training sessions help our dancers strengthen their techniques and maintain their flexibility. Long-lasting friendships and values such as teamwork, perseverance and discipline are also emphasised. <br>
+![](https://lh6.googleusercontent.com/UJiYFq0nC8cwW4EmlSKEcM1C0C_kzW2KXI57XuZwrlW8YDHNJd-1DaiOquPaBv2TZvm91Enjg22h82xy5z6BC1UbJhbJ2JesVShNypC6RreViHOzVeig2yHVVeX019Po8A=w1280)
 
-<img src="https://drive.google.com/uc?export=view&amp;id=11aVVkx9q1EIv5GvKaDz11wfT_wAKCRfm">
-
-
-<img src="https://drive.google.com/uc?export=view&amp;id=1i2_yGFCTznNAbZWZFhR3LlpkkGP5LaqJ"><br>
-
-<img src="https://drive.google.com/uc?export=view&amp;id=1TrkpuouonFTvux7Afmcsas_K7kfqh-5c">
-
-<img src="https://drive.google.com/uc?export=view&amp;id=1xVCJjzBvgGj3mbx48kls3u9iLuldEOda"><br>
-
-<img src="https://drive.google.com/uc?export=view&amp;id=1KYJrKND4SoQLytRcPTVvAOjL_4U95lhY">
+![](https://lh3.googleusercontent.com/IpmnHxUiFTJoOsdzuClVDS6TsHCESd-Lr4pJDV2sdJKzDmnOwIY43RnVOeZbBjuqKvQMFHqqJIUeLV2fOtBbgIw=w1280)
 
 
 #### Achievement in 2023:
