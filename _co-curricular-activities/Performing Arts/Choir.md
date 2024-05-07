@@ -19,21 +19,13 @@ Queensway's Choir seeks to inculcate not just a passion for music in our student
 
 This year, the Choir put up a number of performances at the Inaugural Assembly, Chinese New Year concert, Speech Day concert, Aesthetics Night and National Day concert. We also went on a learning journey to watch a concert at The Art House. We performed at CHIJMES during the September holidays and will also be taking part in a choir exchange programme in November where our choir will be performing with several other choirs on the same stage.
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1FTWDzBv8wE-H9eGTWO5h8EoraPx_u91A"><br>
+![](https://lh4.googleusercontent.com/Lz3ZTfJFJ78GWxuWmR7rKGfqCG5yOx3BKiUpKMlXS6guYxSx5bjni4KmLwjdb0Y1Q08HA0d-sZ625QhGjRHR0qbzgtU84A8pc-flMF4fRjv67qyfjmHb0R2Ffhc065NjKw=w1280)
 
-
-<img src="https://drive.google.com/uc?export=view&amp;id=1ByIRi6LfMOIvnhmar3bKIK1vO1GR16K4">
-
+![](https://lh5.googleusercontent.com/j8OJZIHjxgnYXwezdBwOBeXCGjAVElDwrphfc3DPLjmCUXYCSou-g5XyFuVcZL9Mky5F2O8ru1EGzR-e-YGnXCE=w1280)
 
 #### Achievement in 2023:
 
 CERTIFICATE OF ACCOMPLISHMENT IN SYF 
-
-
-
-
-<img src="https://drive.google.com/uc?export=view&amp;id=17mzjCMBul6c3-dVbhceBXevFAJTczYeh">
-
 
 
 #### Student Experiences:
