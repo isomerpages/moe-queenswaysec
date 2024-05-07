@@ -17,18 +17,12 @@ variant: markdown
 
 Queensway Girl Guides’ mission is to enable girls and young women to develop their fullest potential as responsible citizens of the world. In line with our motto, “Be Prepared”, our activities are designed to nurture responsibility and adaptability in our Guides.&nbsp;
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1eODs3G3WcJQfnkfY_-i8QBHk-r0joLCu">
+![](https://lh4.googleusercontent.com/MMPnYaPabRdSmTN6PyRchA16zgt_l10akmxb8cwm79idYC3zFWAWWBGhpyrbxLl9JTnofnGRckxe6URR6EXPRZ0j2Ep357Mu0iKPF5juVy1nXp-iqSKeYSvmji7ywsXf2Q=w1280)
 
 In 2022, our Guides continued to hone their leadership skills, via taking the lead in Unit and Patrol activities relating to a range of current issues, such as food sustainability, environmental conservation and cyber-wellness. The highlight of the year was the Guides camp, which took place online. Centred around the theme of “Finding Our Way Together”,&nbsp; the camp aimed to help our Guides discover their strengths and forge stronger ties as a Unit. Over the course of the camp, our Guides learned about the importance of self-care, and showcased their creativity and talents in the areas of handicraft and gastronomy.&nbsp;<br>
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1p-n2WTSJZN5NCgXuc1zr8h6gihCvucP_"><br>
 
-<img src="https://drive.google.com/uc?export=view&amp;id=11qxY7Vwcs7BSt0hUeeKIgdnOCyWjKWJX"><br>
-
-<img src="https://drive.google.com/uc?export=view&amp;id=1mBnyXWys-H-mxkkN9KX3Fd7smKrmMMk8">
-
-
-
+![](https://lh3.googleusercontent.com/WAhuHj367UmcQR3Vu4pDoVTSNkx8mcBgD2YNe6ut2Q8KOa0W2bPNxjJA2RKkPa6LY4etaiNEAYqK5ACHwzdcyNLS2yxyIlobbPflaLHDHq4ARJnp0g5YIj1eI7nttRvLDw=w1280)
 
 
 #### Achievement in 2023:
