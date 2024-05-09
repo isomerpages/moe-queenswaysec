@@ -57,27 +57,45 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Our Football teams seek to embody the school's values of Excellence, Respect,
-Responsibility and Discipline.</p>
-<p>Both boys and girls undergo rigorous training to develop their skills
-and talent for the game. They are also given numerous opportunities to
-take part in competitions beyond the NSG and we are proud that a number
-of Queenswayans have been selected for national age-group squads.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh4.googleusercontent.com/oR0cEWn04uLDC3Dxk_kJENlxpj20qj3xPGt58EwtwfaFiit7AGKv2_9IIRyt0mHG0yr5KGTOEUQ38umdlhtcLOb8T3eLli4-aSrNp5p3O27awFz94h8okkl3YoLVRwZVSA=w1280">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/AYGRRC5QhskWTAcf4ZqNTYyI9FX-CDn9uctpQgD4dGSK1-4IjZYk65rhkVRxNBkVlboe3UmTbQWeOiX1SI9JSm8=w1280">
-</div>
-<h4>Achievement in 2023:</h4>
-<p>4th (2 tier)</p>
-<p>3rd in Nationals for B Girls</p>
-<p>2nd in Nationals for C Girls</p>
-<h4>Student Experiences:</h4>
-<p><em>“Football has taught me the value of determination. While there may be obstacles along the way, I should persevere through them, as these are opportunities for me to learn and grow.”&nbsp;<br>~Ariesa Zahran Binte Junaidi (404), Football ‘B’ Girls’ Vice-Captain</em>
+<h3>Our Objective:</h3>
+<h3>&nbsp;</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To provide students with opportunities to develop their passion and skills
+in an inclusive and supportive environment.</p>
+</li>
+<li>
+<p>To cultivate moral values such as respect, discipline, responsibility,
+resilience, and sportsmanship&nbsp;in the students.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h3><u>Achievements</u></h3>
+<p>&nbsp;</p>
+<p>⮚&nbsp;&nbsp;&nbsp;&nbsp; B Girls National School Games League 1 – 2nd
+(2024)</p>
+<p>⮚&nbsp;&nbsp;&nbsp;&nbsp; B Boys National School Games League 1 –Top 8
+in Singapore (2024)</p>
+<p>⮚&nbsp;&nbsp;&nbsp;&nbsp; C Girls National School Games –2nd (2023)</p>
+<p>⮚&nbsp;&nbsp;&nbsp;&nbsp; C Boys National School Games – Preliminary round
+(2023)</p>
+<p>&nbsp;</p>
+<p>Our football teams have not only achieved remarkable results but have
+also fostered a sense of camaraderie and school spirit that will stay with
+them for a lifetime. The dedication, perseverance, and sportsmanship displayed
+by both the boys and girls soccer teams serve as an inspiration to us all.</p>
+<p>&nbsp;</p>
+<h3><u>Quotes from our Student Athletes</u></h3>
+<p><em>Through football, I learnt the importance of giving your 100% and never giving up.</em>
 </p>
-<p><em>“I learnt that football is about teamwork and it is important to have lots of communication with one another, both on and off the field. This is so we can understand each other better and improve our performance as a team.”&nbsp;<br>~Irsalina Irwan (411)</em>
+<p><em>Wee Jian Hao Ryan Secondary 403</em>
 </p>
-<p><em>“In these 2 years, I have learnt lots of new skills from being part of the Girls’ Football team. I have learnt how to play and work better with teammates. I really enjoyed the many bonding games and activities organised for us - they were so much fun!”<br>~Crystal Wu (312)</em>
+<p><em>Football had been with me during my ups and downs, losses, and wins. It's not just a game; it's a journey of self-discovery and endless possibilities.</em>
+</p>
+<p><em>C Girls Division 2024, Lyra Ayaana Rippon 2 Confidence</em>
+</p>
+<p><em>Through football, I have learnt so many important values such as discipline, teamwork and resilience which have shaped me into the better person I am today. I have enjoyed my time here in football thanks to the teachers and coaches, and to my wonderful teammates who have made continuous efforts to push me beyond my limits.</em>
+</p>
+<p><em>B Girls Division 2024, Amani Sofi Binte Sisuandi Secondary 303</em>
 </p>
