@@ -58,12 +58,14 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/iI2R67v.jpeg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/qMxmAZQ.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="FB1" src="/images/fb1.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="FB2" src="/images/fb2.jpg">
 </div>
 <h3>Our Objective:&nbsp;</h3>
 <ul data-tight="true" class="tight">
@@ -86,15 +88,16 @@ in Singapore (2024)</p>
 <p>⮚&nbsp;&nbsp;&nbsp;&nbsp; C Girls National School Games –2nd (2023)</p>
 <p>⮚&nbsp;&nbsp;&nbsp;&nbsp; C Boys National School Games – Preliminary round
 (2023)</p>
-<p>&nbsp;</p>
-<p>Our football teams have not only achieved remarkable results but have
-also fostered a sense of camaraderie and school spirit that will stay with
-them for a lifetime. The dedication, perseverance, and sportsmanship displayed
-by both the boys and girls soccer teams serve as an inspiration to us all.</p>
+<p>&nbsp;Our football teams have not only achieved remarkable results but
+have also fostered a sense of camaraderie and school spirit that will stay
+with them for a lifetime. The dedication, perseverance, and sportsmanship
+displayed by both the boys and girls soccer teams serve as an inspiration
+to us all.</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/iNEd7Dm.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb3.jpg">
 </div>
+<p></p>
 <h3><u>Quotes from our Student Athletes</u></h3>
 <p><em>Through football, I learnt the importance of giving your 100% and never giving up.</em>
 </p>
