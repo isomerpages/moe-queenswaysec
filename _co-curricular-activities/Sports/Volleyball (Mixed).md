@@ -65,11 +65,14 @@ Queensway seeks to cultivate in our players. Our players do not just learn
 Volleyball skills, but also about the importance of teamwork and about
 cultivating a strong and resilient mindset. It is this foundation that
 has led to our successes over the years.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/WAOoGHn.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="VB1" src="/images/vb1.jpg">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/tVYXmx9.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="VB2" src="/images/vb2.jpg">
 </div>
 <h5>Achievements in 2023:</h5>
 <p>1st in Zonal for B Girls

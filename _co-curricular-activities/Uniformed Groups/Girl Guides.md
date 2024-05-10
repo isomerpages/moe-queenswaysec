@@ -49,11 +49,11 @@ handicraft and gastronomy.&nbsp;
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/ykxt4QB.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="GG1" src="/images/girlguides1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/zvmhjlg.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="GG2" src="/images/girlguides2.jpg">
 </div>
 <h4>Achievement in 2023:</h4>
 <p>Gold Award</p>
