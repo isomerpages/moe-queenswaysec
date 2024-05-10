@@ -67,13 +67,12 @@ future success.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh5.googleusercontent.com/eR4Cy1Ultt_OPvLaDMyXu22yFmNGgMEv5XuBcof2lU_gMYbD8ebZSlOUfW1kcJWu9incDPYxbrf9zokROvtnakR7TZBgmjPpXpIAoISbCUSgbeVOSKYq2bxqfQRMvXmyig=w1280">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/ZAhqnvM.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh5.googleusercontent.com/2fIB-MYALuE5YVqkYk4VfGdnbg6K-4Thmg-xuEl9Pxmgx4CZI0iGe0UQVxcZHstFVMZcZYRul5Z9eqyFDg8D1dz2KjTyZOYPRnU6aMZxdB3x-LfMR1bp28UK0JevoFN5Dw=w1280">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/bwI3XOt.jpeg">
 </div>
-<p></p>
 <h4>Achievement in 2023</h4>
 <p>4th in National C Boys</p>
 <h4>Student Experiences:</h4>
