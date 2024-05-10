@@ -65,14 +65,14 @@ at the 2023 National School Games' C Division competition. The Girls' team,
 meanwhile, has been training hard and the foundations have been laid for
 future success.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/ZAhqnvM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Hockey 1" src="/images/hock1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/bwI3XOt.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Hockey 2" src="/images/hock2.jpg">
 </div>
+<p></p>
 <h4>Achievement in 2023</h4>
 <p>4th in National C Boys</p>
 <h4>Student Experiences:</h4>
