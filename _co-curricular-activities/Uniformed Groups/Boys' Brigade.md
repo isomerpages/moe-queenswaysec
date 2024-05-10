@@ -72,12 +72,9 @@ with other schools.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BB1" src="/images/bb1.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/JaYROfl.jpeg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/j5HkHAs.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="BB2" src="/images/bb2.jpg">
 </div>
 <h4>Achievement in 2023:</h4>
 <p>Gold Award</p>
