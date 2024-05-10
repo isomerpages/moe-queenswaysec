@@ -68,6 +68,10 @@ cooking, to map-reading and navigation. Our boys were given the opportunity
 to apply the skills that they learned in a virtual&nbsp;adventure challenge
 with other schools.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BB1" src="/images/bb1.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/JaYROfl.jpeg">
 </div>
