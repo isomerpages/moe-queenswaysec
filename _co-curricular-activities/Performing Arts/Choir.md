@@ -53,13 +53,15 @@ concert at The Art House. We performed at CHIJMES during the September
 holidays and will also be taking part in a choir exchange programme in
 November where our choir will be performing with several other choirs on
 the same stage.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/3btgvlk.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="C1" src="/images/c1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/DkO6hqQ.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/c2.jpg">
 </div>
+<p></p>
 <h4>Achievement in 2023:</h4>
 <p>CERTIFICATE OF ACCOMPLISHMENT IN SYF</p>
 <h4>Student Experiences:</h4>
