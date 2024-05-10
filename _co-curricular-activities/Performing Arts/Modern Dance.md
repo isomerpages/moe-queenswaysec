@@ -16,12 +16,12 @@ variant: markdown
          
 #### Overview of the CCA:   
 
-![](/images/Mordern%20Dance%202-20220901_185450%20-%20Joanne%20Loo.jpg)
+![](https://i.imgur.com/M938MUH.jpeg)
 
 Although relatively new as a CCA, our Modern Dance club has made their mark on Queensway through their exciting performances. Our dancers have a passion for the art form and are given numerous opportunities to showcase their skills in front of audiences at events such as Speech Day and the school Aesthetics Night. In 2023, Modern Dance is looking forward to making their debut at the Singapore Youth Festival!
 
-![](/images/Modern%20Dance%201-Teachers%20Day%20Performance%202022%20%20-%20Joanne%20Loo.png)
 
+![](https://i.imgur.com/IXQzIhF.jpeg)
 
 #### Accomplishment in 2023:
 

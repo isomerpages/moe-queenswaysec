@@ -65,22 +65,23 @@ at the 2023 National School Games' C Division competition. The Girls' team,
 meanwhile, has been training hard and the foundations have been laid for
 future success.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh4.googleusercontent.com/A_D4yVJEc9FVs0R81x22fED-3MQhtcG0qNaWvRa1RroQ00jHghjVCTmwuo6JsS6A7KluGv17FT_5F3khUhvZO6DIKa0rXBLT7270aV2axQFINxR8vaRYSm0Dvi9QRGQMmQ=w1280">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/ZAhqnvM.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh4.googleusercontent.com/mpZt9e3TPnkGvX1qsKpNr9rRDgAitPlIwch8My-2bMZ3kE4Ve3n1jAv8vmlkmhhJrhe2exG0BmBMyqJ5f5lq5FFTdm1niDAO_7nOzFQZczv63r-AIO2CRAaw1fRq28JIPg=w1280">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/bwI3XOt.jpeg">
 </div>
 <h4>Achievement in 2023</h4>
 <p>4th in National C Boys</p>
 <h4>Student Experiences:</h4>
 <p><em>“I shared many wonderful experiences with my teammates and friends but most importantly we all worked hard to become skillful hockey players. We will not give up no matter what difficulties we face and we are working towards becoming the best role models and players for our juniors and the team! You're never a loser until you quit trying." <br>~Mohamed Hariz (411)</em>
 </p>
-<p><em>“My experience in hockey began in Cantonment Primary School where I won a medal in the National School Games. My interest and potential in the sport have since grown as I am developing more skills. I have also made many new friends.” <br>~Muhammad Zaeem (312)</em>
+<p><em>“My experience in hockey began in Cantonment Primary School where I won a medal in the National School Games. My interest and potential in the sport have since grown as I am developing more skills. I have also made many new friends.” <br>~Muhammad Zaeem (312)</em> 
 <br>
 </p>
-<p><em>“A year's experience in hockey for me was great and enjoyable. A bit similar to soccer but the difference is that we use a stick and it has many complicated rules. It requires much stamina and need consistent effort to keep up with the CCA training.” <br>~Shuan Yeoh (213)</em>
+<p><em>“A year's experience in hockey for me was great and enjoyable. A bit similar to soccer but the difference is that we use a stick and it has many complicated rules. It requires much stamina and need consistent effort to keep up with the CCA training.” <br>~Shuan Yeoh (213)</em> 
 <br>
 </p>
 <p><em>“I just learned how to play hockey when I came to QSS in 2022. We were trained by Mr Danker who is one of our schoolteachers. Every year there will be inter-school competitions and our teachers and coaches prepare us by organising trainings and a hockey camp for us. I have made many friends as QSS and ACS (Barker Road) are combined as a team. We performed well in the C Division NSG by winning our first third place position for ACSBR-QSS. I believe we will perform better in the years to come.”<br>~Mohd Hazim (213)</em>
