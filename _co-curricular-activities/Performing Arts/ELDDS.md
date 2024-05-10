@@ -69,17 +69,20 @@ school's Aesthetics Night.
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/wfYyIjW.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="Drama1" src="/images/drama1.jpg">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Drama2" src="/images/drama_2.jpg">
+</div>
+<p></p>
 <p>Our students also have the opportunity to serve the community. In 2022,
 after weeks of rehearsal, the Secondary 3 students put up a short performance
 at the library for children at Queenstown Library.</p>
 <p>The Club also provides exposure to our budding actors, scriptwriters,
 directors and producers by organising learning journeys and theatre trips.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/AMtS8gM.jpeg">
-</div>
 <h4>Accomplishment in 2023:</h4>
 <p>Singapore Youth Festival Distinction</p>
 <h4>Student Experiences:</h4>
