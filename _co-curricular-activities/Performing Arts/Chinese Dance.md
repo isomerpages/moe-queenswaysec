@@ -69,13 +69,13 @@ as teamwork, perseverance and discipline are also emphasised.
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/C2a6EKW.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cd1.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/K61Ui8U.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="CD2" src="/images/cd2.jpg">
 </div>
+<p></p>
 <h4>Achievement in 2023:</h4>
 <p>Singapore Youth Festival Distinction</p>
 <h4>Student Experiences:</h4>
