@@ -45,9 +45,13 @@ dedicated members.</p>
 <br>8. &nbsp; Safety.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/s9GA7jg.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="NCC1" src="/images/ncc1.jpg">
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NCC2" src="/images/ncc2.jpg">
+</div>
 <p>Members are taught to display these core values during NCC’s trainings
 and camps. For instance, the core value of discipline must be adhered to
 during our weekly training sessions. The cadets develop resilience as they
@@ -64,9 +68,6 @@ Camp S.T.E.E.L was the paintball 5-versus-5 match, where the Secondary
 in order to achieve victory. Last but not least, the Secondary 3 cadets
 stepped up to teach their juniors key skills involved in the Total Defence
 Bronze and Silver courses, as part of their Total Defence Gold Course requirements.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/TmMpgKH.jpeg">
-</div>
 <h4>Accomplishment in 2023:</h4>
 <p>Distinction Award</p>
 <h4>Student Experiences:&nbsp;</h4>
