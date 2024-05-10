@@ -69,15 +69,16 @@ school's Aesthetics Night.
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh4.googleusercontent.com/WWXvLC4ANx0otCbSuBUmpw4d5vMfuQpXng-pwAby_IgDGGPB2mLdnm1yYGXWey2nE5ADZHNdlSqH2IMhrOoCEpO4kCdk_RgCTkrYCnpbBoSxNNurT2VhnW_Tlk4zbj8_fQ=w1280">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/wfYyIjW.jpeg">
 </div>
 <p>Our students also have the opportunity to serve the community. In 2022,
 after weeks of rehearsal, the Secondary 3 students put up a short performance
 at the library for children at Queenstown Library.</p>
 <p>The Club also provides exposure to our budding actors, scriptwriters,
 directors and producers by organising learning journeys and theatre trips.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/Gxdpq61GnU6yyyewwkworRy8WGLFKKuP5ncNRLRFZ9fX4FrDxz381JezrvUCeu76gzS7NFpZ-uynsWjmYAlfbUc=w1280">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/AMtS8gM.jpeg">
 </div>
 <h4>Accomplishment in 2023:</h4>
 <p>Singapore Youth Festival Distinction</p>
