@@ -58,8 +58,14 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h3>Our Objective:</h3>
-<h3>&nbsp;</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/iI2R67v.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/qMxmAZQ.jpeg">
+</div>
+<h3>Our Objective:&nbsp;</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>To provide students with opportunities to develop their passion and skills
@@ -86,6 +92,9 @@ also fostered a sense of camaraderie and school spirit that will stay with
 them for a lifetime. The dedication, perseverance, and sportsmanship displayed
 by both the boys and girls soccer teams serve as an inspiration to us all.</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.imgur.com/iNEd7Dm.jpeg">
+</div>
 <h3><u>Quotes from our Student Athletes</u></h3>
 <p><em>Through football, I learnt the importance of giving your 100% and never giving up.</em>
 </p>
