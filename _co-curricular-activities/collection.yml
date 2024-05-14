@@ -2,7 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Sports/Basketball.md
+      - Sports/Basketball (Boys).md
       - Sports/.keep
       - Sports/Badminton (Girls').md
       - Sports/Hockey (Mixed).md
