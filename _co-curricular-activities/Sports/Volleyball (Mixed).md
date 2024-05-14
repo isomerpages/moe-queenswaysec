@@ -57,8 +57,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <h4>Overview of the CCA:&nbsp;</h4>
 <p>Our Volleyball teams demonstrate Excellence not just through their success
 on national platforms, but also through the sheer grit and resilience that
