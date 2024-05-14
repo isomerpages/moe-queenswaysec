@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS. LOW XIN YEE (IC)</p>
+<p>MDM ZHENG XIUMIN (IC)</p>
 </td>
 </tr>
 </tbody>
