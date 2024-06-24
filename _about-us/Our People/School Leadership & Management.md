@@ -12,7 +12,7 @@ variant: markdown
 | Principal 	| Ms. Audrey Chen Li Ying 	|
 | Vice-Principal (EO) 	| Mr. Teo Weihong 	|
 | Vice-Principal (EO) 	| Ms. Priya Rajan 	|
-| Year Head| Mr. Feroz Ali 	|
+| YH Upper Sec| Mr. Feroz Ali 	|
 | HOD, Humanities 	| Ms. Irene Wong Hwee Ling	|
 | HOD, Student Management 	| Ms. Jasmine Tay Ya Mei  	|
 | HOD, ICT 	| Mdm. June Tan Teck Yoong 	|
