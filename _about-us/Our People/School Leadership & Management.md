@@ -12,28 +12,32 @@ variant: markdown
 | Principal 	| Ms. Audrey Chen Li Ying 	|
 | Vice-Principal (EO) 	| Mr. Teo Weihong 	|
 | Vice-Principal (EO) 	| Ms. Priya Rajan 	|
-| School Staff Developer 	| Ms. Tan Yen Nee 	|
-| HOD, EL & Lit 	| Mr. Makoto Kawaguchi 	|
-| HOD, MTL  	| Mr. Teo Kian Wee 	|
-| HOD, Humanities 	| Ms. Irene Wong 	|
-| HOD, Maths 	| Mrs. Sheryl Soh  	|
-| HOD, Craft & Technology 	| Mr. Kevin Chong 	|
+| YH Upper Sec| Mr. Feroz Ali 	|
+| HOD, Humanities 	| Ms. Irene Wong Hwee Ling	|
+| HOD, Student Management 	| Ms. Jasmine Tay Ya Mei  	|
+| HOD, ICT 	| Mdm. June Tan Teck Yoong 	|
 | HOD, PE & CCA 	| Mr. Justin Lloyd Fernandez 	|
-| HOD, ICT 	| Mdm. June Tan  	|
+| HOD, Craft & Technology 	| Mr. Kevin Chong Kok Wai	|
+| HOD, EL & Lit 	| Mr. Makoto Kawaguchi 	|
+| HOD, Maths 	| Mrs. Sheryl Soh Kim Choo (Ms Sim) 	|
 | HOD, CCE 	| Ms. Tan Wei Yi  	|
-| HOD, Student Management 	| Ms. Jasmine Tay  	|
-| HOD, Science  	| Ms. Tong Ai Li  	|
-| Year Head (covering) 	| Ms. Teo Yong Chin 	|
-| Year Head| Mr. Feroz Ali 	|
-| Assistant Year Head 	| Ms. Chen Zhiyun 	|
-| Assistant Year Head 	| Mr. Yeo Choon Hwa 	|
-| Lead Teacher, English 	| Mdm. Jayletchimi d/o Ramasamy 	|
-| Lead Teacher, D&T 	| Mdm. Eileen Ang 	|
-| SH, Mathematics 	| Ms. Lily Choo  	|
-| SH, PE & Outdoor Education 	| Mr. Umar Abdul Hamid  	|
+| SSD	| Ms. Tan Yen Nee 	|
+| HOD, MTL  	| Mr. Teo Kian Wee 	|
+| SH, Geography 	| Mr. Alvin Leong Wei Jie 	|
+| AYH Upper Sec	| Miss. Chen Zhiyun 	|
 | SH, Student Well-being 	| Mr. Chua Kee Eng 	|
-| SH, Physics 	| Ms. Shirley Tay 	|
-| SH, Humanities 	| Mr. Santokh Singh  	|
-| SH, Geography 	| Mr. Alvin Leong 	|
-| SH, ML & TL 	| Ms. Iryantee Ja'afar 	|
-| SH, English & Literature 	| Mrs. Joanne Chan	|
+| Lead Teacher, D&T 	| Mdm. Eileen Ang Bee Kiow	|
+| ST, History	| Mr. Howard Tan Ching Hau 	|
+| SH, ML & TL 	| Mdm. Iryantee Ja'afar 	|
+| SH, English & Literature 	| Ms. Joanne Loo Jia En (Mrs Chan)	|
+| SH, Mathematics 	| Ms. Lily Choo Li Chin 	|
+| ST, CL	| Ms. Low Xin Yee 	|
+| SH, CCE (Covering)	| Ms. Luo Hailun (Mrs Ding) 	|
+| SH, ICT (Covering) 	| Miss. Philynn Tan Hong Bee 	|
+| SH, Hum	| Mr. Santokh Singh 	|
+| SH, Phy	| Miss. Shirley Tay Li Hui 	|
+| AYH Lower Sec	| Miss. Teo Yong Chin 	|
+| SH, PE & CCA, OE, Sec 1 DM	| Mr. Umar Abdul Hamid 	|
+| ST, Chem	| Miss. Veronica How Xin Yi 	|
+| AYH Lower Sec	| Mr. Yeo Choon Hwa 	|
+| SH, SLDC (Covering)	| Ms. Stella Goh	|
