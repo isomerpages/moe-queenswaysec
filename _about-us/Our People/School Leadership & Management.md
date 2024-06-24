@@ -21,28 +21,23 @@ variant: markdown
 | HOD, EL & Lit 	| Mr. Makoto Kawaguchi 	|
 | HOD, Maths 	| Mrs. Sheryl Soh Kim Choo (Ms Sim) 	|
 | HOD, CCE 	| Ms. Tan Wei Yi  	|
-| School Staff Developer 	| Ms. Tan Yen Nee 	|
+| SSD	| Ms. Tan Yen Nee 	|
 | HOD, MTL  	| Mr. Teo Kian Wee 	|
 | SH, Geography 	| Mr. Alvin Leong Wei Jie 	|
-| Assistant Year Head 	| Ms. Chen Zhiyun 	|
+| AYH Upper Sec	| Miss. Chen Zhiyun 	|
 | SH, Student Well-being 	| Mr. Chua Kee Eng 	|
 | Lead Teacher, D&T 	| Mdm. Eileen Ang Bee Kiow	|
 | ST, History	| Mr. Howard Tan Ching Hau 	|
 | SH, ML & TL 	| Mdm. Iryantee Ja'afar 	|
 | SH, English & Literature 	| Ms. Joanne Loo Jia En (Mrs Chan)	|
 | SH, Mathematics 	| Ms. Lily Choo Li Chin 	|
-| Year Head (covering) 	| Ms. Teo Yong Chin 	|
-
-| Assistant Year Head 	| Ms. Chen Zhiyun 	|
-| Assistant Year Head 	| Mr. Yeo Choon Hwa 	|
-| Lead Teacher, English 	| Mdm. Jayletchimi d/o Ramasamy 	|
-| Lead Teacher, D&T 	| Mdm. Eileen Ang 	|
-| SH, Mathematics 	| Ms. Lily Choo  	|
-| SH, PE & Outdoor Education 	| Mr. Umar Abdul Hamid  	|
-| SH, Student Well-being 	| Mr. Chua Kee Eng 	|
-| SH, Physics 	| Ms. Shirley Tay 	|
-| SH, Humanities 	| Mr. Santokh Singh  	|
-| SH, Geography 	| Mr. Alvin Leong 	|
-| SH, ML & TL 	| Ms. Iryantee Ja'afar 	|
-| SH, English & Literature 	| Mrs. Joanne Chan	|
+| ST, CL	| Ms. Low Xin Yee 	|
+| SH, CCE (Covering)	| Ms. Luo Hailun (Mrs Ding) 	|
+| SH, ICT (Covering) 	| Miss. Philynn Tan Hong Bee 	|
+| SH, Hum	| Mr. Santokh Singh 	|
+| SH, Phy	| Miss. Shirley Tay Li Hui 	|
+| AYH Lower Sec	| Miss. Teo Yong Chin 	|
+| SH, PE & CCA, OE, Sec 1 DM	| Mr. Umar Abdul Hamid 	|
+| ST, Chem	| Miss. Veronica How Xin Yi 	|
+| AYH Lower Sec	| Mr. Yeo Choon Hwa 	|
 | SH, SLDC (Covering)	| Ms. Stella Goh	|
