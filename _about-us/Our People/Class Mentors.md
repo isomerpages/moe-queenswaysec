@@ -178,7 +178,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:MUHAMMAD_SYAHRUL_SALLEH@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Muhd Syahrul Salleh </a>
+<p><a href="mailto:MUHAMMAD_SYAHRUL_SALLEH@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Muhd Syahrul Salleh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -316,7 +316,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:LIM_YEN_PING_JASMINE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Jasmine Lim </a>
+<p><a href="mailto:LIM_YEN_PING_JASMINE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Jasmine Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -364,7 +364,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yen_nee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Yen Nee</a>
+<p><a href="mailto:TENG_SHUMIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Teng Shumin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -470,7 +470,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Sarah_PANG_PEI_WEN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sarah Pang</a>
+<p><a href="mailto:LESTER_TAY_CHUN_HONG@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Lester Tay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -518,7 +518,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_sing_li_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Audrey Chua</a>
+<p><a href="mailto:CHONG_KOK_WAI_KEVIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Chong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
