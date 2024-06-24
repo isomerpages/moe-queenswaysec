@@ -28,6 +28,9 @@ variant: markdown
 | SH, Student Well-being 	| Mr. Chua Kee Eng 	|
 | Lead Teacher, D&T 	| Mdm. Eileen Ang Bee Kiow	|
 | ST, History	| Mr. Howard Tan Ching Hau 	|
+| SH, ML & TL 	| Mdm. Iryantee Ja'afar 	|
+| SH, English & Literature 	| Ms. Joanne Loo Jia En (Mrs Chan)	|
+| SH, Mathematics 	| Ms. Lily Choo Li Chin 	|
 | Year Head (covering) 	| Ms. Teo Yong Chin 	|
 
 | Assistant Year Head 	| Ms. Chen Zhiyun 	|
