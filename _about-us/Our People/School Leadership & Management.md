@@ -22,7 +22,6 @@ variant: markdown
 | HOD, ICT 	| Mdm. June Tan  	|
 | HOD, CCE 	| Ms. Tan Wei Yi  	|
 | HOD, Student Management 	| Ms. Jasmine Tay  	|
-| HOD, Science  	| Ms. Tong Ai Li  	|
 | Year Head (covering) 	| Ms. Teo Yong Chin 	|
 | Year Head| Mr. Feroz Ali 	|
 | Assistant Year Head 	| Ms. Chen Zhiyun 	|
