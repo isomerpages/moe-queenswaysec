@@ -12,18 +12,24 @@ variant: markdown
 | Principal 	| Ms. Audrey Chen Li Ying 	|
 | Vice-Principal (EO) 	| Mr. Teo Weihong 	|
 | Vice-Principal (EO) 	| Ms. Priya Rajan 	|
-| School Staff Developer 	| Ms. Tan Yen Nee 	|
-| HOD, EL & Lit 	| Mr. Makoto Kawaguchi 	|
-| HOD, MTL  	| Mr. Teo Kian Wee 	|
-| HOD, Humanities 	| Ms. Irene Wong 	|
-| HOD, Maths 	| Mrs. Sheryl Soh  	|
-| HOD, Craft & Technology 	| Mr. Kevin Chong 	|
-| HOD, PE & CCA 	| Mr. Justin Lloyd Fernandez 	|
-| HOD, ICT 	| Mdm. June Tan  	|
-| HOD, CCE 	| Ms. Tan Wei Yi  	|
-| HOD, Student Management 	| Ms. Jasmine Tay  	|
-| Year Head (covering) 	| Ms. Teo Yong Chin 	|
 | Year Head| Mr. Feroz Ali 	|
+| HOD, Humanities 	| Ms. Irene Wong Hwee Ling	|
+| HOD, Student Management 	| Ms. Jasmine Tay Ya Mei  	|
+| HOD, ICT 	| Mdm. June Tan Teck Yoong 	|
+| HOD, PE & CCA 	| Mr. Justin Lloyd Fernandez 	|
+| HOD, Craft & Technology 	| Mr. Kevin Chong Kok Wai	|
+| HOD, EL & Lit 	| Mr. Makoto Kawaguchi 	|
+| HOD, Maths 	| Mrs. Sheryl Soh Kim Choo (Ms Sim) 	|
+| HOD, CCE 	| Ms. Tan Wei Yi  	|
+| School Staff Developer 	| Ms. Tan Yen Nee 	|
+| HOD, MTL  	| Mr. Teo Kian Wee 	|
+| SH, Geography 	| Mr. Alvin Leong Wei Jie 	|
+| Assistant Year Head 	| Ms. Chen Zhiyun 	|
+| SH, Student Well-being 	| Mr. Chua Kee Eng 	|
+| Lead Teacher, D&T 	| Mdm. Eileen Ang Bee Kiow	|
+| ST, History	| Mr. Howard Tan Ching Hau 	|
+| Year Head (covering) 	| Ms. Teo Yong Chin 	|
+
 | Assistant Year Head 	| Ms. Chen Zhiyun 	|
 | Assistant Year Head 	| Mr. Yeo Choon Hwa 	|
 | Lead Teacher, English 	| Mdm. Jayletchimi d/o Ramasamy 	|
