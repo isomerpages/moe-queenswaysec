@@ -37,3 +37,4 @@ variant: markdown
 | SH, Geography 	| Mr. Alvin Leong 	|
 | SH, ML & TL 	| Ms. Iryantee Ja'afar 	|
 | SH, English & Literature 	| Mrs. Joanne Chan	|
+| SH, SLDC (Covering)	| Ms. Stella Goh	|
