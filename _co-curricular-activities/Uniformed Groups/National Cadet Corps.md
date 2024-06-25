@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS LOOI TSE THENG (CO)</p>
+<p>MR JONATHAN TOM HO (CO)</p>
 </td>
 </tr>
 </tbody>
