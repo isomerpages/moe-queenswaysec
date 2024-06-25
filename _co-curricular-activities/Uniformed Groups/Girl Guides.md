@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SARAH PANG (I/C)</p>
+<p>MS QUEK YU PIN (I/C)</p>
 </td>
 </tr>
 </tbody>
