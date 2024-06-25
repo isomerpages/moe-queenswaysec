@@ -3,22 +3,23 @@ title: Media Club
 permalink: /co-curricular/Clubs-and-Societies/media-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ### Media Club
 
 |  	|  	|
 |---	|---	|
-| **TEACHER-IN-CHARGE:** 	|  MR AARON ONG (I/C) 
+| **TEACHER-IN-CHARGE:** 	| &nbsp;MR AARON ONG (I/C) 
 
 
 | STUDENT LEADERS 	|  	|
 |---	|---	|
-| **PRESIDENT:** 	|   THUM WAI TAT RYAN (402)	|
+| **PRESIDENT:** 	| &nbsp;&nbsp;THUM WAI TAT RYAN (402)	|
 | **VICE-PRESIDENT:** 	| 	|
 
 #### Overview of the CCA:
 
-The Infocomm Technology (Media Production) Club is a relatively new CCA, having been formed from the merger of the old Infocomm and AVA Clubs. The Club aims to provide a fun and meaningful environment for students to develop and strengthen their technological insights, with a focus on digital media, game development, basic programming skills, and audio visual support for the school. Additionally, the club also cultivates leadership, entrepreneurship, and community service skills.   
+The Infocomm Technology (Media Production) Club is a relatively new CCA, having been formed from the merger of the old Infocomm and AVA Clubs. The Club aims to provide a fun and meaningful environment for students to develop and strengthen their technological insights, with a focus on digital media, game development, basic programming skills, and audio visual support for the school. Additionally, the club also cultivates leadership, entrepreneurship, and community service skills.&nbsp;  
 
 The student leaders conducted a variety of courses in Semester One for the junior club members. Among the courses conducted was an introduction to smartphone photography, covering all aspects of the photographic process from composition and lighting to editing and post-production. Club members also learned programming using various programming languages such as Arduino, HTML and CSS.
 
