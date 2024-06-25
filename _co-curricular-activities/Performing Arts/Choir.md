@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;MS. SURINDER KAUR (I/C)</p>
+<p>&nbsp;MS. MELCIA LEONG (I/C)</p>
 </td>
 </tr>
 <tr>
