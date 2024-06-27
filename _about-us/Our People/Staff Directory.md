@@ -273,6 +273,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Teng Shumin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teng_shumin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_shumin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Humanities</h3>
