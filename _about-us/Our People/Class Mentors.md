@@ -316,7 +316,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:LIM_YEN_PING_JASMINE@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Miss Jasmine Lim</a>
+<p><a href="mailto:lim_yen_ping_jasmine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Jasmine Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
