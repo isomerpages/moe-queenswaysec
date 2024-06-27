@@ -179,18 +179,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher, EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jayletchimi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jayletchimi_ramasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayletchimi_ramasamy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -210,18 +198,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_meng_yeow_aaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_meng_yeow_aaron@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Surinder Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:surinder_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">surinder_kaur@moe.edu.sg</a>
 </p>
 </td>
 </tr>
