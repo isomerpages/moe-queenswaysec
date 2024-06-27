@@ -125,7 +125,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Yong Hee Jonny</p>
+<p>Mr Ng Yong Hee Johnny</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_yong_hee_johnny_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yong_hee_johnny_a@moe.edu.sg</a>
