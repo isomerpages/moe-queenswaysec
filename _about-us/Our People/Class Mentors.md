@@ -470,7 +470,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:LESTER_TAY_CHUN_HONG@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Lester Tay</a>
+<p><a href="mailto:lester_tay_chun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lester Tay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
