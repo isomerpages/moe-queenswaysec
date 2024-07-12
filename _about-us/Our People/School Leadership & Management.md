@@ -40,4 +40,4 @@ variant: markdown
 | SH, PE & CCA, OE, Sec 1 DM	| Mr. Umar Abdul Hamid 	|
 | ST, Chem	| Miss. Veronica How Xin Yi 	|
 | AYH Lower Sec	| Mr. Yeo Choon Hwa 	|
-| SH, SLDC (Covering)	| Ms. Stella Goh	|
+| SH, Student Leadership (Covering)	| Ms. Stella Goh	|

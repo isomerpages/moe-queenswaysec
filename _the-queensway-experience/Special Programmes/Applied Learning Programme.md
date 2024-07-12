@@ -13,16 +13,10 @@ The Applied Learning Programme is a tiered series of hands-on modules that are c
 **1) Sustainability in Water (Tier 1&nbsp; - Sec 1)**&nbsp;
 <br>In the first tier of the ALP programme, all Secondary 1 students will learn about the various techniques of water treatment. They will also have the opportunity to harness energy from water and construct a sea perch, which they will use for navigation and water testing purposes.
 
-<img src="https://drive.google.com/uc?export=view&amp;id=197HTXX3FAm7sTBHIOT9JmWnHPR-5Y_eA">
-
-
 
 **2) Sustainability in Food (Tier 1 - Sec 2)**<br>
 In Secondary 2, apart from learning about the fundamentals of nutrition, students will learn about the latest technological advancements in food production, innovation and waste management, which Singapore can leverage upon to ensure food security.
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1-mmwL-i4-XLzviOceWHlhm2tF3oVUf_t">
-
-  
 **3) AI Programme (Tier 2)**&nbsp;<br> 
 This programme aims to equip our students with basic knowledge of the core principles behind artificial intelligence (AI). They will also learn about generative AI and use it to create artwork and code. Through a series of workshops that are highly hands-on in nature, students get to build their own AI-powered applications on microcontroller platforms.
 	
@@ -30,9 +24,6 @@ This programme aims to equip our students with basic knowledge of the core princ
 	
 **4) Science Fiesta**&nbsp;  
 The Science Fiesta is an annual affair that aims to make Science more accessible and engaging for our students, by demystifying the natural phenomena in everyday life. During this year’s Science Fiesta, the Lower Secondary students observed various Science experiments and demonstrations relating to the theme of Sustainability.  
-
-<img src="https://drive.google.com/uc?export=view&amp;id=1V4XLoIT_BxdT4h8BFmG9VI6oB4rtNQA1">
-  
 
 #### Student Experiences:
 
