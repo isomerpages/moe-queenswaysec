@@ -296,18 +296,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH, Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Santokh Singh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:santokh_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">santokh_singh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST, History</p>
 </td>
 <td rowspan="1" colspan="1">
