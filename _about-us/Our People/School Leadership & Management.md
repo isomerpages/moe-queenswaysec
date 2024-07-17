@@ -34,7 +34,6 @@ variant: markdown
 | ST, CL	| Ms. Low Xin Yee 	|
 | SH, CCE (Covering)	| Ms. Luo Hailun (Mrs Ding) 	|
 | SH, ICT (Covering) 	| Miss. Philynn Tan Hong Bee 	|
-| SH, Hum	| Mr. Santokh Singh 	|
 | SH, Phy	| Miss. Shirley Tay Li Hui 	|
 | AYH Lower Sec	| Miss. Teo Yong Chin 	|
 | SH, PE & CCA, OE, Sec 1 DM	| Mr. Umar Abdul Hamid 	|
