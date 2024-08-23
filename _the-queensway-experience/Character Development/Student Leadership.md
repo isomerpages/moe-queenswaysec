@@ -9,6 +9,18 @@ variant: markdown
 
 ![Student Leadership 1](/images/SLI.png)
 
+Our philosophy of student leadership development is guided by the following beliefs:
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every student has the potential to be developed as a leader
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership entails confidence and taking the initiatives to make a positive difference
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student leadership development needs to be intentional
+
+
+
+
+
 
 
 
