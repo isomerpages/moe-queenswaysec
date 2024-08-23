@@ -53,3 +53,5 @@ _Allan Tan, Boy’s Brigade Company Sargent Major_
 ![Student Leadership Peer Support](/images/Peer_Support_Leaders.png)
 
 ![Student Leadership House Leaders](/images/House_Leaders.png)
+
+![Student Leadership CCA Leaders](/images/CCA_Leaders.png)
