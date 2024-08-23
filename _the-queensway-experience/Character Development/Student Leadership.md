@@ -32,6 +32,14 @@ The school provides an extensive and structured system in providing opportunitie
 
 
 
+
+
+
+
+
+
+
+
 Our philosophy of student leadership development is guided by the following beliefs:
 
 ○&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every student has the potential to be    
