@@ -27,11 +27,25 @@ The school provides an extensive and structured system in providing opportunitie
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tier 4 Leadership** **(Thought Leadership)** seeks to develop critical and inventive thinking in student leaders to inspire, influence and direct their teams that they are leading. Student leaders aspire to live out the belief that that leadership is not about positions of power but positions of positive influence.
 
+Queenswayans have diverse opportunities to lead and serve their community around them, including serving in formal leadership appointments such as:
 
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Class Committee** – Promote a conducive environment and foster class spirit
 
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Prefectorial Board** – Support and strengthen school identity and culture
 
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Peer Support Board** – Develop a community of care in school
 
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **House Leaders** – Promote social interaction between Queenswayans and foster a strong school spirit
 
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CCA Leaders** – Promote joy of learning and spirit of community beyond the classroom
+
+_My student leadership journey at Queensway has truly unlocked many aspects of my potential. I never was the most recognized leader, but along my journey, with each mistake I made and every opportunity I took to grow, it shaped me into the leader I am today! I am grateful for the opportunity given by the Prefectorial Board and the school to represent and be a voice for my fellow peers!_
+
+_Tharuli Nethasa, Head Prefect_
+
+_“Throughout my leadership experience as the leader of Boys Brigade, I have realized that being a leader is not just about having more control over the role I was given, but more about knowing the people whom I am working with and understanding them. I truly appreciated having the chance to lead my CCA, where I discovered many significant life skills.”_
+
+_Allan Tan, Boy’s Brigade Company Sargent Major_
 
 
 
