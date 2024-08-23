@@ -7,6 +7,11 @@ variant: markdown
 ---
 ### Student Leadership
 
+![Student Leadership 1](/images/SLI.png)
+
+
+
+
 Our philosophy of student leadership development is guided by the following beliefs:
 
 ○&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Every student has the potential to be    
