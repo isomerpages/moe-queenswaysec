@@ -48,7 +48,7 @@ _“Throughout my leadership experience as the leader of Boys Brigade, I have re
 _Allan Tan, Boy’s Brigade Company Sargent Major_
 
 
-
+![Student Leadership Prefects](/images/Prefects.png)
 
 
 
