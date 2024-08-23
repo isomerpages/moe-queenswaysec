@@ -17,7 +17,15 @@ Our philosophy of student leadership development is guided by the following beli
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student leadership development needs to be intentional
 
+The Queensway Student Leadership curriculum is premised on the Pillars of Servant Leadership by Snipe and Frick, namely, being a Person of Character, Skilled Communicator, Compassionate Collaborator, Having Foresight and Putting People First. Students develop these attributes through various platforms such as leadership workshops, outdoor camps, and formal and informal mentoring sessions.
 
+The school provides an extensive and structured system in providing opportunities for both broad-based and role-based student leadership development for our students, adopting a tiered approach to equip all Queenswayans with essential leadership competencies.
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tier 1 Leadership (Self-Leadership)** aims to equip all Queenswayans with good self-knowledge, sound values and personal effectiveness. Students learn the fundamental skills about leadership and how to use them to effectively manage themselves and their peers.
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tier 2 and 3 Leadership (Team Leadership)** provides student leaders with knowledge and skills to support initiatives for active student leadership to make a positive difference at home, in class, within the school and in their community. Students are provided with platforms from which they learn to influence and lead their peers with competence and care.
+
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tier 4 Leadership** **(Thought Leadership)** seeks to develop critical and inventive thinking in student leaders to inspire, influence and direct their teams that they are leading. Student leaders aspire to live out the belief that that leadership is not about positions of power but positions of positive influence.
 
 
 
