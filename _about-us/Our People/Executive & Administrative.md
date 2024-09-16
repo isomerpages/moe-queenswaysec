@@ -73,17 +73,6 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Mohamad Majeed Marican</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mohamad_Majeed_Marican@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr. Azhar Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,6 +88,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_kim_hon_mary-ann@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amirah Batiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur_Amirah_Batiah@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
