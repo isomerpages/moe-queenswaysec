@@ -5,40 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4>School Canteen Advertisement</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Type of Stall</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Remarks</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Closing Date</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Asia Cuisine Halal / Non-Halal (Open to Proposal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thai / Korean / Chinese Mixed Vegetable Rice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31 Oct 2024</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p><strong>Application Procedure</strong>
 </p>
