@@ -16,20 +16,22 @@ variant: markdown
 
 #### Overview of the CCA:&nbsp;  
 
-Badminton is a newer CCA offered in Queensway. Our girls go through a rigorous developmental training programme to learn fundamental skills in the sport to lay the foundation for further progression.
+Badminton is one of the popular CCAs offered at Queensway. Our girls go through a rigorous developmental training program to learn fundamental skills in the sport, laying the foundation for further progression.
 
-![](/images/Badminton%201-Specific%20Skill%20-%20feeding%20to%20beginners.jpg)
+![Badminton 1](/images/Badminton_1.jpg)
 
-In 2022, our team took part in the annual National School Games and demonstrated sportsmanship, perseverance and resilience. Whilst the team are still relative novices, they have shown a great attitude and we hope that in time to come, they will continue to show enthusiasm and a spirit of learning as they strive for even greater heights.
-![](/images/Badminton%202-NSG%20Competition%20-%20Chia%20Yew%20Hwee.jpeg)
+ Our team took part in the annual National School Games (NSG) and demonstrated sportsmanship, perseverance, and resilience. In 2023, our ‘C’ Girls’ Division team made it to the quarterfinals in the South Zone NSG Competitions. The team has shown a great attitude, and we hope that in time to come, they will continue to show enthusiasm and a spirit of learning as they strive for even greater heights.
 
-
+![Badminton 2](/images/Badminton_2.jpg)
 
 #### Student Experiences:
-  
-‘The best memory was winning our first match as a team in the C Division competition. It was an accomplishment as we are a new team without experience. Besides this, the debriefing session after matches allows the team to reflect on their gameplay and learn from the mistakes made. With a positive mindset, I believe that the team will continue to improve and succeed in future.’
-<br>
-~Tan Yu Qi (203)
 
-‘A meaningful experience in my CCA was when I was tasked to lead the whole team in the warm-up session during training. I was also involved in the Sec 1 trial selection. I learnt to lead and take responsibility in carrying out tasks. We will strive to keep improving and make the school proud!’
-<br>~Tan Ying Yi Matilda (203)
+Being the captain for the past 3 years has been such a fulfilling experience. Given that my batch was the first batch for the relatively new CCA, it made me proud to watch them grow from when they were just beginners to players who now have a passion for the sport. They showed me that despite hardships, like losing a match or not being on your game that day, they would continue to move forward, working on how to improve their skills further and reach the standard they set for themselves.’
+
+ **_Captain, Tan Yu-Qi (404)_**
+
+
+‘For the past 1 year, I have learned many new skills like footwork and stroke techniques. This gives me a sense of satisfaction, confidence, and a thrill of motivation that I look forward to in every training session. In Sec 1, I was involved in the school open house where I worked with seniors to manage the CCA booth and attended to any queries from the visitors. This event has allowed me to understand the importance of communication and gradually improve myself to become a better communicator. I will continue to lead the team well and develop the team in the joy of learning in this sport.’
+
+**_Vice-Cptain, Carissa Ng Qi En (2 Confidence)_**
+
