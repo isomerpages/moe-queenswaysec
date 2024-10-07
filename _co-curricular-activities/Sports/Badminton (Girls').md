@@ -16,11 +16,16 @@ variant: markdown
 
 #### Overview of the CCA:&nbsp;  
 
-Badminton is a newer CCA offered in Queensway. Our girls go through a rigorous developmental training programme to learn fundamental skills in the sport to lay the foundation for further progression.
+Badminton is one of the popular CCAs offered at Queensway. Our girls go through a rigorous developmental training program to learn fundamental skills in the sport, laying the foundation for further progression.
 
-![](/images/Badminton%201-Specific%20Skill%20-%20feeding%20to%20beginners.jpg)
+![Badminton 1](/images/Badminton_1.jpg)
 
-In 2022, our team took part in the annual National School Games and demonstrated sportsmanship, perseverance and resilience. Whilst the team are still relative novices, they have shown a great attitude and we hope that in time to come, they will continue to show enthusiasm and a spirit of learning as they strive for even greater heights.
+ Our team took part in the annual National School Games (NSG) and demonstrated sportsmanship, perseverance, and resilience. In 2023, our ‘C’ Girls’ Division team made it to the quarterfinals in the South Zone NSG Competitions. The team has shown a great attitude, and we hope that in time to come, they will continue to show enthusiasm and a spirit of learning as they strive for even greater heights.
+
+
+
+
+
 ![](/images/Badminton%202-NSG%20Competition%20-%20Chia%20Yew%20Hwee.jpeg)
 
 
