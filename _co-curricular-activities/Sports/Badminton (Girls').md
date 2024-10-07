@@ -22,7 +22,7 @@ Badminton is one of the popular CCAs offered at Queensway. Our girls go through 
 
  Our team took part in the annual National School Games (NSG) and demonstrated sportsmanship, perseverance, and resilience. In 2023, our ‘C’ Girls’ Division team made it to the quarterfinals in the South Zone NSG Competitions. The team has shown a great attitude, and we hope that in time to come, they will continue to show enthusiasm and a spirit of learning as they strive for even greater heights.
 
-![Badminton 2v1](/images/Badminton_2.jpg)
+![Badminton 2](/images/Badminton_2.jpg)
 
 #### Student Experiences:
 
@@ -35,4 +35,3 @@ Being the captain for the past 3 years has been such a fulfilling experience. Gi
 
 **_Vice-Cptain, Carissa Ng Qi En (2 Confidence)_**
 
-![](/images/Badminton%202-NSG%20Competition%20-%20Chia%20Yew%20Hwee.jpeg)
