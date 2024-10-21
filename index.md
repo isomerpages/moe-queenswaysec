@@ -10,6 +10,6 @@ sections:
       background: /images/school facade.jpg
       variant: center
       url: /dsa/
-      button: Direct School Admission 2025
+      button: Open House 2024
       title: QUEENSWAY SECONDARY SCHOOL
 ---
