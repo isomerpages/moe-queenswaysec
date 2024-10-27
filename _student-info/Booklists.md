@@ -23,7 +23,7 @@ You can download the booklists for the various levels here.
 
 **Secondary 3**<br>
 
-
+[Secondary 3 Booklist](https://drive.google.com/file/d/14h-o1PajggrJhPVUaCLFVBMnbzxQkhaT/view?usp=drive_link)
 
 
 
