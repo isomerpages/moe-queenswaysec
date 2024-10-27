@@ -12,7 +12,8 @@ You can download the booklists for the various levels here.
 
 **Secondary 2**<br>
 
-[Secondary 2 Booklist](/files/Queensway_Secondary_2.pdf)
+[Secondary 2 Booklist](https://drive.google.com/file/d/1eSfngzxHcnfUmV6o4jKp7e2gjKq2BDsU/view?usp=drive_link)
+
 
 
 
