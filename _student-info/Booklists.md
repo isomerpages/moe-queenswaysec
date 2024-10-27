@@ -11,6 +11,8 @@ You can download the booklists for the various levels here.
 
 
 **Secondary 2**<br>
+[[Secondary 2]](/files/Queensway_Secondary_2.pdf)
+
 [Secondary 2 Express](https://drive.google.com/file/d/1PpZx2d4-K9mR9x6dQfSuE7y7kEfEmF9W/view?usp=drive_link)<br>
 [Secondary 2 Normal Academic ](https://drive.google.com/file/d/1n6fWyZUELBo4KL4_LO6SU6OxA3t4GFt3/view?usp=drive_link)<br>
 [Secondary 2 Normal Technical ](https://drive.google.com/file/d/1BnY1RD8u_VjvZ4DuhdOLZ9NhJ0Y59nNH/view?usp=drive_link)
