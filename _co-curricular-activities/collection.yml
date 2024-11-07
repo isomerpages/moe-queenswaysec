@@ -2,8 +2,8 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Sports/Basketball (Boys).md
       - Sports/.keep
+      - Sports/Basketball (Boys).md
       - Sports/Badminton (Girls').md
       - Sports/Hockey (Mixed).md
       - Sports/Football (Mixed).md
@@ -22,3 +22,4 @@ collections:
       - Clubs and Societies/.keep
       - Clubs and Societies/Media Club.md
       - Schedule.md
+      - Schedule for 2025  Will be updated.md
