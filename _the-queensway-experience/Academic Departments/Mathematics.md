@@ -35,11 +35,11 @@ Students with a flair for Mathematics will be able to develop their potential th
 
 | Competition | Achievement |  |
 | -------- | -------- | -------- |
-| Singapore Mathematical Olympiad  | Honorable Mention:     |LIM KAI VEN (204)|
-|      |      | ELIJAH ASLAN PUK WEI EN (202) |
-|     |      | LIAO MING WEI RICO (102) |
-|     |      | TAN HUNG JOON CRUZ (201) |
-|     |      | SUBRAMANIAM SAMINATHAN SURESH(202) |
+| Singapore Mathematical Olympiad  | Bronze:     | AIDAN CHONG ZHI XUAN (2 CARE)|
+|      |      | SEOW SIONG HONG (2 CONFIDENCE)|
+|     | Honorable Mention:| CARISSA NG QI EN (2 CONFIDENCE) |
+|     |      |        KANG ETHAN (401) |
+|     |      |         SUBRAMANIAM SAMINATHAN SURESH (402) |
 
 
 
