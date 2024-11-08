@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /academics/mathematics/
 description: ""
 third_nav_title: Academic Departments
+variant: markdown
 ---
 ### Mathematics
 
@@ -12,9 +13,12 @@ To equip our students with mathematical knowledge, skills and attitude to be con
 
 #### Signature Pedagogy
 
-<img src="/images/math1.png" style="100%"> 
 
-A) The use of Making Thinking Visible Routines to facilitate concept understanding and make greater connections between topics  
+![Mathematics Framework ](/images/Mathematics_Framework.jpg)
+
+
+
+A) The use of Making Thinking Visible&nbsp;Routines to facilitate concept understanding and make greater connections between topics  
 
 B) Illustrate Problem-Solving Heuristics and nurture critical thinking skills through lesson activities and assignments
 
@@ -24,9 +28,9 @@ B) Illustrate Problem-Solving Heuristics and nurture critical thinking skills th
 
 Students with a flair for Mathematics will be able to develop their potential through our Mathematics Talent Programme. We cater to the Maths talents ranging from Secondary 1 to Secondary 3. Students are given the opportunity to hone their mathematics skills as well as developing critical thinking skills through the participation in various competitions.<br>
 
-<img src="https://drive.google.com/uc?export=view&id=1lGyIdcFEyZ_KM3XPFE_kMLzjLgAbqciT"><br>
+<img src="https://drive.google.com/uc?export=view&amp;id=1lGyIdcFEyZ_KM3XPFE_kMLzjLgAbqciT"><br>
 
-<img src="https://drive.google.com/uc?export=view&id=1a0Xks9Iyk1mO8mk9r18UsgLca7u25YNY">
+<img src="https://drive.google.com/uc?export=view&amp;id=1a0Xks9Iyk1mO8mk9r18UsgLca7u25YNY">
 
 
 | Competition | Achievement |  |
@@ -44,8 +48,8 @@ Students with a flair for Mathematics will be able to develop their potential th
 
  <img src="/images/math2.png" style="100%"> <br>
 The Maths Trail aims to popularise Mathematics through out-of-school activities. By providing opportunities for doing mathematics out of school, it allows students to spend time to think of Maths and relate Maths to real life scenarios.<br>
-<img src="https://drive.google.com/uc?export=view&id=1jQYvPkRsMP7dsuLaJ2uzEzq2nItaCYOx"><br>
+<img src="https://drive.google.com/uc?export=view&amp;id=1jQYvPkRsMP7dsuLaJ2uzEzq2nItaCYOx"><br>
 
-<img src="https://drive.google.com/uc?export=view&id=1U8c8wgTSRTlcp3T24cXvZ_MK1hWFfDJe"><br>
+<img src="https://drive.google.com/uc?export=view&amp;id=1U8c8wgTSRTlcp3T24cXvZ_MK1hWFfDJe"><br>
 
-<img src="https://drive.google.com/uc?export=view&id=1mo61dXSEMSv0bkE9X2pXvahXYa7F42bY">
+<img src="https://drive.google.com/uc?export=view&amp;id=1mo61dXSEMSv0bkE9X2pXvahXYa7F42bY">
