@@ -3,15 +3,16 @@ title: Mathematics Talent Development Programme
 permalink: /programmes/mathematics-talent-development-programme/
 description: ""
 third_nav_title: Talent Development Programmes
+variant: markdown
 ---
 ### Mathematics Talent Development Programme
 
 
-The Mathematics Talent Development Programme in Queensway aims to provide a platform for students to develop their mathematical skills and thinking. Over the course of the programme, students are challenged to refine their critical thinking and communication skills as they engage with various mathematical concepts and ideas. 
+The Mathematics Talent Development Programme in Queensway aims to provide a platform for students to develop their mathematical skills and thinking. Over the course of the programme, students are challenged to refine their critical thinking and communication skills as they engage with various mathematical concepts and ideas.&nbsp;
 
 Students are groomed to participate in the Singapore Mathematical Olympiad, where they showcase and apply the knowledge and skills that they have learned in the Maths TDP.
 
-In 2022, Colin Soh attained a Bronze Award and Rayern Yee obtained an Honourable Mention at the Singapore Mathematical Olympiad.
+In 2024, Aidan Chong and Seow Siong Hong attained Bronze Awards while Carissa Ng, Kang Ethan and Subramamiam Saminathan Suresh obtained Honourable Mention at the Singapore Mathematical Olympiad.
 
 #### Student Experiences:
 
