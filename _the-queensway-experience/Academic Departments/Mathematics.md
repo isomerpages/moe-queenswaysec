@@ -50,3 +50,5 @@ Students with a flair for Mathematics will be able to develop their potential th
 
  <img src="/images/math2.png" style="100%"> <br>
 The Maths Trail aims to popularise Mathematics through out-of-school activities. By providing opportunities for doing mathematics out of school, it allows students to spend time to think of Maths and relate Maths to real life scenarios.<br>
+
+![Math Trail 2024](/images/Math_Trail_2024_jpeg.jpg)
