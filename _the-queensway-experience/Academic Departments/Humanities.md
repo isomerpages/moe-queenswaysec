@@ -3,6 +3,7 @@ title: Humanities
 permalink: /academics/humanities/
 description: ""
 third_nav_title: Academic Departments
+variant: markdown
 ---
 ### Humanities
 
@@ -18,7 +19,7 @@ The Humanities Department in Queensway Secondary School comprises History, Geogr
 
 <img src="/images/hum1.png" style="width:100%"> Central to Humanities education in Queensway Secondary School is the Humanities Inquiry Approach, which seeks to promote learning through inquiry. The process entails looking at:
 
-*   **_the elements of Inquiry,_**   
+*   **_the elements of Inquiry,_**&nbsp; &nbsp;
 *   ***the process of Inquiry*** 
 *   **_the culture of Inquiry._**
     
@@ -29,27 +30,39 @@ As participants in the inquiry process, students learn to explore the interactio
 
 #### USE OF ICT
 
-Towards supporting the inquiry approach, ICT is used as a means of promoting collaboration among students, scaffolding concepts, formative assessment and self-directed learning. To this end, use of ICT tools to promote the stated objectives include Kahoot as a gauge of student learning, and the use of SLS and Nearpod to introduce new concepts to students, as well as to allow for independent learning. 
+At our Humanities Department, we harness the power of digital tools and platforms like the Singapore Student Learning Space (SLS), Pear Deck, and the Google Classroom to create meaningful and engaging learning experiences in History, Geography, and Social Studies. Through these platforms, students access interactive multimedia resources, participate in virtual discussions, and explore content beyond traditional textbooks.
 
-<img src="https://drive.google.com/uc?export=view&id=1PdkzdJIK7X28dwi2q9_jaEkuuvP8PLLk">
+
+![ICT 1](/images/PXL_20220720_073626101.jpg)
+
+Using SLS, students can engage in self-paced learning with interactive lessons, quizzes, and multimedia resources, allowing them to review concepts independently or deepen their understanding of key topics. ICT tools, like Pear Deck enhances engagement during lessons by enabling teachers to conduct live polls, quizzes, and interactive questions that encourage students to think critically and participate actively. Students work collaboratively on group projects, analyze sources, and present findings, developing essential teamwork and communication skills in a digital environment. Through these ICT tools, our department aims to enhance engagement, encourage collaboration, and build digital literacy, equipping students with the skills needed for the future.
+
+![ICT 2](/images/PXL_20220720_083721844.jpg)
+
+
 
 
 #### DIFFERENTIATED INSTRUCTION
 
-Differentiated Instruction within the Humanities Department focuses on differentiation in pedagogy and content. Within the classroom, different levels of scaffolding may be introduced to cater for differing student abilities. Also, content for classwork activities are also differentiated, and students of mixed abilities may also use the differentiated content within a gamification setting, as made possible within the social studies classroom.
+Our Humanities Department is committed to providing a supportive and inclusive learning environment through differentiated instruction. This approach allows us to tailor both teaching methods and content to meet the diverse needs and abilities of our students.
 
 <img src="/images/hum2.png" style="width:100%">
+
+In the classroom, various levels of scaffolding are introduced to support students at different levels of understanding, ensuring everyone can engage with and master key concepts. Class activities are also customized with differentiated content and activities, allowing students to learn at their own pace and depth. For example, to enhance engagement, we incorporate differentiated content within gamified settings, where students of mixed abilities collaborate and learn through interactive and competitive activities. This approach fosters a more dynamic, inclusive, and enriching classroom experience for all learners.
+
 
 
 #### ENRICHMENT PROGRAMMES  
 
-The yearly Humanities Day offers a series of enrichment activities for students to extend their learning about the world around them. The Humanities department organizes learning journeys to various organizations for students to learn beyond the confines of the classroom. Students get to learn more about the various cultures in Singapore and visit places of historical value. Besides being exposed to topics related to History and Geography, students are also exposed to current affairs issues through the talks organized for them.
+The Humanities Department organizes enriching learning journeys to various organizations, allowing students to expand their knowledge beyond the classroom. Through these visits, students deepen their understanding of Singapore's diverse cultures and explore sites of historical significance. In addition to gaining insights into History and Geography, students engage with current affairs through specially organized talks.
 
-<img src="https://drive.google.com/uc?export=view&id=1ExjvEu20TnrtwuxUj4A1RTmlt6MN_ihc">
 
-Students with passion and aptitude in the Humanities are encouraged to take part in national-level competitions. These competitions include the NUS Geography Challenge and the MOE History Challenge, the ASEAN Symposium and the United Nations Mock Conference.  Students get to observe Parliament sessions in action on Sitting Days in Parliament. They also took part in conversations with external stakeholders such as the EU@School programme.
+![Enrichment 1](/images/IMG_20220720_WA0005.jpg)
 
-<img src="https://drive.google.com/uc?export=view&id=1-wXvLVWrC37yWhYyx27Zc9E5h9_zh2Sp">
+
+ Students with a strong interest and aptitude in the Humanities are encouraged to participate in national-level competitions such as the NUS Geography Challenge, the MOE History Challenge, the ASEAN Symposium, and the United Nations Mock Conference. Furthermore, students have the opportunity to observe live parliamentary sessions on Sitting Days, gaining firsthand experience of Singapore's legislative process.
+
+
 
 #### ASSESSMENT
 
