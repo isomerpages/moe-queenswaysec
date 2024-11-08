@@ -33,12 +33,13 @@ As participants in the inquiry process, students learn to explore the interactio
 At our Humanities Department, we harness the power of digital tools and platforms like the Singapore Student Learning Space (SLS), Pear Deck, and the Google Classroom to create meaningful and engaging learning experiences in History, Geography, and Social Studies. Through these platforms, students access interactive multimedia resources, participate in virtual discussions, and explore content beyond traditional textbooks.
 
 
+![ICT 1](/images/PXL_20220720_073626101.jpg)
+
 Using SLS, students can engage in self-paced learning with interactive lessons, quizzes, and multimedia resources, allowing them to review concepts independently or deepen their understanding of key topics. ICT tools, like Pear Deck enhances engagement during lessons by enabling teachers to conduct live polls, quizzes, and interactive questions that encourage students to think critically and participate actively. Students work collaboratively on group projects, analyze sources, and present findings, developing essential teamwork and communication skills in a digital environment. Through these ICT tools, our department aims to enhance engagement, encourage collaboration, and build digital literacy, equipping students with the skills needed for the future.
 
+![ICT 2](/images/PXL_20220720_083721844.jpg)
 
 
-
-<img src="https://drive.google.com/uc?export=view&amp;id=1PdkzdJIK7X28dwi2q9_jaEkuuvP8PLLk">
 
 
 #### DIFFERENTIATED INSTRUCTION
@@ -55,11 +56,13 @@ In the classroom, various levels of scaffolding are introduced to support studen
 
 The Humanities Department organizes enriching learning journeys to various organizations, allowing students to expand their knowledge beyond the classroom. Through these visits, students deepen their understanding of Singapore's diverse cultures and explore sites of historical significance. In addition to gaining insights into History and Geography, students engage with current affairs through specially organized talks.
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1ExjvEu20TnrtwuxUj4A1RTmlt6MN_ihc">
+
+![Enrichment 1](/images/IMG_20220720_WA0005.jpg)
+
 
  Students with a strong interest and aptitude in the Humanities are encouraged to participate in national-level competitions such as the NUS Geography Challenge, the MOE History Challenge, the ASEAN Symposium, and the United Nations Mock Conference. Furthermore, students have the opportunity to observe live parliamentary sessions on Sitting Days, gaining firsthand experience of Singapore's legislative process.
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1-wXvLVWrC37yWhYyx27Zc9E5h9_zh2Sp">
+
 
 #### ASSESSMENT
 
