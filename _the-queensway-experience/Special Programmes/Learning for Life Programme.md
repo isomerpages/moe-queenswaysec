@@ -3,11 +3,12 @@ title: Learning for Life Programme
 permalink: /programmes/sports-for-life/
 description: ""
 third_nav_title: Special Programmes
+variant: markdown
 ---
-### Sports for Life & Outdoor Education (LLP)
+### Sports for Life & Outdoor Education Through the Lens of Commununity & Youth Leadership (LLP)
 
 
-This school-wide programme provides varied experiential learning opportunities in sports, physical and outdoor activities for all students.
+This school-wide programme provides varied experiential learning opportunities in sports, physical and outdoor activities for all students to develop their character, values and socio-eomotional skills.
 
   
 
@@ -15,6 +16,8 @@ Through the QSS SOE Programme, we aim to:
 
   
 
+*   Develop leaders who are also compassionate and community-oriented
+*   Equip students with the mindset and skills needed to engage with societal needs and make a real impact
 *   Inculcate sports enjoyment and deep appreciation for lifelong learning by providing students with skills for personal development in competitive and recreational sports, physical and outdoor activities.  
     
 *   Nurture sound moral values, deep national identity and global citizenship values to think globally and act locally and ethically.  
