@@ -3,6 +3,7 @@ title: English Language and Literature
 permalink: /academics/english-language-and-literature/
 description: ""
 third_nav_title: Academic Departments
+variant: markdown
 ---
 ### English Language & Literature
 
@@ -47,22 +48,6 @@ _**Appreciating Style:**_ Students show an understanding of the way in which la
 Both subjects feature strong ICT integration, with teachers making use of a variety of online applications such as Padlet, Pear Deck, and the Student Learning Space to foster inquiry in a collaborative setting.
 
 #### Special Programmes  
-##### English Talent Development Programme
-
-![](/images/Debate%20workshop%20(USE).jpg)
-The English Talent Development Programme aims to nurture our students’ flair and passion for the English Language. Selected students are groomed to be confident communicators and purposeful writers through our curricular programmes and out-of-classroom activities. The students will also be exposed to advanced literary works that will deepen their intellectual growth and push them to think critically about the world at large. Students selected for the programme will attend plays and take part in national and international competitions to nurture their passion in the language. 
-
-**Special Mentions**
-
-**Orator's Trophy 2022** organised by Anglo-Chinese Junior College 
-* Royden Pek from Class 301 (Senior League) 
-* Balaguru Kavinaa from Class 201 (Junior League) 
-
-**35th YMCA Plain English Speaking Awards 2022** organised by YMCA of Singapore
-* Royden Pek from Class 301 (Upper Secondary)
-* Lauren Victoria Lim from Class 303 (Upper Secondary) 
-* Donaric Leong from Class 201 (Lower Secondary)
-* Balaguru Kavinaa from Class 201 (Lower Secondary)
 
 
 ##### LangLit Week
