@@ -15,8 +15,8 @@ variant: markdown
 | Basketball Boys    | NA     | NA     |4th Zone C   |NA     |
 | Volleyball Boys B    | 3rd     | 2nd     |2nd (Zone)    |South Zone 4th   |
 | Hockey Boys C | NA     | 3rd (Nat)    |4th (Nat)    |    |
-| Hockey Boys B |  | Text     | Text     |Text     |3rd League 1     |
-| Hockey Girls C   | Text     | Text     |Text     |2nd League 2   |
+| Hockey Boys B |  |   |    | 3rd League 1  |   
+| Hockey Girls C   |   |    |    |2nd League 2   |
 
 
 |Performing Arts CCA and Year of Award| 2019/2020 | 2021/2022 |2023/2024 |
