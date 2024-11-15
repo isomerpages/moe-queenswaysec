@@ -4,9 +4,6 @@ permalink: /achievements/
 description: ""
 variant: markdown
 ---
-## **School Achievements 2023**
-
-
 
 |Sports CCA and Year of Award| 2021 | 2022 |2023 |2024 |
 | -------- | -------- | -------- |-------- |-------- |
@@ -23,18 +20,10 @@ variant: markdown
 | Hockey Girls C   | Text     | Text     |Text     |2nd League 2   |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|Performing Arts CCA and Year of Award| 2021 | 2022 |2023 |2024 |
+| -------- | -------- | -------- |-------- |-------- |
+| Chinese Dance   | Text     | 1st (Nat)    |3rd (Nat)   |2nd League 1  |
+| ELDDS    | Text     | 1st (Nat)    |3rd (Nat)   |2nd League 1  |
+| Band   | Text     | 1st (Nat)    |3rd (Nat)   |2nd League 1  |
+| Choir    | Text     | 1st (Nat)    |3rd (Nat)   |2nd League 1  |
+| Modern Dance    | Text     | 1st (Nat)    |3rd (Nat)   |2nd League 1  |
