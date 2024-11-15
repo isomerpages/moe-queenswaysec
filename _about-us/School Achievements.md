@@ -26,3 +26,11 @@ variant: markdown
 | Band   | Accomplishment    | Accomplishment    |Accomplishment   |
 | Choir    | Distinction     | NA   |Accomplishment   |
 | Modern Dance    | NA | NA    |Accomplishment   |
+
+
+|Uniform Groups | 2022 | 2023 |2024 |
+| -------- | -------- | -------- |-------- |
+| NCC   | Distinction    | Distinction   |Distinction    |
+| NPCC    | Gold    | Gold   |Distinction    |
+| Girl Guides | Gold     | Gold       |Silver |
+| Boys Brigade | Silver    | Silver   |Distinction   |
