@@ -115,7 +115,7 @@ for concessionary travel until end-April 2025.</p>
 <p></p>
 <p><strong>11. Appeals and School Transfer Procedures</strong>
 </p>
-<p><strong>Appeals for transfer into Queensway Secondary School (non-medical reasons) </strong>
+<p><strong>Appeals for transfer into Queensway Secondary School (non-medical reasons)</strong>
 </p>
 <p>Student transfers are subjected to the availability of vacancies of the
 school.</p>
@@ -125,9 +125,9 @@ to the allocated DSA school for the entire duration of the programme.</p>
 <p>Please note that your PSLE score should meet our school’s cut-off point
 (COP) for the posting year.</p>
 <p>All appeal forms (click <a href="https://go.gov.sg/qsssec1appeal2025" rel="noopener nofollow" target="_blank">here</a>)
-are to be submitted by <strong>27 December 2024, 12pm. </strong>
+are to be submitted by <strong>27 December 2024, 12pm.</strong>
 </p>
-<p><strong>Appeal for transfer out to another school for medical reasons </strong>
+<p><strong>Appeal for transfer out to another school for medical reasons</strong>
 </p>
 <p>For students who require a transfer out from Queensway Secondary School
 due to serious medical conditions or severe physical impairments, parents
@@ -135,9 +135,10 @@ will need to appeal directly at our school’s General Office during the
 Medical Appeal Exercise (MAE) by 19 December 2024, 12pm.</p>
 <p>All appeals must be accompanied by relevant supporting documents, such
 as medical reports, letters from doctors. Application without supporting
-documents, incomplete form or late submission will not be processed. Please
-contact our school’s General Office at 64741421.</p>
-<p></p>
+documents, incomplete form or late submission will not be processed.</p>
+<p>Please contact our school’s General Office at 64741421.</p>
+<p><strong>12. Art Elective Programme/Music Elective Programme</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
