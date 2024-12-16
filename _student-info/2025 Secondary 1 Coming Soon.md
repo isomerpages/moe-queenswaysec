@@ -54,3 +54,31 @@ More information will be provided in the welcome letter via PG.</p>
 class allocation. The class information will also be made available at
 our foyer at the start of the school year.</p>
 <p></p>
+<p><strong>5. School textbooks and school uniform</strong>
+</p>
+<p>You may purchase the school textbooks and uniforms online or in school.
+Online orders and payments could be made via the supplier’s websites.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
