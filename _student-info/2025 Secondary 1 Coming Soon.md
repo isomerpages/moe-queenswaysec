@@ -96,10 +96,15 @@ queries.</p>
 </p>
 <p>For enquiries about Mother Tongue Language related matters, please refer
 to Annex B.</p>
-<p>Click <a href="/files/2024_Mother_Tongue_Language_info_to_parents.pdf" rel="noopener nofollow" target="_blank">here</a>
+<p>(click <a href="/files/2024_Mother_Tongue_Language_info_to_parents.pdf" rel="noopener nofollow" target="_blank">here</a>)</p>
+<p></p>
+<p><strong>10. Financial Assistance Scheme</strong>
 </p>
-<p></p>
-<p></p>
+<p>Singapore citizens in financial need can get assistance from MOE on school
+fees and other expenses. Students who require financial assistance can
+submit their application via e-FAS (<a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">Click here</a>). All
+information provided will be treated with strict confidentiality. Please
+contact Ms Shalini (Corporate Support Officer) at <a href="mailto:qss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qss@moe.edu.sg</a> for queries.</p>
 <p></p>
 <p></p>
 <p></p>
