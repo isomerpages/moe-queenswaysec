@@ -38,6 +38,9 @@ school.</p>
 will be provided in the welcome letter.</p>
 <p><strong>Reporting Time/Dismissal Time/Attire</strong>:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Sec 1 Orientation Time Table" src="/images/2025_Sec_1_Orientation_Table.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
