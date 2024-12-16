@@ -139,6 +139,13 @@ documents, incomplete form or late submission will not be processed.</p>
 <p>Please contact our school’s General Office at 64741421.</p>
 <p><strong>12. Art Elective Programme/Music Elective Programme</strong>
 </p>
+<p>If your child/ward exhibits interest, potential and passion for Art or
+Music, he/she can apply for Art/Music Elective Programme (AEP/MEP) in the
+following AEP/MEP Centres from Secondary 1:</p>
+<p>AEP: National Junior College</p>
+<p>MEP: Anglo-Chinese School (Independent)</p>
+<p>MEP: Dunman High School</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
