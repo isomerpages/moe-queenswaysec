@@ -10,8 +10,10 @@ description: ""
 welcome you, our new Secondary 1 student, and your parents/guardians to
 our school.</p>
 <p>Welcome to the QSS Family!</p>
-<p></p>
-<p><strong>1. </strong>
+<p><strong>1. Posting Matters</strong>
 </p>
+<p>Click <strong>[here] </strong>for the MOE press release.</p>
+<p>Students posted to QSS need <u>not</u> report to the school after the release
+of school posting results.</p>
 <p></p>
 <p></p>
