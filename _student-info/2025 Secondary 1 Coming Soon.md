@@ -59,6 +59,9 @@ our foyer at the start of the school year.</p>
 <p>You may purchase the school textbooks and uniforms online or in school.
 Online orders and payments could be made via the supplier’s websites.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Sec 1 School Textbook and Uniform Info Table" src="/images/2025_Sec_1_School_Uniform_Information_Table.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
