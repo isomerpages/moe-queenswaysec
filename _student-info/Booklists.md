@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p>You can download the booklists for the various levels here.</p>
-<p><strong>Secondary 1  </strong>
+<p><strong>Secondary 1 </strong>
 <br>
 </p>
 <p><a href="/files/Queensway_Sec_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist</a>
