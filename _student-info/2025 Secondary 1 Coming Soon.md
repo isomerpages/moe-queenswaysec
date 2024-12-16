@@ -34,6 +34,7 @@ for onboarding.</p>
 know the school and ease the transition from primary school to secondary
 school.</p>
 <p>Kindly note that students are to report to school by 8 am on 2 January
-2024. They will assemble in the parade square.</p>
+2025. They will assemble in the atrium basketball court. More information
+will be provided in the welcome letter.</p>
 <p></p>
 <p></p>
