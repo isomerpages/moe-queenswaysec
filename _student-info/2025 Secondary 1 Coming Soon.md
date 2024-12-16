@@ -27,8 +27,8 @@ PG by 19 December 2025.</p>
 office to complete the registration form in person. Parents/guardians not
 onboard PG may proceed to the following link to download the application
 for onboarding.</p>
-<p>• Parents Gateway (link)</p>
-<p>• Parents Gateway FAQs (link)</p>
+<p>• Parents Gateway (<a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">link</a>)</p>
+<p>• Parents Gateway FAQs (<a href="https://pg.moe.edu.sg/faq" rel="noopener nofollow" target="_blank">link</a>)</p>
 <p></p>
 <p>The Sec 1 Orientation Programme will be held on the 2, 3, 6 and 7 January
 2025. The Orientation Programme will provide students an opportunity to
