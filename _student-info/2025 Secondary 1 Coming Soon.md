@@ -62,7 +62,12 @@ Online orders and payments could be made via the supplier’s websites.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 Sec 1 School Textbook and Uniform Info Table" src="/images/2025_Sec_1_School_Uniform_Information_Table.jpg">
 </div>
-<p></p>
+<p><strong>For Approved MOE-FAS students</strong>
+</p>
+<p>Students who are <strong>approved under MOE-FAS </strong>need not purchase
+their school textbooks and school uniforms online. The collection for school
+textbooks and school uniforms will be on <strong>23 December 2024.</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
