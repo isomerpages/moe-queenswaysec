@@ -83,8 +83,9 @@ parents/guardians via PG at a later date.</p>
 <p>Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning
 and develop multiple pathways to cater to the different strengths and interests
 of our students.</p>
-<p>Click here for more information on Full SBB and the offering of subject
-at more or less demanding level at the start of Secondary 1 and beyond.</p>
+<p>Click <a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener nofollow" target="_blank">here</a> for
+more information on Full SBB and the offering of subject at more or less
+demanding level at the start of Secondary 1 and beyond.</p>
 <p>If your child/ward is eligible to take a subject at more demanding level,
 a PG acceptance form will be sent to you by <strong>19 December 2024, 12 pm</strong>.</p>
 <p><strong>Please submit your response by 23 December 2024, 12 pm</strong>.
