@@ -69,6 +69,24 @@ their school textbooks and school uniforms online. The collection for school
 textbooks and school uniforms will be on <strong>23 December 2024.</strong>
 </p>
 <p></p>
+<p><strong>6. Personal Learning Devices (PLD)</strong>
+</p>
+<p>The NDLP was launched in March 2020 to make digital learning inclusive
+by equipping students with the digital skills to be future-ready. Under
+the NDLP, every secondary school student will own a school-prescribed personal
+learning device (PLD). Students may use funds from their Edusave Account
+to pay for the PLD. The school prescribed PLD is Acer Chromebook Spin R756TN
+Convertible. More details on procurement and costing will be provided to
+parents/guardians via PG at a later date.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
