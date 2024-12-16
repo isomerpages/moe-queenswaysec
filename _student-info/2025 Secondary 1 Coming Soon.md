@@ -109,9 +109,9 @@ contact Ms Shalini (Corporate Support Officer) at <a href="mailto:qss@moe.edu.sg
 <p><strong>11. Student Smart Card (SSC) for concessionary travel</strong>
 </p>
 <p>All students entering Secondary 1 in January 2025 will be issued with
-a new Secondary-level School Smart Card (SSC). 4 While waiting for the
-new SSC, students can use their Primary-level SSCs for concessionary travel
-until end-April 2025.</p>
+a new Secondary-level School Smart Card (SSC).</p>
+<p>While waiting for the new SSC, students can use their Primary-level SSCs
+for concessionary travel until end-April 2025.</p>
 <p></p>
 <p></p>
 <p></p>
