@@ -26,5 +26,4 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1tpQV4albL9OXdel2D7OhRvvUy09PviQs/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Booklist</a>
 </p>
 <p><strong>Secondary 5</strong>
-<br>-Will be updated in Dec 2024 <a href="/files/Testing_PDF_Document.pdf" rel="noopener nofollow" target="_blank">Testing upload</a>
-</p>
+<br>-Will be updated in Dec 2024</p>
