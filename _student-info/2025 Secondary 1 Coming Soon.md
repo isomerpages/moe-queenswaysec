@@ -167,7 +167,10 @@ up point in front of the Security Counter.</p>
 <img style="width: 100%" height="auto" width="100%" alt="2025 Sec 1 Gates for Parents Info Table" src="/images/2025_Sec_1_Gates_for_Parents_Info_Table.jpg">
 </div>
 <p></p>
-<p></p>
+<p><strong>14. Rental of locker</strong>
+</p>
+<p>Lockers are available to students by rental. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLPRggRwovT8QNYJljwvDXE7VlXEIEYGU31UOvhjnWRRDZ3A/viewform" rel="noopener nofollow" target="_blank">Click here</a> for
+the rental of lockers.</p>
 <p></p>
 <p></p>
 <p></p>
