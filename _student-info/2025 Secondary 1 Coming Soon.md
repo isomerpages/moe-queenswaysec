@@ -29,9 +29,10 @@ for onboarding.</p>
 <p>• Parents Gateway (link)</p>
 <p>• Parents Gateway FAQs (link)</p>
 <p></p>
-<p>The Sec 1 Orientation Programme will be held from 2 – 5 January 2024.
-The Orientation Programme will provide students an opportunity to know
-the school and ease the transition from primary school to secondary school.</p>
+<p>The Sec 1 Orientation Programme will be held on the 2, 3, 6 and 7 January
+2025. The Orientation Programme will provide students an opportunity to
+know the school and ease the transition from primary school to secondary
+school.</p>
 <p>Kindly note that students are to report to school by 8 am on 2 January
 2024. They will assemble in the parade square.</p>
 <p></p>
