@@ -158,7 +158,14 @@ AEP/MEP.</p>
 <p>Parents/guardians are to alight their child at the designated drop-off/pick
 up point in front of the Security Counter.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Sec 1 Gates for Parents to Drive In" src="/images/2025_Sec_1_Gates_for_Parents_to_Drive_In.jpg">
+</div>
+<p>Students can enter the school by these following gates and time:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Sec 1 Gates for Parents Info Table" src="/images/2025_Sec_1_Gates_for_Parents_Info_Table.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
