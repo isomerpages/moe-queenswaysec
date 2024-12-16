@@ -145,7 +145,13 @@ following AEP/MEP Centres from Secondary 1:</p>
 <p>AEP: National Junior College</p>
 <p>MEP: Anglo-Chinese School (Independent)</p>
 <p>MEP: Dunman High School</p>
-<p></p>
+<p>Note: The date for online application is 2 to 15 January 2025. Click
+<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" rel="noopener nofollow" target="_blank">here</a>for more information. Successful applicants will attend weekly
+lessons in the afternoon at the AEP/MEP Centre and are expected to commit
+to the programme for 4 years. Prior to application, interested students
+and their parents should work closely with the students’ secondary schools
+to ensure that their school timetable and commitments would allow them
+to participate fully in the AEP/MEP.</p>
 <p></p>
 <p></p>
 <p></p>
