@@ -36,5 +36,11 @@ school.</p>
 <p>Kindly note that students are to report to school by 8 am on 2 January
 2025. They will assemble in the atrium basketball court. More information
 will be provided in the welcome letter.</p>
+<p><strong>Reporting Time/Dismissal Time/Attire</strong>:</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
