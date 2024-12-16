@@ -153,8 +153,10 @@ Prior to application, interested students and their parents should work
 closely with the students’ secondary schools to ensure that their school
 timetable and commitments would allow them to participate fully in the
 AEP/MEP.</p>
-<p></p>
-<p></p>
+<p><strong>13. Safety &amp; Security measures for exit and entry into school</strong>
+</p>
+<p>Parents/guardians are to alight their child at the designated drop-off/pick
+up point in front of the Security Counter.</p>
 <p></p>
 <p></p>
 <p></p>
