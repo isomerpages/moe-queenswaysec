@@ -92,6 +92,10 @@ a PG acceptance form will be sent to you by <strong>19 December 2024, 12 pm</str
 You may contact Ms Lily Choo (Subject Head/Mathematics) at <a href="mailto:choo_li_chin_lily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_li_chin_lily@moe.edu.sg</a> for
 queries.</p>
 <p></p>
+<p><strong>8. Mother Tongue Language Matters</strong>
+</p>
+<p>For enquiries about Mother Tongue Language related matters, please refer
+to Annex B.</p>
 <p></p>
 <p></p>
 <p></p>
