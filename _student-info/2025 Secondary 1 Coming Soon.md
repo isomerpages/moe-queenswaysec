@@ -41,7 +41,8 @@ will be provided in the welcome letter.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 Sec 1 Orientation Time Table" src="/images/2025_Sec_1_Orientation_Table.jpg">
 </div>
-<p></p>
+<p>Students need not bring their schoolbooks on the above-mentioned days.
+Official lessons will only start on 8 January 2025.</p>
 <p></p>
 <p></p>
 <p></p>
