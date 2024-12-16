@@ -172,7 +172,8 @@ up point in front of the Security Counter.</p>
 <p>Lockers are available to students by rental. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLPRggRwovT8QNYJljwvDXE7VlXEIEYGU31UOvhjnWRRDZ3A/viewform" rel="noopener nofollow" target="_blank">Click here</a> for
 the rental of lockers.</p>
 <p></p>
-<p></p>
+<p><strong>15. Parents’ Support Group</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
