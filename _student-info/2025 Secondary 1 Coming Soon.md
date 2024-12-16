@@ -98,7 +98,7 @@ queries.</p>
 to Annex B.</p>
 <p>(click <a href="/files/2024_Mother_Tongue_Language_info_to_parents.pdf" rel="noopener nofollow" target="_blank">here</a>)</p>
 <p></p>
-<p><strong>10. Financial Assistance Scheme</strong>
+<p><strong>9. Financial Assistance Scheme</strong>
 </p>
 <p>Singapore citizens in financial need can get assistance from MOE on school
 fees and other expenses. Students who require financial assistance can
@@ -106,15 +106,37 @@ submit their application via e-FAS (<a href="https://form.gov.sg/6666a548f71e023
 information provided will be treated with strict confidentiality. Please
 contact Ms Shalini (Corporate Support Officer) at <a href="mailto:qss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qss@moe.edu.sg</a> for queries.</p>
 <p></p>
-<p><strong>11. Student Smart Card (SSC) for concessionary travel</strong>
+<p><strong>10. Student Smart Card (SSC) for concessionary travel</strong>
 </p>
 <p>All students entering Secondary 1 in January 2025 will be issued with
 a new Secondary-level School Smart Card (SSC).</p>
 <p>While waiting for the new SSC, students can use their Primary-level SSCs
 for concessionary travel until end-April 2025.</p>
 <p></p>
-<p></p>
-<p></p>
+<p><strong>11. Appeals and School Transfer Procedures</strong>
+</p>
+<p><strong>Appeals for transfer into Queensway Secondary School (non-medical reasons) </strong>
+</p>
+<p>Student transfers are subjected to the availability of vacancies of the
+school.</p>
+<p>Students successfully allocated to their DSA school will not be allowed
+to transfer to another school. They are expected to honour their commitment
+to the allocated DSA school for the entire duration of the programme.</p>
+<p>Please note that your PSLE score should meet our school’s cut-off point
+(COP) for the posting year.</p>
+<p>All appeal forms (click <a href="https://go.gov.sg/qsssec1appeal2025" rel="noopener nofollow" target="_blank">here</a>)
+are to be submitted by <strong>27 December 2024, 12pm. </strong>
+</p>
+<p><strong>Appeal for transfer out to another school for medical reasons </strong>
+</p>
+<p>For students who require a transfer out from Queensway Secondary School
+due to serious medical conditions or severe physical impairments, parents
+will need to appeal directly at our school’s General Office during the
+Medical Appeal Exercise (MAE) by 19 December 2024, 12pm.</p>
+<p>All appeals must be accompanied by relevant supporting documents, such
+as medical reports, letters from doctors. Application without supporting
+documents, incomplete form or late submission will not be processed. Please
+contact our school’s General Office at 64741421.</p>
 <p></p>
 <p></p>
 <p></p>
