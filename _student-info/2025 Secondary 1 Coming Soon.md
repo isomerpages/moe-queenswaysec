@@ -10,3 +10,8 @@ description: ""
 welcome you, our new Secondary 1 student, and your parents/guardians to
 our school.</p>
 <p>Welcome to the QSS Family!</p>
+<p></p>
+<p><strong>1. </strong>
+</p>
+<p></p>
+<p></p>
