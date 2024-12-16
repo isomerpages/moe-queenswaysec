@@ -12,7 +12,8 @@ our school.</p>
 <p>Welcome to the QSS Family!</p>
 <p><strong>1. Posting Matters</strong>
 </p>
-<p>Click <strong>[here] </strong>for the MOE press release.</p>
+<p>Click <a href="https://www.moe.gov.sg/news/press-releases/20241211-2024-secondary-1-posting-results" rel="noopener nofollow" target="_blank">here</a><strong> </strong>for
+the MOE press release.</p>
 <p>Students posted to QSS need <u>not</u> report to the school after the release
 of school posting results.</p>
 <p></p>
