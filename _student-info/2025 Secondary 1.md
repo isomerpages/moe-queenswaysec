@@ -1,6 +1,6 @@
 ---
-title: 2025 Secondary 1 Coming Soon
-permalink: /2025-secondary-1-coming-soon/
+title: 2025 Secondary 1
+permalink: /2025-secondary-1/
 variant: tiptap
 description: ""
 ---
@@ -267,18 +267,3 @@ up point in front of the Security Counter.</p>
 </p>
 <p>Lockers are available to students by rental. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLPRggRwovT8QNYJljwvDXE7VlXEIEYGU31UOvhjnWRRDZ3A/viewform" rel="noopener nofollow" target="_blank">Click here</a> for
 the rental of lockers.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ul>
-<p></p>
