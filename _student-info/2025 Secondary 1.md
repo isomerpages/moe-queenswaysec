@@ -88,6 +88,10 @@ parents are to ensure the correct books are bought.</p>
 <p>Click on Online purchase</p>
 </li>
 </ol>
+<p></p>
+<p>Note: If you encounter issues registering with your Facebook or Google
+account, please register using your email instead.</p>
+<p></p>
 <p>Click below for the <strong>Updated (22 Dec) booklists:</strong>
 </p>
 <ul data-tight="true" class="tight">
