@@ -97,7 +97,7 @@ queries.</p>
 </p>
 <p>For enquiries about Mother Tongue Language related matters, please refer
 to Annex B.</p>
-<p>(click <a href="/files/2024_Mother_Tongue_Language_info_to_parents.pdf" rel="noopener nofollow" target="_blank">here</a>)</p>
+<p>(click <a href="/files/2025_Sec_1_Mother_Tongue_Language_info_to_parents.pdf" rel="noopener nofollow" target="_blank">here</a>)</p>
 <p></p>
 <p><strong>9. Financial Assistance Scheme</strong>
 </p>
