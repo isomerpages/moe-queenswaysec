@@ -267,3 +267,21 @@ up point in front of the Security Counter.</p>
 </p>
 <p>Lockers are available to students by rental. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLPRggRwovT8QNYJljwvDXE7VlXEIEYGU31UOvhjnWRRDZ3A/viewform" rel="noopener nofollow" target="_blank">Click here</a> for
 the rental of lockers.</p>
+<p></p>
+<p><strong>15. Parents’ Support Group</strong>
+</p>
+<p>The Queensway PSG is a dynamic community of parents who work together
+to support our students and school activities. By joining the PSG, you'll
+have the opportunity to contribute to enriching your child's educational
+experience, connect with other supportive parents, and play an active role
+in school events. Indicate your interest in signing up and be a part of
+this rewarding journey.</p>
+<p>We look forward to having you with us!</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
