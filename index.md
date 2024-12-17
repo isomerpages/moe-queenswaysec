@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/school facade.jpg
       variant: center
-      url: https://www.queenswaysec.moe.edu.sg/2025-secondary-1-coming-soon/
+      url: https://www.queenswaysec.moe.edu.sg/2025-secondary-1/
       button: Sec 1 Registration 2025
       title: QUEENSWAY SECONDARY SCHOOL
 ---
