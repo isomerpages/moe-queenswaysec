@@ -59,6 +59,77 @@ our foyer at the start of the school year.</p>
 </p>
 <p>You may purchase the school textbooks and uniforms online or in school.
 Online orders and payments could be made via the supplier’s websites.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Textbooks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For students offering subjects at more or less demanding level (MDL/LDL),
+parents are to ensure the correct books are bought.</p>
+<p></p>
+<p><strong>Ascencio Pte Ltd</strong>
+</p>
+<p>Website: <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">https://asenciobookshop.sg</a>
+</p>
+<p></p>
+<p><strong>Instructions</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Login to the website to register an account</p>
+</li>
+<li>
+<p>Update your Account Holder Info with your child's detail</p>
+</li>
+<li>
+<p>Click on Online purchase</p>
+</li>
+</ol>
+<p>Click below for the <strong>Updated (22 Dec) booklists:</strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Uniforms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date of sales and venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 Sec 1 School Textbook and Uniform Info Table" src="/images/2025_Sec_1_School_Uniform_Information_Table.jpg">
