@@ -10,6 +10,6 @@ sections:
       background: /images/school facade.jpg
       variant: center
       url: https://sites.google.com/moe.edu.sg/qssopenhouse2024/home
-      button: Open House 2024
+      button: Sec 1 Registration 2025
       title: QUEENSWAY SECONDARY SCHOOL
 ---
