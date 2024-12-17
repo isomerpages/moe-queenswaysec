@@ -137,7 +137,19 @@ parents are to ensure the correct books are bought.</p>
 <p>Date of sales and venue</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>26, 27 and 30 December 2024</p>
+<p><strong>Operating hours: 9am to 3pm</strong>
+</p>
 <p></p>
+<p><strong>FAS Collection on 23 December 2024, 9am to 3pm</strong>
+</p>
+<p></p>
+<p><strong>Venue:</strong>
+</p>
+<p>Classroom 3 - Textbooks</p>
+<p>Classroom 4 - Uniform</p>
+<p>*Please <strong><u>do not</u></strong> purchase the School Badge. It will
+be presented to your child as part of the orientation programme.</p>
 </td>
 </tr>
 </tbody>
