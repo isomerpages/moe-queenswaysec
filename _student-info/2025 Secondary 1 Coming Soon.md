@@ -22,7 +22,8 @@ of school posting results.</p>
 <p>All incoming 2025 Secondary 1 students are to register online via Parents
 Gateway (PG). A welcome letter will be sent to all parents/guardians via
 PG by 19 December 2025. You can also complete the registration online by
-clicking on this</p>
+clicking on this <a href="https://form.gov.sg/6760e189cf4ebe71887d12a9" rel="noopener nofollow" target="_blank">link.</a>
+</p>
 <p></p>
 <p>Those who are not onboard PG are required to visit our school’s general
 office to complete the registration form in person. Parents/guardians not
