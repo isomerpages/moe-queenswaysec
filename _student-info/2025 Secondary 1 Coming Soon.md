@@ -21,7 +21,8 @@ of school posting results.</p>
 </p>
 <p>All incoming 2025 Secondary 1 students are to register online via Parents
 Gateway (PG). A welcome letter will be sent to all parents/guardians via
-PG by 19 December 2025.</p>
+PG by 19 December 2025. You can also complete the registration online by
+clicking on this</p>
 <p></p>
 <p>Those who are not onboard PG are required to visit our school’s general
 office to complete the registration form in person. Parents/guardians not
@@ -165,12 +166,13 @@ textbooks and school uniforms will be on <strong>23 December 2024.</strong>
 <p><strong>6. Personal Learning Devices (PLD)</strong>
 </p>
 <p>The NDLP was launched in March 2020 to make digital learning inclusive
-by equipping students with the digital skills to be future-ready. Under
-the NDLP, every secondary school student will own a school-prescribed personal
-learning device (PLD). Students may use funds from their Edusave Account
-to pay for the PLD. The school prescribed PLD is Acer Chromebook Spin R756TN
-Convertible. More details on procurement and costing will be provided to
-parents/guardians via PG at a later date.</p>
+by equipping students with the digital skills to be future-ready.</p>
+<p>Under the NDLP, every secondary school student will own a school-prescribed
+personal learning device (PLD). Students may use funds from their Edusave
+Account to pay for the PLD.</p>
+<p>The school prescribed PLD is Acer Chromebook Spin R857TN Convertible.
+More details on procurement and costing will be provided to parents/guardians
+via PG at a later date.</p>
 <p><strong>7. Subjects at more/less demanding level</strong>
 </p>
 <p>Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning
