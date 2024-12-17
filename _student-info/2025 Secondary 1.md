@@ -34,7 +34,7 @@ They will assemble in the atrium basketball court. More information will
 be provided in the welcome letter.</p>
 <p><strong>Reporting Time/Dismissal Time/Attire</strong>:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="2025 Sec 1 Orientation Time Table" src="/images/2025_Sec_1_Orientation_Table.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="2025 Sec 1 Orientation Time Table" src="/images/2025_Sec_1_Orientation_Table.jpg">
 </div>
 <p>Students need not bring their schoolbooks on the above-mentioned days.
 Official lessons will only start on Wednesday, 8 January 2025.</p>
@@ -188,7 +188,7 @@ Secondary-level School Smart Card (SSC).</p>
 <p>While waiting for the new SSC, students can use their Primary-level SSCs
 for concessionary travel until end-April 2025.</p>
 <h4><strong>11. Appeals and School Transfer Procedures</strong></h4>
-<p><strong><em>Appeals for transfer into Queensway Secondary School (non-medical reasons)</em></strong>
+<p><strong>(A) Appeals for transfer into Queensway Secondary School (non-medical reasons)</strong>
 </p>
 <p>Student transfers are subject to the availability of vacancies at the
 school.</p>
@@ -200,7 +200,7 @@ to the allocated DSA school for the entire duration of the programme.</p>
 <p>All appeal forms (click <a href="https://go.gov.sg/qsssec1appeal2025" rel="noopener nofollow" target="_blank">here</a>)
 are to be submitted by <strong>Friday, 27 December 2024, 12pm.</strong>
 </p>
-<p><strong><em>Appeal for transfer out to another school for medical reasons</em></strong>
+<p><strong>(B) Appeal for transfer out to another school for medical reasons</strong>
 </p>
 <p>For students who require a transfer from Queensway Secondary School to
 another school due to serious medical conditions or severe physical impairments,
@@ -229,11 +229,11 @@ AEP/MEP.</p>
 <p>Parents/guardians are to alight their child at the designated drop-off/pick-up
 point in front of the Security Counter.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="2025 Sec 1 Gates for Parents to Drive In" src="/images/2025_Sec_1_Gates_for_Parents_to_Drive_In.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="2025 Sec 1 Gates for Parents to Drive In" src="/images/2025_Sec_1_Gates_for_Parents_to_Drive_In.jpg">
 </div>
 <p>Students can enter the school by the following gates and time:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="2025 Sec 1 Gates for Parents Info Table" src="/images/2025_Sec_1_Gates_for_Parents_Info_Table.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="2025 Sec 1 Gates for Parents Info Table" src="/images/2025_Sec_1_Gates_for_Parents_Info_Table.jpg">
 </div>
 <h4><strong>14. Rental of locker</strong></h4>
 <p>Lockers are available to students by rental. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLPRggRwovT8QNYJljwvDXE7VlXEIEYGU31UOvhjnWRRDZ3A/viewform" rel="noopener nofollow" target="_blank">Click here</a> for
