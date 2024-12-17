@@ -119,6 +119,17 @@ parents are to ensure the correct books are bought.</p>
 <p></p>
 <p>Website: <a href="https://www.myuniformshop.com.sg/" rel="noopener nofollow" target="_blank">https://www.myuniformshop.com.sg/</a>
 </p>
+<p></p>
+<p><strong>Instructions</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Visit the website</p>
+</li>
+<li>
+<p>Follow the instructions stated</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
