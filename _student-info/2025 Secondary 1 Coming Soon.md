@@ -114,7 +114,11 @@ parents are to ensure the correct books are bought.</p>
 <p>School Uniforms</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>My Uniform Shop (ASIA) Pte Ltd</strong>
+</p>
 <p></p>
+<p>Website: <a href="https://www.myuniformshop.com.sg/" rel="noopener nofollow" target="_blank">https://www.myuniformshop.com.sg/</a>
+</p>
 </td>
 </tr>
 <tr>
