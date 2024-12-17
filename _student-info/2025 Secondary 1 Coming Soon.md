@@ -101,7 +101,12 @@ parents are to ensure the correct books are bought.</p>
 </ol>
 <p>Click below for the <strong>Updated (22 Dec) booklists:</strong>
 </p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.queenswaysec.moe.edu.sg/admissions-info/booklists/" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -252,4 +257,9 @@ the rental of lockers.</p>
 <p></p>
 <p></p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
 <p></p>
