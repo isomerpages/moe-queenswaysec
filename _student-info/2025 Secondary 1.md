@@ -176,9 +176,9 @@ a PG acceptance form will be sent to you by <strong>Thursday, 19 December 2024, 
 For queries, you may contact Ms Lily Choo (Subject Head/Mathematics) at
 <a href="mailto:choo_li_chin_lily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_li_chin_lily@moe.edu.sg</a>.</p>
 <h4><strong>8. Mother Tongue Language Matters</strong></h4>
-<p>For enquiries about matters related to Mother Tongue Language, please
-refer to Annex B.</p>
-<p>(click <a href="/files/2025_Sec_1_Mother_Tongue_Language_info_to_parents_Updated_.pdf" rel="noopener nofollow" target="_blank">here</a>)</p>
+<p>For enquiries about matters related to Mother Tongue Language, click
+<a href="/files/2025_Sec_1_Mother_Tongue_Language_info_to_parents_Updated_.pdf" rel="noopener nofollow" target="_blank">here</a>for more information.</p>
+<p></p>
 <h4><strong>9. Financial Assistance Scheme</strong></h4>
 <p>Singapore citizens in financial need can get assistance from MOE on school
 fees and other expenses. Students who require financial assistance can
@@ -216,12 +216,12 @@ form or late submission, will not be processed.</p>
 <h4><strong>12. Art Elective Programme/Music Elective Programme</strong></h4>
 <p>If your child/ward exhibits interest, potential and passion for Art or
 Music, he/she can apply for Art/Music Elective Programme (AEP/MEP) in the
-following AEP/MEP Centres from Secondary 1:</p>
+following AEP/ MEP Centres from Secondary 1:</p>
 <p>AEP: National Junior College</p>
 <p>MEP: Anglo-Chinese School (Independent)</p>
 <p>MEP: Dunman High School</p>
 <p>Note: The date for online application is 2 to 15 January 2025. Click
-<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec" rel="noopener nofollow" target="_blank">here</a>for more information.</p>
+<a href="/files/2025_AEP_and_MEP_Centre_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">here</a>for more information.</p>
 <p>Successful applicants will attend weekly lessons in the afternoon at the
 AEP/MEP Centre and are expected to commit to the programme for 4 years.
 Prior to application, interested students and their parents should work
