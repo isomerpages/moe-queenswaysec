@@ -178,7 +178,7 @@ For queries, you may contact Ms Lily Choo (Subject Head/Mathematics) at
 <h4><strong>8. Mother Tongue Language Matters</strong></h4>
 <p>For enquiries about matters related to Mother Tongue Language, please
 refer to Annex B.</p>
-<p>(click <a href="/files/2025_Sec_1_Mother_Tongue_Language_info_to_parents.pdf" rel="noopener nofollow" target="_blank">here</a>)</p>
+<p>(click <a href="/files/2025_Sec_1_Mother_Tongue_Language_info_to_parents_Updated_.pdf" rel="noopener nofollow" target="_blank">here</a>)</p>
 <h4><strong>9. Financial Assistance Scheme</strong></h4>
 <p>Singapore citizens in financial need can get assistance from MOE on school
 fees and other expenses. Students who require financial assistance can
