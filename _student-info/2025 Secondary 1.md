@@ -14,6 +14,45 @@ our school.</p>
 the MOE press release.</p>
 <p>Students posted to QSS need <u>not</u> report to the school after the release
 of school posting results.</p>
+<p>The PSLE cut-off points for QSS are as follows:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PG3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PG2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PG1</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>2. e-Registration and Orientation matters</strong></h4>
 <p>All incoming 2025 Secondary 1 students must register online via Parents
 Gateway (PG). A welcome letter will be sent to all parents/guardians via
