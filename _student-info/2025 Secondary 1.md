@@ -38,7 +38,7 @@ be provided in the welcome letter.</p>
 <p>Students need not bring their schoolbooks on the above-mentioned days.
 Official lessons will only start on Wednesday, 8 January 2025.</p>
 <h4><strong>3. Sec 1 Meet-the-Parent session/CCA Fair/Campfire</strong></h4>
-<p>Parents/guardians are invited to attend the <strong>Meet-the-Parents Session (MTPS)</strong>, <strong>CCA Fair and Campfire </strong>on <strong>Friday, 10 January 2025 </strong>from <strong>3 pm to 7 pm</strong>.
+<p>Parents/guardians are invited to attend the <strong>Meet-the-Parents Session (MTPS)</strong>, <strong>CCA Fair and Campfire </strong>on <strong>Friday, 10 January 2025 </strong>from <strong>3.30 pm to 7.30 pm</strong>.
 More information will be provided in the welcome letter via PG.</p>
 <h4><strong>4. Class allocation</strong></h4>
 <p>By 31 December 2024, parents/guardians can check their PG for their child’s/ward's
