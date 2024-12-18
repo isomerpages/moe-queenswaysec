@@ -216,8 +216,7 @@ For queries, you may contact Ms Lily Choo (Subject Head/Mathematics) at
 <a href="mailto:choo_li_chin_lily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_li_chin_lily@moe.edu.sg</a>.</p>
 <h4><strong>8. Mother Tongue Language Matters</strong></h4>
 <p>For enquiries about matters related to Mother Tongue Language, click
-<a href="/files/2025_Sec_1_Mother_Tongue_Language_info_to_parents__updated_2_.pdf" rel="noopener nofollow" target="_blank">here</a><a href="/files/2025_Sec_1_Mother_Tongue_Language_info_to_parents_Updated_.pdf" rel="noopener nofollow" target="_blank"> </a>for
-more information.</p>
+<a href="/files/2025_Sec_1_Mother_Tongue_Language_info_to_parents__updated_2_.pdf" rel="noopener nofollow" target="_blank">here</a>for more information.</p>
 <p></p>
 <h4><strong>9. Financial Assistance Scheme</strong></h4>
 <p>Singapore citizens in financial need can get assistance from MOE on school
