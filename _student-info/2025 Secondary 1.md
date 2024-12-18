@@ -20,9 +20,8 @@ Gateway (PG). A welcome letter will be sent to all parents/guardians via
 PG <strong>by Thursday, 19 December 2024</strong>. You can also complete
 the registration online by clicking on this <a href="https://form.gov.sg/6760e189cf4ebe71887d12a9" rel="noopener nofollow" target="_blank">link.</a>
 </p>
-<p>Those not on board PG must to visit our school’s general office to complete
-the registration form in person. Alternatively, parents/guardians not onboard
-PG may proceed to the following link to download the application for onboarding.</p>
+<p>Parents/guardians not onboard PG are encouraged to onboard PG by downloading
+the PG application.</p>
 <p>• Parents Gateway (<a href="https://pg.moe.edu.sg/" rel="noopener nofollow" target="_blank">link</a>)
 <br>• Parents Gateway FAQs (<a href="https://pg.moe.edu.sg/faq" rel="noopener nofollow" target="_blank">link</a>)</p>
 <p>The Sec 1 Orientation Programme will be held on the 2, 3, 6 and 7 January
@@ -247,8 +246,8 @@ the rental of lockers.</p>
 to support our students and school activities. By joining the PSG, you'll
 have the opportunity to contribute to enriching your child's educational
 experience, connect with other supportive parents, and play an active role
-in school events. Indicate your interest in signing up and be a part of
-this rewarding journey.</p>
+in school events. More information on how to join the PSG will be provided
+later.</p>
 <p>We look forward to having you with us!</p>
 <p></p>
 <p></p>
