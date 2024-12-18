@@ -26,4 +26,5 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1tpQV4albL9OXdel2D7OhRvvUy09PviQs/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Booklist</a>
 </p>
 <p><strong>Secondary 5</strong>
-<br>-Will be updated in Dec 2024</p>
+<br><a href="/files/Sec_5_Queensway_Booklist.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Booklist</a>
+</p>
