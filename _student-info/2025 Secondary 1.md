@@ -200,7 +200,7 @@ to transfer to another school. They are expected to honour their commitment
 to the allocated DSA school for the entire duration of the programme.</p>
 <p>Please note that your PSLE score must meet our school’s cut-off point
 (COP) for the posting year.</p>
-<p>All appeal forms (click <a href="https://go.gov.sg/qsssec1appeal2025" rel="noopener nofollow" target="_blank">here</a>)
+<p>All appeal forms (click <a href="https://go.gov.sg/qsssec1appeal2025a" rel="noopener nofollow" target="_blank">here</a>)
 are to be submitted by <strong>Friday, 27 December 2024, 12pm.</strong>
 </p>
 <p><strong>(B) Appeal for transfer out to another school for medical reasons</strong>
