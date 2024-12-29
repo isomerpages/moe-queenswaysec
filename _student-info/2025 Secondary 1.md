@@ -71,9 +71,11 @@ school.</p>
 They will assemble in the atrium basketball court. More information will
 be provided in the welcome letter.</p>
 <p><strong>Reporting Time/Dismissal Time/Attire</strong>:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="2025 Sec 1 Orientation Time Table" src="/images/2025_Sec_1_Orientation_Table.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Sec 1 Orientation Dismissal Time Table" src="/images/Sec_1_Dismissal_Time_2025.jpg">
 </div>
+<p></p>
 <p>Students need not bring their schoolbooks on the above-mentioned days.
 Official lessons will only start on Wednesday, 8 January 2025.</p>
 <h4><strong>3. Sec 1 Meet-the-Parent session/CCA Fair/Campfire</strong></h4>
