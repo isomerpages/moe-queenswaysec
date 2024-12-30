@@ -609,15 +609,19 @@ variant: tiptap
 <p>411</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tharshini_karthigesan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms K Tharshini</a>
+<p><a href="mailto:jasbir_singh_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jasbir Singh</a>
 </p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_xin_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Xin Yee</a>
+<a href="mailto:tharshini_karthigesan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">(Term 2)</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:CHONG_KOK_WAI_KEVIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Chong</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
