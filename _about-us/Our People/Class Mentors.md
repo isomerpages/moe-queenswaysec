@@ -375,15 +375,20 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:dora_tay_hui_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Dora Tay</a>
+</p>
 <p><a href="mailto:ng_chih_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Frieden Ng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_zhi_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sim Zhi Wei</a>
+<p><a href="mailto:wang_zhaolin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wang Zhaolin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_chih_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Frieden Ng</a>
+</p>
+<p><a href="mailto:sim_zhi_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sim Zhi Wei</a>
+</p>
 </td>
 </tr>
 <tr>
