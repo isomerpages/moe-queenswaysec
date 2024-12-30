@@ -545,7 +545,7 @@ variant: tiptap
 <p>401</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Shirley_Tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joanne Chan</a>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mrs Joanne Chan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -576,11 +576,11 @@ variant: tiptap
 <p>403</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hong_bee_philynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Philynn Tan</a>
+<p><a href="mailto:how_xin_yi_veronica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Veronica How</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dora_tay_hui_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Dora Tay</a>
+<p><a href="mailto:zhang_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhang Yi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -592,11 +592,12 @@ variant: tiptap
 <p>404</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yew_siew_ping_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cindy Tan</a>
+<p><a href="mailto:leong_wei_jie_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Leong</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gilbert_tan_wei_beng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gilbert Tan</a>
+<p><a href="mailto:teng_shumin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Teng Shumin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
