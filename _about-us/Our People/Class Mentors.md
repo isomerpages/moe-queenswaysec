@@ -517,7 +517,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4>SECONDARY 4/5 CLASS MENTORS</h4>
-<h5>UPPER SEC YEAR HEAD: <a href="mailto:feroz_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MR FEROZ ALI</a></h5>
+<h5>UPPER SEC YEAR HEAD: <a href="mailto:teo_yong_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MS TEO YONG CHIN</a></h5>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
