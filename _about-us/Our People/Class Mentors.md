@@ -88,10 +88,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_hui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Hui Jun</a>
-</p>
-<p><a href="mailto:calyn_seah_jia_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Calyn Seah</a>
-</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -287,15 +285,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:chia_hui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Hui Jun</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:calyn_seah_jia_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Calyn Seah</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:iryantee_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Iryantee</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:ng_wei_sheng_martin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Ng Wei Sheng</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
