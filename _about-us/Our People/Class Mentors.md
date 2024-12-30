@@ -65,10 +65,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hui_lin_melcia_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Melcia Leong</a>
-</p>
-<p><a href="mailto:lee_junguang_quinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Quinn Lee</a>
-</p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -305,11 +302,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kasthuri_mahanthran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kasthuri Davaraj</a>
+<p><a href="mailto:hui_lin_melcia_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Melcia Leong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:NG_WEI_SHENG_MARTIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Ajaib Singh</a>
+<p><a href="mailto:lee_junguang_quinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Quinn Lee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
