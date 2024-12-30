@@ -258,6 +258,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_hong_bee_philynn@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Philynn Tan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2 Care</p>
 <p></p>
 </td>
@@ -535,7 +550,7 @@ variant: tiptap
 <p>401</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Shirley_Tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirley Tay</a>
+<p><a href="mailto:Shirley_Tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joanne Chan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
