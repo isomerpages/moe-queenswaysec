@@ -211,23 +211,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Care</p>
+<p></p>
+<p>2 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choy_hui_zhen_ethel@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ethel Choy</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chng_eng_peng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chng Eng Peng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gayatri_devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gayatri Kumar</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:MUHAMMAD_SYAHRUL_SALLEH@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Muhd Syahrul Salleh</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Confidence</p>
+<p>2 Respect</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:quek_yu_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Quek Yu Pin</a>
@@ -243,7 +249,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Diligence</p>
+<p>2 Resilience</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:choo_li_chin_lily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lily Choo</a>
@@ -259,7 +266,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Discipline</p>
+<p>2 Care</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_jing_qi_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Brenda Lim</a>
@@ -275,7 +283,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Excellence</p>
+<p>2 Diligence</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:iryantee_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Iryantee</a>
@@ -291,7 +300,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Respect</p>
+<p>2 Confidence</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kasthuri_mahanthran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kasthuri Davaraj</a>
@@ -307,7 +317,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Responsibility</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_ching_hau_howard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Howard Tan</a>
