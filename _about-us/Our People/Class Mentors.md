@@ -396,15 +396,19 @@ variant: tiptap
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:chia_yew_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Yew Hwee</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Miss Rekha Gopal Chandradas</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:how_xin_yi_veronica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Veronica How</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhang Yi</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
