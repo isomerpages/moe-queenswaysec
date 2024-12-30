@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Class Mentors</h3>
 <h4>SECONDARY 1 CLASS MENTORS</h4>
-<h5>ASSISTANT YEAR HEAD: <a href="mailto:yeo_choon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MR YEO CHOON HWA</a></h5>
+<h5>ASSISTANT YEAR HEAD: <a href="mailto:iryantee_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MDM IRYANTEE</a></h5>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -392,10 +392,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_chih_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Frieden Ng</a>
-</p>
-<p><a href="mailto:sim_zhi_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sim Zhi Wei</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -412,10 +409,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:how_xin_yi_veronica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Veronica How</a>
-</p>
-<p><a href="mailto:zhang_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhang Yi</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -449,10 +443,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_wei_jie_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Leong</a>
-</p>
-<p><a href="mailto:teng_shumin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Teng Shumin</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -471,10 +462,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_xin_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Xin Yee</a>
-</p>
-<p><a href="mailto:jasbir_singh_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jasbir Singh</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -492,10 +480,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_xin_yi_megan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Megan Goh</a>
-</p>
-<p><a href="mailto:umar_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Umar Abdul Hamid</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
