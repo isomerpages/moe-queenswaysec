@@ -96,6 +96,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Qing</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurshireen</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
