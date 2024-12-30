@@ -131,16 +131,15 @@ variant: tiptap
 <p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choy_hui_zhen_ethel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ethel Choy</a>
+<p><a href="mailto:tham_yu_hsuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tham Yu Hsuan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_meng_guan_jimmy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jimmy Ong</a>
+<p><a href="mailto:zhou_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhou Yun</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chng_eng_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chng Eng Peng</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
