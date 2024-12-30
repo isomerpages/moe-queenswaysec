@@ -115,7 +115,7 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasvinder_kaur_pannu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasvinder Kaur</a>
+<p><a href="mailto:manikandan_suguna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Suguna Manikandan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
