@@ -174,7 +174,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4>SECONDARY 2 CLASS MENTORS</h4>
-<h5>LOWER SEC YEAR HEAD (COVERING): <a href="mailto:teo_yong_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MS TEO YONG CHIN</a></h5>
+<h5>LOWER SEC YEAR HEAD (COVERING): <a href="mailto:yeo_choon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MR YEO CHOON HWA</a></h5>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
