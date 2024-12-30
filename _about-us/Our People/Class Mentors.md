@@ -265,7 +265,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ulaganathan_karpagam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Karpagam</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
