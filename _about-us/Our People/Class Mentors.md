@@ -48,8 +48,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Kim Chan</a>
 </p>
-<p><a href="mailto:stella_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stella Goh</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -111,10 +110,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_meng_yeow_aaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aaron Ong</a>
-</p>
-<p><a href="mailto:mardiana_binti_mohd_ahzhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Mardiana Mohd Ahzhar</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -163,8 +159,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Yang_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Yi</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -272,15 +267,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_jing_qi_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Brenda Lim</a>
+<p><a href="mailto:stella_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stella Goh</a>
 </p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lester_tay_chun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lester Tay</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_yew_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Yew Hwee</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
