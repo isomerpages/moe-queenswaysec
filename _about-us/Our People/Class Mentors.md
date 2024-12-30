@@ -272,8 +272,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_yew_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Yew Hwee</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -292,8 +291,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:iryantee_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Iryantee</a>
 </p>
-<p><a href="mailto:ng_wei_sheng_martin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Ng Wei Sheng</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -413,19 +411,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kala_devi_santha_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kala Devi</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_wei_sheng_martin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Ng </a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 Care</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:gayatri_devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gayatri Kumar</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Miss Grace Tan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:leong_wei_jie_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Leong</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:teng_shumin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Teng Shumin</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
