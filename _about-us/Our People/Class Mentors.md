@@ -54,14 +54,18 @@ variant: tiptap
 <p>1 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ho_hai_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tom Ho</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_junguang_quinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rebecca</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:hui_lin_melcia_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Melcia Leong</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:lee_junguang_quinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Quinn Lee</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -70,15 +74,18 @@ variant: tiptap
 <p>1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ong_meng_guan_jimmy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jimmy Ong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_wen_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chan Wen Ying</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:chia_hui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Hui Jun</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:calyn_seah_jia_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Calyn Seah</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
