@@ -96,18 +96,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Excellence</p>
+<p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chow_Jing_Kang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chow Jing Kang</a>
+<p><a href="mailto:lim_xin_ying_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Xin Ying</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ulaganathan_karpagam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Eugenia</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ulaganathan_karpagam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm U. Karpagam</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -119,11 +120,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Yang_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Yi</a>
+<p><a href="mailto:Yang_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Yang_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Yi</a>
+</p>
 </td>
 </tr>
 <tr>
