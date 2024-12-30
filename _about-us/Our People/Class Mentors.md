@@ -253,15 +253,17 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ong_meng_yeow_aaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aaron Ong</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mardiana_binti_mohd_ahzhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mardiana</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:choo_li_chin_lily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lily Choo</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:manikandan_suguna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Suguna Manikandan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
