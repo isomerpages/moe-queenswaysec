@@ -236,15 +236,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Yang_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Yi</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:quek_yu_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Quek Yu Pin</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:senan_b_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Senan B Long</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
