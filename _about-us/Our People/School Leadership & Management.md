@@ -36,7 +36,7 @@ variant: markdown
 | SH, ICT (Covering) 	| Miss. Philynn Tan Hong Bee 	|
 | SH, Student Management (Covering) 	| Ms. Ethel Choy 	|
 | SH, CL (Covering) 	| Ms. Chia Hui Jun 	|
-| SH, Phy	| Miss. Shirley Tay Li Hui 	|
+| SH, Sci	| Miss. Tan Jialin 	|
 | AYH Lower Sec	| Mdm. Iryantee Ja'afar |
 | SH, PE & CCA, OE, Sec 1 DM	| Mr. Umar Abdul Hamid 	|
 | ST, Chem	| Miss. Veronica How Xin Yi 	|
