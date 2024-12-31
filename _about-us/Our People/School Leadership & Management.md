@@ -12,7 +12,7 @@ variant: markdown
 | Principal 	| Ms. Audrey Chen Li Ying 	|
 | Vice-Principal (EO) 	| Mr. Teo Weihong 	|
 | Vice-Principal (EO) 	| Ms. Priya Rajan 	|
-| YH Upper Sec| Mr. Feroz Ali 	|
+| YH Upper Sec| Miss. Teo Yong Chin	|
 | HOD, Humanities 	| Ms. Irene Wong Hwee Ling	|
 | HOD, Student Management 	| Ms. Jasmine Tay Ya Mei  	|
 | HOD, ICT 	| Mdm. June Tan Teck Yoong 	|
@@ -24,7 +24,7 @@ variant: markdown
 | SSD	| Ms. Tan Yen Nee 	|
 | HOD, MTL  	| Mr. Teo Kian Wee 	|
 | SH, Geography 	| Mr. Alvin Leong Wei Jie 	|
-| AYH Upper Sec	| Miss. Teo Yong Chin	|
+| AYH Upper Sec	| Miss. Chen Zhi Yun	|
 | SH, Student Well-being 	| Mr. Chua Kee Eng 	|
 | Lead Teacher, D&T 	| Mdm. Eileen Ang Bee Kiow	|
 | ST, History	| Mr. Howard Tan Ching Hau 	|
