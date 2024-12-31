@@ -483,22 +483,6 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_kee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Kee Eng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:luo_hailun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Luo Hailun</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>SECONDARY 4/5 CLASS MENTORS</h4>
@@ -534,7 +518,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr. Jonathan Ho XinPing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
