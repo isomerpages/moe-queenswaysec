@@ -216,30 +216,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cindy Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yew_siew_ping_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yew_siew_ping_cindy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Kasthuri Davaraj</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kasthuri_mahanthran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kasthuri_mahanthran@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Jasvinder Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -342,7 +318,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH, Student Management (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ethel Choy</p>
