@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS PHILYNN TAN (I/C)</p>
+<p>MS ZHANG YI (I/C)</p>
 </td>
 </tr>
 </tbody>
@@ -82,7 +82,7 @@ has led to our successes over the years.</p>
 <p>4th in National for B Girls</p>
 <p>4th in Zonal for B Boys</p>
 <p></p>
-<h5>Student Experiences: </h5>
+<h5>Student Experiences:</h5>
 <p>The most memorable experience I had in my CCA was the time we participated
 in an external competition together. At the end, after a hard fought finals,
 we emerged as second place. It was a tough loss, the amount of time and
