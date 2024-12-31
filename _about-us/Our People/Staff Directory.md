@@ -600,13 +600,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH, Educational Support</p>
+<p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Kee Eng</p>
+<p>Ms Tan Wei Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_kee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_kee_eng@moe.edu.sg</a>
+<p><a href="mailto:tan_wei_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -624,13 +624,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD CCE</p>
+<p>SH, Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Wei Yi</p>
+<p>Mr Chua Kee Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wei_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_yi@moe.edu.sg</a>
+<p><a href="mailto:chua_kee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_kee_eng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -723,22 +723,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tharshini Karthigesan</p>
+<p>Ms Jaclyn Lee Kah Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tharshini_karthigesan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tharshini_karthigesan@moe.edu.sg</a>
+<p><a href="mailto:lee_kah_poh_jaclyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kah_poh_jaclyn@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
