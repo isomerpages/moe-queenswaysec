@@ -992,10 +992,10 @@ variant: tiptap
 <p>HOD PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Justin Lloyd Fernandez</p>
+<p>Mr Feroz Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:justin_lloyd_fernandez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">justin_lloyd_fernandez@moe.edu.sg</a>
+<p><a href="mailto:feroz_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feroz_ali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
