@@ -1071,6 +1071,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Samad Mohd Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abdul_samad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_samad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
