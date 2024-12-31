@@ -37,9 +37,9 @@ variant: markdown
 | SH, Student Management (Covering) 	| Ms. Ethel Choy 	|
 | SH, CL (Covering) 	| Ms. Chia Hui Jun 	|
 | SH, Sci	| Miss. Grace Tan Jialin 	|
-| AYH Lower Sec	| Mdm. Iryantee Ja'afar |
+| AYH  Sec 1	| Mdm. Iryantee Ja'afar |
 | SH, PE & CCA, OE, Sec 1 DM	| Mr. Umar Abdul Hamid 	|
 | ST, Chem	| Miss. Veronica How Xin Yi 	|
 | ST, Phy	| Mr. Jonathan Ho Xin Ping  	|
-| AYH Lower Sec	| Mr. Yeo Choon Hwa 	|
+| YH Lower Sec (Covering) | Mr. Yeo Choon Hwa 	|
 | SH, Student Leadership (Covering)	| Ms. Stella Goh	|
