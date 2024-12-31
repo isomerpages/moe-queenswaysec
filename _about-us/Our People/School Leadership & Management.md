@@ -16,7 +16,7 @@ variant: markdown
 | HOD, Humanities 	| Ms. Irene Wong Hwee Ling	|
 | HOD, Student Management 	| Ms. Jasmine Tay Ya Mei  	|
 | HOD, ICT 	| Mdm. June Tan Teck Yoong 	|
-| HOD, PE & CCA 	| Mr. Justin Lloyd Fernandez 	|
+| HOD, PE & CCA 	| Mr. Feroz Ali 	|
 | HOD, Craft & Technology 	| Mr. Kevin Chong Kok Wai	|
 | HOD, EL & Lit 	| Mr. Makoto Kawaguchi 	|
 | HOD, Maths 	| Mrs. Sheryl Soh Kim Choo (Ms Sim) 	|
