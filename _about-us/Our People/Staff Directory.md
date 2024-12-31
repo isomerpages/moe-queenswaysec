@@ -143,6 +143,17 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Yong Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>English</h4>
@@ -792,34 +803,34 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yen Nee</p>
+<p>Mr Andy Yeo Wei Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yen_nee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yen_nee_a@moe.edu.sg</a>
+<p><a href="mailto:yeo_wei_yong_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_wei_yong_andy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
+<p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Tay</p>
+<p>Mdm Lim Yi Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_ya_mei_jasmine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_ya_mei_jasmine@moe.edu.sg</a>
+<p><a href="mailto:lim_yi_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH, Physics</p>
+<p>SH, Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shirley Tay</p>
+<p>Miss Grace Tan Jialin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shirley_tay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shirley_tay@moe.edu.sg</a>
+<p><a href="mailto:tan_jialin_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jialin_grace@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -864,7 +875,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Swee Kheng</p>
+<p>Mis Lim Swee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_swee_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_kheng@moe.edu.sg</a>
