@@ -29,16 +29,17 @@ variant: markdown
 | SH, Student Well-being 	| Mr. Chua Kee Eng 	|
 | Lead Teacher, D&T 	| Mdm. Eileen Ang Bee Kiow	|
 | ST, History	| Mr. Howard Tan Ching Hau 	|
-| SH, ML & TL 	| Mdm. Iryantee Ja'afar 	|
 | SH, English & Literature 	| Ms. Joanne Loo Jia En (Mrs Chan)	|
 | SH, Mathematics 	| Ms. Lily Choo Li Chin 	|
 | ST, CL	| Ms. Low Xin Yee 	|
 | SH, CCE (Covering)	| Ms. Luo Hailun (Mrs Ding) 	|
 | SH, ICT (Covering) 	| Miss. Philynn Tan Hong Bee 	|
 | SH, Student Management (Covering) 	| Ms. Ethel Choy 	|
+| SH, CL (Covering) 	| Ms. Chia Hui Jun 	|
 | SH, Phy	| Miss. Shirley Tay Li Hui 	|
 | AYH Lower Sec	| Mdm. Iryantee Ja'afar |
 | SH, PE & CCA, OE, Sec 1 DM	| Mr. Umar Abdul Hamid 	|
 | ST, Chem	| Miss. Veronica How Xin Yi 	|
+| ST, Phy	| Mr. Jonathan Ho Xin Ping  	|
 | AYH Lower Sec	| Mr. Yeo Choon Hwa 	|
 | SH, Student Leadership (Covering)	| Ms. Stella Goh	|
