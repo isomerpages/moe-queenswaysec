@@ -514,7 +514,7 @@ variant: tiptap
 <p>401</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mrs Joanne Chan</a>
+<p><a href="mailto:jia_en_joanne_loo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joanne Chan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
