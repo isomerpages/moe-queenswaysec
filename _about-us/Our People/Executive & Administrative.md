@@ -301,10 +301,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Library Assistant</p>
+<p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Salin</p>
+<p>Mdm Ruhama Ana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>salin.g@staff.spydus.com.sg</p>
