@@ -1013,19 +1013,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Feroz Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:feroz_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feroz_ali@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Upper Sec Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Teo Yong Chin</p>
@@ -1037,7 +1025,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Lower Sec Year Head (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yeo Choon Hwa</p>
