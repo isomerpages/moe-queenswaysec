@@ -20,6 +20,7 @@ variant: markdown
 | HOD, Craft & Technology 	| Mr. Kevin Chong Kok Wai	|
 | HOD, EL & Lit 	| Mr. Makoto Kawaguchi 	|
 | HOD, Maths 	| Mrs. Sheryl Soh Kim Choo (Ms Sim) 	|
+| HOD, Sci	| Mdm. Lim Yi Lin 	|
 | HOD, CCE 	| Ms. Tan Wei Yi  	|
 | SSD	| Mr. Andy Yeo Wei Yong 	|
 | HOD, MTL  	| Mr. Teo Kian Wee 	|
