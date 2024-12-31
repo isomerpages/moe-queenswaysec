@@ -190,6 +190,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH, English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss. Rebecca Chow Hui Shi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
