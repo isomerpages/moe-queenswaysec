@@ -24,7 +24,7 @@ variant: markdown
 | SSD	| Ms. Tan Yen Nee 	|
 | HOD, MTL  	| Mr. Teo Kian Wee 	|
 | SH, Geography 	| Mr. Alvin Leong Wei Jie 	|
-| AYH Upper Sec	| Miss. Chen Zhiyun 	|
+| AYH Upper Sec	| Miss. Teo Yong Chin	|
 | SH, Student Well-being 	| Mr. Chua Kee Eng 	|
 | Lead Teacher, D&T 	| Mdm. Eileen Ang Bee Kiow	|
 | ST, History	| Mr. Howard Tan Ching Hau 	|
@@ -35,7 +35,7 @@ variant: markdown
 | SH, CCE (Covering)	| Ms. Luo Hailun (Mrs Ding) 	|
 | SH, ICT (Covering) 	| Miss. Philynn Tan Hong Bee 	|
 | SH, Phy	| Miss. Shirley Tay Li Hui 	|
-| AYH Lower Sec	| Miss. Teo Yong Chin 	|
+| AYH Lower Sec	| Mdm. Iryantee Ja'afar |
 | SH, PE & CCA, OE, Sec 1 DM	| Mr. Umar Abdul Hamid 	|
 | ST, Chem	| Miss. Veronica How Xin Yi 	|
 | AYH Lower Sec	| Mr. Yeo Choon Hwa 	|
