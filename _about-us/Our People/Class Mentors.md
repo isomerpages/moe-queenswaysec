@@ -221,7 +221,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:jasvinder_kaur_pannu@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasvinder Kaur</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Yang_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Yi</a>
