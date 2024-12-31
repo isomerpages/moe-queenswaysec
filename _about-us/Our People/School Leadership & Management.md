@@ -25,7 +25,7 @@ variant: markdown
 | SSD	| Mr. Andy Yeo Wei Yong 	|
 | HOD, MTL  	| Mr. Teo Kian Wee 	|
 | SH, Geography 	| Mr. Alvin Leong Wei Jie 	|
-| AYH Upper Sec	| Miss. Chen Zhi Yun	|
+| AYH Sec	4/5 | Miss. Chen Zhi Yun	|
 | SH, Educational Support 	| Mr. Chua Kee Eng 	|
 | Lead Teacher, D&T 	| Mdm. Eileen Ang Bee Kiow	|
 | ST, History	| Mr. Howard Tan Ching Hau 	|
