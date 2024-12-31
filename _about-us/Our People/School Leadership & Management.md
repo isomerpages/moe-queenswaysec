@@ -21,7 +21,7 @@ variant: markdown
 | HOD, EL & Lit 	| Mr. Makoto Kawaguchi 	|
 | HOD, Maths 	| Mrs. Sheryl Soh Kim Choo (Ms Sim) 	|
 | HOD, CCE 	| Ms. Tan Wei Yi  	|
-| SSD	| Ms. Tan Yen Nee 	|
+| SSD	| Mr. Andy Yeo Wei Yong 	|
 | HOD, MTL  	| Mr. Teo Kian Wee 	|
 | SH, Geography 	| Mr. Alvin Leong Wei Jie 	|
 | AYH Upper Sec	| Miss. Chen Zhi Yun	|
