@@ -848,6 +848,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ST, Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jonathan Ho XinPing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_xinping_jonathan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH, Student Leadership (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
