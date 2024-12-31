@@ -299,8 +299,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:iryantee_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Iryantee</a>
-</p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -605,8 +604,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:CHONG_KOK_WAI_KEVIN@SCHOOLS.GOV.SG" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Chong</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
