@@ -35,6 +35,7 @@ variant: markdown
 | SH, CCE (Covering)	| Ms. Luo Hailun (Mrs Ding) 	|
 | SH, ICT (Covering) 	| Miss. Philynn Tan Hong Bee 	|
 | SH, Student Management (Covering) 	| Ms. Ethel Choy 	|
+| SH, SP	| Mr. Santokh Singh 	|
 | SH, CL (Covering) 	| Ms. Chia Hui Jun 	|
 | SH, Sci	| Miss. Grace Tan Jialin 	|
 | AYH  Sec 1	| Mdm. Iryantee Ja'afar |
