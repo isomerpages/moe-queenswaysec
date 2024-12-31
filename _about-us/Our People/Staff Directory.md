@@ -600,7 +600,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH, Student Well-being</p>
+<p>SH, Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Kee Eng</p>
