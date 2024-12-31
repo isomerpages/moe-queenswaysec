@@ -35,6 +35,7 @@ variant: markdown
 | ST, CL	| Ms. Low Xin Yee 	|
 | SH, CCE (Covering)	| Ms. Luo Hailun (Mrs Ding) 	|
 | SH, ICT (Covering) 	| Miss. Philynn Tan Hong Bee 	|
+| SH, Student Management (Covering) 	| Ms. Ethel Choy 	|
 | SH, Phy	| Miss. Shirley Tay Li Hui 	|
 | AYH Lower Sec	| Mdm. Iryantee Ja'afar |
 | SH, PE & CCA, OE, Sec 1 DM	| Mr. Umar Abdul Hamid 	|
