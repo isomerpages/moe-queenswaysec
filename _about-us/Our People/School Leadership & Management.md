@@ -14,7 +14,7 @@ variant: markdown
 | Vice-Principal (EO) 	| Ms. Priya Rajan 	|
 | YH Upper Sec| Miss. Teo Yong Chin	|
 | HOD, Humanities 	| Ms. Irene Wong Hwee Ling	|
-| HOD, Student Management 	| Ms. Jasmine Tay Ya Mei  	|
+| HOD, SP| Ms. Betsy Teo Mei Chin 	|
 | HOD, ICT 	| Mdm. June Tan Teck Yoong 	|
 | HOD, PE & CCA 	| Mr. Feroz Ali 	|
 | HOD, Craft & Technology 	| Mr. Kevin Chong Kok Wai	|
