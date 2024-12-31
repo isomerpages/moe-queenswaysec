@@ -271,6 +271,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Poh Pin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_poh_pin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_pin_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Humanities</h3>
