@@ -60,7 +60,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:tan_kok_tze_benedict@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,7 +79,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Eugenia Heng</a>
+<p><a href="mailto:eugenia_heng_ee_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Eugenia Heng</a>
 </p>
 <p></p>
 </td>
@@ -116,7 +116,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Ng</a>
+<p><a href="mailto:ng_swee_khiang_gabriel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Ng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,7 +148,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Miss Rebecca Chow</a>
+<p><a href="mailto:rebecca_chow_hui_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Rebecca Chow</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,7 +164,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mdm Jaslyn Ng</a>
+<p><a href="mailto:jaslyn_ng_simin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jaslyn Ng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -405,7 +405,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Miss Rekha Gopal Chandradas</a>
+<p><a href="mailto:rekha_gopal_chandradas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Rekha Gopal Chandradas</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
