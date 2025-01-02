@@ -151,7 +151,8 @@ variant: tiptap
 <p>Mr Goh Yong Long</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_yong_long_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yong_long_a@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 </tbody>
