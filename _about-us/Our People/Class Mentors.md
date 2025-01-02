@@ -79,7 +79,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Eugenia Heng</a>
+<p><a href="mailto:eugenia_heng_ee_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Eugenia Heng</a>
 </p>
 <p></p>
 </td>
