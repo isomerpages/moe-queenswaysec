@@ -405,7 +405,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Miss Rekha Gopal Chandradas</a>
+<p><a href="mailto:rekha_gopal_chandradas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Rekha Gopal Chandradas</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
