@@ -116,7 +116,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Ng</a>
+<p><a href="mailto:ng_swee_khiang_gabriel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Ng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
