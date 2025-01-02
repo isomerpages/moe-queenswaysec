@@ -278,7 +278,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH, PE &amp; CCA, OE, Sec 1 DM</p>
+<p>SH, PE &amp; CCA, OE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Umar Abdul Hamid</p>
