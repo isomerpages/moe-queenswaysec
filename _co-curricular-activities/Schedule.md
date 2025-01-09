@@ -28,8 +28,8 @@ variant: markdown
 | Hockey<br> Boys &amp; Girls<br>(B &amp; C Div) 	|  	|  3.30-6pm 	|   	| 3.30-6pm 	|  3.30-6pm 	|   	|
 | Badminton Girls<br>(B Div) 	|   3.30-5.30pm	| 	|   	| 3.30-5.30pm 	|   	|   	|
 | Badminton Girls<br>(C Div) 	|   	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|
-| Volleyball Girls<br> 	|  3.30-6pm 	| 3.30-6pm 	|   	| 3.30-6pm 	|   	|   	|
-| Volleyball Boys<br> 	|  3.30-6pm 	| 	|  3.30-6pm  	|  	| 3.30-6pm  	|   	|
+| Volleyball Girls<br> 	|  	| 3.30-6pm 	|   	| 3.30-6pm 	|   	|   	|
+| Volleyball Boys<br> 	|  3.30-6pm 	| 	|   	|  	| 1.30-4.30pm  	|   	|
 | Basketball Boys C Boys<br> 	|   	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|
 | Basketball Boys B Boys<br> 	| 3.30-5.30pm 	|  	|   	| 3.30-5.30pm 	|   	|   	|
 | Football Girls B Girls<br> 	|  3.30-5.30pm 	|	| 3.30-5.30pm  	|  	|   	|   	|
