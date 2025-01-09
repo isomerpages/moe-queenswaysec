@@ -13,13 +13,13 @@ variant: markdown
 | GIRLS GUIDES (GG) 	| 	|   	|   	|  	| 2-6pm   	|   	|
 | BOYS BRIGADE (BB) 	|   	|   	|   	|   	|   	| 8.30-12noon 	|
 |   	|   	|   	|   	|   	|   	|   	|
-| CHINESE DANCE 	| 3.30-5.30pm 	|   	| 3.30-5.30pm	|   	|   	|   	|
-| MODERN DANCE 	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|   	|
-| CHOIR 	|   	|  	| 3.30-5.30pm 	| 3.30-5.30pm 	|   	|   	|
+| CHINESE DANCE 	| 3.30-5.45pm 	|   	| 3.30-5.45pm	|   	|   	|   	|
+| MODERN DANCE 	| 3.30-5.30pm 	|   	| 3.30-6pm 	|   	|   	|   	|
+| CHOIR 	|   	|  	| 3.30-5.30pm 	| 1.30-3.30pm 	|   	|   	|
 | Concert BAND 	| 3.30-6pm (Junior) <br> 3.30-6pm (Main) 	|   	| 3.30-6pm (Junior) 	| 3.30-6pm (Main)  	|   	|   	|
 | ELDDS 	| 3.30-5.30pm 	|   	| 	|  3.30-5.30pm 	|   	|   	|
 |   	|  
-| MEDIA CLUB	|   	|  3.30-5.30pm 	|   	|  3.30-5.30pm 		|   	|   	|
+| MEDIA CLUB	|   	|   	|   	|  |  2-5pm	|   	|
 
 <br><br>
 
