@@ -16,8 +16,8 @@ variant: markdown
 | CHINESE DANCE 	| 3.30-5.45pm 	|   	| 3.30-5.45pm	|   	|   	|   	|
 | MODERN DANCE 	| 3.30-5.30pm 	|   	| 3.30-6pm 	|   	|   	|   	|
 | CHOIR 	|   	|  	| 3.30-5.30pm 	| 1.30-3.30pm 	|   	|   	|
-| Concert BAND 	| 3.30-6pm (Junior) <br> 3.30-6pm (Main) 	|   	| 3.30-6pm (Junior) 	| 3.30-6pm (Main)  	|   	|   	|
-| ELDDS 	| 3.30-5.30pm 	|   	| 	|  3.30-5.30pm 	|   	|   	|
+| Concert BAND 	| 3.30-6pm 	|   	| 	| 3.30-6pm   	|   	|   	|
+| ELDDS 	| 3.30-6pm 		|   	| 	|  3.30-6pm 		|   	|   	|
 |   	|  
 | MEDIA CLUB	|   	|   	|   	|  |  2-5pm	|   	|
 
@@ -35,4 +35,4 @@ variant: markdown
 | Football Girls B Girls<br> 	|  3.30-5.30pm 	|	| 3.30-5.30pm  	|  	|   	|   	|
 | Football Girls C Girls<br> 	|  | 	|3.30-5.30pm	  || 3.30-5.30pm	  	|   	|
 | Football Boys B Boys<br> 	|  3.30-5.30pm 	| 	| 	| 3.30-5.30pm   	| 	|   	|
-| Football Boys C Boys<br> 	| | 3.30-5.30pm	| 	| 	| 3.30-5.30pm   	|   	|
+| Football Boys C Boys<br> 	| | 3.30-5.30pm	| 	| 	| 3-5pm   	|   	|
