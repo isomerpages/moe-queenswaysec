@@ -33,6 +33,6 @@ variant: markdown
 | Basketball Boys C Boys<br> 	|   	| 3.30-5.30pm 	|   	| 3.30-5.30pm 	|   	|   	|
 | Basketball Boys B Boys<br> 	| 3.30-5.30pm 	|  	|   	| 3.30-5.30pm 	|   	|   	|
 | Football Girls B Girls<br> 	|  3.30-5.30pm 	|	| 3.30-5.30pm  	|  	|   	|   	|
-| Football Girls C Girls<br> 	|  | 	|3.30-5.30pm	  || 3.30-5.30pm	  	|   	|
+| Football Girls C Girls<br> 	|  | 	|3.30-5.30pm	  || 3-5pm   	  	|   	|
 | Football Boys B Boys<br> 	|  3.30-5.30pm 	| 	| 	| 3.30-5.30pm   	| 	|   	|
 | Football Boys C Boys<br> 	| | 3.30-5.30pm	| 	| 	| 3-5pm   	|   	|
