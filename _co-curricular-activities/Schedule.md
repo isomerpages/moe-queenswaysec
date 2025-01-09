@@ -8,9 +8,9 @@ variant: markdown
 
 | DAY/CCA 	| MON 	| TUES 	| WED 	| THU 	| FRI 	| SAT 	|
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| NPCC <br> Boys &amp; Girls Unit	|   3.30-5.30pm	|   	|   	| 3.30-5.30pm 	|   	|   	|
-| NCC <br> Boys &amp; Girls Unit	| 3.30-5.30pm 	|   	|   	| 3.30-5.30pm  	|   	|   	|
-| GIRLS GUIDES (GG) 	| 3.30-5.30pm 	|   	|   	| 3.30-5.30pm  	|   	|   	|
+| NPCC <br> Boys &amp; Girls Unit	|  	|   	|   	| 	| 2-6pm  	|   	|
+| NCC <br> Boys &amp; Girls Unit	| 	|   	|   	|   	| 2-6pm  	|   	|
+| GIRLS GUIDES (GG) 	| 	|   	|   	|  	| 2-6pm   	|   	|
 | BOYS BRIGADE (BB) 	|   	|   	|   	|   	|   	| 8.30-12noon 	|
 |   	|   	|   	|   	|   	|   	|   	|
 | CHINESE DANCE 	| 3.30-5.30pm 	|   	| 3.30-5.30pm	|   	|   	|   	|
