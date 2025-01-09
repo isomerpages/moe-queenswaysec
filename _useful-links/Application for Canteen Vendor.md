@@ -31,7 +31,9 @@ variant: tiptap
 <p>20 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Includes Halal snacks like buns,cakes,etc.</p>
+<p>Includes cut fruits (without any toppings), Halal snacks like buns,cakes,etc.</p>
+<p></p>
+<p>All items to comply and have HCS (Healthier Choice) logo.</p>
 </td>
 </tr>
 </tbody>
