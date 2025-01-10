@@ -4,8 +4,29 @@ permalink: /student-info/hblcalendar/
 description: ""
 variant: markdown
 ---
-**Please see the following table for the Home-Based Learning dates this year.**
+**Please see the following table for the Home-Based Learning dates for 2025.**
 
-![HBL Sem 1 Dates 2024](/images/HBL_Sem_1_Dates_2024.jpg)
+**Term 1**
 
-![HBL Sem 2 Latest](/images/HBL_Sem_2_Dates_2024.jpg)
+| Week | Date | Day |
+| -------- | -------- | -------- |
+| 4     | 31 Jan     | Friday     |
+| 5     | 7 Feb     | Friday     |
+| 7    | 17 Feb    | Monday     |
+| 9     | 5  Mar    | Wednesday     |
+
+**Term 2**
+
+| Week | Date | Day |
+| -------- | -------- | -------- |
+| 3     | 8 Apr     | Tuesday     |
+| 5     | 24 Apr     | Thursday     |
+| 7    | 7 May    | Wednesday     |
+
+**Term 2**
+
+| Week | Date | Day |
+| -------- | -------- | -------- |
+| 3     | 15 Jul, 16 Jul, 17 Jul     | Tuesday, Wednesday, Thursday [Sec 1 - 3 only]     |
+| 5     | 29 Jul     | Tuesday     |
+| 8    | 20 Aug    | Wednesday     |
