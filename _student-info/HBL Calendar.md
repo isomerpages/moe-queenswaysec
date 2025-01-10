@@ -4,7 +4,7 @@ permalink: /student-info/hblcalendar/
 description: ""
 variant: markdown
 ---
-**Please see the following table for the Home-Based Learning dates this year.**
+**Please see the following table for the Home-Based Learning dates for 2025.**
 
 **Term 1**
 
