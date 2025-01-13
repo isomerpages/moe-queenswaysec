@@ -8,7 +8,7 @@ variant: tiptap
 <p><a href="https://online.fliphtml5.com/obrr/ewxc/" rel="noopener nofollow" target="_blank">2024 Yearbook</a>
 </p>
 <p></p>
-<p><a href="https://online.fliphtml5.com/imxpa/dloj/" rel="noopener nofollow" target="_blank">2023 Yearbook</a>
+<p><a href="https://online.fliphtml5.com/obrr/inuj/" rel="noopener nofollow" target="_blank">2023 Yearbook</a>
 </p>
 <p><a href="https://online.fliphtml5.com/obrr/lfxc/" rel="noopener nofollow" target="_blank">2022 Yearbook</a>
 </p>
