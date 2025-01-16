@@ -23,7 +23,7 @@ variant: markdown
 | 5     | 24 Apr     | Thursday     |
 | 7    | 7 May    | Wednesday     |
 
-**Term 2**
+**Term 3**
 
 | Week | Date | Day |
 | -------- | -------- | -------- |
