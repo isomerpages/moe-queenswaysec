@@ -42,7 +42,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h3>Overview of Queensway Secondary School's Sexuality Education Programme for 2024</h3>
+<h3>Overview of Queensway Secondary School's Sexuality Education Programme for 2025</h3>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
 Education is grouped into five main themes: Human Development, Interpersonal
@@ -76,7 +76,7 @@ self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p>For information on QSS's Sexuality Education Programme, please click
-<a href="https://drive.google.com/file/d/1_0LwIPosCIahXVglFA1qOFRnTfQaRru8/view" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<a href="https://drive.google.com/file/d/1vYsDePW6yfiyVwHI3c7mxemzjeZAi189/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 </p>
 <p><strong>Information for Parents</strong>
@@ -86,14 +86,14 @@ the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
-You may find a hard copy of the form <a href="https://drive.google.com/file/d/14ogtPTHxoskWetIuycQ4wStLHU1zT3Ux/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-Please complete the hard copy form and submit it to the school office by
-22/01/2024 (all levels).</p>
+You may find a hard copy of the form <a href="https://drive.google.com/file/d/1_9hqyeoaoF8pgDZeWPVgT4CqUAEQQvaO/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+A hardcopy of the form, duly completed and signed, is to be submitted to
+the school office by 31/01/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary 3 parents who wish to opt
 their children out of the eTeens programme need to complete an opt-out
-form. The form can be found <a href="https://drive.google.com/file/d/1BrnjJVABO8YlP_7Iia69QziLQ-ljrDdR/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+form. The form can be found <a href="https://drive.google.com/file/d/1uvzOeL2hkSg7qeeK0URbJUeWDaAfUYJS/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 A hardcopy of the form, duly completed and signed, is to be submitted to
-the school office by 31/01/2024 (Secondary 3).</p>
+the school office by 31/01/2025 (Secondary 3).</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at qss@moe.edu.sg
 for discussion or to seek clarification about the school’s Sexuality Education
 programme.
