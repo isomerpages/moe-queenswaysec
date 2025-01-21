@@ -76,7 +76,7 @@ self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p>For information on QSS's Sexuality Education Programme, please click
-<a href="https://drive.google.com/file/d/1_0LwIPosCIahXVglFA1qOFRnTfQaRru8/view" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<a href="https://drive.google.com/file/d/1vYsDePW6yfiyVwHI3c7mxemzjeZAi189/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 </p>
 <p><strong>Information for Parents</strong>
