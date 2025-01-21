@@ -91,7 +91,7 @@ A hardcopy of the form, duly completed and signed, is to be submitted to
 the school office by 31/01/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary 3 parents who wish to opt
 their children out of the eTeens programme need to complete an opt-out
-form. The form can be found <a href="https://drive.google.com/file/d/1BrnjJVABO8YlP_7Iia69QziLQ-ljrDdR/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+form. The form can be found <a href="https://drive.google.com/file/d/1uvzOeL2hkSg7qeeK0URbJUeWDaAfUYJS/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 A hardcopy of the form, duly completed and signed, is to be submitted to
 the school office by 31/01/2025 (Secondary 3).</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at qss@moe.edu.sg
