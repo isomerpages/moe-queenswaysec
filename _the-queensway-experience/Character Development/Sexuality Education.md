@@ -86,7 +86,7 @@ the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
-You may find a hard copy of the form <a href="https://drive.google.com/file/d/14ogtPTHxoskWetIuycQ4wStLHU1zT3Ux/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+You may find a hard copy of the form <a href="https://drive.google.com/file/d/1_9hqyeoaoF8pgDZeWPVgT4CqUAEQQvaO/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 Please complete the hard copy form and submit it to the school office by
 22/01/2024 (all levels).</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secondary 3 parents who wish to opt
