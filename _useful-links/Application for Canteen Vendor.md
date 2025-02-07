@@ -5,39 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4>School Canteen Advertisement</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Type of Stall</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Closing Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Requirements</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Drinks &amp; Snacks</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 Jan 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Includes cut fruits (without any toppings), Halal snacks like buns,cakes,etc.</p>
-<p></p>
-<p>All items to comply and have HCS (Healthier Choice) logo.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
