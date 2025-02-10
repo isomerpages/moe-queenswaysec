@@ -796,7 +796,7 @@ variant: tiptap
 <p>Mr Andy Yeo Wei Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_wei_yong_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_wei_yong_andy@moe.edu.sg</a>
+<p><a href="mailto:andy_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andy_yeo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
