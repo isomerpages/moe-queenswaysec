@@ -16,7 +16,7 @@ future.</p>
 <p>To create a caring and enabling environment to nurture confident learners
 and compassionate leaders.</p>
 <h5>Our Values</h5>
-<p>Integrity, Care, Resilience, Respect, Responsibility</p>
+<p>Integrity, Care, Respect, Responsibility, Resilience</p>
 <h4>Our School Song</h4>
 <p>We are proud to proclaim
 <br>We are Queenswayans in name
