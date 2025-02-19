@@ -1,8 +1,9 @@
 ---
-title: Education &amp; Career Guidance
+title: Education & Career Guidance
 permalink: /programmes/Character-Education/education-and-career-guidance/
 description: ""
 third_nav_title: Character Development
+variant: markdown
 ---
 ### Education &amp; Career Guidance
 
@@ -12,5 +13,4 @@ Education and Career Guidance (ECG) is about equipping students with the necessa
 
 #### Make An Appointment with our ECG Counsellor
 
-
-![](/images/marketing%20poster%20(queensway)_updated%202023.png)
+![ECG 2025](/images/ECG_2025.jpg)
