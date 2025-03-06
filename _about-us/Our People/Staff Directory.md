@@ -790,18 +790,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Andy Yeo Wei Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:andy_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andy_yeo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -809,6 +797,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yi_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_lin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Yeo Wei Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:andy_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andy_yeo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
