@@ -7,4 +7,4 @@ variant: markdown
 ---
 ### Leave of Absence Application
 
-Please find the application [here](Go.gov.sg/qss-loa)
+Please find the application [here.](Go.gov.sg/qss-loa)
