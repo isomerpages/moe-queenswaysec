@@ -109,8 +109,7 @@ variant: tiptap
 <p>Ms. Christina Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:christina_chua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">christina_chua@schools.gov.sg</a>
-</p>
+<p>christina_chua@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
