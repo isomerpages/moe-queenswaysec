@@ -137,17 +137,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Rahimah Bte Mohamed Idris</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rahimah_mohamed_idris@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>STEM Instructor (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
