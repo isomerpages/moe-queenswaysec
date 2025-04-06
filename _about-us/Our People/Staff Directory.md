@@ -202,10 +202,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH, English</p>
+<p>LH, EL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Rebecca Chow</p>
+<p>Ms Rebecca Chow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rebecca_chow_hui_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_chow_hui_shi@moe.edu.sg</a>
