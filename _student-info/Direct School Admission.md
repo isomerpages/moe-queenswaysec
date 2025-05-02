@@ -49,10 +49,10 @@ their latest achievements.</p>
 <p>SPORTS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Basketball</p>
+<p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys</p>
+<p>Girls</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>Applicants should preferably: <sup>[2]</sup>
@@ -77,10 +77,10 @@ school between early July to the end of August.</p>
 <p>SPORTS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Badminton</p>
+<p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girls</p>
+<p>Boys</p>
 </td>
 </tr>
 <tr>
