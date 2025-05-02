@@ -96,13 +96,13 @@ school between early July to the end of August.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SPORTS</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hockey</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys, Girls</p>
+<p></p>
 </td>
 </tr>
 <tr>
