@@ -54,7 +54,7 @@ their latest achievements.</p>
 <td rowspan="1" colspan="1">
 <p>Girls</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Applicants should preferably: <sup>[2]</sup>
 </p>
 <ul data-tight="true" class="tight">
@@ -67,7 +67,7 @@ and/or have outstanding sporting achievements and</p>
 </li>
 </ul>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Shortlisted applicants will be invited for an interview and trial at our
 school between early July to the end of August.</p>
 </td>
@@ -92,17 +92,6 @@ school between early July to the end of August.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boys, Girls</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
