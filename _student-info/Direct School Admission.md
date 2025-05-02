@@ -4,15 +4,15 @@ permalink: /dsa/
 description: ""
 variant: tiptap
 ---
-<h2>Direct School Admission for 2025 Intake</h2>
+<h2>Direct School Admission for 2026 Intake</h2>
 <p>Queensway Secondary School welcomes applications from Primary 6 students
 in the current academic year to participate in the Direct School Admission
 (DSA-Sec) Exercise. Parents and students are encouraged to choose schools
 wisely based on the student’s aptitudes and strengths, bearing in mind
 the school’s academic and non-academic requirements and the programmes
 available to develop the area of talent.</p>
-<p>We offer the following DSA talent areas for the 2025 intake. Please refer
-to this <a href="https://www.queenswaysec.moe.edu.sg/cca/sports/basketball/" rel="noopener noreferrer nofollow" target="_blank">page</a> for
+<p>We offer the following DSA talent areas for the 2026 intake. Please refer
+to this <a href="https://www.queenswaysec.moe.edu.sg/basketball/" rel="noopener noreferrer nofollow" target="_blank">page</a> for
 more information regarding the respective CCAs and this <a href="https://www.queenswaysec.moe.edu.sg/achievements/" rel="noopener noreferrer nofollow" target="_blank">page</a> for
 their latest achievements.</p>
 <h4>DSA Talent Areas</h4>
@@ -49,12 +49,12 @@ their latest achievements.</p>
 <p>SPORTS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Basketball</p>
+<p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys</p>
+<p>Girls</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Applicants should preferably: <sup>[2]</sup>
 </p>
 <ul data-tight="true" class="tight">
@@ -67,7 +67,7 @@ and/or have outstanding sporting achievements and</p>
 </li>
 </ul>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Shortlisted applicants will be invited for an interview and trial at our
 school between early July to the end of August.</p>
 </td>
@@ -77,10 +77,10 @@ school between early July to the end of August.</p>
 <p>SPORTS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Badminton</p>
+<p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Girls</p>
+<p>Boys</p>
 </td>
 </tr>
 <tr>
@@ -89,17 +89,6 @@ school between early July to the end of August.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Football</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Boys, Girls</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SPORTS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hockey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boys, Girls</p>
@@ -185,8 +174,8 @@ school between early July to the end of August.</p>
 <p><em>[2] Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 11am on Tuesday,
-7 May 2024 to 3pm on Monday, 3 Jun 2024. For more details, please refer
+The application is free-of-charge and will be open from 11am on Wednesday,
+7 May 2025 to 3pm on Tuesday, 3 Jun 2025. For more details, please refer
 to the <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and join the respective CCA related
