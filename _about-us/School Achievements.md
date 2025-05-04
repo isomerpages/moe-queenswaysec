@@ -19,13 +19,13 @@ variant: markdown
 | Hockey Girls C   |   |    |    |2nd League 2   |Results in Sem 2|
 
 
-|Performing Arts CCA and Year of Award| 2019/2020 | 2021/2022 |2023/2024 |
-| -------- | -------- | -------- |-------- |
-| Chinese Dance   | Accomplishment   | Distinction   |Distinction    |
-| ELDDS    | Distinction    | Accomplishment   |Distinction    |
-| Band   | Accomplishment    | Accomplishment    |Accomplishment   |
-| Choir    | Distinction     | NA   |Accomplishment   |
-| Modern Dance    | NA | NA    |Accomplishment   |
+|Performing Arts CCA and Year of Award| 2019/2020 | 2021/2022 |2023/2024 |2025/2026 |
+| -------- | -------- | -------- |-------- |-------- |
+| Chinese Dance   | Accomplishment   | Distinction   |Distinction    |Accomplishment   |
+| Drama  | Distinction    | Accomplishment   |Distinction    |Results not in |
+| Band   | Accomplishment    | Accomplishment    |Accomplishment   |Accomplishment   |
+| Choir    | Distinction     | NA   |Accomplishment   |Distinction    |
+| Modern Dance    | NA | NA    |Accomplishment   |Results not in |
 
 
 |Uniform Groups | 2022 | 2023 |2024 |2025|
