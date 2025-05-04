@@ -28,9 +28,9 @@ variant: markdown
 | Modern Dance    | NA | NA    |Accomplishment   |
 
 
-|Uniform Groups | 2022 | 2023 |2024 |
-| -------- | -------- | -------- |-------- |
-| NCC   | Distinction    | Distinction   |Distinction    |
-| NPCC    | Gold    | Gold   |Distinction    |
-| Girl Guides | Gold     | Gold       |Silver |
-| Boys Brigade | Silver    | Silver   |Distinction   |
+|Uniform Groups | 2022 | 2023 |2024 |2025|
+| -------- | -------- | -------- |-------- |-------- |
+| NCC   | Distinction    | Distinction   |Distinction    |Distinction    |
+| NPCC    | Gold    | Gold   |Distinction    |Distinction    |
+| Girl Guides | Gold     | Gold       |Silver |Gold  |
+| Boys Brigade | Silver    | Silver   |Distinction   |High Distinction   |
