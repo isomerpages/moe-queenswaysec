@@ -33,4 +33,4 @@ variant: markdown
 | NCC   | Distinction    | Distinction   |Distinction    |Distinction    |
 | NPCC    | Gold    | Gold   |Distinction    |Distinction    |
 | Girl Guides | Gold     | Gold       |Silver |Gold  |
-| Boys Brigade | Silver    | Silver   |Distinction   |High Distinction   |
+| Boys' Brigade | Silver    | Silver   |Distinction   |High Distinction   |
