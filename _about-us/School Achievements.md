@@ -22,10 +22,10 @@ variant: markdown
 |Performing Arts CCA and Year of Award| 2019/2020 | 2021/2022 |2023/2024 |2025/2026 |
 | -------- | -------- | -------- |-------- |-------- |
 | Chinese Dance   | Accomplishment   | Distinction   |Distinction    |Accomplishment   |
-| Drama  | Distinction    | Accomplishment   |Distinction    |Results not in |
+| Drama  | Distinction    | Accomplishment   |Distinction    |Accomplishment   |
 | Band   | Accomplishment    | Accomplishment    |Accomplishment   |Accomplishment   |
 | Choir    | Distinction     |-   |Accomplishment   |Distinction    |
-| Modern Dance    | - | -    |Accomplishment   |Results not in |
+| Modern Dance    | - | -    |Accomplishment   |Distinction |
 
 
 |Uniform Groups | 2022 | 2023 |2024 |2025|
