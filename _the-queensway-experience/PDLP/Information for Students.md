@@ -31,7 +31,7 @@ third_nav_title: PDLP
 <p>&nbsp;</p>
 <p>Lenovo Contact: +65 6817 1435</p>
 <p>E-mail:&nbsp;&nbsp;&nbsp;</p>
-<p><a href="svcctr@servlink.com.sg" rel="noopener nofollow" target="_blank">svcctr@servlink.com.sg</a>
+<p><a href="mailto:svcctr@servlink.com.sg" rel="noopener nofollow" target="_blank">svcctr@servlink.com.sg</a>
 </p>
 <p></p>
 <p>Website: (For buying of accessories)</p>
@@ -57,7 +57,7 @@ third_nav_title: PDLP
 <p>Closed on Sundays and Public Holidays</p>
 <p>Acer Contact: 1800 895 6299</p>
 <p>E-mail:</p>
-<p><a href="acercare.sg@acer.com" rel="noopener nofollow" target="_blank">acercare.sg@acer.com </a>
+<p><a href="mailto:acercare.sg@acer.com" rel="noopener nofollow" target="_blank">acercare.sg@acer.com</a>
 </p>
 <p>&nbsp;</p>
 <p>Website: (For buying of accessories)</p>
