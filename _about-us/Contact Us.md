@@ -22,4 +22,7 @@ variant: tiptap
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="619" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FQueenswaySecondarySchool%2Fposts%2Fpfbid02uzrKTpMaf3QE49qHY7cQhJfqGj8MKrXVShcGH8bR2aqV69dVoRDKE38TYhTLMar9l&amp;show_text=true&amp;width=500"></iframe>
+</div>
 <p></p>
