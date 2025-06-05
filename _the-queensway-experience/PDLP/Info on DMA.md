@@ -6,7 +6,12 @@ description: ""
 third_nav_title: PDLP
 ---
 <h4>The after-school hours are as follows:</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -25,11 +30,11 @@ third_nav_title: PDLP
 </td>
 <td rowspan="1" colspan="1">
 <p>Default settings from</p>
-<p>7:00 am to 2:40 pm</p>
+<p>6:30 am to 3:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents'/Guardians' after-school option from</p>
-<p>2:40 pm to 7:00 am</p>
+<p>3:00 pm to 6:30 am</p>
 </td>
 </tr>
 <tr>
@@ -50,11 +55,10 @@ third_nav_title: PDLP
 </p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DMA Parents Options" src="/images/Parent_DMA_options.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Info on DMA" src="/images/Info_on_DMA.jpg">
 </div>
-<p></p>
-<p></p>
 <p></p>
 <h4>What the different options mean</h4>
 <h4>Default</h4>
@@ -114,5 +118,5 @@ child/ward might face?</p>
 </li>
 </ul>
 <p>For Requests to changing of DMA Option, please email Christina Chua
-<a href="mailto:June_tan_teck_yoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hui_hong@moe.edu.sg</a>
+<a href="mailto:christina_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christina_chua@moe.edu.sg</a>
 </p>
