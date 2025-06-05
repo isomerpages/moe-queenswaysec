@@ -6,7 +6,12 @@ description: ""
 third_nav_title: PDLP
 ---
 <h4>The after-school hours are as follows:</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -50,11 +55,10 @@ third_nav_title: PDLP
 </p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DMA Parents Options" src="/images/Parent_DMA_options.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Info on DMA" src="/images/Info_on_DMA.jpg">
 </div>
-<p></p>
-<p></p>
 <p></p>
 <h4>What the different options mean</h4>
 <h4>Default</h4>
