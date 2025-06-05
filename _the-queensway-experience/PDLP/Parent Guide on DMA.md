@@ -14,4 +14,3 @@ third_nav_title: PDLP
 <p>Option B - <a href="/files/PDLP Resources/DMA Parent Guide v2 - Option B (Chrome OS).pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a>
 </p>
 <p></p>
-<p></p>
