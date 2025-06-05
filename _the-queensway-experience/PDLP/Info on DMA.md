@@ -30,11 +30,11 @@ third_nav_title: PDLP
 </td>
 <td rowspan="1" colspan="1">
 <p>Default settings from</p>
-<p>7:00 am to 2:40 pm</p>
+<p>6:30 am to 3:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents'/Guardians' after-school option from</p>
-<p>2:40 pm to 7:00 am</p>
+<p>3:00 pm to 6:30 am</p>
 </td>
 </tr>
 <tr>
