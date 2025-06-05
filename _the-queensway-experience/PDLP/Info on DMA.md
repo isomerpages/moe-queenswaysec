@@ -56,10 +56,10 @@ third_nav_title: PDLP
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Info on DMA" src="/images/Info_on_DMA.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Info on DMA v2" src="/images/Info_on_DMA_v2.jpg">
+</div>
 <h4>What the different options mean</h4>
 <h4>Default</h4>
 <p>Default setting treats the Chromebook as a device which is used for learning
