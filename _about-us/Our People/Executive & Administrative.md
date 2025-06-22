@@ -103,17 +103,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Amirah Batiah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nur_Amirah_Batiah@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
