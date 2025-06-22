@@ -81,6 +81,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chandra Mohan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chandra_mohan_kanaisan@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
