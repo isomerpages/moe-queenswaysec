@@ -367,18 +367,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH, Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Santokh Singh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="santokh_singh@moe.edu.sg" rel="noopener nofollow" target="_blank">santokh_singh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -386,18 +374,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:quek_yu_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_yu_pin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jasbir Singh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jasbir_singh_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasbir_singh_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
