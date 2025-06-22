@@ -487,8 +487,10 @@ variant: tiptap
 </table>
 <h4>SECONDARY 4/5 CLASS MENTORS</h4>
 <h5>UPPER SEC YEAR HEAD: <a href="mailto:chen_zhiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MS CHEN ZHIYUN</a></h5>
-<table style="minWidth: 100px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -498,6 +500,12 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -524,6 +532,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -540,6 +554,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -552,6 +572,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhang Yi</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -573,19 +599,31 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>411</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasbir_singh_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jasbir Singh</a>
+<p><a href="mailto:low_xin_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Xin Yee (Term 2)</a>
 </p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_xin_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Xin Yee (Term 2)</a>
-</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -609,6 +647,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -626,15 +670,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>511</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:santokh_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Santokh Singh</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
