@@ -81,13 +81,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Mary-Ann Tay</p>
+<p>Mr Chandra Mohan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_kim_hon_mary-ann@schools.gov.sg</p>
+<p>chandra_mohan_kanaisan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -95,10 +95,10 @@ variant: tiptap
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amirah Batiah</p>
+<p>Ms. Mary-Ann Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur_Amirah_Batiah@schools.gov.sg</p>
+<p>tay_kim_hon_mary-ann@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -297,17 +297,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>salin.g@staff.spydus.com.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ECG Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Kenny Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
