@@ -50,18 +50,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH CCE (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ding Hailun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:luo_hailun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luo_hailun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Aesthetic (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,18 +173,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:makoto_kawaguchi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">makoto_kawaguchi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head, EL &amp; Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Joanne Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jia_en_joanne_loo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jia_en_joanne_loo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -431,18 +407,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_kian_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kian_wee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms June Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:june_tan_teck_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">june_tan_teck_yoong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
