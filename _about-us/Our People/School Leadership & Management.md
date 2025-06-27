@@ -70,14 +70,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. June Tan Teck Yoong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD, PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,14 +174,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH, English &amp; Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Joanne Loo Jia En (Mrs Chan)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH, English</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -218,14 +202,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Low Xin Yee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH, CCE (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Luo Hailun (Mrs Ding)</p>
 </td>
 </tr>
 <tr>
