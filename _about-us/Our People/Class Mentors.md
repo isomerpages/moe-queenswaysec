@@ -148,7 +148,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rebecca_chow_hui_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Rebecca Chow</a>
+<p><a href="mailto:rebecca_chow_hui_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rebecca Chow</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
