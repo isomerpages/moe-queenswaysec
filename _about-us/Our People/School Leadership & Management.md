@@ -177,7 +177,7 @@ variant: tiptap
 <p>LH, English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss. Rebecca Chow Hui Shi</p>
+<p>Ms. Rebecca Chow Hui Shi</p>
 </td>
 </tr>
 <tr>
