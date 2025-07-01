@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, Craft &amp; Technology</p>
+<p>HOD, C&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kevin Chong</p>
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher, Design &amp; Technology</p>
+<p>LT, D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Eileen Ang</p>
@@ -50,7 +50,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Aesthetic (Covering)</p>
+<p>SH, Aesthetic
+<br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Melcia Leong</p>
@@ -166,7 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, English Language &amp; Literature</p>
+<p>HOD, EL &amp; Lit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Makoto Kawaguchi</p>
@@ -178,7 +179,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head, English Language</p>
+<p>LH, EL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rebecca Chow</p>
@@ -307,7 +308,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Geography</p>
+<p>SH, Geography</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alvin Leong</p>
@@ -319,7 +320,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Student Management (Covering)</p>
+<p>SH, Student Management
+<br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ethel Choy</p>
@@ -331,7 +333,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher, History</p>
+<p>ST, History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Howard Tan</p>
@@ -368,18 +370,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Quek Yu Pin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:quek_yu_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_yu_pin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Martin Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -396,6 +386,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_xin_yi_megan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xin_yi_megan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Quek Yu Pin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:quek_yu_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_yu_pin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -422,7 +424,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, Mother Tongue Language</p>
+<p>HOD, MTL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Kian Wee</p>
@@ -434,7 +436,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head, Sec 1</p>
+<p>AYH, Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Iryantee Bte Jaffar</p>
@@ -446,7 +448,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Chinese Language (Covering)</p>
+<p>SH, CL (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Hui Jun</p>
@@ -458,7 +460,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher, Chinese Language</p>
+<p>ST, CL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Low Xin Yee</p>
@@ -473,40 +475,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Colman Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Edith Loh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Han Jian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kalaselvi Mariappan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -642,7 +611,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, Character &amp; Citizenship Education</p>
+<p>HOD, CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Wei Yi</p>
@@ -654,7 +623,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head, Sec 4&amp;5</p>
+<p>AYH, Sec 4&amp;5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chen Zhiyun</p>
@@ -666,7 +635,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Educational Support</p>
+<p>SH, Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Kee Eng</p>
@@ -678,7 +647,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, ICT (Covering)</p>
+<p>SH, ICT (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Philynn Tan</p>
@@ -690,7 +659,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Mathematics</p>
+<p>SH, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lily Choo</p>
@@ -805,17 +774,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sangithah d/o Santha Kumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Science</h4>
@@ -852,7 +810,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Science</p>
+<p>SH, Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Grace Tan Jialin</p>
@@ -864,7 +822,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Student Leadership (Covering)</p>
+<p>SH, Student Leadership
+<br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Stella Goh</p>
@@ -876,7 +835,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher, Chemistry</p>
+<p>ST, Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Veronica How</p>
@@ -888,7 +847,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher, Physics</p>
+<p>ST, Physics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jonathan Ho Xin Ping</p>
@@ -1061,7 +1020,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, Physical Education &amp; CCA</p>
+<p>HOD, PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Feroz Ali</p>
@@ -1073,7 +1032,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head, Lower Secondary (Covering)</p>
+<p>YH, Lower Sec (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yeo Choon Hwa</p>
@@ -1085,7 +1044,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head, Upper Secondary</p>
+<p>YH, Upper Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Teo Yong Chin</p>
@@ -1097,7 +1056,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH, Physical Education &amp; CCA</p>
+<p>SH, PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Umar Abdul Hamid</p>
