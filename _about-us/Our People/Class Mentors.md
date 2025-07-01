@@ -132,7 +132,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_wen_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chan Wen Ying</a>
+<p><a href="mailto:chan_wen_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Wen Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,7 +164,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_chun_rong_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ng Chun Rong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -202,12 +203,12 @@ variant: tiptap
 <p>2 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choy_hui_zhen_ethel@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Ethel Choy</a>
+<p><a href="mailto:chng_eng_peng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chng Eng Peng</a>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chng_eng_peng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chng Eng Peng</a>
+<p><a href="mailto:wong_yim_wai@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Samantha Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -276,7 +277,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Kim Chan(Sem2)</a>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Kim Chan</a>
 </p>
 <p></p>
 </td>
@@ -295,7 +296,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:calyn_seah_jia_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Calyn Seah</a>
+<p><a href="mailto:calyn_seah_jia_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Calyn Seah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,7 +318,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:caleb_yee_zhejian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Caleb Yee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -404,7 +406,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rekha_gopal_chandradas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Rekha Gopal Chandradas</a>
+<p><a href="mailto:rekha_gopal_chandradas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rekha Gopal Chandradas</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -438,7 +440,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Miss Grace Tan</a>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Grace Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -486,10 +488,8 @@ variant: tiptap
 </table>
 <h4>SECONDARY 4/5 CLASS MENTORS</h4>
 <h5>UPPER SEC YEAR HEAD: <a href="mailto:chen_zhiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MS CHEN ZHIYUN</a></h5>
-<table style="minWidth: 150px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -509,26 +509,14 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>401</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr. Jonathan Ho XinPing</a>
+<p><a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr. Jonathan Ho</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -552,12 +540,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -574,12 +556,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -588,17 +564,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_wei_jie_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Leong</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teng_shumin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Teng Shumin</a>
+<p><a href="mailto:teng_shumin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teng Shumin</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -611,18 +580,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_xin_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Xin Yee</a>
 </p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:han_jian_hannah@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Han Jian</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -633,19 +594,13 @@ variant: tiptap
 <p>412</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_xin_yi_megan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Megan Goh</a>
+<p><a href="mailto:goh_xin_yi_megan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Megan Goh</a>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:umar_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Umar Abdul Hamid</a>
 </p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -663,12 +618,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
