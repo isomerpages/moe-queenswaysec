@@ -50,8 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH, Aesthetic
-<br>(Covering)</p>
+<p>SH, Aesthetic (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Melcia Leong</p>
@@ -216,7 +215,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, EL &amp; Lit</p>
+<p>HOD, English Language
+<br>&amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Makoto Kawaguchi</p>
@@ -240,7 +240,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH, EL</p>
+<p>LH, English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rebecca Chow</p>
@@ -511,7 +511,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, MTL</p>
+<p>HOD, Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Kian Wee</p>
@@ -523,7 +523,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH, Sec 1</p>
+<p>AYH, Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Iryantee Bte Jaffar</p>
@@ -535,7 +535,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH, CL (Covering)</p>
+<p>SH, Chinese Language
+<br>(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chia Hui Jun</p>
@@ -547,7 +548,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST, CL</p>
+<p>ST, Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Low Xin Yee</p>
@@ -712,7 +713,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH, Sec 4&amp;5</p>
+<p>AYH, Secondary 4&amp;5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chen Zhiyun</p>
