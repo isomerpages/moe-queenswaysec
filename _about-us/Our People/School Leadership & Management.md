@@ -25,7 +25,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Audrey Chen Li Ying</p>
+<p>Ms. Audrey Chen</p>
 </td>
 </tr>
 <tr>
