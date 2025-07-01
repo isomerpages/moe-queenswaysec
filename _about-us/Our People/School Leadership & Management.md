@@ -120,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, Special Project</p>
+<p>HOD, Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Betsy Teo Mei Chin</p>
