@@ -906,7 +906,7 @@ variant: tiptap
 <p>SH, Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Grace Tan</p>
+<p>Ms Grace Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jialin_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jialin_grace@moe.edu.sg</a>
