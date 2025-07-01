@@ -59,7 +59,7 @@ variant: tiptap
 <p>HOD, Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Kevin Chong Kok Wai</p>
+<p>Mr. Kevin Chong</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ variant: tiptap
 <p>HOD, Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Irene Wong Hwee Ling</p>
+<p>Ms. Irene Wong</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ variant: tiptap
 <p>HOD, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Sheryl Soh Kim Choo (Ms Sim)</p>
+<p>Mrs. Sheryl Soh (Ms Sim)</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ variant: tiptap
 <p>HOD, Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Betsy Teo Mei Chin</p>
+<p>Ms. Betsy Teo</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ variant: tiptap
 <p>School Staff Developer / HOD, ICT (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Andy Yeo Wei Yong</p>
+<p>Mr. Andy Yeo</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ variant: tiptap
 <p>Level Head, English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Rebecca Chow Hui Shi</p>
+<p>Ms. Rebecca Chow</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ variant: tiptap
 <p>Subject Head, Aesthetic (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Melcia Leong Hui Lin</p>
+<p>Ms. Melcia Leong</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ variant: tiptap
 <p>Subject Head, Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Alvin Leong Wei Jie</p>
+<p>Mr. Alvin Leong</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ variant: tiptap
 <p>Subject Head, ICT (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss. Philynn Tan Hong Bee</p>
+<p>Miss. Philynn Tan</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ variant: tiptap
 <p>Subject Head, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Lily Choo Li Chin</p>
+<p>Ms. Lily Choo</p>
 </td>
 </tr>
 <tr>
@@ -235,7 +235,7 @@ variant: tiptap
 <p>Subject Head, Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss. Grace Tan Jialin</p>
+<p>Miss. Grace Tan</p>
 </td>
 </tr>
 <tr>
@@ -259,7 +259,7 @@ variant: tiptap
 <p>Lead Teacher, D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Eileen Ang Bee Kiow</p>
+<p>Mdm. Eileen Ang</p>
 </td>
 </tr>
 <tr>
@@ -267,7 +267,7 @@ variant: tiptap
 <p>Senior Teacher, Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss. Veronica How Xin Yi</p>
+<p>Miss. Veronica How</p>
 </td>
 </tr>
 <tr>
@@ -283,7 +283,7 @@ variant: tiptap
 <p>Senior Teacher, History</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Howard Tan Ching Hau</p>
+<p>Mr. Howard Tan</p>
 </td>
 </tr>
 <tr>
@@ -291,7 +291,7 @@ variant: tiptap
 <p>Senior Teacher, Physics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Jonathan Ho Xin Ping</p>
+<p>Mr. Jonathan Ho</p>
 </td>
 </tr>
 </tbody>
