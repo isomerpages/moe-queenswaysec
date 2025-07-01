@@ -511,7 +511,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, Mother Tongue Language</p>
+<p>HOD, MTL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Kian Wee</p>
