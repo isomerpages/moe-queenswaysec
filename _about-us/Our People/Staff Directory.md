@@ -339,10 +339,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teng Shumin</p>
+<p>Mr Tan Poh Pin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teng_shumin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_shumin@moe.edu.sg</a>
+<p><a href="mailto:tan_poh_pin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_pin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -351,10 +351,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Poh Pin</p>
+<p>Ms Teng Shumin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_poh_pin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_pin_a@moe.edu.sg</a>
+<p><a href="mailto:teng_shumin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_shumin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -836,10 +836,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Zhi Wei</p>
+<p>Ms Samantha Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_zhi_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_zhi_wei@moe.edu.sg</a>
+<p><a href="mailto:wong_yim_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yim_wai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -848,10 +848,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Samantha Wong</p>
+<p>Mr Sim Zhi Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_yim_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yim_wai@moe.edu.sg</a>
+<p><a href="mailto:sim_zhi_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_zhi_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1039,10 +1039,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Xin Ying</p>
+<p>Ms Lim Swee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_xin_ying_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xin_ying_1@moe.edu.sg</a>
+<p><a href="mailto:lim_swee_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_kheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1051,10 +1051,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Swee Kheng</p>
+<p>Ms Lim Xin Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_swee_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_kheng@moe.edu.sg</a>
+<p><a href="mailto:lim_xin_ying_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xin_ying_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>
