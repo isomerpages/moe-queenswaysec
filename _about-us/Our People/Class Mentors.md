@@ -467,7 +467,7 @@ variant: tiptap
 <p>401</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr. Jonathan Ho</a>
+<p><a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jonathan Ho</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
