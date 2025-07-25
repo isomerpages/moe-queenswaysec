@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h4>Craft &amp; Technology</h4>
+<h4></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -14,14 +14,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="3">
+<h4>Craft &amp; Technology</h4>
 </th>
 </tr>
 <tr>
@@ -192,26 +186,11 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4>English</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<h4>English</h4>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -358,26 +337,11 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<h3>Humanities</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<h3>Humanities</h3>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -488,26 +452,11 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4>Mother Tongue Languages</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<h4>Mother Tongue Languages</h4>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -666,26 +615,11 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4>Mathematics</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<h4>Mathematics</h4>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -867,16 +801,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
 <h4>Science</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>HOD, Science</p>
@@ -1094,26 +1024,11 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4>Physical Education &amp; Co-Curricular Activites</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<h4>Physical Education &amp; Co-Curricular Activities</h4>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
