@@ -6,8 +6,6 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3>Class Mentors</h3>
-<h4>SECONDARY 1 CLASS MENTORS</h4>
-<h5>YEAR HEAD: <a href="mailto:iryantee_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MDM IRYANTEE</a></h5>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -16,6 +14,12 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="4">
+<h4>SECONDARY 1 CLASS MENTORS</h4>
+<h5>YEAR HEAD: <a href="mailto:iryantee_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MDM IRYANTEE</a></h5>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Class</p>
@@ -158,18 +162,13 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="4">
+<p></p>
 <h4>SECONDARY 2 CLASS MENTORS</h4>
 <h5>YEAR HEAD: <a href="mailto:yeo_choon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MR YEO CHOON HWA</a></h5>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Class</p>
@@ -298,18 +297,13 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="4">
+<p></p>
 <h4>SECONDARY 3 CLASS MENTORS</h4>
 <h5>YEAR HEAD: <a href="mailto:teo_yong_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MS TEO YONG CHIN</a></h5>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Class</p>
@@ -436,18 +430,13 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="4">
+<p></p>
 <h4>SECONDARY 4/5 CLASS MENTORS</h4>
 <h5>YEAR HEAD: <a href="mailto:chen_zhiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MS CHEN ZHIYUN</a></h5>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Class</p>
