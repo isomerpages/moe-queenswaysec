@@ -17,7 +17,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="4">
 <h4>SECONDARY 1 CLASS MENTORS</h4>
-<h5>YEAR HEAD: <a href="mailto:iryantee_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MDM IRYANTEE</a></h5>
+<h4>YEAR HEAD: <a href="mailto:iryantee_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MDM IRYANTEE</a></h4>
 </td>
 </tr>
 <tr>
@@ -166,7 +166,7 @@ variant: tiptap
 <td rowspan="1" colspan="4">
 <p></p>
 <h4>SECONDARY 2 CLASS MENTORS</h4>
-<h5>YEAR HEAD: <a href="mailto:yeo_choon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MR YEO CHOON HWA</a></h5>
+<h4>YEAR HEAD: <a href="mailto:yeo_choon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MR YEO CHOON HWA</a></h4>
 </td>
 </tr>
 <tr>
@@ -301,7 +301,7 @@ variant: tiptap
 <td rowspan="1" colspan="4">
 <p></p>
 <h4>SECONDARY 3 CLASS MENTORS</h4>
-<h5>YEAR HEAD: <a href="mailto:teo_yong_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MS TEO YONG CHIN</a></h5>
+<h4>YEAR HEAD: <a href="mailto:teo_yong_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MS TEO YONG CHIN</a></h4>
 </td>
 </tr>
 <tr>
@@ -434,7 +434,7 @@ variant: tiptap
 <td rowspan="1" colspan="4">
 <p></p>
 <h4>SECONDARY 4/5 CLASS MENTORS</h4>
-<h5>YEAR HEAD: <a href="mailto:chen_zhiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MS CHEN ZHIYUN</a></h5>
+<h4>YEAR HEAD: <a href="mailto:chen_zhiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">MS CHEN ZHIYUN</a></h4>
 </td>
 </tr>
 <tr>
