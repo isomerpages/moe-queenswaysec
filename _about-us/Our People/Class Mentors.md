@@ -91,7 +91,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurshireen Abdul Rasid</a>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurshireen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -359,7 +359,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rekha_gopal_chandradas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rekha Gopal Chandradas</a>
+<p><a href="mailto:rekha_gopal_chandradas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rekha</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -539,7 +539,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:umar_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Umar Abdul Hamid</a>
+<p><a href="mailto:umar_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Umar</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
