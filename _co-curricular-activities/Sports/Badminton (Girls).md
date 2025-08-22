@@ -58,4 +58,9 @@ skills in the sport, laying the foundation for further progression.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Badminton 1" src="/images/Badminton_1.jpg">
 </div>
-<p></p>
+<p>Our team took part in the annual National School Games (NSG) and demonstrated
+sportsmanship, perseverance, and resilience. In 2023, our ‘C’ Girls’ Division
+team made it to the quarterfinals in the South Zone NSG Competitions. The
+team has shown a great attitude, and we hope that in time to come, they
+will continue to show enthusiasm and a spirit of learning as they strive
+for even greater heights.</p>
