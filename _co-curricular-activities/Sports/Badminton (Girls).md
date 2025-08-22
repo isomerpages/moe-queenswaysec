@@ -64,3 +64,8 @@ team made it to the quarterfinals in the South Zone NSG Competitions. The
 team has shown a great attitude, and we hope that in time to come, they
 will continue to show enthusiasm and a spirit of learning as they strive
 for even greater heights.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Badminton 2" src="/images/Badminton_2.jpg">
+</div>
+<p></p>
