@@ -51,4 +51,6 @@ third_nav_title: Sports
 </tbody>
 </table>
 <h3>Overview of the CCA:</h3>
-<p></p>
+<p>Badminton is one of the popular CCAs offered at Queensway. Our girls go
+through a rigorous developmental training program to learn fundamental
+skills in the sport, laying the foundation for further progression.</p>
