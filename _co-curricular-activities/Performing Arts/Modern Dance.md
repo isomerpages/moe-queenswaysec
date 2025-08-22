@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM ZHENG XIUMIN (I/C)</p>
+<p>Ms YANG YI (I/C)</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR ROBIN TEH</p>
+<p>Jump Productions</p>
 </td>
 </tr>
 </tbody>
