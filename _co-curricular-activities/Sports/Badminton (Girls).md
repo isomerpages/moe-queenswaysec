@@ -68,4 +68,12 @@ for even greater heights.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Badminton 2" src="/images/Badminton_2.jpg">
 </div>
+<h3>Student Experiences:</h3>
+<p>'Being the captain for the past 3 years has been such a fulfilling experience.
+Given that my batch was the first batch for the relatively new CCA, it
+made me proud to watch them grow from when they were just beginners to
+players who now have a passion for the sport. They showed me that despite
+hardships, like losing a match or not being on your game that day, they
+would continue to move forward, working on how to improve their skills
+further and reach the standard they set for themselves.’</p>
 <p></p>
