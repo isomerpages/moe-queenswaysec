@@ -76,4 +76,7 @@ players who now have a passion for the sport. They showed me that despite
 hardships, like losing a match or not being on your game that day, they
 would continue to move forward, working on how to improve their skills
 further and reach the standard they set for themselves.’</p>
+<p><strong><em>Captain, Tan Yu-Qi (404)</em></strong>
+</p>
+<p></p>
 <p></p>
