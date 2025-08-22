@@ -87,5 +87,6 @@ This event has allowed me to understand the importance of communication
 and gradually improve myself to become a better communicator. I will continue
 to lead the team well and develop the team in the joy of learning in this
 sport.’</p>
-<p></p>
+<p><strong><em>Vice-Captain, Carissa Ng Qi En (2 Confidence)</em></strong>
+</p>
 <p></p>
