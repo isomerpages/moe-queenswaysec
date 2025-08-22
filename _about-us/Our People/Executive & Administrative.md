@@ -98,6 +98,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Christina Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:christina_chua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">christina_chua@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,13 +122,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Christina Chua</p>
+<p>Ms Abigail Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:christina_chua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">christina_chua@schools.gov.sg</a>
+<p><a href="mailto:abigail_toh_wei_kian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abigail_toh_wei_kian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
