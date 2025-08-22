@@ -78,5 +78,14 @@ would continue to move forward, working on how to improve their skills
 further and reach the standard they set for themselves.’</p>
 <p><strong><em>Captain, Tan Yu-Qi (404)</em></strong>
 </p>
+<p>‘For the past 1 year, I have learned many new skills like footwork and
+stroke techniques. This gives me a sense of satisfaction, confidence, and
+a thrill of motivation that I look forward to in every training session.
+In Sec 1, I was involved in the school open house where I worked with seniors
+to manage the CCA booth and attended to any queries from the visitors.
+This event has allowed me to understand the importance of communication
+and gradually improve myself to become a better communicator. I will continue
+to lead the team well and develop the team in the joy of learning in this
+sport.’</p>
 <p></p>
 <p></p>
