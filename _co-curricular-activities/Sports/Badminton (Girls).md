@@ -26,10 +26,11 @@ third_nav_title: Sports
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher In Charge</p>
+<p><strong>TEACHER-IN-CHARGE:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MR CHIA YEW HWEE (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -37,10 +38,11 @@ third_nav_title: Sports
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>COACH:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MR JUDE LOH CHUN LI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
