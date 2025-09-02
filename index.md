@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/school facade.jpg
+      background: /images/For_School_Landing_Page_Animated_Gif.gif
       variant: center
       url: https://www.queenswaysec.moe.edu.sg/school-happenings/
       button: School Happenings
