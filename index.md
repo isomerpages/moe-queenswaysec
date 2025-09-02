@@ -11,5 +11,4 @@ sections:
       variant: center
       url: https://www.queenswaysec.moe.edu.sg/school-happenings/
       button: School Happenings
-      title: QUEENSWAY SECONDARY SCHOOL
 ---
