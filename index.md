@@ -17,5 +17,5 @@ sections:
           url: https://www.queenswaysec.moe.edu.sg/announcements/
         - title: Alumni Voices
           description: Key Highlight description
-          url: https://www.queenswaysec.moe.edu.sg/school-happenings/
+          url: https://www.queenswaysec.moe.edu.sg/life-beyond-Queensway/alumnivoices/
 ---
