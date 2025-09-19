@@ -13,9 +13,9 @@ sections:
       button: School Happenings
       key_highlights:
         - title: Announcements
-          description: Key Highlight description
+          description: ""
           url: https://www.queenswaysec.moe.edu.sg/announcements/
         - title: Alumni Voices
-          description: Key Highlight description
+          description: ""
           url: https://www.queenswaysec.moe.edu.sg/life-beyond-Queensway/alumnivoices/
 ---
