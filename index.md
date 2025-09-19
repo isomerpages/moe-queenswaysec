@@ -11,4 +11,11 @@ sections:
       variant: center
       url: https://www.queenswaysec.moe.edu.sg/school-happenings/
       button: School Happenings
+      key_highlights:
+        - title: Announcements
+          description: Key Highlight description
+          url: https://www.queenswaysec.moe.edu.sg/announcements/
+        - title: Alumni Voices
+          description: Key Highlight description
+          url: https://www.queenswaysec.moe.edu.sg/school-happenings/
 ---
