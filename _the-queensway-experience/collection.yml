@@ -2,7 +2,6 @@ collections:
   the-queensway-experience:
     output: true
     order:
-      - EVOQ.md
       - School Happenings.md
       - PDLP/.keep
       - PDLP/Overview.md
