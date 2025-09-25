@@ -17,3 +17,7 @@ and <strong>Q</strong>uality content creators. &nbsp;</p>
 <p>In this section of our school webpage, we showcase students’ initiative
 and contributions. We celebrate the Queenswayan way of life as well as
 the Queenswayans themselves!</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
