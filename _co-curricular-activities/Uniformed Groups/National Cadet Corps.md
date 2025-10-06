@@ -46,15 +46,10 @@ dedicated members.</p>
 <br>7. &nbsp; Adventurous spirit
 <br>8. &nbsp; Safety.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NCC1" src="/images/ncc1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photos/2025 NCC/IMG_0700.jpg">
 </div>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NCC2" src="/images/ncc2.jpg">
-</div>
 <p>Members are taught to display these core values during NCC’s trainings
 and camps. For instance, the core value of discipline must be adhered to
 during our weekly training sessions. The cadets develop resilience as they
