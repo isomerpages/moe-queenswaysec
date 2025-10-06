@@ -79,7 +79,3 @@ Committee to lead the NCC Unit in school. Leadership selection and training
 start as early as Secondary 2 so that leadership roles can be assigned
 at the beginning of Secondary 3 before the Secondary 4 cadets step down
 towards the end of term 2.</p>
-<h4></h4>
-<h4></h4>
-<p>
-<br>Xaviar (411)</p>
