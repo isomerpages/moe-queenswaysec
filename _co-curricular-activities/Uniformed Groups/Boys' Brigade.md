@@ -76,5 +76,5 @@ with other schools.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BB2" src="/images/bb2.jpg">
 </div>
-<h4>Achievement in 2023:</h4>
+<h4>Achievement in 2024:</h4>
 <p>Gold Award</p>
