@@ -29,6 +29,14 @@ variant: tiptap
 <p>Mr Tom Ho (CO)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Zhi Wei (2IC)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Accomplishment in 2024:</strong></h4>
