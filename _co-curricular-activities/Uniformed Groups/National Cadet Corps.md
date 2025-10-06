@@ -52,11 +52,11 @@ dedicated members.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photos/2025 NCC/IMG_0697.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photos/2025 NCC/198ccc8f_8d72_4014_ad2a_280b788016f0.jpg">
 </div>
+<p><strong><em>Leadership transfer!</em></strong>
+</p>
+<p></p>
 <p>Members are taught to display these core values during NCC’s trainings
 and camps. For instance, the core value of discipline must be adhered to
 during our weekly training sessions. The cadets develop resilience as they
