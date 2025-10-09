@@ -5,6 +5,41 @@ description: ""
 variant: tiptap
 ---
 <h4>School Canteen Advertisement</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Type of Stall</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Closing Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Requirement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Halal Rice / Nasi Padang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Oct 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Malay / Indian Muslim food</p>
+<p>- Open to proposal</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
