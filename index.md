@@ -18,7 +18,7 @@ sections:
         - title: Alumni Voices
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/life-beyond-Queensway/alumnivoices/
-        - title: EVOQ
+        - title: Our Voices
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/empowering-voices-of-queensway-evoq/
 ---
