@@ -15,10 +15,10 @@ sections:
         - title: Announcements
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/announcements/
-        - title: Alumni Voices
-          description: ""
-          url: https://www.queenswaysec.moe.edu.sg/life-beyond-Queensway/alumnivoices/
         - title: Our Voices
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/empowering-voices-of-queensway-evoq/
+        - title: Alumni Voices
+          description: ""
+          url: https://www.queenswaysec.moe.edu.sg/life-beyond-Queensway/alumnivoices/
 ---
