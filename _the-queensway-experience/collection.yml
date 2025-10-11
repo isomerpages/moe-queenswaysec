@@ -2,8 +2,8 @@ collections:
   the-queensway-experience:
     output: true
     order:
-      - Empowering Voices of Queensway (EVOQ).md
       - School Happenings.md
+      - Empowering Voices of Queensway (EVOQ).md
       - PDLP/.keep
       - PDLP/Overview.md
       - PDLP/Resources for Parents.md
