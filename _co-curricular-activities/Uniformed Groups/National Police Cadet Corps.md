@@ -51,6 +51,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>Accomplishment in 2024:</strong></h4>
+<p>Gold Award</p>
+<h4><strong>Overview:</strong></h4>
 <p>In NPCC, we believe in developing all our cadets holistically. Our cadets
 will be given the opportunity to conduct training and activities under
 the supervision of our Teacher Officers to develop their leadership and
@@ -63,8 +66,6 @@ police knowledge.&nbsp;</p>
 led by 4 teacher-officers, with the mission of developing cadets into caring
 and responsible citizens. Working closely with NPCC HQ, the following training
 and activities were conducted for our cadets.</p>
-<h4>Accomplishment in 2023:</h4>
-<p>Gold Award</p>
 <h5>Outdoor Training:</h5>
 <ul>
 <li>
