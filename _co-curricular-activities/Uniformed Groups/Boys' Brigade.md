@@ -56,11 +56,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Overview of the CCA:&nbsp;</h4>
+<h4><strong>Achievement in 2024:</strong></h4>
+<p>Gold Award</p>
+<p></p>
+<h4><strong>Overview of the CCA:&nbsp;</strong></h4>
 <p>The 61st Company aims to provide a holistic education for our boys outside&nbsp;of
 the classroom. Through our planned programs, we seek to develop each&nbsp;boy’s
 leadership skills and character.&nbsp;</p>
-<p>In 2022, we focused on increasing the engagement of our boys through outdoor
+<p>In 2025, we focused on increasing the engagement of our boys through outdoor
 and adventure activities. One highlight was the archery training sessions
 that our boys participated in. They also attended lessons on survival and
 campcraft skills, ranging from tying knots, pitching a basha and outdoor
@@ -76,5 +79,5 @@ with other schools.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BB2" src="/images/bb2.jpg">
 </div>
-<h4>Achievement in 2023:</h4>
-<p>Gold Award</p>
+<h4></h4>
+<p></p>

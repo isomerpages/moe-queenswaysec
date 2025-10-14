@@ -29,6 +29,14 @@ variant: tiptap
 <p>Mr Tom Ho (CO)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Zhi Wei (2IC)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Accomplishment in 2024:</strong></h4>
@@ -49,6 +57,13 @@ dedicated members.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photos/2025 NCC/IMG_0700.jpg">
 </div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photos/2025 NCC/198ccc8f_8d72_4014_ad2a_280b788016f0.jpg">
+</div>
+<p><strong><em>Leadership transfer!</em></strong>
+</p>
 <p></p>
 <p>Members are taught to display these core values during NCC’s trainings
 and camps. For instance, the core value of discipline must be adhered to
@@ -79,7 +94,3 @@ Committee to lead the NCC Unit in school. Leadership selection and training
 start as early as Secondary 2 so that leadership roles can be assigned
 at the beginning of Secondary 3 before the Secondary 4 cadets step down
 towards the end of term 2.</p>
-<h4></h4>
-<h4></h4>
-<p>
-<br>Xaviar (411)</p>
