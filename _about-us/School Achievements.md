@@ -9,7 +9,7 @@ variant: markdown
 | Football Girls B    |  -  | 1st (Nat)    |3rd (Nat)   |2nd League 1  |National 4th   |
 | Football Girls C    |   - | 2nd (Nat)   | 2nd (Nat)   |4th  League 1  |2nd in League 2|
 | Volleyball Girls B    | - | 1st (Zone) |1st (Zone)   |National 4th    |Top 8 National |
-| Volleyball Girls C    |  -  | 1st (Zone)  |3rd (Zone)  |3rd League 2    |Results in Sem 2|
+| Volleyball Girls C    |  -  | 1st (Zone)  |3rd (Zone)  |3rd League 2    |-|
 | Hockey Girls C   | -  | -   | -   |2nd League 2   |National 2nd|
 | Hockey Girls B   | -  | -   | -   |   |2nd in League 2|
 | Football Boys B   |  | 2nd (Zone) |4th (2nd Tier)|Top 8 League 1   |Top 8 League 1  |
