@@ -41,4 +41,8 @@ sections:
           description: Find out what our Alumni have to share!
           linktext: Learn more
           url: https://www.queenswaysec.moe.edu.sg/life-beyond-Queensway/alumnivoices/
+        - title: School Prospectus
+          description: Read on to find out more about our school!
+          linktext: Learn more
+          url: https://www.canva.com/design/DAFMvOZQcoE/DImYEfwnKa5rSKnIG0QnWQ/view?utm_content=DAFMvOZQcoE&utm_campaign=designshare&utm_medium=link&utm_source=editor
 ---
