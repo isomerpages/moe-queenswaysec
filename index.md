@@ -15,6 +15,9 @@ sections:
         - title: Announcements
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/announcements/
+        - title: Open House 2025
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/qssopenhouse2025/home
         - title: Our Voices
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/empowering-voices-of-queensway-evoq/
