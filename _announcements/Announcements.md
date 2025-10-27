@@ -22,5 +22,5 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="PAT 2" src="/images/PAT_Banner.jpg">
 </div>
 <h3>Direct School Admission</h3>
-<p>DSA applications for 2025 have opened. Please visit this <a href="/dsa/" rel="noopener noreferrer nofollow" target="_blank">page</a> for more information.</p>
+<p>DSA applications for 2026 have opened. Please visit this <a href="/dsa/" rel="noopener noreferrer nofollow" target="_blank">page</a> for more information.</p>
 <p></p>
