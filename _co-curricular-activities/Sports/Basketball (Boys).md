@@ -66,8 +66,8 @@ can contribute to society.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Basketball 2" src="/images/Basketball 2.jpg">
 </div>
-<h3>Achievement in 2023:</h3>
-<p>4th Placing in Zonal C Boys</p>
+<h3>Achievements:</h3>
+<p>4th Placing in Zonal C Boys (2023)</p>
 <h3>Student Experiences:</h3>
 <p>I struggled initially when I joined the Basketball team as I was still
 a relatively novice player. However, I was determined to hone my skills
