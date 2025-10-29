@@ -24,14 +24,16 @@ links:
     sublinks:
       - title: 2026 Secondary 1
         url: /2026-secondary-1/
+      - title: School Prospectus
+        url: https://www.canva.com/design/DAFMvOZQcoE/DImYEfwnKa5rSKnIG0QnWQ/view?utm_content=DAFMvOZQcoE&utm_campaign=designshare&utm_medium=link&utm_source=editor
+      - title: School Rules & Regulations
+        url: /student-info/schoolrules
       - title: Financial Assistance Scheme
         url: /admissions-info/fas
       - title: Booklists
         url: /admissions-info/booklists
       - title: Direct School Admission (DSA)
         url: /dsa/
-      - title: School Prospectus
-        url: https://www.canva.com/design/DAFMvOZQcoE/DImYEfwnKa5rSKnIG0QnWQ/view?utm_content=DAFMvOZQcoE&utm_campaign=designshare&utm_medium=link&utm_source=editor
       - title: Locker Rental
         url: /admissions-info/lockers
       - title: Uniforms
@@ -40,8 +42,6 @@ links:
         url: /student-info/schoolcalendar/
       - title: HBL Calendar
         url: /student-info/hblcalendar/
-      - title: School Rules & Regulations
-        url: /student-info/schoolrules
   - title: The Queensway Experience
     url: /academics/english-language-and-literature/
     sublinks:
