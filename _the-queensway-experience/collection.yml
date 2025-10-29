@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Happenings.md
-      - Empowering Voices of Queensway (EVOQ).md
       - PDLP/.keep
       - PDLP/Overview.md
       - PDLP/Resources for Parents.md
