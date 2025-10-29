@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Corporate Video.md
       - Announcements/.keep
       - Who We Are.md
       - School Achievements.md
