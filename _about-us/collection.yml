@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - School Corporate Video.md
       - Announcements/.keep
       - Who We Are.md
+      - School Corporate Video.md
       - School Achievements.md
       - Staff Achievements.md
       - Our People/.keep
