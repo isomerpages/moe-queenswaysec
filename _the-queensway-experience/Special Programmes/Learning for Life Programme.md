@@ -5,33 +5,48 @@ description: ""
 third_nav_title: Special Programmes
 variant: markdown
 ---
-### Sports for Life & Outdoor Education Through the Lens of Commununity & Youth Leadership (LLP)
+### Community Youth Leadership
 
+At Queensway Secondary School, our Lifelong Learning Programme (LLP) helps students grow into confident, caring, and community-minded leaders who make a positive impact on others. 
 
-This school-wide programme provides varied experiential learning opportunities in sports, physical and outdoor activities for all students to develop their character, values and socio-eomotional skills.
+Grounded in the Servant Leadership framework, the programme encourages our students to lead with kindness, empathy, and purpose. 
 
-  
+Through Values-in-Action (VIA) projects, school initiatives, and community partnerships, our students: 
 
-Through the QSS SOE Programme, we aim to:
-
-  
-
-*   Develop leaders who are also compassionate and community-oriented
-*   Equip students with the mindset and skills needed to engage with societal needs and make a real impact
-*   Inculcate sports enjoyment and deep appreciation for lifelong learning by providing students with skills for personal development in competitive and recreational sports, physical and outdoor activities.  
-    
-*   Nurture sound moral values, deep national identity and global citizenship values to think globally and act locally and ethically.  
-    
-*   Develop resilience and drive for excellence through learning experiences and active participation in sports, physical and outdoor activities.  
+*   Think critically and creatively to solve real-world problems. 
     
 
-  
+*   Show care and respect by connecting with people from all walks of life. 
+    
 
-The 2-tiered SOE Programme enables students with higher ability and interest to pursue the activities at a higher level (Tier 2 /Intermediate Level). The range of programmes include:
+*   Work well with others and communicate confidently in different settings. 
+    
 
-|  	|  	|
-|---	|---	|
-| • Swimming Programme 	| • Sports Spectatorship Programme 	|
-| • Water Sports Programme 	| • Sports Education Programme 	|
-| • First Aid Programme 	| • Sports Competitive Programme 	|
-| • Outdoor Activities & Camp 	| |
+From Secondary 1 to 4, every student takes part in a leadership journey that helps them grow through four stages: 
+
+1 Leading Self – Developing self-awareness and personal responsibility. 
+
+2 Leading Teams – Learning teamwork and shared leadership. 
+
+3 Leading School – Taking on leadership roles in CCAs and school events. 
+
+4 Leading Beyond – Making a difference in the wider community. 
+    
+
+Our programme is guided by five Servant Leadership pillars:  
+
+*   Person of Character  
+    
+
+*   Putting People First  
+    
+
+*   Skilled Communicator  
+    
+
+*   Compassionate Collaborator 
+    
+
+*   Foresight 
+    
+At Queensway, we believe that every student is a leader in their own way. Through the LLP, our students grow in confidence, learn to serve others, and lead with heart, both in school and beyond.
