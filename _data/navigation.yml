@@ -7,6 +7,8 @@ links:
         url: /announcements/
       - title: Who We Are
         url: /about-us/who-we-are/
+      - title: School Corporate Video
+        url: /school-corporate-video/
       - title: School Achievements
         url: /achievements
       - title: Staff Achievements
@@ -17,8 +19,6 @@ links:
         url: /about-us/yearbook-archive/
       - title: Contact Us
         url: /about-us/contact-us/
-      - title: School Corporate Video
-        url: /school-corporate-video/
   - title: Current & Prospective students
     url: /2025-secondary-1/
     sublinks:
