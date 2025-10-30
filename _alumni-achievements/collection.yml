@@ -2,7 +2,7 @@ collections:
   alumni-achievements:
     output: true
     order:
-      - 2025 QSS All Rounders.md
+      - Class of 2024.md
       - Class of 2023.md
       - Class of 2022.md
       - Class of 2021.md
