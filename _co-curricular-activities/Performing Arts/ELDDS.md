@@ -86,5 +86,5 @@ directors and producers by organising learning journeys and theatre trips.</p>
 <p>CERTIFICATE OF DISTINCTION IN SYF, 2019, 2023</p>
 <p>CERTIFICATE OF ACCOMPLISHMENT IN SYF, 2021, 2025</p>
 <h4>Student Experiences:</h4>
-<p><em>"My role as the President of Drama Club is a great honour to me. Being able to lead such amazing and passionate actors, and making so many precious memories with my members still seems unbelievable to me, and I would trade the world for a chance to experience it again..” <br>~Ang En </em>
+<p><em>"My role as the President of Drama Club is a great honour to me. Being able to lead such amazing and passionate actors, and making so many precious memories with my members still seems unbelievable to me, and I would trade the world for a chance to experience it again..” <br>~Ang En</em>
 </p>
