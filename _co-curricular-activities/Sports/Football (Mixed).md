@@ -81,13 +81,103 @@ resilience, and sportsmanship&nbsp;in the students.</p>
 <p>&nbsp;</p>
 <h3><u>Achievements</u></h3>
 <p>&nbsp;</p>
-<p>⮚&nbsp;&nbsp;&nbsp;&nbsp; B Girls National School Games League 1 – 2nd
-(2024)</p>
-<p>⮚&nbsp;&nbsp;&nbsp;&nbsp; B Boys National School Games League 1 –Top 8
-in Singapore (2024)</p>
-<p>⮚&nbsp;&nbsp;&nbsp;&nbsp; C Girls National School Games –2nd (2023)</p>
-<p>⮚&nbsp;&nbsp;&nbsp;&nbsp; C Boys National School Games – Preliminary round
-(2023)</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Sports CCA and Year of Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2023</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football Girls B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st (Nat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd (Nat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football Girls C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd (Nat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd (Nat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd in League 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football Boys B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd (Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th (2nd Tier)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 League 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football Boys C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st League 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd in League 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>&nbsp;Our football teams have not only achieved remarkable results but
 have also fostered a sense of camaraderie and school spirit that will stay
 with them for a lifetime. The dedication, perseverance, and sportsmanship
@@ -101,13 +191,13 @@ to us all.</p>
 <h3><u>Quotes from our Student Athletes</u></h3>
 <p><em>Through football, I learnt the importance of giving your 100% and never giving up.</em>
 </p>
-<p><em>Wee Jian Hao Ryan Secondary 403</em>
+<p><em>Wee Jian Hao Ryan Secondary </em>
 </p>
 <p><em>Football had been with me during my ups and downs, losses, and wins. It's not just a game; it's a journey of self-discovery and endless possibilities.</em>
 </p>
-<p><em>C Girls Division 2024, Lyra Ayaana Rippon 2 Confidence</em>
+<p><em>C Girls Division 2024, Lyra Ayaana Rippon</em>
 </p>
 <p><em>Through football, I have learnt so many important values such as discipline, teamwork and resilience which have shaped me into the better person I am today. I have enjoyed my time here in football thanks to the teachers and coaches, and to my wonderful teammates who have made continuous efforts to push me beyond my limits.</em>
 </p>
-<p><em>B Girls Division 2024, Amani Sofi Binte Sisuandi Secondary 303</em>
+<p><em>B Girls Division 2024, Amani Sofi Binte Sisuandi </em>
 </p>
