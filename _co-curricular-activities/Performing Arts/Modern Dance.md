@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h3>Modern Dance</h3>
+<h3>Dance</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms YANG YI (I/C)</p>
+<p>Ms Yang yi (I/C)</p>
 </td>
 </tr>
 <tr>
@@ -44,17 +44,17 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MD1" src="/images/md1.jpg">
 </div>
-<p>Although relatively new as a CCA, our Modern Dance club has made their
-mark on Queensway through their exciting performances. Our dancers have
-a passion for the art form and are given numerous opportunities to showcase
-their skills in front of audiences at events such as Speech Day and the
-school Aesthetics Night. In 2023, Modern Dance is looking forward to making
-their debut at the Singapore Youth Festival!</p>
+<p>Although relatively new as a CCA, our Dance club has made their mark on
+Queensway through their exciting performances. Our dancers have a passion
+for the art form and are given numerous opportunities to showcase their
+skills in front of audiences at events such as Speech Day and the school
+Aesthetics Night.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MD2" src="/images/md2.jpg">
 </div>
-<h4>Accomplishment in 2023:</h4>
-<p>Singapore Youth Festival Accomplishment</p>
+<h4>Accomplishments:</h4>
+<p>Certificate of Accomplishment in SYF, 2019</p>
+<p>Certificate of Distinction in SYF, 2021, 203, and 2025</p>
 <h4>Student Experiences:</h4>
 <p><em>"As we are a relatively new CCA, Aesthenics Night was only our second time performing live. It was also my first dance performance in front of my family members and friends. We practiced for months and put in a lot of effort to make the show memorable and enjoyable, and I'm glad it was not in vain. Hearing the cheers and claps from our supporters made it a really unforgettable memory."<br>~Judith Kwa</em>
 </p>
