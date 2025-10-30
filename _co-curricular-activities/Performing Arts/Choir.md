@@ -46,13 +46,10 @@ variant: tiptap
 <h4>Overview of the CCA:&nbsp;</h4>
 <p>Queensway's Choir seeks to inculcate not just a passion for music in our
 students but also develop their character through our activities.</p>
-<p>This year, the Choir put up a number of performances at the Inaugural
-Assembly, Chinese New Year concert, Speech Day concert, Aesthetics Night
-and National Day concert. We also went on a learning journey to watch a
-concert at The Art House. We performed at CHIJMES during the September
-holidays and will also be taking part in a choir exchange programme in
-November where our choir will be performing with several other choirs on
-the same stage.</p>
+<p>The Choir puts up a number of performances each year, including at the
+Inaugural Assembly, Chinese New Year concert, Speech Day concert, Aesthetics
+Night and National Day concert. There are also opportunities for learning
+journeys and external performances, including at the Arts House.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="C1" src="/images/c1.jpg">
@@ -62,8 +59,9 @@ the same stage.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/c2.jpg">
 </div>
 <p></p>
-<h4>Achievement in 2023:</h4>
-<p>CERTIFICATE OF ACCOMPLISHMENT IN SYF</p>
+<h4>Achievements</h4>
+<p>CERTIFICATE OF ACCOMPLISHMENT IN SYF, 2019, 2023</p>
+<p>CERTIFICATE OF DISTINCTION IN SYF, 2025</p>
 <h4>Student Experiences:</h4>
 <p><em>"In Sec 1, I was very new to choir but I found my seniors in Sec 2 and Sec 3 very kind and helpful. Although it is not always easy to control the choir as the President, but we do get things done quite efficiently and that is what I enjoy most about being in the choir.&nbsp; Singing is the performance of a choir but teamwork MAKES the choir." <br>~Seth</em>
 </p>
