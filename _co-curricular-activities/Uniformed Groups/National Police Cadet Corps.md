@@ -51,8 +51,53 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Accomplishment in 2024:</strong></h4>
-<p>Gold Award</p>
+<h4><strong>Accomplishments:</strong></h4>
+<p></p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Uniform Groups</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2023</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Overview:</strong></h4>
 <p>In NPCC, we believe in developing all our cadets holistically. Our cadets
 will be given the opportunity to conduct training and activities under
