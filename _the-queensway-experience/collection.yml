@@ -2,7 +2,6 @@ collections:
   the-queensway-experience:
     output: true
     order:
-      - QSS in the Press.md
       - School Happenings.md
       - PDLP/.keep
       - PDLP/Overview.md
@@ -21,8 +20,8 @@ collections:
       - Academic Departments/Craft and Technology and Aesthetics.md
       - Academic Departments/Physical Education.md
       - CCAs/.keep
-      - Special Programmes/Empowering Voices of Queensway (EVOQ).md
       - Special Programmes/.keep
+      - Special Programmes/Empowering Voices of Queensway (EVOQ).md
       - Special Programmes/Applied Learning Programme.md
       - Special Programmes/Learning for Life Programme.md
       - Character Development/.keep
@@ -34,3 +33,4 @@ collections:
       - Talent Development Programmes/.keep
       - Talent Development Programmes/Science Talent Development Programme.md
       - Talent Development Programmes/Mathematics Talent Development Programme.md
+      - QSS in the Press.md
