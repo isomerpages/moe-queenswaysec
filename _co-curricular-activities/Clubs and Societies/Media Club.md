@@ -34,4 +34,4 @@ Concurrently, the Club also provided audio-visual support for school events, inc
 #### Student Experiences:  
 
 “The experiences I had from the courses in Semester 1 and 2 were very fruitful. I learnt skills that allowed me to use different programmes, was exposed to technology-related current affairs and learned how to stay safe while using technology. The courses also expanded my interest in making games using code and I was able to use the new coding skills that I learnt to make my coding projects more interesting.”
-<br> **Chan Yukang Sherwin (301), Vice-President**
+<br> **Chan Yukang Sherwin**
