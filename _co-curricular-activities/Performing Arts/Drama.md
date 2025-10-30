@@ -1,6 +1,6 @@
 ---
-title: ELDDS
-permalink: /cca/Performing-Arts/ELDDS/
+title: Drama
+permalink: /cca/performing-arts/drama/
 description: ""
 third_nav_title: Performing Arts
 variant: tiptap
@@ -77,14 +77,14 @@ school's Aesthetics Night.
 <img style="width: 100%" height="auto" width="100%" alt="Drama2" src="/images/drama_2.jpg">
 </div>
 <p></p>
-<p>Our students also have the opportunity to serve the community. In 2022,
-after weeks of rehearsal, the Secondary 3 students put up a short performance
-at the library for children at Queenstown Library.</p>
+<p>Our students also have the opportunity to serve the community, including
+performances in local venues such as Queenstown Library.</p>
 <p>The Club also provides exposure to our budding actors, scriptwriters,
 directors and producers by organising learning journeys and theatre trips.</p>
 <p></p>
-<h4>Accomplishment in 2023:</h4>
-<p>Singapore Youth Festival Distinction</p>
+<h4>Accomplishments:</h4>
+<p>CERTIFICATE OF DISTINCTION IN SYF, 2019, 2023</p>
+<p>CERTIFICATE OF ACCOMPLISHMENT IN SYF, 2021, 2025</p>
 <h4>Student Experiences:</h4>
-<p><em>"My role as the President of Drama Club is a great honour to me. Being able to lead such amazing and passionate actors, and making so many precious memories with my members still seems unbelievable to me, and I would trade the world for a chance to experience it again..” <br>~Ang En (403)</em>
+<p><em>"My role as the President of Drama Club is a great honour to me. Being able to lead such amazing and passionate actors, and making so many precious memories with my members still seems unbelievable to me, and I would trade the world for a chance to experience it again..” <br>~Ang En</em>
 </p>

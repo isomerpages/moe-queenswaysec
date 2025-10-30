@@ -59,11 +59,11 @@ skills in the sport, laying the foundation for further progression.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Badminton 1" src="/images/Badminton_1.jpg">
 </div>
 <p>Our team took part in the annual National School Games (NSG) and demonstrated
-sportsmanship, perseverance, and resilience. In 2023, our ‘C’ Girls’ Division
-team made it to the quarterfinals in the South Zone NSG Competitions. The
-team has shown a great attitude, and we hope that in time to come, they
-will continue to show enthusiasm and a spirit of learning as they strive
-for even greater heights.</p>
+sportsmanship, perseverance, and resilience, with our ‘C’ Girls’ Division
+team making it to the quarterfinals in the South Zone NSG Competitions.
+The team has shown a great attitude, and we hope that in time to come,
+they will continue to show enthusiasm and a spirit of learning as they
+strive for even greater heights.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Badminton 2" src="/images/Badminton_2.jpg">
@@ -76,7 +76,7 @@ players who now have a passion for the sport. They showed me that despite
 hardships, like losing a match or not being on your game that day, they
 would continue to move forward, working on how to improve their skills
 further and reach the standard they set for themselves.’</p>
-<p><strong><em>Captain, Tan Yu-Qi (404)</em></strong>
+<p><strong><em>Captain, Tan Yu-Qi </em></strong>
 </p>
 <p>‘For the past 1 year, I have learned many new skills like footwork and
 stroke techniques. This gives me a sense of satisfaction, confidence, and
@@ -87,6 +87,6 @@ This event has allowed me to understand the importance of communication
 and gradually improve myself to become a better communicator. I will continue
 to lead the team well and develop the team in the joy of learning in this
 sport.’</p>
-<p><strong><em>Vice-Captain, Carissa Ng Qi En (2 Confidence)</em></strong>
+<p><strong><em>Vice-Captain, Carissa Ng Qi En</em></strong>
 </p>
 <p></p>

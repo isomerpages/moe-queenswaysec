@@ -56,8 +56,52 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Achievement in 2024:</strong></h4>
-<p>Gold Award</p>
+<h4><strong>Achievements:</strong></h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Uniform Groups</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2023</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4><strong>Overview of the CCA:&nbsp;</strong></h4>
 <p>The 61st Company aims to provide a holistic education for our boys outside&nbsp;of

@@ -1,5 +1,5 @@
 ---
-title: 2021 QSS All Rounders
+title: Class of 2021
 permalink: /life-beyond-queensway/2021qssallrounders/
 description: ""
 variant: tiptap

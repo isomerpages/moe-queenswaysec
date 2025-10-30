@@ -2,7 +2,8 @@ collections:
   alumni-achievements:
     output: true
     order:
-      - 2025 QSS All Rounders.md
-      - 2023 QSS All Rounders.md
-      - 2022 QSS All Rounders.md
-      - 2021 QSS All Rounders.md
+      - Post Secondary Achievements.md
+      - Class of 2024.md
+      - Class of 2023.md
+      - Class of 2022.md
+      - Class of 2021.md

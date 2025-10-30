@@ -1,5 +1,5 @@
 ---
-title: 2022 QSS All Rounders
+title: Class of 2022
 permalink: /alumni-achievements/permalink/
 variant: tiptap
 description: ""
