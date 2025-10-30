@@ -3,7 +3,6 @@ title: 2024 Announcements
 permalink: /about-us/announcements/2024/
 description: ""
 variant: markdown
-third_nav_title: Announcements
 ---
 ### 2024 Announcements
 

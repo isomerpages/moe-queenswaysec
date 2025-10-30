@@ -66,14 +66,14 @@ can contribute to society.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Basketball 2" src="/images/Basketball 2.jpg">
 </div>
-<h3>Achievement in 2023:</h3>
-<p>4th Placing in Zonal C Boys</p>
+<h3>Achievements:</h3>
+<p>4th Placing in Zonal C Boys (2023)</p>
 <h3>Student Experiences:</h3>
 <p>I struggled initially when I joined the Basketball team as I was still
 a relatively novice player. However, I was determined to hone my skills
 and train hard. After years of practice, I can proudly say that I have
-become just as good as my teammates! 2022 was our final chance to compete
-in a national tournament. This year, every single one of us gave our paramount
+become just as good as my teammates! This year was our final chance to
+compete in a national tournament. Every single one of us gave our paramount
 effort. We trained our hardest as we were determined to win. On the first
 day of the competition, we were all excited and nervous at the same time.
 Four years of hard work and training for this moment! We decided to give

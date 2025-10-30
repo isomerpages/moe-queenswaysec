@@ -3,6 +3,7 @@ title: Empowering Voices of Queensway (EVOQ)
 permalink: /empowering-voices-of-queensway-evoq/
 variant: tiptap
 description: ""
+third_nav_title: Special Programmes
 ---
 <h3><strong>EVOQ</strong></h3>
 <p><strong>E</strong>mpowering <strong>V</strong>oices <strong>o</strong>f <strong>Q</strong>ueensway

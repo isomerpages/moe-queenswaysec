@@ -7,6 +7,8 @@ links:
         url: /announcements/
       - title: Who We Are
         url: /about-us/who-we-are/
+      - title: School Corporate Video
+        url: /school-corporate-video/
       - title: School Achievements
         url: /achievements
       - title: Staff Achievements
@@ -20,16 +22,18 @@ links:
   - title: Current & Prospective students
     url: /2025-secondary-1/
     sublinks:
+      - title: 2026 Secondary 1
+        url: /2026-secondary-1/
+      - title: School Prospectus
+        url: https://www.canva.com/design/DAFMvOZQcoE/DImYEfwnKa5rSKnIG0QnWQ/view?utm_content=DAFMvOZQcoE&utm_campaign=designshare&utm_medium=link&utm_source=editor
+      - title: School Rules & Regulations
+        url: /student-info/schoolrules
       - title: Financial Assistance Scheme
         url: /admissions-info/fas
       - title: Booklists
         url: /admissions-info/booklists
-      - title: 2025 Secondary 1
-        url: /2025-secondary-1/
       - title: Direct School Admission (DSA)
         url: /dsa/
-      - title: School Prospectus
-        url: https://www.canva.com/design/DAFMvOZQcoE/DImYEfwnKa5rSKnIG0QnWQ/view?utm_content=DAFMvOZQcoE&utm_campaign=designshare&utm_medium=link&utm_source=editor
       - title: Locker Rental
         url: /admissions-info/lockers
       - title: Uniforms
@@ -71,8 +75,8 @@ links:
         url: https://pg.moe.edu.sg
       - title: Canteen Vendor Application
         url: /useful-links/applicationforcanteenvendor/
-      - title: Open House 2024
-        url: https://sites.google.com/moe.edu.sg/qssopenhouse2024/home
+      - title: Open House 2025
+        url: https://sites.google.com/moe.edu.sg/qssopenhouse2025/home
       - title: GPA Insurance Claim
         url: /useful-links/parents/insuranceclaim/
       - title: School Calendar

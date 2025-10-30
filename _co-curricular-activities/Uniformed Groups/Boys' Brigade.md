@@ -51,7 +51,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CAPTAIN LO JENGTING</p>
+<p>CPT LO JENGTING</p>
 </td>
 </tr>
 </tbody>
