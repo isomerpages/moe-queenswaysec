@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/josef.jpg">
 </div>
-<p><em>Lianhe Zaobao profile of Josef Ng (Class of 2022) and his volunteer work</em>
+<p><em>ZB Schools profile of Josef Ng (Class of 2022) and his volunteer work</em>
 </p><a class="isomer-image-wrapper" href="https://www.channelnewsasia.com/singapore/school-canteen-stalls-food-prices-students-3882586"><img style="width: 100%" height="auto" width="100%" src="https://dam.mediacorp.sg/image/upload/s--DE4LWWCS--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/27/dsc_6302.jpg?itok=dvja4vdJ"></a>
 <p><em>CNA profile of canteen vendors, featuring QSS' Uncle Tham</em>
 </p><a class="isomer-image-wrapper" href="https://www.straitstimes.com/singapore/manga-draws-students-to-queensway-secondary-s-library"><img style="width: 100%" height="auto" width="100%" alt="Queensway Secondary School has chosen to bring in comics and manga to pique the interest of some of its students who are reluctant to read." src="https://cassette.sphdigital.com.sg/image/straitstimes/e3a4a387a6c454cb8cc99456e873a3baa44f765575ad3de44960830112777a03"></a>
