@@ -5,4 +5,5 @@ description: ""
 variant: markdown
 ---
 ### Schedule
-![](/images/2025_CCA_Schedule.jpg)
+
+The 2026 CCA schedule will be updated here.
