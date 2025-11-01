@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
+<p>Updates coming your way soon</p>
 <p></p>
 <p></p>
 <p></p>
