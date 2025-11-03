@@ -4,7 +4,7 @@ permalink: /2023-qss-all-rounders/
 variant: tiptap
 description: ""
 ---
-<p>Updates coming your way soon.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
