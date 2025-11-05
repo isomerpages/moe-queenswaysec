@@ -157,7 +157,7 @@ contact Ms Shalini (Corporate Support Officer) at <a href="mailto:qss@moe.edu.sg
 <p>All students entering Secondary 1 in January 2026 will be issued a new
 Secondary-level School Smart Card (SSC).</p>
 <p>While waiting for the new SSC, students can use their Primary-level SSCs
-for concessionary travel until end-April 2025.</p>
+for concessionary travel until end-April 2026.</p>
 <h4><strong>11. Appeals and School Transfer Procedures</strong></h4>
 <p><strong>(A) Appeals for transfer into Queensway Secondary School (non-medical reasons)</strong>
 </p>
