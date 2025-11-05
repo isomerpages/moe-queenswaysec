@@ -35,7 +35,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="1" src="/images/Class of 2024/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2024/5.jpg">
 </div>
 </td>
 </tr>
@@ -49,7 +49,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="5" src="/images/Class of 2024/5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class of 2024/1.jpg">
 </div>
 </td>
 </tr>
