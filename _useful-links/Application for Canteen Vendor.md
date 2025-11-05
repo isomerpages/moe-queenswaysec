@@ -31,7 +31,7 @@ variant: tiptap
 <p>Halal Rice / Nasi Padang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Oct 2025</p>
+<p>31 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Malay / Indian Muslim food</p>
