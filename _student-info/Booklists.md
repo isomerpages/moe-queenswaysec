@@ -11,5 +11,6 @@ variant: tiptap
 <p></p>
 <p><a href="https://drive.google.com/file/d/12kumuYc9lrZjV-N-Rehbmrq9IuFYZnzB/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3 Booklist 2026</a>
 </p>
-<p><a href="/files/Sec_4_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 Booklist 2026</a>
+<p></p>
+<p><a href="https://drive.google.com/file/d/1tsnMQcbMUYypJHpNhcHm6LrhXkfjnxWQ/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec 4 Booklist 2026</a>
 </p>
