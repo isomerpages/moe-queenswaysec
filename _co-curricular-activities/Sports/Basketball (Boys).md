@@ -52,11 +52,39 @@ third_nav_title: Sports
 </table>
 <p></p>
 <h3>Overview of CCA:</h3>
-<p>We believe in working hard and training together as a team. A cooperative
-team spirit must be cultivated both on and off the court. We also believe
-in developing resilience, an essential 21st Century Competency. At the
-end of their QSS journey, we want to establish future-ready citizens who
-can contribute to society.</p>
+<p>The B Division Boys participated in the zonal competition of the National
+School Games, where they demonstrated commendable effort and determination.
+The C Division Boys competed in League 3 and displayed significant improvement
+in their performances against their opponents. Basketball continues to
+serve as a platform for our students to grow, with every training session
+and match providing opportunities to develop skills and imbibe values such
+as resilience, teamwork, and respect, essential for their holistic development.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Basketball Coaching" src="/images/2025 Photos/2025 Basketball/1_Basketball_Coaching.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Basketball Training 1" src="/images/2025 Photos/2025 Basketball/2_Basketball_Training_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Basketball NSG 1" src="/images/2025 Photos/2025 Basketball/5_Basketball_NSG_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Basketball CCA Day" src="/images/2025 Photos/2025 Basketball/9_Basketball_CCA_Day.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Basketball NSG 2" src="/images/2025 Photos/2025 Basketball/6_Basketball_NSG_2.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
