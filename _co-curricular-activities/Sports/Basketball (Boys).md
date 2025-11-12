@@ -73,27 +73,14 @@ as resilience, teamwork, and respect, essential for their holistic development.<
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Basketball CCA Day" src="/images/2025 Photos/2025 Basketball/9_Basketball_CCA_Day.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Basketball NSG 2" src="/images/2025 Photos/2025 Basketball/6_Basketball_NSG_2.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Basketball 1" src="/images/Basketball1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Basketball CCA Day" src="/images/2025 Photos/2025 Basketball/9_Basketball_CCA_Day.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Basketball 2" src="/images/Basketball 2.jpg">
-</div>
+<p></p>
 <h3>Achievements:</h3>
 <p>4th Placing in Zonal C Boys (2023)</p>
 <h3>Student Experiences:</h3>
