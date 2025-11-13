@@ -51,19 +51,18 @@ third_nav_title: Sports
 </tbody>
 </table>
 <h3>Overview of the CCA:</h3>
-<p>Badminton is one of the popular CCAs offered at Queensway. Our girls go
-through a rigorous developmental training program to learn fundamental
-skills in the sport, laying the foundation for further progression.</p>
+<p>Our C Division team celebrated another achievement in the League 2 NSG,
+showing resilience and determination on court. Beyond competitions, Bonding
+Day strengthened unity and teamwork within the CCA. Student leaders also
+had meaningful opportunities to lead during the Open House, CCA Showcase,
+and Sec 1 CCA Fair, representing the CCA with pride. Through the NSG competition
+and friendly matches, the team gained valuable experience while consistently
+demonstrating sportsmanship and respect for their opponents.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Badminton 1" src="/images/Badminton_1.jpg">
 </div>
-<p>Our team took part in the annual National School Games (NSG) and demonstrated
-sportsmanship, perseverance, and resilience, with our ‘C’ Girls’ Division
-team making it to the quarterfinals in the South Zone NSG Competitions.
-The team has shown a great attitude, and we hope that in time to come,
-they will continue to show enthusiasm and a spirit of learning as they
-strive for even greater heights.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Badminton 2" src="/images/Badminton_2.jpg">
@@ -76,7 +75,7 @@ players who now have a passion for the sport. They showed me that despite
 hardships, like losing a match or not being on your game that day, they
 would continue to move forward, working on how to improve their skills
 further and reach the standard they set for themselves.’</p>
-<p><strong><em>Captain, Tan Yu-Qi </em></strong>
+<p><strong><em>Captain, Tan Yu-Qi</em></strong>
 </p>
 <p>‘For the past 1 year, I have learned many new skills like footwork and
 stroke techniques. This gives me a sense of satisfaction, confidence, and
