@@ -178,26 +178,81 @@ resilience, and sportsmanship&nbsp;in the students.</p>
 </tbody>
 </table>
 <p></p>
-<p>&nbsp;Our football teams have not only achieved remarkable results but
-have also fostered a sense of camaraderie and school spirit that will stay
-with them for a lifetime. The dedication, perseverance, and sportsmanship
-displayed by both the boys and girls soccer teams serve as an inspiration
-to us all.</p>
+<p>Our football teams have achieved outstanding results while building lasting
+friendships and strong school spirit. Through countless training sessions
+and matches, our boys' and girls' teams have demonstrated extraordinary
+teamwork, responsibility, and discipline. Their unwavering dedication,
+exemplary sportsmanship, and commitment to supporting one another have
+set a powerful example for our entire school community, proving that true
+victory lies not just in winning matches, but in the character they've
+built along the way.
+<br>
+</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/fb3.jpg">
 </div>
 <p></p>
 <h3><u>Quotes from our Student Athletes</u></h3>
-<p><em>Through football, I learnt the importance of giving your 100% and never giving up.</em>
+<ul data-tight="true" class="tight">
+<li>
+<p>“No matter the score, no matter the struggle, fight until the last whistle.”
+<br>- Scheffler Owen Daniel 1 Discipline, C Division Boys.</p>
+</li>
+</ul>
+<p>
+<br>
 </p>
-<p><em>Wee Jian Hao Ryan Secondary </em>
+<ul data-tight="true" class="tight">
+<li>
+<p>“Student first, athlete always — both take hard work and heart.”- Nguyen
+Minh Duc &nbsp; &nbsp; &nbsp; &nbsp; 2 Care, C Division Boys.</p>
+</li>
+</ul>
+<p>
+<br>
 </p>
-<p><em>Football had been with me during my ups and downs, losses, and wins. It's not just a game; it's a journey of self-discovery and endless possibilities.</em>
+<ul data-tight="true" class="tight">
+<li>
+<p>“Great athletes don’t only play the game, they change the atmosphere around
+them.”&nbsp;</p>
+</li>
+</ul>
+<p>- Shaik Mubashir Basha 3 Confidence, B Division Boys.</p>
+<p>
+<br>
 </p>
-<p><em>C Girls Division 2024, Lyra Ayaana Rippon</em>
+<ul>
+<li>
+<p>"Being in this CCA for the past four years has shaped me into a more disciplined,
+resilient, and confident person. The challenges on the pitch taught me
+teamwork, leadership, and perseverance. It has been more than a sport -
+it’s been a journey of growth and passion" Heng Rae Ern Abigail 4-11, B
+Division Girls&nbsp;</p>
+</li>
+</ul>
+<p>
+<br>
 </p>
-<p><em>Through football, I have learnt so many important values such as discipline, teamwork and resilience which have shaped me into the better person I am today. I have enjoyed my time here in football thanks to the teachers and coaches, and to my wonderful teammates who have made continuous efforts to push me beyond my limits.</em>
+<ul>
+<li>
+<p>&nbsp;"Wearing the armband this season has been the greatest honor — not
+because of the title, but because I got to fight every battle alongside
+all of you. We may have finished 2nd, but to me, this team will always
+be worth more than any medal" Rayhana Shanaz D/O Mohamed Hanif 2 Respect,
+C Division Girls</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>"This C Division season taught me resilience and the joy of growing with
+my teammates. Although we didn’t achieve first place, earning second taught
+us the value of teamwork, perseverance, and believing in each other every
+step of the way." Rubi Cruz Maria Ysabella Gonzales 2 Diligence, C Division
+Girls
+<br>
 </p>
-<p><em>B Girls Division 2024, Amani Sofi Binte Sisuandi </em>
-</p>
+</li>
+</ul>
+<p></p>
