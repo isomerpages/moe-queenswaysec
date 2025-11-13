@@ -57,18 +57,26 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Overview of the CCA:</h4>
-<p>The Hockey team is unique amongst Queensway CCA Groups as the teams form
-a combined squad with Anglo-Chinese School (Barker Road) and Singapore
-Chinese Girls School. The combined ACSBR-QSS Boys' squad has grown from
-strength to strength despite being a relatively new team, coming in fourth
-at the 2023 National School Games' C Division competition and the B team
-achieving national 4th in 2025. The Girls' team, meanwhile, has been training
-hard and have achieved the position of National 2nd in 2025.</p>
+<p>What an incredible season it has been for both our boys' and girls' Field
+Hockey teams! The outstanding display of skill, teamwork, and dedication
+is a true testament to the hard work and dedication of our players, coaches,
+and teachers-in-charge, including our partners from ACS (Barker Road) and
+Singapore Chinese Girls School.</p>
+<p>The highlight of this year’s achievements is the C Division Girls who
+emerged 2<sup>nd</sup> in the NSG Finals. This is the first time in the
+history of Field Hockey in Queensway Secondary School where our girls made
+it to the finals!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hockey 1" src="/images/hock1.jpg">
 </div>
-<p></p>
+<p>Training three times a week at our home ground—the iconic Delta Hockey
+Stadium—has undoubtedly elevated our game. This consistent effort and commitment
+have shaped our teams into some of the top contenders in the National School
+Games, establishing us as a definitive force to be reckoned with.</p>
+<p>A huge thank you to all our partners and staff who played crucial roles
+in this year’s hockey journey. We look forward to 2026 with passion, resilience,
+and continued drive to inspire us all—on and off the field!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hockey 2" src="/images/hock2.jpg">
 </div>
@@ -172,7 +180,7 @@ hard and have achieved the position of National 2nd in 2025.</p>
 </table>
 <p></p>
 <h4>Student Experiences:</h4>
-<p><em>“I shared many wonderful experiences with my teammates and friends but most importantly we all worked hard to become skillful hockey players. We will not give up no matter what difficulties we face and we are working towards becoming the best role models and players for our juniors and the team! You're never a loser until you quit trying." <br>~Mohamed Hariz </em>
+<p><em>“I shared many wonderful experiences with my teammates and friends but most importantly we all worked hard to become skillful hockey players. We will not give up no matter what difficulties we face and we are working towards becoming the best role models and players for our juniors and the team! You're never a loser until you quit trying." <br>~Mohamed Hariz</em>
 </p>
 <p><em>“My experience in hockey began in Cantonment Primary School where I won a medal in the National School Games. My interest and potential in the sport have since grown as I am developing more skills. I have also made many new friends.” <br>~Muhammad Zaeem </em>
 <br>
