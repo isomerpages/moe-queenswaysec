@@ -104,17 +104,14 @@ variant: tiptap
 </table>
 <p></p>
 <h4><strong>Overview of the CCA:&nbsp;</strong></h4>
-<p>The 61st Company aims to provide a holistic education for our boys outside&nbsp;of
-the classroom. Through our planned programs, we seek to develop each&nbsp;boy’s
-leadership skills and character.&nbsp;</p>
-<p>In 2025, we focused on increasing the engagement of our boys through outdoor
-and adventure activities. One highlight was the archery training sessions
-that our boys participated in. They also attended lessons on survival and
-campcraft skills, ranging from tying knots, pitching a basha and outdoor
-cooking, to map-reading and navigation. Our boys were given the opportunity
-to apply the skills that they learned in a virtual&nbsp;adventure challenge
-with other schools.</p>
-<p></p>
+<p>The objective of the Boys Brigade (BB) is to build the qualities of discipline,
+self-respect and compassion through a range of activities. Towards this
+end, our boys have taken part in inter-BB company activities such as the
+BB Blaze, as well as inter-UG activities such as the inaugural inter-UG
+Passing Out Parade. We have also run outreach activities, such as our visit
+to Saint Andrew’s Nursing Home in August. It is through these activities,
+with the help of our volunteers and alumni, that our boys are moulded into
+men of character.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BB1" src="/images/bb1.jpg">

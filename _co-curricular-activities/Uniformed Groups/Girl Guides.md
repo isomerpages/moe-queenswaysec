@@ -78,19 +78,14 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Overview of the CCA:</strong></h4>
-<p>Queensway Girl Guides’ mission is to enable girls and young women to develop
-their fullest potential as responsible citizens of the world. In line with
-our motto, “Be Prepared”, our activities are designed to nurture responsibility
-and adaptability in our Guides.&nbsp;</p>
-<p>In 2025, our Guides continued to hone their leadership skills, via taking
-the lead in Unit and Patrol activities relating to a range of current issues,
-such as food sustainability, environmental conservation and cyber-wellness.
-The highlight of the year was the Guides camp, which took place online.
-Centred around the theme of “Finding Our Way Together”,&nbsp; the camp
-aimed to help our Guides discover their strengths and forge stronger ties
-as a Unit. Over the course of the camp, our Guides learned about the importance
-of self-care, and showcased their creativity and talents in the areas of
-handicraft and gastronomy.&nbsp;
+<p>Girl Guides provides a safe and supportive platform for our Guides to
+grow in confidence, teamwork, and leadership. Through girl-led activities
+such as overnight camps, badgework and service learning, our Guides develop
+resilience and adaptability, learning to lead with compassion while living
+out the motto, ‘<em>Be Prepared’</em>. Beyond these adventures, they forged
+lasting friendships and memorable experiences, shaping them into caring
+and confident individuals ready to make a positive difference in their
+community.
 <br>
 </p>
 <p></p>
@@ -101,7 +96,6 @@ handicraft and gastronomy.&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GG2" src="/images/girlguides2.jpg">
 </div>
-<h4></h4>
 <p>
-<br><strong>Lucie-Jean Chai Lit Huey (303), Patrol Leader</strong>
+<br>
 </p>

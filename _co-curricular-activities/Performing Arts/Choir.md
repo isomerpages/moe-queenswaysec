@@ -44,12 +44,14 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Overview of the CCA:&nbsp;</h4>
-<p>Queensway's Choir seeks to inculcate not just a passion for music in our
-students but also develop their character through our activities.</p>
-<p>The Choir puts up a number of performances each year, including at the
-Inaugural Assembly, Chinese New Year concert, Speech Day concert, Aesthetics
-Night and National Day concert. There are also opportunities for learning
-journeys and external performances, including at the Arts House.</p>
+<p>2025 was an unforgettable year for our choir — a year filled with soaring
+melodies and heartfelt harmonies. A key highlight was our participation
+in the 2025 Singapore Youth Festival, where we were thrilled to be awarded
+the <strong>Certificate of Distinction</strong>! We performed <em>Apple Tree</em>, <em>Fa Shu Ha</em>,
+and <em>What Is That I Hear?</em> – a diverse and challenging set of songs
+that showcased our versatility, and we did so with pride, passion, and
+unity. The experience was both rewarding and unforgettable, which we will
+treasure for years to come.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="C1" src="/images/c1.jpg">

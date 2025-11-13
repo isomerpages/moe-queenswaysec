@@ -58,12 +58,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Overview of the CCA:&nbsp;</h4>
-<p>Our Volleyball teams demonstrate Excellence not just through their success
-on national platforms, but also through the sheer grit and resilience that
-Queensway seeks to cultivate in our players. Our players do not just learn
-Volleyball skills, but also about the importance of teamwork and about
-cultivating a strong and resilient mindset. It is this foundation that
-has led to our successes over the years.</p>
+<p>The Queensway Volleyball Team is more than a sports CCA — it nurtures
+discipline, teamwork, and resilience. In 2025, our players participated
+in the National School Games, Queenscup, and friendly leagues, achieving
+commendable results in both B and C Divisions. Beyond competitions, CCA
+Camp and Bonding Day strengthened our unity and sense of belonging. Through
+balancing training and academics, our players grow as disciplined student-athletes,
+confident leaders, and lifelong learners.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="VB1" src="/images/vb1.jpg">
