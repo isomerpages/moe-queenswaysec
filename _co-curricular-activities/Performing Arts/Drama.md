@@ -58,15 +58,14 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Overview of the CCA:</h4>
-<p>QSS's Drama Club gives our students the chance to develop their creativity
-and confidence through a variety of activities.
-<br>
-</p>
-<p>In addition to taking part in the Singapore Youth Festival, the Drama
-Club regularly holds performances at events such as Speech Day and the
-school's Aesthetics Night.
-<br>
-</p>
+<p>The Drama Club had a vibrant year filled with creativity and teamwork.
+A key highlight was our participation in the 2025 Singapore Youth Festival,
+where we were awarded the Certificate of Accomplishment! We performed an
+original script, <em>iLIFE – The App-solutely Absurd Adventures of Automation</em>,
+with pride and gusto. Through every rehearsal and performance, we grew
+as performers and storytellers, united by our passion for the stage. We
+look forward to more unforgettable moments as we grow from strength to
+strength!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Drama1" src="/images/drama1.jpg">
@@ -77,10 +76,6 @@ school's Aesthetics Night.
 <img style="width: 100%" height="auto" width="100%" alt="Drama2" src="/images/drama_2.jpg">
 </div>
 <p></p>
-<p>Our students also have the opportunity to serve the community, including
-performances in local venues such as Queenstown Library.</p>
-<p>The Club also provides exposure to our budding actors, scriptwriters,
-directors and producers by organising learning journeys and theatre trips.</p>
 <p></p>
 <h4>Accomplishments:</h4>
 <p>CERTIFICATE OF DISTINCTION IN SYF, 2019, 2023</p>
