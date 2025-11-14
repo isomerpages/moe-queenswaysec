@@ -51,7 +51,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CPT LO JENGTING</p>
+<p>LTA Pua Min Xin, Captain of the 61st Company</p>
 </td>
 </tr>
 </tbody>
@@ -94,7 +94,7 @@ variant: tiptap
 <p>Silver</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction</p>
+<p>High Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>High Distinction</p>

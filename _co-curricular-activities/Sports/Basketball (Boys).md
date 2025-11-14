@@ -50,7 +50,8 @@ third_nav_title: Sports
 </tr>
 </tbody>
 </table>
-<p></p>
+<h3>Achievements:</h3>
+<p>4th Placing in Zonal C Boys (2023)</p>
 <h3>Overview of CCA:</h3>
 <p>The B Division Boys participated in the zonal competition of the National
 School Games, where they demonstrated commendable effort and determination.
@@ -80,9 +81,6 @@ as resilience, teamwork, and respect, essential for their holistic development.<
 <img style="width: 100%" height="auto" width="100%" alt="Basketball CCA Day" src="/images/2025 Photos/2025 Basketball/9_Basketball_CCA_Day.jpg">
 </div>
 <p></p>
-<p></p>
-<h3>Achievements:</h3>
-<p>4th Placing in Zonal C Boys (2023)</p>
 <h3>Student Experiences:</h3>
 <p>I struggled initially when I joined the Basketball team as I was still
 a relatively novice player. However, I was determined to hone my skills
