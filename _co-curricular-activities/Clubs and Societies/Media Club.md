@@ -51,7 +51,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;THUM WAI TAT RYAN (402)</p>
+<p>THUM WAI TAT RYAN (402)</p>
 </td>
 </tr>
 <tr>
