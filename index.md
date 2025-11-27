@@ -24,7 +24,6 @@ sections:
         - title: Our Voices
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/empowering-voices-of-queensway-evoq/
-            oe.edu.sg/life-beyond-Queensway/alumnivoices/
   - textcards:
       title: Announcements
       id: textcards
