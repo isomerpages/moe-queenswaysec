@@ -150,8 +150,8 @@ a PG acceptance form will be sent to you at a later date.</p>
 <h4><strong>9. Financial Assistance Scheme</strong></h4>
 <p>Singapore citizens in financial need can get assistance from MOE on school
 fees and other expenses. Students who require financial assistance can
-submit their application via e-FAS (<a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">Click here</a>). All
-information provided will be treated with strict confidentiality. Please
+submit their application via e-FAS (<a href="https://www.queenswaysec.moe.edu.sg/admissions-info/fas/" rel="noopener nofollow" target="_blank">Click here</a>).
+All information provided will be treated with strict confidentiality. Please
 contact Ms Shalini (Corporate Support Officer) at <a href="mailto:qss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">qss@moe.edu.sg</a> for queries.</p>
 <h4><strong>10. Student Smart Card (SSC) for concessionary travel</strong></h4>
 <p>All students entering Secondary 1 in January 2026 will be issued a new
