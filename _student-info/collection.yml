@@ -3,9 +3,7 @@ collections:
     output: true
     order:
       - School Calendar.md
-      - HBL Calendar.md
       - School Rules and Regulations.md
-      - 2026 Secondary 1.md
       - Financial Assistance Scheme.md
       - Booklists.md
       - Locker Rental.md
