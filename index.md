@@ -17,7 +17,7 @@ sections:
           url: https://www.queenswaysec.moe.edu.sg/announcements/
         - title: 2026 Sec 1 Registration
           description: ""
-          url: https://www.queenswaysec.moe.edu.sg/2026-secondary-1/
+          url: https://sites.google.com/moe.edu.sg/qsssec1eregistration?usp=sharing
         - title: Open House
           description: ""
           url: https://sites.google.com/moe.edu.sg/qssopenhouse2025/home
@@ -32,7 +32,7 @@ sections:
         - title: 2026 Sec 1 Registration
           description: Click here to find out more about the registration.
           linktext: Learn more
-          url: https://www.queenswaysec.moe.edu.sg/2026-secondary-1/
+          url: https://sites.google.com/moe.edu.sg/qsssec1eregistration?usp=sharing
         - title: Open House 2025
           description: 22 November, 0830 - 1200!
           linktext: Learn more
