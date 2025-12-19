@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - 2026 Secondary 1.md
       - Application for Canteen Vendor.md
       - Students/Student Learning Space.md
       - Students/.keep
