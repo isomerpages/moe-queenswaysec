@@ -15,6 +15,9 @@ sections:
         - title: Announcements
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/announcements/
+        - title: 2026 Sec 1 Registration
+          description: ""
+          url: https://www.queenswaysec.moe.edu.sg/2026-secondary-1/
         - title: Open House
           description: ""
           url: https://sites.google.com/moe.edu.sg/qssopenhouse2025/home
