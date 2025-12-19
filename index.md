@@ -26,6 +26,10 @@ sections:
       id: textcards
       description: Check here for our latest announcements!
       cards:
+        - title: 2026 Sec 1 Registration
+          description: Click here to find out more about the registration.
+          linktext: Learn more
+          url: https://www.queenswaysec.moe.edu.sg/2026-secondary-1/
         - title: Open House 2025
           description: 22 November, 0830 - 1200!
           linktext: Learn more
