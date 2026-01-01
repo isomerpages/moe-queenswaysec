@@ -774,6 +774,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD, Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Clarissa Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_wei_shan_clarissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wei_shan_clarissa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH, Science</p>
 </td>
 <td rowspan="1" colspan="1">
