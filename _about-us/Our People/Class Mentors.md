@@ -90,8 +90,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurshireen_abdul_rasid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurshireen</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,7 +121,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurshireen_abdul_rasid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurshireen</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
