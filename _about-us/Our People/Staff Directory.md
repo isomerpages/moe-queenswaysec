@@ -608,7 +608,8 @@ variant: tiptap
 <p>Mr Wang Zhaolin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wang_zhaolin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_zhaolin@moe.edu.sg</a>
+<p><a href="mailto:wang_zhaolin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_zhaolin@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
