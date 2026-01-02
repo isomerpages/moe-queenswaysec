@@ -144,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head, Lower Secondary (Covering)</p>
+<p>Year Head, Lower Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yeo Choon Hwa</p>
@@ -160,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head, Lower Sec</p>
+<p>Assistant Year Head, Lower Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Iryantee Ja'afar</p>
@@ -168,7 +168,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head, Upper Sec</p>
+<p>Assistant Year Head, Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kala Devi</p>
