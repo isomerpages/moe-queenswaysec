@@ -75,7 +75,7 @@ variant: tiptap
 <p>HOD, English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Makoto Kawaguchi</p>
+<p>Ms Betsy Teo</p>
 </td>
 </tr>
 <tr>
