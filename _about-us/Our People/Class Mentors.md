@@ -542,11 +542,11 @@ variant: tiptap
 <p>4 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_xin_yi_megan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Megan Goh</a>
+<p><a href="mailto:gerard_danker@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Danker</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:umar_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Umar</a>
+<p><a href="mailto:quek_yu_pin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Quek Yu Pin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
