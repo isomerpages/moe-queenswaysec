@@ -110,6 +110,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Francis Kwang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:francis_kwang_wee_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">francis_kwang_wee_wen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -298,7 +310,8 @@ variant: tiptap
 <p>Mdm Chew Leong Kiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_leong_kiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_leong_kiong@moe.edu.sg</a>
+<p><a href="mailto:chew_leong_kiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_leong_kiong@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -310,7 +323,8 @@ variant: tiptap
 <p>Ms Nicole Alexandra Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicole_alexandra_lee_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_alexandra_lee_wen@moe.edu.sg</a>
+<p><a href="mailto:nicole_alexandra_lee_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_alexandra_lee_wen@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -322,7 +336,8 @@ variant: tiptap
 <p>Mr Alex Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_yu_shun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yu_shun@moe.edu.sg</a>
+<p><a href="mailto:chin_yu_shun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yu_shun@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -334,7 +349,8 @@ variant: tiptap
 <p>Ms Jeewanthi Anuraha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jeewanthi_anuraha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jeewanthi_anuraha@moe.edu.sg</a>
+<p><a href="mailto:jeewanthi_anuraha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jeewanthi_anuraha@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -346,7 +362,8 @@ variant: tiptap
 <p>Ms Elaine Law</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:law_liwei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">law_liwei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

@@ -75,7 +75,7 @@ variant: tiptap
 <p>HOD, English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Makoto Kawaguchi</p>
+<p>Ms Betsy Teo</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ variant: tiptap
 <p>HOD, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sheryl Soh (Ms Sim)</p>
+<p>Ms Lily Choo</p>
 </td>
 </tr>
 <tr>
@@ -120,15 +120,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, Special Projects</p>
+<p>HOD, ICT (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Betsy Teo</p>
+<p>Mr Alvin Leong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer / HOD, ICT (Covering)</p>
+<p>HOD, Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Clarissa Koh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Andy Yeo</p>
@@ -136,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head, Lower Secondary (Covering)</p>
+<p>Year Head, Lower Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yeo Choon Hwa</p>
@@ -152,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head, Sec 1</p>
+<p>Assistant Year Head, Lower Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Iryantee Ja'afar</p>
@@ -160,10 +168,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head, Sec 4/5</p>
+<p>Assistant Year Head, Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Zhi Yun</p>
+<p>Ms Kala Devi</p>
 </td>
 </tr>
 <tr>
@@ -184,10 +192,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Chinese Language (Covering)</p>
+<p>Subject Head, Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Hui Jun</p>
+<p>Mr Robin Tham</p>
 </td>
 </tr>
 <tr>
@@ -200,26 +208,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alvin Leong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head, ICT (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Philynn Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lily Choo</p>
+<p>Ms Chen Zhi Yun</p>
 </td>
 </tr>
 <tr>
@@ -227,7 +219,7 @@ variant: tiptap
 <p>Subject Head, Physical Education &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Umar Abdul Hamid</p>
+<p>Mr Ong Kok Heng</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +232,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Student Leadership (Covering)</p>
+<p>Subject Head, Chemistry (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Xin Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Stella Goh</p>
@@ -248,7 +248,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Student Management (Covering)</p>
+<p>Subject Head, Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ethel Choy</p>
@@ -260,14 +260,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Eileen Ang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Veronica How</p>
 </td>
 </tr>
 <tr>
