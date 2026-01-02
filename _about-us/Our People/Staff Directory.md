@@ -1042,7 +1042,8 @@ variant: tiptap
 <p>Mr Benedict Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kok_tze_benedict@moe.edu.sg</a>
+<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kok_tze_benedict@</a>
+<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1054,7 +1055,8 @@ variant: tiptap
 <p>Ms Dora Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dora_tay_hui_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dora_tay_hui_xuan@moe.edu.sg</a>
+<p><a href="mailto:dora_tay_hui_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dora_tay_hui_xuan@</a>
+<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1066,7 +1068,8 @@ variant: tiptap
 <p>Mr Gilbert Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gilbert_tan_wei_beng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gilbert_tan_wei_beng@moe.edu.sg</a>
+<p><a href="mailto:gilbert_tan_wei_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gilbert_tan_wei_beng@</a>
+<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
