@@ -494,8 +494,7 @@ variant: tiptap
 <p>Mr Teo Kian Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_kian_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kian_wee@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:teo_kian_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kian_wee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -507,8 +506,7 @@ variant: tiptap
 <p>Ms Iryantee Bte Jaffar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:iryantee_jaffar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">iryantee_jaffar@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:iryantee_jaffar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">iryantee_jaffar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -520,8 +518,7 @@ variant: tiptap
 <p>Ms Low Xin Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_xin_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_xin_yee@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:low_xin_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_xin_yee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -533,8 +530,7 @@ variant: tiptap
 <p>Ms Chia Hui Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_hui_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_hui_jun@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:chia_hui_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_hui_jun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -546,8 +542,7 @@ variant: tiptap
 <p>Ms Manikandan Suguna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:manikandan_suguna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">manikandan_suguna@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:manikandan_suguna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">manikandan_suguna@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -559,8 +554,7 @@ variant: tiptap
 <p>Ms Mardiana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mardiana_binti_mohd_ahzhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mardiana_binti_mohd_ahzhar@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:mardiana_binti_mohd_ahzhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mardiana_binti_mohd_ahzhar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
