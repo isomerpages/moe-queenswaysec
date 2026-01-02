@@ -495,11 +495,11 @@ variant: tiptap
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:how_xin_yi_veronica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Veronica How</a>
+<p><a href="mailto:senan_b_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Senan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhang Yi</a>
+<p><a href="mailto:chia_yew_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Yew Hwee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
