@@ -1144,7 +1144,8 @@ variant: tiptap
 <p>Ms Tan Qing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_qing@moe.edu.sg</a>
+<p><a href="mailto:tan_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_qing@</a>
+<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
