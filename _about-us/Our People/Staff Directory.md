@@ -384,10 +384,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lin Chu Chu Precia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lin_chu_chu_precia_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_chu_chu_precia_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
