@@ -614,8 +614,7 @@ variant: tiptap
 <p>Mdm Zhou Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhou_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_yun@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:zhou_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -627,8 +626,7 @@ variant: tiptap
 <p>Ms He Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:he_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">he_ying@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:he_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">he_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
