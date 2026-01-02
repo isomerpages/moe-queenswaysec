@@ -941,7 +941,7 @@ variant: tiptap
 <p>Ms Lim Xin Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_xin_ying_1@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xin_ying_1@schools.gov.sg</a> 
+<p><a href="mailto:lim_xin_ying_1@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xin_ying_1@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -953,8 +953,7 @@ variant: tiptap
 <p>Ms Kala Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kala_devi_santha_kumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kala_devi_santha_kumar@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:kala_devi_santha_kumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kala_devi_santha_kumar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -990,8 +989,7 @@ variant: tiptap
 <p>Mr Benedict Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kok_tze_benedict@</a>
-<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kok_tze_benedict@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1003,8 +1001,7 @@ variant: tiptap
 <p>Ms Dora Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dora_tay_hui_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dora_tay_hui_xuan@</a>
-<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:dora_tay_hui_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dora_tay_hui_xuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1016,8 +1013,7 @@ variant: tiptap
 <p>Mr Gilbert Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gilbert_tan_wei_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gilbert_tan_wei_beng@</a>
-<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:gilbert_tan_wei_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gilbert_tan_wei_beng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1029,8 +1025,7 @@ variant: tiptap
 <p>Mr Jimmy Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_meng_guan_jimmy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_meng_guan_jimmy@</a>
-<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:ong_meng_guan_jimmy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_meng_guan_jimmy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1042,8 +1037,7 @@ variant: tiptap
 <p>Ms Kim Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_xinhui_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_xinhui_kim@</a>
-<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:chan_xinhui_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_xinhui_kim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1055,8 +1049,7 @@ variant: tiptap
 <p>Ms Lim Swee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_swee_kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_kheng@</a>
-<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:lim_swee_kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_kheng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1080,8 +1073,7 @@ variant: tiptap
 <p>Ms Tan Qing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_qing@</a>
-<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:tan_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_qing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
