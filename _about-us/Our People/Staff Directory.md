@@ -807,7 +807,8 @@ variant: tiptap
 <p>Ms Jaclyn Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_kah_poh_jaclyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kah_poh_jaclyn@moe.edu.sg</a>
+<p><a href="mailto:lee_kah_poh_jaclyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_kah_poh_jaclyn@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
