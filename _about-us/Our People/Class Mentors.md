@@ -59,7 +59,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:Muhammad_Syahrul_Salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Syahrul</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,11 +71,11 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:goh_xin_yi_megan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Megan Goh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:forrest_low_zi_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Forrest Low </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,11 +87,11 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:chan_xinhui_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kim Chan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Tai-Yu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
