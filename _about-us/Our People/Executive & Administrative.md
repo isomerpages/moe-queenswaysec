@@ -310,8 +310,7 @@ variant: tiptap
 <p>Mdm Chew Leong Kiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_leong_kiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_leong_kiong@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:chew_leong_kiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_leong_kiong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
