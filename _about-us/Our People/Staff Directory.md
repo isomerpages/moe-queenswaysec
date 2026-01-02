@@ -360,10 +360,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Andrea Chong Yan Eu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Andrea_Chong_Yan_Eu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Andrea_Chong_Yan_Eu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -371,10 +372,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Christy Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Teng_Christy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teng_Christy@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
