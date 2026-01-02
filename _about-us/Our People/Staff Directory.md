@@ -634,7 +634,8 @@ variant: tiptap
 <p>Ms Zhang Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_yi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yi_a@moe.edu.sg</a>
+<p><a href="mailto:zhang_yi_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yi_a@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
