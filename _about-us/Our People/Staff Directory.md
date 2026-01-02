@@ -566,22 +566,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Han Jian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:han_jian_hannah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_jian_hannah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Manikandan Suguna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:manikandan_suguna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">manikandan_suguna@moe.edu.sg</a>
+<p><a href="mailto:manikandan_suguna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">manikandan_suguna@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
