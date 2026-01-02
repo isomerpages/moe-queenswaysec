@@ -312,7 +312,8 @@ variant: tiptap
 <p>Mr Quinn Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_junguang_quinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_junguang_quinn@moe.edu.sg</a>
+<p><a href="mailto:lee_junguang_quinn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_junguang_quinn@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -324,7 +325,8 @@ variant: tiptap
 <p>Mr Tan Poh Pin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_poh_pin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_pin_a@moe.edu.sg</a>
+<p><a href="mailto:tan_poh_pin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_pin_a@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
