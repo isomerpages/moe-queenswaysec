@@ -299,7 +299,8 @@ variant: tiptap
 <p>Ms Luo Chun Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:luo_chun_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luo_chun_yin@moe.edu.sg</a>
+<p><a href="mailto:luo_chun_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luo_chun_yin@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
