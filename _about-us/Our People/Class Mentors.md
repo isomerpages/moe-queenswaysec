@@ -16,7 +16,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<h4><strong>SECONDARY 1 CLASS MENTORS</strong><br>Assistant Year Head: <a href="mailto:iryantee_jaffar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Iryantee</a></h4>
+<h4><strong>SECONDARY 1 CLASS MENTORS</strong><br>Year Head: <a href="mailto:yeo_choon_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yeo Choon Hwa</a></h4>
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="4">
 <p></p>
-<h4><strong>SECONDARY 2 CLASS MENTORS</strong><br>Year Head: <a href="mailto:yeo_choon_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yeo Choon Hwa</a></h4>
+<h4><strong>SECONDARY 2 CLASS MENTORS</strong><br>Assistant Year Head: <a href="mailto:iryantee_jaffar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Iryantee</a></h4>
 <p></p>
 </td>
 </tr>
