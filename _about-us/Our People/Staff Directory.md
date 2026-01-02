@@ -1091,22 +1091,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kala Devi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kala_devi_santha_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kala_devi_santha_kumar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Kim Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_xinhui_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_xinhui_kim@moe.edu.sg</a>
+<p><a href="mailto:chan_xinhui_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_xinhui_kim@</a>
+<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
