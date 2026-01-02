@@ -83,36 +83,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Damien Fong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:damien_fong_whye_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">damien_fong_whye_hong_a@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Gayatri Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gayatri_devi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gayatri_devi@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Yong Long</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_yong_long_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yong_long_a@</a>
 <a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
