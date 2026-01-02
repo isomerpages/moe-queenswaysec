@@ -511,11 +511,11 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_wei_jie_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Leong</a>
+<p><a href="mailto:ng_wei_sheng_martin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Ng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teng_shumin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teng Shumin</a>
+<p><a href="mailto:tan_hong_bee_philynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Philynn Tan </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
