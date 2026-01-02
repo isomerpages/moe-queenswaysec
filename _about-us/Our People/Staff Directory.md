@@ -1091,8 +1091,7 @@ variant: tiptap
 <p>Mr Feroz Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:feroz_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feroz_ali@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:feroz_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feroz_ali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1104,8 +1103,7 @@ variant: tiptap
 <p>Mr Yeo Choon Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_choon_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_choon_hwa@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:yeo_choon_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_choon_hwa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1129,8 +1127,7 @@ variant: tiptap
 <p>Mr Ong Kok Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_kok_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:ong_kok_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1154,8 +1151,7 @@ variant: tiptap
 <p>Mr Abdul Samad Mohd Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_samad@</a>
-<a href="mailto:chia_tai-yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:abdul_samad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_samad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1167,8 +1163,7 @@ variant: tiptap
 <p>Mr Danker Gerard Martin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gerard_danker@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gerard_danker@</a>
-<a href="mailto:chia_tai-yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:gerard_danker@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gerard_danker@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1180,8 +1175,7 @@ variant: tiptap
 <p>Mr Justin Lloyd Fernandez</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:justin_lloyd_fernandez@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">justin_lloyd_fernandez@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:justin_lloyd_fernandez@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">justin_lloyd_fernandez@schools.gov.sg</a>
 </p>
 </td>
 </tr>
