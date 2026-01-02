@@ -556,7 +556,8 @@ variant: tiptap
 <p>Ms Chia Hui Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_hui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_hui_jun@moe.edu.sg</a>
+<p><a href="mailto:chia_hui_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_hui_jun@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
