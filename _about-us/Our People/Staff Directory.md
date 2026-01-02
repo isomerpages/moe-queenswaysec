@@ -405,19 +405,21 @@ variant: tiptap
 <p>Ms Irene Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_hwee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hwee_ling@moe.edu.sg</a>
+<p><a href="mailto:wong_hwee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_hwee_ling@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH, Geography</p>
+<p>HOD ICT (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alvin Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_wei_jie_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_wei_jie_alvin@moe.edu.sg</a>
+<p><a href="mailto:leong_wei_jie_alvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_wei_jie_alvin@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
