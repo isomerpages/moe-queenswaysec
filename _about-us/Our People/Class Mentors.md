@@ -352,8 +352,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasvinder_kaur_pannu@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasvinder Kaur</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -402,8 +401,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:stella_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stella Goh</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
