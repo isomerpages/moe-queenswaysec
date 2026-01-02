@@ -26,7 +26,7 @@ variant: tiptap
 <p>Mr Kevin Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_kok_wai_kevin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kok_wai_kevin@moe.edu.sg</a>
+<p><a href="mailto:chong_kok_wai_kevin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kok_wai_kevin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -38,7 +38,19 @@ variant: tiptap
 <p>Mdm Eileen Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_bee_kiow_eileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_bee_kiow_eileen@moe.edu.sg</a>
+<p><a href="mailto:ang_bee_kiow_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_bee_kiow_eileen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH, CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Robin Tham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tham_wei_liang_robin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_wei_liang_robin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -50,7 +62,7 @@ variant: tiptap
 <p>Ms Melcia Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hui_lin_melcia_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hui_lin_melcia_leong@moe.edu.sg</a>
+<p><a href="mailto:hui_lin_melcia_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hui_lin_melcia_leong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
