@@ -87,7 +87,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gayatri_devi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gayatri_devi@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a>
 </p>
 </td>
 </tr>
@@ -312,8 +312,7 @@ variant: tiptap
 <p>Mr Quinn Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_junguang_quinn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_junguang_quinn@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:lee_junguang_quinn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_junguang_quinn@schools.gov.sg</a>
 </p>
 </td>
 </tr>
