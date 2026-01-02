@@ -485,7 +485,8 @@ variant: tiptap
 <p>Ms Megan Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_xin_yi_megan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xin_yi_megan@moe.edu.sg</a>
+<p><a href="mailto:goh_xin_yi_megan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xin_yi_megan@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -497,7 +498,8 @@ variant: tiptap
 <p>Ms Quek Yu Pin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quek_yu_pin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_yu_pin@moe.edu.sg</a>
+<p><a href="mailto:quek_yu_pin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_yu_pin@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
