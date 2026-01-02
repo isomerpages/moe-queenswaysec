@@ -38,13 +38,16 @@ variant: tiptap
 <p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Teng_Christy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Christy Teng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chng_eng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chng Eng Peng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:jasvinder_kaur_pannu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasvinder Kaur</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -52,10 +55,12 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chia_hui_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Hui Jun</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Muhammad_Syahrul_Salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Syahrul</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -66,10 +71,12 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_xin_yi_megan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Megan Goh</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:forrest_low_zi_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Forrest Low</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -80,24 +87,12 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chan_xinhui_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kim Chan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mr Chia Tai-Yu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -108,10 +103,12 @@ variant: tiptap
 <p>1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:caleb_yee_zhejian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Caleb Yee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yang_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Yi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,10 +119,12 @@ variant: tiptap
 <p>1 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Pireym_Anand_Gunassaharan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Anand</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teng_shumin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teng Shumin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -133,13 +132,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Discipline</p>
+<p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_swee_khiang_gabriel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Ng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:irfana_begum_shaik_fareed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Irfana</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
