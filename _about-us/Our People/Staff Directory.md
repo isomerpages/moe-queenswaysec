@@ -1107,7 +1107,8 @@ variant: tiptap
 <p>Ms Lim Swee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_swee_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_kheng@moe.edu.sg</a>
+<p><a href="mailto:lim_swee_kheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_swee_kheng@</a>
+<a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
