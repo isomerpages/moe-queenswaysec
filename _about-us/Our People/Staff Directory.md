@@ -220,7 +220,8 @@ variant: tiptap
 <p>Ms Betsy Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_mei_chin_betsy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_mei_chin_betsy@moe.edu.sg</a>
+<p><a href="mailto:teo_mei_chin_betsy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_mei_chin_betsy@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -233,7 +234,8 @@ variant: tiptap
 <p>Ms Rebecca Chow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rebecca_chow_hui_shi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_chow_hui_shi@moe.edu.sg</a>
+<p><a href="mailto:rebecca_chow_hui_shi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_chow_hui_shi@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
