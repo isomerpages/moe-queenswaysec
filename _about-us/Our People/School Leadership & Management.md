@@ -160,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head, Sec 1</p>
+<p>Assistant Year Head, Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Iryantee Ja'afar</p>
@@ -168,10 +168,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head, Sec 4/5</p>
+<p>Assistant Year Head, Upper Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Zhi Yun</p>
+<p>Ms Kala Devi</p>
 </td>
 </tr>
 <tr>
