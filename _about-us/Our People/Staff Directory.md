@@ -925,7 +925,8 @@ variant: tiptap
 <p>Mdm Lim Yi Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yi_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_lin@moe.edu.sg</a>
+<p><a href="mailto:lim_yi_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_lin@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -937,7 +938,8 @@ variant: tiptap
 <p>Mr Andy Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:andy_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andy_yeo@moe.edu.sg</a>
+<p><a href="mailto:andy_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">andy_yeo@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -949,7 +951,8 @@ variant: tiptap
 <p>Ms Clarissa Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_wei_shan_clarissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wei_shan_clarissa@moe.edu.sg</a>
+<p><a href="mailto:koh_wei_shan_clarissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_wei_shan_clarissa@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
