@@ -460,7 +460,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>401</p>
+<p>4 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jonathan Ho</a>
@@ -475,7 +475,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>402</p>
+<p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_chih_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Frieden Ng</a>
@@ -491,7 +491,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>403</p>
+<p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:how_xin_yi_veronica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Veronica How</a>
@@ -507,7 +507,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>404</p>
+<p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_wei_jie_alvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alvin Leong</a>
@@ -523,7 +523,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>411</p>
+<p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_xin_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Xin Yee</a>
@@ -539,7 +539,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>412</p>
+<p>4 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_xin_yi_megan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Megan Goh</a>
@@ -555,10 +555,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>413</p>
+<p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_kee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Kee Eng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>511</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_zhiyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Zhiyun</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
