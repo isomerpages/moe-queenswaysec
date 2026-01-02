@@ -110,6 +110,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Francis Kwang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:francis_kwang_wee_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">francis_kwang_wee_wen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
