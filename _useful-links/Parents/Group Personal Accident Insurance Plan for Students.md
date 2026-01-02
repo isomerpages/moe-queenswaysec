@@ -85,5 +85,5 @@ Medisave-approved Integrated Shield Plan.</p>
 </ol>
 <p>Please note that the list of documents above is not exhaustive. Other
 documents may be requested if necessary.</p>
-<p>For more details on the GPA Plan, please refer to: <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet 2025</a>
+<p>For more details on the GPA Plan, please refer to: <a href="https://drive.google.com/file/d/1QLFD5Hz_6if4FkhbsErLRCsbgdJdbIhY/view?usp=sharing" rel="noopener nofollow" target="_blank">Product Fact Sheet 2026</a> 
 </p>
