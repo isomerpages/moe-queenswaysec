@@ -119,11 +119,11 @@ variant: tiptap
 <p>1 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:Pireym_Anand_Gunassaharan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Anand</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:teng_shumin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teng Shumin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
