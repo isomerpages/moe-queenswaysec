@@ -515,7 +515,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hong_bee_philynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Philynn Tan </a>
+<p><a href="mailto:tan_hong_bee_philynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Philynn Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -527,12 +527,11 @@ variant: tiptap
 <p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_xin_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Xin Yee</a>
+<p><a href="mailto:gilbert_tan_wei_beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gilbert Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:han_jian_hannah@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Han Jian</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
