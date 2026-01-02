@@ -248,7 +248,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Student Leadership (Covering)</p>
+<p>Subject Head, Chemistry (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Xin Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Stella Goh</p>
