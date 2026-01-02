@@ -463,11 +463,12 @@ variant: tiptap
 <p>4 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_xinping_jonathan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jonathan Ho</a>
+<p><a href="mailto:luo_chun_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Luo Chun Yin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_ching_hau_howard@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Ching Hau Howard</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -478,11 +479,11 @@ variant: tiptap
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_chih_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Frieden Ng</a>
+<p><a href="mailto:dora_tay_hui_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Dora Tay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_zhi_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sim Zhi Wei</a>
+<p><a href="mailto:wang_zhaolin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wang Zhaolin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -562,7 +563,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:umar_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Umar</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
