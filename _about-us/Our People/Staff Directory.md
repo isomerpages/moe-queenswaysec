@@ -112,8 +112,7 @@ variant: tiptap
 <p>Mr Karl B. Valderama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:valderama_karl_buenaventura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">valderama_karl_buenaventura@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:valderama_karl_buenaventura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">valderama_karl_buenaventura@schools.gov.sg</a>
 </p>
 </td>
 </tr>
