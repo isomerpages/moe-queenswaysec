@@ -74,7 +74,7 @@ variant: tiptap
 <p>Mr Chia Yew Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_yew_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_yew_hwee@moe.edu.sg</a>
+<p><a href="mailto:chia_yew_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_yew_hwee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -86,7 +86,8 @@ variant: tiptap
 <p>Mr Damien Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:damien_fong_whye_hong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">damien_fong_whye_hong_a@moe.edu.sg</a>
+<p><a href="mailto:damien_fong_whye_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">damien_fong_whye_hong_a@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -98,7 +99,8 @@ variant: tiptap
 <p>Mrs Gayatri Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gayatri_devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gayatri_devi@moe.edu.sg</a>
+<p><a href="mailto:gayatri_devi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gayatri_devi@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
