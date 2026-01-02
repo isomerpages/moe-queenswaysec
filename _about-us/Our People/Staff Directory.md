@@ -426,13 +426,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>SH, Student Management
-<br>(Covering)</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ethel Choy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choy_hui_zhen_ethel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_hui_zhen_ethel@moe.edu.sg</a>
+<p><a href="mailto:choy_hui_zhen_ethel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choy_hui_zhen_ethel@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
