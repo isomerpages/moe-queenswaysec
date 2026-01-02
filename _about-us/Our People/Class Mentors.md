@@ -267,11 +267,12 @@ variant: tiptap
 <p>2 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_hai_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jonathan Tom Ho</a>
+<p><a href="mailto:rebecca_chow_hui_shi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rebecca Chow</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rebecca_chow_hui_shi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rebecca Chow</a>
+<p><a href="mailto:ho_hai_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jonathan Tom Ho</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
