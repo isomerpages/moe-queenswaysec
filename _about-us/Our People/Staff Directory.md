@@ -260,19 +260,8 @@ variant: tiptap
 <p>Ms Calyn Seah Jia Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:calyn_seah_jia_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">calyn_seah_jia_ying@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Frieden Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_chih_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chih_qing@moe.edu.sg</a>
+<p><a href="mailto:calyn_seah_jia_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">calyn_seah_jia_ying@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -284,7 +273,8 @@ variant: tiptap
 <p>Mr Gabriel Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_swee_khiang_gabriel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_swee_khiang_gabriel@moe.edu.sg</a>
+<p><a href="mailto:ng_swee_khiang_gabriel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_swee_khiang_gabriel@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
