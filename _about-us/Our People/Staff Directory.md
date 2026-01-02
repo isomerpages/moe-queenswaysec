@@ -729,7 +729,8 @@ variant: tiptap
 <p>Ms Tan Wei Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wei_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_yi@moe.edu.sg</a>
+<p><a href="mailto:tan_wei_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_yi@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
