@@ -558,11 +558,11 @@ variant: tiptap
 <p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_kee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Kee Eng</a>
+<p><a href="mailto:gayatri_devi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gayatri</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:umar_abdul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Umar</a>
+<p><a href="mailto:tan_jialin_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Grace Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
