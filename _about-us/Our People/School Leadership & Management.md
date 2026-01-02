@@ -91,7 +91,7 @@ variant: tiptap
 <p>HOD, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sheryl Soh (Ms Sim)</p>
+<p>Ms Lily Choo</p>
 </td>
 </tr>
 <tr>
