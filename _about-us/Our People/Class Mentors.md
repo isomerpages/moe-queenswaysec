@@ -135,11 +135,11 @@ variant: tiptap
 <p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:ng_swee_khiang_gabriel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gabriel Ng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:irfana_begum_shaik_fareed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Irfana</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
