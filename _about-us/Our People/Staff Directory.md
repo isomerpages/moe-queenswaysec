@@ -755,7 +755,8 @@ variant: tiptap
 <p>Mr Chua Kee Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_kee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_kee_eng@moe.edu.sg</a>
+<p><a href="mailto:chua_kee_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_kee_eng@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
