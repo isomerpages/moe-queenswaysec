@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:forrest_low_zi_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Forrest Low </a>
+<p><a href="mailto:forrest_low_zi_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Forrest Low</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,30 +100,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:caleb_yee_zhejian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Caleb Yee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:yang_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Yi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,6 +117,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>1 Confidence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
