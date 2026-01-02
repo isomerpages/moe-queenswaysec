@@ -781,7 +781,8 @@ variant: tiptap
 <p>Mr Chng Eng Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chng_eng_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_eng_peng@moe.edu.sg</a>
+<p><a href="mailto:chng_eng_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_eng_peng@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
