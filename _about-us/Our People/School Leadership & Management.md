@@ -192,14 +192,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Chinese Language (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chia Hui Jun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head, Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -212,22 +204,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alvin Leong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head, ICT (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Philynn Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lily Choo</p>
 </td>
 </tr>
 <tr>
