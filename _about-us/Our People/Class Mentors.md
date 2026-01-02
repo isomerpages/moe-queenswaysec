@@ -46,7 +46,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:jasvinder_kaur_pannu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasvinder Kaur</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +55,7 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:chia_hui_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Hui Jun</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
