@@ -38,11 +38,11 @@ variant: tiptap
 <p>1 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tham_yu_hsuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tham Yu Hsuan</a>
+<p><a href="mailto:tham_yu_hsuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tham Yu Hsuan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhou_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhou Yun</a>
+<p><a href="mailto:zhou_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zhou Yun</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,11 +54,11 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:manikandan_suguna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suguna</a>
+<p><a href="mailto:manikandan_suguna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suguna</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kok_tze_benedict@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
+<p><a href="mailto:tan_kok_tze_benedict@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Benedict Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,7 +74,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eugenia_heng_ee_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Eugenia Heng</a>
+<p><a href="mailto:eugenia_heng_ee_gene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Eugenia Heng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,11 +86,11 @@ variant: tiptap
 <p>1 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_qing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Qing</a>
+<p><a href="mailto:tan_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Qing</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurshireen</a>
+<p><a href="mailto:nurshireen_abdul_rasid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurshireen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +102,7 @@ variant: tiptap
 <p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:murni_iryani_mohd_hanafi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Murni</a>
+<p><a href="mailto:murni_iryani_mohd_hanafi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Murni</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,12 +118,11 @@ variant: tiptap
 <p>1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_meng_guan_jimmy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jimmy Ong</a>
+<p><a href="mailto:ong_meng_guan_jimmy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jimmy Ong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_wen_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chan Wen Ying</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
