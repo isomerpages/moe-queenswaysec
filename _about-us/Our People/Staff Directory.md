@@ -1189,7 +1189,8 @@ variant: tiptap
 <p>Mr Ong Kok Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_kok_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng@moe.edu.sg</a>
+<p><a href="mailto:ong_kok_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
