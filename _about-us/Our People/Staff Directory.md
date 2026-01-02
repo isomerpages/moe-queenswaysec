@@ -208,6 +208,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yap Sae Hean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Yap_Sae_Hean@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yap_Sae_Hean@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p></p>
 <h4>English</h4>
