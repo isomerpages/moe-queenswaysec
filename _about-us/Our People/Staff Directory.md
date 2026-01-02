@@ -99,9 +99,9 @@ variant: tiptap
 <p>Mrs Isabel Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_siew_min_isabel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_min_isabel@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:lee_siew_min_isabel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_min_isabel@schools.gov.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
