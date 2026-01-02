@@ -888,6 +888,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Siew Khiuk</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Chong_Siew_Khiuk_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chong_Siew_Khiuk_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p></p>
 <h4>Science</h4>
