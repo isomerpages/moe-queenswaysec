@@ -794,7 +794,8 @@ variant: tiptap
 <p>Ms Eugenia Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eugenia_heng_ee_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eugenia_heng_ee_gene@moe.edu.sg</a>
+<p><a href="mailto:eugenia_heng_ee_gene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eugenia_heng_ee_gene@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
