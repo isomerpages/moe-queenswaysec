@@ -595,7 +595,8 @@ variant: tiptap
 <p>Mr Senan B Long</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:senan_b_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">senan_b_long@moe.edu.sg</a>
+<p><a href="mailto:senan_b_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">senan_b_long@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
