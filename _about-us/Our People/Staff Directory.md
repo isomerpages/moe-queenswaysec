@@ -112,7 +112,8 @@ variant: tiptap
 <p>Mr Goh Yong Long</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_yong_long_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yong_long_a@moe.edu.sg</a>
+<p><a href="mailto:goh_yong_long_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yong_long_a@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -124,7 +125,8 @@ variant: tiptap
 <p>Mrs Isabel Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_siew_min_isabel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_min_isabel@moe.edu.sg</a>
+<p><a href="mailto:lee_siew_min_isabel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_min_isabel@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -136,7 +138,8 @@ variant: tiptap
 <p>Mr Karl B. Valderama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:valderama_karl_buenaventura@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valderama_karl_buenaventura@moe.edu.sg</a>
+<p><a href="mailto:valderama_karl_buenaventura@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">valderama_karl_buenaventura@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
