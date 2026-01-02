@@ -964,20 +964,23 @@ variant: tiptap
 <p>Ms Grace Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jialin_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jialin_grace@moe.edu.sg</a>
+<p><a href="mailto:tan_jialin_grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jialin_grace@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>SH, Student Leadership
-<br>(Covering)</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Stella Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:stella_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stella_goh@moe.edu.sg</a>
+<p><a href="mailto:stella_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">stella_goh@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
