@@ -666,6 +666,30 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Xingshan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lin_Xingshan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lin_Xingshan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zhang Jingjing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_jingjing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_jingjing@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p></p>
 <h4>Mathematics</h4>
