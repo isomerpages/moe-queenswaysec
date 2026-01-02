@@ -833,7 +833,7 @@ variant: tiptap
 <p>Mr Sim Zhi Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_zhi_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_zhi_wei@moe.edu.sg</a>
+<p><a href="mailto:sim_zhi_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_zhi_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
