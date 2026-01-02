@@ -235,7 +235,7 @@ variant: tiptap
 <p>Subject Head, Physical Education &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Umar Abdul Hamid</p>
+<p>Mr Ong Kok Heng</p>
 </td>
 </tr>
 <tr>
