@@ -286,7 +286,8 @@ variant: tiptap
 <p>Ms Jasvinder Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasvinder_kaur_pannu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasvinder_kaur_pannu@moe.edu.sg</a>
+<p><a href="mailto:jasvinder_kaur_pannu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jasvinder_kaur_pannu@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
