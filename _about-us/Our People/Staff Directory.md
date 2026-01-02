@@ -220,6 +220,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Soh Beng Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Soh_Beng_Seng_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Soh_Beng_Seng_A@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="3">
 <p></p>
 <h4>English</h4>
