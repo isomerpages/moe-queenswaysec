@@ -120,15 +120,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, Special Projects</p>
+<p>HOD, ICT (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Betsy Teo</p>
+<p>Mr Alvin Leong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer / HOD, ICT (Covering)</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Andy Yeo</p>
