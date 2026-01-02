@@ -1158,7 +1158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH, Lower Sec (Covering)</p>
+<p>YH, Lower Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yeo Choon Hwa</p>
@@ -1171,7 +1171,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH, Upper Sec</p>
+<p>YH, Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Teo Yong Chin</p>
@@ -1191,6 +1191,18 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_kok_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng@</a>
 <a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ST, PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chia Tai-Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_tai-yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_tai-yu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
