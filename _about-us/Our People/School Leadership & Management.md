@@ -256,6 +256,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Master Teacher, Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jensen Ong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lead Teacher, D&amp;T</p>
 </td>
 <td rowspan="1" colspan="1">
