@@ -16,7 +16,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<h4><strong>SECONDARY 1 CLASS MENTORS</strong><br>Assistant Year Head: <a href="mailto:iryantee_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Iryantee</a></h4>
+<h4><strong>SECONDARY 1 CLASS MENTORS</strong><br>Assistant Year Head: <a href="mailto:iryantee_jaffar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Iryantee</a></h4>
 </td>
 </tr>
 <tr>
@@ -148,136 +148,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="4">
 <p></p>
-<h4><strong>SECONDARY 2 CLASS MENTORS</strong><br>Year Head: <a href="mailto:yeo_choon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yeo Choon Hwa</a></h4>
+<h4><strong>SECONDARY 2 CLASS MENTORS</strong><br>Year Head: <a href="mailto:yeo_choon_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yeo Choon Hwa</a></h4>
 <p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Responsibility</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chng_eng_peng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chng Eng Peng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_yim_wai@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Samantha Wong</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Respect</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jasvinder_kaur_pannu@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasvinder Kaur</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Yang_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yang Yi</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Resilience</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_meng_yeow_aaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aaron Ong</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mardiana_binti_mohd_ahzhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mardiana</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Integrity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hong_bee_philynn@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Philynn Tan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ulaganathan_karpagam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Karpagam</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:stella_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stella Goh</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Kim Chan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lester_tay_chun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lester Tay</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Diligence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chia_hui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Hui Jun</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:calyn_seah_jia_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Calyn Seah</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Confidence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hui_lin_melcia_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Melcia Leong</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_junguang_quinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Quinn Lee</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:caleb_yee_zhejian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Caleb Yee</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -424,6 +296,194 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
+<p></p>
+<p></p>
+<p></p>
+<h4><strong>SECONDARY 3 CLASS MENTORS</strong><br>Assistant Year Head: <a href="mailto:kala_devi_santha_kumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Kala Devi</a></h4>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mardiana_binti_mohd_ahzhar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mardiana</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tham_wei_liang_robin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Robin Tham</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_kee_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chua Kee Eng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_junguang_quinn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Quinn Lee</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jasvinder_kaur_pannu@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Jasvinder Kaur</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_maggie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Maggie Toh</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_xin_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Low Xin Yee</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_meng_yeow_aaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aaron Ong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_meng_yeow_aaron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aaron Ong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:calyn_seah_jia_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Calyn Seah</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhang_jingjing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhang Jingjing</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:stella_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stella Goh</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:stella_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stella Goh</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_hui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Hui Jun</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:calyn_seah_jia_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Calyn Seah</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Kim Chan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Confidence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hui_lin_melcia_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Melcia Leong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_junguang_quinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Quinn Lee</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:caleb_yee_zhejian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Caleb Yee</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <h4><strong>SECONDARY 4/5 CLASS MENTORS</strong><br>Year Head: <a href="mailto:chen_zhiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chen Zhiyun</a></h4>
 </td>
