@@ -999,6 +999,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>AYH, Upper Secondary (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kala Devi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kala_devi_santha_kumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kala_devi_santha_kumar@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ST, Physics</p>
 </td>
 <td rowspan="1" colspan="1">
