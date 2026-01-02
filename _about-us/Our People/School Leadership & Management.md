@@ -200,14 +200,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alvin Leong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head, Physical Education &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,7 +232,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Student Management (Covering)</p>
+<p>Subject Head, Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ethel Choy</p>
@@ -252,14 +244,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Eileen Ang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, Chemistry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Veronica How</p>
 </td>
 </tr>
 <tr>
