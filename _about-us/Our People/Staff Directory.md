@@ -762,13 +762,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH, ICT (Covering)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Philynn Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hong_bee_philynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_bee_philynn@moe.edu.sg</a>
+<p><a href="mailto:tan_hong_bee_philynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_bee_philynn@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
