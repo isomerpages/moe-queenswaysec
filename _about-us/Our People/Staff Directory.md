@@ -446,7 +446,8 @@ variant: tiptap
 <p>Mr Howard Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ching_hau_howard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ching_hau_howard@moe.edu.sg</a>
+<p><a href="mailto:tan_ching_hau_howard@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ching_hau_howard@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -458,7 +459,8 @@ variant: tiptap
 <p>Mr Caleb Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:caleb_yee_zhejian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">caleb_yee_zhejian@moe.edu.sg</a>
+<p><a href="mailto:caleb_yee_zhejian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caleb_yee_zhejian@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
