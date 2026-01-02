@@ -124,8 +124,7 @@ variant: tiptap
 <p>Ms Kim Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_hui_qi_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_hui_qi_kim@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:Yeo_Hui_Qi_Kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yeo_Hui_Qi_Kim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -137,8 +136,7 @@ variant: tiptap
 <p>Mdm Leong Mui Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_mui_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_mui_seng@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:leong_mui_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_mui_seng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -150,8 +148,7 @@ variant: tiptap
 <p>Ms Murni Iryani Bte Md Hanafi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:murni_iryani_mohd_hanafi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">murni_iryani_mohd_hanafi@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:murni_iryani_mohd_hanafi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">murni_iryani_mohd_hanafi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
