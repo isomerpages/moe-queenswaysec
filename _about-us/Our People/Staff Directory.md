@@ -820,7 +820,8 @@ variant: tiptap
 <p>Mr Jonathan Tom Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_hai_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hai_long@moe.edu.sg</a>
+<p><a href="mailto:ho_hai_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hai_long@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
