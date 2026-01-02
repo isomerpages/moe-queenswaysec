@@ -517,19 +517,21 @@ variant: tiptap
 <p>Mr Teo Kian Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_kian_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kian_wee@moe.edu.sg</a>
+<p><a href="mailto:teo_kian_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kian_wee@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH, Secondary 2</p>
+<p>AYH, Lower Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Iryantee Bte Jaffar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:iryantee_jaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iryantee_jaffar@moe.edu.sg</a>
+<p><a href="mailto:iryantee_jaffar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">iryantee_jaffar@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
