@@ -310,8 +310,7 @@ variant: tiptap
 <p>Mdm Chew Leong Kiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_leong_kiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_leong_kiong@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:chew_leong_kiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_leong_kiong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -323,8 +322,7 @@ variant: tiptap
 <p>Ms Nicole Alexandra Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicole_alexandra_lee_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_alexandra_lee_wen@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:nicole_alexandra_lee_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_alexandra_lee_wen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -336,8 +334,7 @@ variant: tiptap
 <p>Mr Alex Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_yu_shun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yu_shun@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:chin_yu_shun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yu_shun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -349,9 +346,7 @@ variant: tiptap
 <p>Ms Jeewanthi Anuraha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jeewanthi_anuraha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jeewanthi_anuraha@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
