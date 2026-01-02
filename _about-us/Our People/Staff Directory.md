@@ -742,7 +742,8 @@ variant: tiptap
 <p>Ms Chen Zhiyun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_zhiyun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhiyun@moe.edu.sg</a>
+<p><a href="mailto:chen_zhiyun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhiyun@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
