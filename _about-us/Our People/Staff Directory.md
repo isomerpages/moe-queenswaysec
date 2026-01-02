@@ -86,9 +86,9 @@ variant: tiptap
 <p>Mrs Gayatri Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gayatri_devi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gayatri_devi@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov</a>
+<p><a href="mailto:gayatri_devi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gayatri_devi@schools.gov.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
