@@ -566,8 +566,7 @@ variant: tiptap
 <p>Mr Senan B Long</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:senan_b_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">senan_b_long@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:senan_b_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">senan_b_long@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -579,8 +578,7 @@ variant: tiptap
 <p>Mr Wang Zhaolin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wang_zhaolin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_zhaolin@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:wang_zhaolin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_zhaolin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -592,8 +590,7 @@ variant: tiptap
 <p>Ms Yang Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yang_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_yi@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:yang_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -605,8 +602,7 @@ variant: tiptap
 <p>Ms Zhang Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_yi_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yi_a@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:zhang_yi_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yi_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
