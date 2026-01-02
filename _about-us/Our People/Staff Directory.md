@@ -844,8 +844,7 @@ variant: tiptap
 <p>Mr Tham Yu Hsuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tham_yu_hsuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_yu_hsuan@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:tham_yu_hsuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_yu_hsuan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
