@@ -368,8 +368,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_meng_yeow_aaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Aaron Ong</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -390,7 +389,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Care</p>
+<p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_jingjing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Zhang Jingjing</a>
@@ -406,19 +405,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Diligence</p>
+<p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_hui_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Hui Jun</a>
+<p><a href="mailto:he_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms He Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:calyn_seah_jia_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Calyn Seah</a>
+<p><a href="mailto:sim_zhi_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sim Zhi Wei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Kim Chan</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -426,16 +424,15 @@ variant: tiptap
 <p>3 Confidence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hui_lin_melcia_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Melcia Leong</a>
+<p><a href="mailto:Andrea_Chong_Yan_Eu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Andrea Chong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_junguang_quinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Quinn Lee</a>
+<p><a href="mailto:ho_xinping_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jonathan Ho</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:caleb_yee_zhejian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Caleb Yee</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
