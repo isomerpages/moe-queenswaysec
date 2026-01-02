@@ -1151,7 +1151,8 @@ variant: tiptap
 <p>Mr Feroz Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:feroz_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feroz_ali@moe.edu.sg</a>
+<p><a href="mailto:feroz_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feroz_ali@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1163,7 +1164,8 @@ variant: tiptap
 <p>Mr Yeo Choon Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_choon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_choon_hwa@moe.edu.sg</a>
+<p><a href="mailto:yeo_choon_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_choon_hwa@</a>
+<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
