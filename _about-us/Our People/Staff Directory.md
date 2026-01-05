@@ -1115,7 +1115,7 @@ variant: tiptap
 <p>Ms Teo Yong Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_yong_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yong_chin@moe.edu.sg</a>
+<p><a href="mailto:teo_yong_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yong_chin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
