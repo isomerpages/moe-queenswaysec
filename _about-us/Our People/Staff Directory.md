@@ -941,7 +941,7 @@ variant: tiptap
 <p>Ms Lim Xin Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_xin_ying_1@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xin_ying_1@schools.gov.sg</a>
+<p><a href="mailto:Lim_Xin_Ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xin_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
