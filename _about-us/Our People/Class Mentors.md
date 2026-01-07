@@ -204,7 +204,7 @@ variant: tiptap
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_xin_ying_1@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Xin Ying</a>
+<p><a href="mailto:lim_xin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Xin Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
