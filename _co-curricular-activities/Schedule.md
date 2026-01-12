@@ -7,4 +7,4 @@ variant: markdown
 ### Schedule
 
 
-![2026 CCA Schedule](/images/2026_CCA_Schedule.jpg)
+![CCA Schedule 2026](/images/CCA_Schedule_2026.jpg)
