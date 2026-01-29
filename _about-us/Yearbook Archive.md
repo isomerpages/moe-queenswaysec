@@ -5,6 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>Yearbook Archive</h3>
+<p><a href="https://online.fliphtml5.com/obrr/Queensway-Secondary-School-YB2025/" rel="noopener nofollow" target="_blank">2025 Yearbook </a>
+</p>
 <p><a href="https://online.fliphtml5.com/obrr/ewxc/" rel="noopener nofollow" target="_blank">2024 Yearbook</a>
 </p>
 <p></p>
