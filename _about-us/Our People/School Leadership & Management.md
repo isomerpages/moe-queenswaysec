@@ -46,6 +46,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Principal (ADMIN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Doreen Koh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <p><strong>Key Personnel</strong>
 </p>
