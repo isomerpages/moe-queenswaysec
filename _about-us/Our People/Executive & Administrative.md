@@ -62,6 +62,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Principal (ADMIN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Doreen Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_siok_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_siok_han@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
