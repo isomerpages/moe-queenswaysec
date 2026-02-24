@@ -6,8 +6,9 @@ description: ""
 third_nav_title: PDLP
 ---
 <h4>The after-school hours are as follows:</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -20,8 +21,13 @@ third_nav_title: PDLP
 <th rowspan="1" colspan="1">
 <p>School Hours</p>
 </th>
+<td rowspan="1" colspan="1">
+<p><strong>After-school hours (Default / Option A)</strong>
+</p>
+</td>
 <th rowspan="1" colspan="1">
-<p>After-school Hours</p>
+<p><strong>After-school hours (Option B)</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -33,19 +39,20 @@ third_nav_title: PDLP
 <p>6:30 am to 3:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents'/Guardians' after-school option from</p>
-<p>3:00 pm to 6:30 am</p>
+<p>Parents’/Guardians’ after-school option between 3.00 pm to 10:30 pm (or
+earlier depending on sleep hours selected).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No limitation on duration of screen time after school hours. Sleep hours
+are not enforced.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Weekends and School Holidays</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
 <p>Parents'/Guardians' after-school DMA Option for the whole day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
