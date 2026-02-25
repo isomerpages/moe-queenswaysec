@@ -9,9 +9,9 @@ third_nav_title: PDLP
 </p>
 <p>Default Option - <a href="/files/ChromeOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Default</a>
 </p>
-<p>Option A - <a href="/files/Chromebook___Parent_Option_A_Group.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Option A</a>
+<p>Option A - <a href="/files/ChromeOS_DMA_Parent_Option_A.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Option A</a>
 </p>
-<p>Option B - <a href="/files/Parents_DMA_options_2025.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Option B</a>
+<p>Option B - <a href="/files/ChromeOS_DMA_Parent_Option_B.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Option B</a>
 </p>
 <p></p>
 <p></p>
