@@ -7,7 +7,7 @@ third_nav_title: PDLP
 ---
 <p><strong>Please download the guides according to the options you have selected below:</strong>
 </p>
-<p>Default Option - <a href="/files/Parents_DMA_options_2025.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Default</a>
+<p>Default Option - <a href="/files/ChromeOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Default</a>
 </p>
 <p>Option A - <a href="/files/Chromebook___Parent_Option_A_Group.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Option A</a>
 </p>
