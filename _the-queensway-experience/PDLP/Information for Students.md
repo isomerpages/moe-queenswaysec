@@ -32,9 +32,10 @@ third_nav_title: PDLP
 <p>&nbsp;</p>
 <h4><strong><u>Acer Repair Service Centre</u></strong></h4>
 <p>Address:</p>
-<p>29, International Business Park #01-07, Acer Building,</p>
-<p>Tower A Service Centre (Side Entrance)</p>
-<p>Singapore 609923</p>
+<p>10 Toh Guan Road</p>
+<p>#05-06 (Lobby C)</p>
+<p>Singapore 608838</p>
+<p></p>
 <p>&nbsp;</p>
 <p>Operating hours:</p>
 <p>Monday to Friday:&nbsp; 8:45am to 5:15pm</p>
