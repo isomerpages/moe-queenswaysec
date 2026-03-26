@@ -11,5 +11,3 @@ variant: tiptap
 </p>
 <p>•&nbsp;<strong>Office</strong>&nbsp;6474 1421&nbsp;&nbsp;•&nbsp;<strong>Fax</strong>&nbsp;6474
 1302</p>
-<p>General Suggestion Form. Please click&nbsp;<strong><a href="https://goo.gl/forms/sB7pJRPuCWVIsBHF3" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
-<p>Commendation Form. Please click&nbsp;<strong><a href="https://goo.gl/forms/SbV4oLu7KjCV7ZUv2" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
