@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Queensway Secondary School
-description: Brief site description here
+description: Queensway Secondary School - A community of lifelong learners and
+  compassionate leaders who shape the future.
 image: /images/Logo - Colour Updated.png
 permalink: /
 notification: ""
