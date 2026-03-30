@@ -15,7 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: Queensway Secondary School - A community of lifelong learners and
+  compassionate leaders who shape the future.
 permalink: none
 baseurl: ""
 exclude:
@@ -57,4 +58,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 google_analytics_ga4: ""
-resources_name: oh-2024
+resources_name: qss
