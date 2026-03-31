@@ -1,5 +1,5 @@
 ---
-title: Info on DMA
+title: Information on DMA
 permalink: /the-queensway-experience/pdlp/info-on-dma/
 variant: tiptap
 description: ""
