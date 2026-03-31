@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: PDLP
 ---
-<h4>The after-school hours are as follows:</h4>
+<h4>Summary of DMA Settings after School Hours&nbsp;</h4>
+<p><em>During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours.</em>
+</p>
+<p>The after-school hours are as follows:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -57,16 +60,13 @@ are not enforced.</p>
 </tr>
 </tbody>
 </table>
-<h4>Summary of DMA Settings after School Hours&nbsp;</h4>
-<p><em>During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours. The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours.</em>
+<p><em>The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours.</em>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Info on DMA v2" src="/images/Info_on_DMA_v2.jpg">
 </div>
+<p><a href="/files/DMA_Option_Infographic_2026.pdf" rel="noopener nofollow" target="_blank">DMA Options Infographic</a>
+</p>
 <h4>What the different options mean</h4>
 <h4>Default</h4>
 <p>Default setting treats the Chromebook as a device which is used for learning
