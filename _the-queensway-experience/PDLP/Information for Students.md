@@ -30,6 +30,7 @@ third_nav_title: PDLP
 <h3><strong>Lenovo</strong></h3>
 <p>Address:</p>
 <p>Servlink Technologies, 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407</p>
+<p></p><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/w86b6ZWv5q89wXTW9"><img style="width: 25%;" height="auto" width="100%" alt="See the location on Google Map" src="/images/map__3_.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday to Friday: 9:00 AM – 6:00 PM</p>
@@ -51,7 +52,7 @@ third_nav_title: PDLP
 <td rowspan="1" colspan="1">
 <h3><strong>Acer</strong></h3>
 <p>Address:</p>
-<p>10 Toh Guan Road, #05-06 (Lobby C), Singapore 608838</p>
+<p>10 Toh Guan Road, #05-06 (Lobby C), Singapore 608838</p><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/7Zm53i9887VVjLY59"><img style="width: 25%;" height="auto" width="100%" alt="See the location on Google Map" src="/images/map__3_.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday to Friday:&nbsp; 8:45am to 5:15pm</p>
@@ -75,6 +76,9 @@ third_nav_title: PDLP
 <h3><strong>Asus</strong></h3>
 <p>Address:</p>
 <p>61 Kaki Bukit Avenue 1, #02-13 Shun Li Industrial Park, Singapore 417943</p>
+<a class="isomer-image-wrapper" href="https://maps.app.goo.gl/p1UZYXQZjjNE1MTZA">
+<img style="width: 25%;" height="auto" width="100%" alt="See the location on Google Map" src="/images/map__3_.png">
+</a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday to Friday: 9:00 AM – 6:00 PM</p>
