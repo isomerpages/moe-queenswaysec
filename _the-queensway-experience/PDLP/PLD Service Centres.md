@@ -27,25 +27,23 @@ third_nav_title: PDLP
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>Lenovo</strong></h3>
+<h3><strong>Asus</strong></h3>
 <p>Address:</p>
-<p>Servlink Technologies, 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407</p>
-<p></p><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/w86b6ZWv5q89wXTW9"><img style="width: 25%;" height="auto" width="100%" alt="See the location on Google Map" src="/images/map__3_.png"></a>
+<p>61 Kaki Bukit Avenue 1, #02-13 Shun Li Industrial Park, Singapore 417943</p>
+<a class="isomer-image-wrapper" href="https://maps.app.goo.gl/p1UZYXQZjjNE1MTZA">
+<img style="width: 25%;" height="auto" width="100%" alt="See the location on Google Map" src="/images/map__3_.png">
+</a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday to Friday: 9:00 AM – 6:00 PM</p>
-<p>Saturday: 9:00 AM – 1:00 PM</p>
-<p>Closed on Sundays and Public Holidays</p>
+<p>Saturday, Sunday &amp; Public Holidays: Closed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Service Centre Number:</p>
-<p>+65 6817 1435</p>
-<p>Email:</p>
-<p><a href="mailto:Svcctr@servlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
+<p>+65 6883 1411</p>
+<p>Email:&nbsp; <a href="mailto:PDLPSUPPORT@jktech.com.sg" rel="noopener noreferrer nofollow" target="_blank">PDLPSUPPORT@jktech.com.sg</a>
 </p>
-<p>Website: (For buying of accessories)</p>
-<p><a href="https://www.asiapac.com.sg/pld-lenovo/account/login" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.asiapac.com.sg/pld-lenovo/account/login</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -73,23 +71,25 @@ third_nav_title: PDLP
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h3><strong>Asus</strong></h3>
+<h3><strong>Lenovo</strong></h3>
 <p>Address:</p>
-<p>61 Kaki Bukit Avenue 1, #02-13 Shun Li Industrial Park, Singapore 417943</p>
-<a class="isomer-image-wrapper" href="https://maps.app.goo.gl/p1UZYXQZjjNE1MTZA">
-<img style="width: 25%;" height="auto" width="100%" alt="See the location on Google Map" src="/images/map__3_.png">
-</a>
+<p>Servlink Technologies, 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407</p>
+<p></p><a class="isomer-image-wrapper" href="https://maps.app.goo.gl/w86b6ZWv5q89wXTW9"><img style="width: 25%;" height="auto" width="100%" alt="See the location on Google Map" src="/images/map__3_.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday to Friday: 9:00 AM – 6:00 PM</p>
-<p>Saturday, Sunday &amp; Public Holidays: Closed</p>
+<p>Saturday: 9:00 AM – 1:00 PM</p>
+<p>Closed on Sundays and Public Holidays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Service Centre Number:</p>
-<p>+65 6883 1411</p>
-<p>Email:&nbsp; <a href="mailto:PDLPSUPPORT@jktech.com.sg" rel="noopener noreferrer nofollow" target="_blank">PDLPSUPPORT@jktech.com.sg</a>
+<p>+65 6817 1435</p>
+<p>Email:</p>
+<p><a href="mailto:Svcctr@servlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
 </p>
-<p></p>
+<p>Website: (For buying of accessories)</p>
+<p><a href="https://www.asiapac.com.sg/pld-lenovo/account/login" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.asiapac.com.sg/pld-lenovo/account/login</u></a>
+</p>
 </td>
 </tr>
 </tbody>
