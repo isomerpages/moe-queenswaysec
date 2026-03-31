@@ -40,7 +40,7 @@ handle cyber-bullying - <a href="https://go.gov.sg/moe--raising-a-digitally-smar
 </p>
 </li>
 <li>
-<p><strong>Experiencing Blended Learning (BL) with Our Children.  </strong>This
+<p><strong>Experiencing Blended Learning (BL) with Our Children. </strong>This
 Parent Kit provide parents with key information on Blended Learning (BL)
 and tips on how to support their child for Home-Based Learning (HBL) Days
 - <a href="https://go.gov.sg/moe--experiencing-blended-learning" rel="noopener nofollow" target="_blank">Click Here</a>
