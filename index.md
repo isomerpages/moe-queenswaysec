@@ -10,8 +10,6 @@ sections:
   - hero:
       background: /images/For_School_Landing_Page_Animated_Gif.gif
       variant: center
-      url: https://sites.google.com/moe.edu.sg/qsssec1eregistration?usp=sharing
-      button: 2026 Secondary 1
       key_highlights:
         - title: Announcements
           description: ""
