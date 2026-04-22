@@ -195,7 +195,7 @@ carparks:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Car Park Location Nearby" src="/images/location_map.png">
 </div>
-<p><strong>Follow us on Instagram @queenswaysecondaryschool for the latest updates 🎉</strong>
+<p><strong>Follow us on Instagram </strong><a href="https://www.instagram.com/queenswaysecondary/" rel="noopener nofollow" target="_blank">@queenswaysecondaryschool</a><strong> for the latest updates 🎉</strong>
 </p>
 <p>This is a meaningful event where you can enjoy a great performance while
 contributing to a good cause. We look forward to seeing you there!</p>
