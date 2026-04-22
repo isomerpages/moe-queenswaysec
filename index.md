@@ -32,10 +32,10 @@ sections:
           description: Click here to find out more about the registration.
           linktext: Learn more
           url: https://sites.google.com/moe.edu.sg/qsssec1eregistration?usp=sharing
-        - title: Open House 2025
-          description: 22 November, 0830 - 1200!
+        - title: Arts for Good
+          description: 30 April 2026, 7.00 p.m. – 9.00 p.m. at the Church of Our Saviour.
           linktext: Learn more
-          url: https://sites.google.com/moe.edu.sg/qssopenhouse2025/home
+          url: e.edu.sg/arts_for_good_2026
         - title: Empowering Voices of Queensway
           description: Check out our Student Voices.
           linktext: Learn more
