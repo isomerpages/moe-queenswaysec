@@ -17,9 +17,9 @@ sections:
         - title: 2026 Sec 1 Registration
           description: ""
           url: https://sites.google.com/moe.edu.sg/qsssec1eregistration?usp=sharing
-        - title: Open House
+        - title: Arts for Good 2026
           description: ""
-          url: https://sites.google.com/moe.edu.sg/qssopenhouse2025/home
+          url: /arts-for-good-2026/
         - title: Our Voices
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/empowering-voices-of-queensway-evoq/
