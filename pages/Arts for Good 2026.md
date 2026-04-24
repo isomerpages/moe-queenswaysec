@@ -44,7 +44,7 @@ of our school.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Number of tickets left" src="/images/tickets.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Number of tickets left" src="/images/tickets.png">
 </div>
 </th>
 </tr>
@@ -228,7 +228,7 @@ to park at the public car parks near the venue. Here is a map of the nearby
 carparks:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="Car Park Location Nearby" src="/images/location_map.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Car Park Location Nearby" src="/images/location_map.png">
 </div>
 <p><strong>Follow us on Instagram </strong><a href="https://www.instagram.com/queenswaysecondary/" rel="noopener nofollow" target="_blank">@queenswaysecondaryschool</a><strong> for the latest updates 🎉</strong>
 </p>
