@@ -44,7 +44,7 @@ of our school.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Number of tickets left" src="/images/tickets.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Number of tickets left" src="/images/tickets.png">
 </div>
 </th>
 </tr>
@@ -62,10 +62,45 @@ of our school.</p>
 supporting (see table below) and submitting the receipt of the donation
 to&nbsp;<a href="https://go.gov.sg/qssartsforgood2026" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/qssartsforgood2026</a>.
 Physical tickets will be available for collection at the General Office
-on the next working day. Please note that ticket collection will start
-on 13 April onwards.</p>
-<p>You may refer to the “<a href="https://drive.google.com/file/d/1amz_dxdgijcZ9nQQDNbzODUET1qaYqLG/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Guide to donate through GivingSG</a>”
-for a step-by-step guide on how to donate.</p>
+on the next working day.</p>
+<p>Please refer to this guide on how to redeem your tickets.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="How to Get the Ticket - A Simple Guide" src="/images/afg01.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 1 - Donate Online" src="/images/afg02.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 2 - Make Payment" src="/images/afg03.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 3 - Redeem Your Ticket" src="/images/afg04.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
