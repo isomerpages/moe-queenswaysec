@@ -49,7 +49,7 @@ of our school.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="164 Tickets" src="/images/numbers_image_1777011723307.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="https://i.postimg.cc/rsWDnJ2d/tickets.png">
 </div>
 <p><em>as of 24 April 2026</em>
 </p>
