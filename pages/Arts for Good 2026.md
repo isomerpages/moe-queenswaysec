@@ -35,28 +35,10 @@ can look forward to performances by our</p>
 of our school.</p>
 <p><strong>Number of Tickets Available</strong>
 </p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="https://i.postimg.cc/rsWDnJ2d/tickets.png">
+<img style="width: 40%;" height="auto" width="100%" alt="164 Tickets" src="https://i.postimg.cc/rsWDnJ2d/tickets.png">
 </div>
-<p><em>as of 24 April 2026</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>as of 24 April 2026</p>
 <p><strong>How to Get Your Ticket</strong>
 </p>
 <p>You may redeem a ticket for every $10 donation via <a href="http://Giving.sg" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a> to one or more charities that we are
