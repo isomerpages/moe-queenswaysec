@@ -51,7 +51,7 @@ of our school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="164 Tickets" src="/images/numbers_image_1777011723307.png">
 </div>
-<p><em>as of 21 April 2026</em>
+<p><em>as of 24 April 2026</em>
 </p>
 </td>
 </tr>
