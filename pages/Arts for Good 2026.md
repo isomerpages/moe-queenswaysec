@@ -7,7 +7,7 @@ description: Arts for Good 2026
 <p>Join us for our upcoming&nbsp;<strong>Arts for Good</strong>&nbsp;performance,
 held as part of our QSS65 celebrations!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="QSS Presents Arts for Good" src="/images/icon.png">
+<img style="width: 50%;" height="auto" width="100%" alt="QSS Presents Arts for Good" src="/images/icon.png">
 </div>
 <p><strong>Event Details<br></strong>&nbsp;Date: Thursday, 30 April 2026
 <br>&nbsp;Time: 7.00 p.m. – 9.00 p.m. (Doors open at 6.00pm)
