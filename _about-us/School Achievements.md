@@ -2,36 +2,502 @@
 title: School Achievements
 permalink: /achievements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-|Sports CCA and Year of Award| | 2022 |2023 |2024 | 2025|
-| -------- | -------- | -------- |-------- |-------- |-------- |
-| Football Girls B    |  -  | 1st (Nat)    |3rd (Nat)   |2nd League 1  |National 4th   |
-| Football Girls C    |   - | 2nd (Nat)   | 2nd (Nat)   |4th  League 1  |2nd in League 2|
-| Volleyball Girls B    | - | 1st (Zone) |1st (Zone)   |National 4th    |Top 8 National |
-| Volleyball Girls C    |  -  | 1st (Zone)  |3rd (Zone)  |3rd League 2    |-|
-| Hockey Girls C   | -  | -   | -   |2nd League 2   |National 2nd|
-| Hockey Girls B   | -  | -   | -   |   |2nd in League 2|
-| Football Boys B   |  | 2nd (Zone) |4th (2nd Tier)|Top 8 League 1   |Top 8 League 1  |
-| Football Boys C     |    -  | -      |-       |1st League 3    |3rd in League 2|
-| Basketball Boys    |     - | -     |4th Zone C   |- |- |
-| Volleyball Boys B    |    - | 2nd     |2nd (Zone)    |South Zone 4th   |-   |
-| Hockey Boys C |    -  | 3rd (Nat)    |4th (Nat)    | - | - |
-| Hockey Boys B | - |-   |-    | 3rd League 1  |  National 4th  |
-
-
-|Performing Arts CCA and Year of Award| 2019/2020 | 2021/2022 |2023/2024 |2025/2026 |
-| -------- | -------- | -------- |-------- |-------- |
-| Chinese Dance   | Accomplishment   | Distinction   |Distinction    |Accomplishment   |
-| Drama  | Distinction    | Accomplishment   |Distinction    |Accomplishment   |
-| Band   | Accomplishment    | Accomplishment    |Accomplishment   |Accomplishment   |
-| Choir    | Distinction     |-   |Accomplishment   |Distinction    |
-| Modern Dance    | - | -    |Accomplishment   |Distinction |
-
-
-|Uniform Groups | 2022 | 2023 |2024 |2025|
-| -------- | -------- | -------- |-------- |-------- |
-| NCC   | Distinction    | Distinction   |Distinction    |Distinction    |
-| NPCC    | Gold    | Gold   |Distinction    |Distinction    |
-| Girl Guides | Gold     | Gold       |Silver |Gold  |
-| Boys' Brigade | Silver    | Silver   |Distinction   |High Distinction   |
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Sports CCA and Year of Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2023</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2026</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football Girls B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st (Nat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd (Nat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National 4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football Girls C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd (Nat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd (Nat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd in League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball Girls B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st (Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st (Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National 4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 National</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zone Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball Girls C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st (Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd (Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hockey Girls C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National 2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hockey Girls B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd in League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football Boys B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd (Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th (2nd Tier)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football Boys C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st League 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd in League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Zone C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball Boys B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd (Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Zone 4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hockey Boys B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National 4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Top 8</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Performing Arts CCA and Year of Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2019/2020</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2021/2022</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2023/2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025/2026</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2027</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Uniform Groups</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2022</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2023</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2024</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2026</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
