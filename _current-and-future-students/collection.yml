@@ -1,5 +1,5 @@
 collections:
-  student-info:
+  current-and-future-students:
     output: true
     order:
       - School Calendar.md
