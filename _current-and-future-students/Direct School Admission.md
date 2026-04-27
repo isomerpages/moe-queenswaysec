@@ -12,9 +12,9 @@ wisely based on the student’s aptitudes and strengths, bearing in mind
 the school’s academic and non-academic requirements and the programmes
 available to develop the area of talent.</p>
 <p>We offer the following DSA talent areas for the 2027 intake. Please refer
-to this <a href="https://www.queenswaysec.moe.edu.sg/cca/sports/basketball-boys/" rel="noopener noreferrer nofollow" target="_blank">page</a> for
-more information regarding the respective CCAs and this <a href="/achievements/" rel="noopener noreferrer nofollow" target="_blank">page</a> for their
-latest achievements.</p>
+to this <a href="/basketball/" rel="noopener noreferrer nofollow" target="_blank">page</a> for
+more information regarding the respective CCAs and this <a href="./School Achievements/achievements/" rel="noopener noreferrer nofollow" target="_blank">page</a> for
+their latest achievements.</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
