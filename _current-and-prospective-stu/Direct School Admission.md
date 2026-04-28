@@ -12,11 +12,12 @@ wisely based on the student’s aptitudes and strengths, bearing in mind
 the school’s academic and non-academic requirements and the programmes
 available to develop the area of talent.</p>
 <p>We offer the following DSA talent areas for the 2027 intake. Please refer
-to this <a href="https://www.queenswaysec.moe.edu.sg/basketball/" rel="noopener noreferrer nofollow" target="_blank">page</a> for
+to this <a href="/basketball/" rel="noopener noreferrer nofollow" target="_blank">page</a> for
 more information regarding the respective CCAs and this <a href="/achievements/" rel="noopener noreferrer nofollow" target="_blank">page</a> for their
 latest achievements.</p>
-<table style="minWidth: 125px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -44,6 +45,9 @@ latest achievements.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>SELECTION PROCESS</u></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -73,6 +77,9 @@ and/or have outstanding sporting achievements and</p>
 <p>Shortlisted applicants will be invited for an interview and trial at our
 school between early July to the end of August.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -83,6 +90,9 @@ school between early July to the end of August.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -95,6 +105,9 @@ school between early July to the end of August.</p>
 <td rowspan="1" colspan="1">
 <p>Boys, Girls</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -105,6 +118,9 @@ school between early July to the end of August.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Boys, Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -117,11 +133,13 @@ school between early July to the end of August.</p>
 <td rowspan="1" colspan="1">
 <p>Boys, Girls</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">PERFORMING ARTS</a>
-</p>
+<p>PERFORMING ARTS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Choir</p>
@@ -146,10 +164,16 @@ the performing arts with external organisations and</p>
 <p>Shortlisted applicants will be invited for an interview and trial at our
 school between early July to the end of August.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>PERFORMING ARTS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Concert Band</p>
@@ -168,6 +192,9 @@ school between early July to the end of August.</p>
 <td rowspan="1" colspan="1">
 <p>Boys &amp; Girls</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -178,6 +205,9 @@ school between early July to the end of August.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
