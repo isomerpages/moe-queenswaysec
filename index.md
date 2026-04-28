@@ -19,7 +19,7 @@ sections:
           url: /arts-for-good-2026/
         - title: 2026 DSA-SEC Exercise
           description: ""
-          url: /DSA
+          url: /dsa
         - title: Our Voices
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/empowering-voices-of-queensway-evoq/
@@ -35,7 +35,7 @@ sections:
         - title: 2026 DSA-SEC
           description: Click here to find out more about the DSA-Sec Exercise.
           linktext: Learn more
-          url: /
+          url: /dsa
         - title: Empowering Voices of Queensway
           description: Check out our Student Voices.
           linktext: Learn more
