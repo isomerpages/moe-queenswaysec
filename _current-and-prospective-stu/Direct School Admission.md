@@ -182,7 +182,7 @@ school between early July to the end of August.</p>
 </tbody>
 </table>
 <p>[1] Please note that meeting all the criteria does not guarantee the student
-will be shortlisted/given an offer. Due to different profiles of applicants,
+will be shortlisted / given an offer. Due to different profiles of applicants,
 selection/shortlisting trends may differ year on year.</p>
 <p>[2] Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
