@@ -62,7 +62,7 @@ latest achievements.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>have represented their school in the sport at the zone or national levels
-and/or have outstanding sporting achievements and</p>
+and / or have outstanding sporting achievements and</p>
 </li>
 <li>
 <p>demonstrate passion and aptitude for the selected sport.</p>
@@ -133,7 +133,7 @@ school between early July to the end of August.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>have represented their school in the SYF, and/or have participated in
+<p>have represented their school in the SYF, and / or have participated in
 the performing arts with external organisations and</p>
 </li>
 <li>
@@ -183,7 +183,7 @@ school between early July to the end of August.</p>
 </table>
 <p>[1] Please note that meeting all the criteria does not guarantee the student
 will be shortlisted / given an offer. Due to different profiles of applicants,
-selection/shortlisting trends may differ year on year.</p>
+selection / shortlisting trends may differ year on year.</p>
 <p>[2] Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
