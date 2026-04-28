@@ -32,8 +32,9 @@ sections:
           description: 30 April 2026, 7.00 p.m. – 9.00 p.m. at the Church of Our Saviour.
           linktext: Learn more
           url: /arts-for-good-2026/
-        - title: 2026 DSA-SEC
-          description: Click here to find out more about the DSA-Sec Exercise.
+        - title: DSA-Sec Exercise
+          description: Click here to find out more about the DSA-Sec Exercise for 2027
+            Intake.
           linktext: Learn more
           url: /dsa
         - title: Empowering Voices of Queensway
