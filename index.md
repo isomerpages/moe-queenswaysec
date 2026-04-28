@@ -15,10 +15,10 @@ sections:
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/announcements/
         - title: Arts for Good 2026
-          description: ""
+          description: 30 April 2026
           url: /arts-for-good-2026/
-        - title: 2026 DSA-SEC Exercise
-          description: ""
+        - title: DSA-SEC EXERCISE FOR 2027 InTAKE
+          description: 6 May 2026 - 2 June 2026
           url: /dsa
         - title: Our Voices
           description: ""
