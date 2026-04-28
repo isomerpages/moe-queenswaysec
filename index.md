@@ -17,7 +17,7 @@ sections:
         - title: Arts for Good 2026
           description: 30 April 2026
           url: /arts-for-good-2026/
-        - title: DSA-SEC EXERCISE FOR 2027 InTAKE
+        - title: DSA-SEC EXERCISE FOR 2027
           description: 6 May 2026 - 2 June 2026
           url: /dsa
         - title: Our Voices
