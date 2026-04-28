@@ -18,7 +18,7 @@ sections:
           description: ""
           url: /arts-for-good-2026/
         - title: 2026 DSA-SEC Exercise
-          description: DSA-SEC Exercise
+          description: ""
           url: /DSA
         - title: Our Voices
           description: ""
