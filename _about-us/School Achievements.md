@@ -48,7 +48,7 @@ variant: tiptap
 <p>2nd League 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National 4th</p>
+<p>National Top 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National 3rd</p>
@@ -88,7 +88,7 @@ variant: tiptap
 <p>National 4th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 8 National</p>
+<p>NationalTop 8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zone Champions</p>
@@ -256,9 +256,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 150px">
+<table style="minWidth: 125px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -282,9 +281,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>2025/2026</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>2027</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -301,9 +297,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
 </td>
 </tr>
 <tr>
@@ -322,9 +315,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -341,9 +331,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
 </td>
 </tr>
 <tr>
@@ -362,9 +349,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -381,9 +365,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
 </td>
 </tr>
 </tbody>
