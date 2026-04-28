@@ -1,0 +1,5 @@
+collections:
+  special-events:
+    output: true
+    order:
+      - Arts for Good 2026/.keep
