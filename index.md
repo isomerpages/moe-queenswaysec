@@ -14,12 +14,12 @@ sections:
         - title: Announcements
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/announcements/
-        - title: 2026 Sec 1 Registration
-          description: ""
-          url: https://sites.google.com/moe.edu.sg/qsssec1eregistration?usp=sharing
         - title: Arts for Good 2026
           description: ""
           url: /arts-for-good-2026/
+        - title: 2026 DSA-SEC Exercise
+          description: DSA-SEC Exercise
+          url: /DSA
         - title: Our Voices
           description: ""
           url: https://www.queenswaysec.moe.edu.sg/empowering-voices-of-queensway-evoq/
@@ -28,14 +28,14 @@ sections:
       id: textcards
       description: Check here for our latest announcements!
       cards:
-        - title: 2026 Sec 1 Registration
-          description: Click here to find out more about the registration.
-          linktext: Learn more
-          url: https://sites.google.com/moe.edu.sg/qsssec1eregistration?usp=sharing
         - title: Arts for Good
           description: 30 April 2026, 7.00 p.m. – 9.00 p.m. at the Church of Our Saviour.
           linktext: Learn more
           url: /arts-for-good-2026/
+        - title: 2026 DSA-SEC
+          description: Click here to find out more about the DSA-Sec Exercise.
+          linktext: Learn more
+          url: /
         - title: Empowering Voices of Queensway
           description: Check out our Student Voices.
           linktext: Learn more
