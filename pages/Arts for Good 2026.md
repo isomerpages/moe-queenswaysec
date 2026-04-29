@@ -4,6 +4,25 @@ permalink: /arts-for-good-2026/
 variant: tiptap
 description: Arts for Good 2026
 ---
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>29 April 2026 1:00PM
+<br>All tickets have been fully redeemed. We sincerely thank you for your
+kind donations and support.
+<br>While donations may still be made, please note that tickets are no longer
+available for redemption.
+<br>All ticket holders are reminded to collect their tickets from the General
+Office by 30 April, 3:00 PM.
+<br>We look forward to seeing you at the event.</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Join us for our upcoming&nbsp;<strong>Arts for Good</strong>&nbsp;performance,
 held as part of our QSS65 celebrations!</p>
 <div class="isomer-image-wrapper">
@@ -33,12 +52,6 @@ can look forward to performances by our</p>
 </ul>
 <p>This is a special production that celebrates the legacy, spirit and future
 of our school.</p>
-<p><strong>Number of Tickets Available</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="164 Tickets" src="https://i.postimg.cc/rsWDnJ2d/tickets.png">
-</div>
-<p>as of 24 April 2026</p>
 <p><strong>How to Get Your Ticket</strong>
 </p>
 <p>You may redeem a ticket for every $10 donation via <a href="http://Giving.sg" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a> to one or more charities that we are
