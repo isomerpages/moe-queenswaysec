@@ -209,19 +209,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>HOD, English Language
-<br>&amp; Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Betsy Teo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_mei_chin_betsy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_mei_chin_betsy@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH, English Language</p>
+<br>&amp; Literature (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rebecca Chow</p>
