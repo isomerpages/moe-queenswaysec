@@ -80,10 +80,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD, English Language &amp; Literature</p>
+<p>HOD, English Language &amp; Literature (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Betsy Teo</p>
+<p>Ms Rebecca Chow</p>
 </td>
 </tr>
 <tr>
@@ -180,14 +180,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kala Devi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head, English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Rebecca Chow</p>
 </td>
 </tr>
 <tr>
