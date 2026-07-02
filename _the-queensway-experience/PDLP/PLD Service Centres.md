@@ -43,7 +43,9 @@ third_nav_title: PDLP
 <p>+65 6883 1411</p>
 <p>Email:&nbsp; <a href="mailto:PDLPSUPPORT@jktech.com.sg" rel="noopener noreferrer nofollow" target="_blank">PDLPSUPPORT@jktech.com.sg</a>
 </p>
-<p></p>
+<p>Website: (For buying of accessories)</p>
+<p><a href="https://academic.com.sg/collections/pdlp" rel="noopener nofollow" target="_blank">https://academic.com.sg/collections/pdlp</a>
+</p>
 </td>
 </tr>
 <tr>
