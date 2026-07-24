@@ -17,30 +17,38 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA</p>
+<p><strong>CCA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon</p>
+<p><strong>Mon</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue</p>
+<p><strong>Tue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
+<p><strong>Wed</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu</p>
+<p><strong>Thu</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri</p>
+<p><strong>Fri</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat</p>
+<p><strong>Sat</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NPCC, NCC, GG</p>
+<p><strong>NPCC, NCC, GG</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -63,7 +71,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boys’ Brigade</p>
+<p><strong>Boys’ Brigade</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -86,7 +95,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Media</p>
+<p><strong>Media</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -109,7 +119,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance</p>
+<p><strong>Dance</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30-5.45</p>
@@ -132,7 +143,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choir</p>
+<p><strong>Choir</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -155,7 +167,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Band</p>
+<p><strong>Band</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30-6</p>
@@ -178,7 +191,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Drama</p>
+<p><strong>Drama</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30-5.30</p>
@@ -201,7 +215,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bball (Boys)</p>
+<p><strong>Bball (Boys)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30-5.30 (B)</p>
@@ -224,7 +239,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fball (Boys)</p>
+<p><strong>Fball (Boys)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30-5.30 (B)</p>
@@ -247,7 +263,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fball (Girls)</p>
+<p><strong>Fball (Girls)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30-5.30 (B)</p>
@@ -270,7 +287,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vball (Boys)</p>
+<p><strong>Vball (Boys)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30-6</p>
@@ -293,7 +311,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vball (Girls)</p>
+<p><strong>Vball (Girls)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -316,7 +335,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badm (Girls)</p>
+<p><strong>Badm (Girls)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30-5.30 (B)</p>
@@ -339,7 +359,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hockey (B &amp; G)</p>
+<p><strong>Hockey (B &amp; G)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
